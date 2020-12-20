@@ -670,12 +670,13 @@
   <anime anidbid="144" tvdbid="71361" defaulttvdbseason="a">
     <name>Inuyasha</name>
     <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
       <mapping anidbseason="1" tvdbseason="1" start="1" end="27"/>
       <mapping anidbseason="1" tvdbseason="2" start="28" end="54" offset="-27"/>
       <mapping anidbseason="1" tvdbseason="3" start="55" end="82" offset="-54"/>
       <mapping anidbseason="1" tvdbseason="4" start="83" end="110" offset="-82"/>
-      <mapping anidbseason="1" tvdbseason="5" start="111" end="138" offset="-110"/>
-      <mapping anidbseason="1" tvdbseason="6" start="139" end="167" offset="-138"/>
+      <mapping anidbseason="1" tvdbseason="5" start="111" end="139" offset="-110"/>
+      <mapping anidbseason="1" tvdbseason="6" start="140" end="167" offset="-139"/>
     </mapping-list>
   </anime>
   <anime anidbid="145" tvdbid="70900" defaulttvdbseason="2">
