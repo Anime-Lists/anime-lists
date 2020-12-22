@@ -22201,7 +22201,7 @@
     <name>Majokko Shimai no Yoyo to Nene</name>
   </anime>
   <anime anidbid="9465" tvdbid="254667" defaulttvdbseason="2">
-    <name>Senki Zesshou Symphogear G: In the Distance, That Day, When the Star Became Music...</name>
+    <name>Senki Zesshou Symphogear G</name>
   </anime>
   <anime anidbid="9466" tvdbid="267441" defaulttvdbseason="1">
     <name>Hataraku Maou-sama!</name>
@@ -23316,7 +23316,7 @@
       <mapping anidbseason="1" tvdbseason="1" start="2" end="13" offset="-1"/>
     </mapping-list>
   </anime>
-  <anime anidbid="9980" tvdbid="114801" defaulttvdbseason="a" episodeoffset="175">
+  <anime anidbid="9980" tvdbid="114801" defaulttvdbseason="5" episodeoffset="175">
     <name>Fairy Tail (2014)</name>
   </anime>
   <anime anidbid="9982" tvdbid="79685" defaulttvdbseason="3">
@@ -23982,7 +23982,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="10321" tvdbid="254667" defaulttvdbseason="3">
-    <name>Senki Zesshou Symphogear GX: Believe in Justice and Hold a Determination to Fist.</name>
+    <name>Senki Zesshou Symphogear GX</name>
   </anime>
   <anime anidbid="10323" tvdbid="283924" defaulttvdbseason="1">
     <name>Ore, Twintail ni Narimasu.</name>
@@ -28156,7 +28156,7 @@
   <anime anidbid="13293" tvdbid="341425" defaulttvdbseason="1">
     <name>Otaku ni Koi wa Muzukashii</name>
   </anime>
-  <anime anidbid="13295" tvdbid="114801" defaulttvdbseason="a" episodeoffset="277">
+  <anime anidbid="13295" tvdbid="114801" defaulttvdbseason="8" episodeoffset="277">
     <name>Fairy Tail (2018)</name>
   </anime>
   <anime anidbid="13296" tvdbid="346948" defaulttvdbseason="1">
