@@ -33769,4 +33769,10 @@
   <anime anidbid="15902" tvdbid="79895" defaulttvdbseason="0" episodeoffset="17">
     <name>Gintama: The Semi-Final</name>
   </anime>
+  <anime anidbid="15934" tvdbid="283934" defaulttvdbseason="3">
+    <name>World Trigger 3</name>
+  </anime>
+  <anime anidbid="15936" tvdbid="393742" defaulttvdbseason="1">
+    <name>Platinum End</name>
+  </anime>
 </anime-list>
