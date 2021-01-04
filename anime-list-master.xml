@@ -503,7 +503,7 @@
       <studio>Studio Pierrot</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="104" tvdbid="82023" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="104" tvdbid="82023" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0370754">
     <name>Hoshi no Koe</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0" start="1" end="2" offset="1"/>
@@ -13846,7 +13846,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-9;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="4772" tvdbid="75411" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
+  <anime anidbid="4772" tvdbid="75411" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0936323,tt0936320">
     <name>Rozen Maiden: Ouverture</name>
   </anime>
   <anime anidbid="4773" tvdbid="81651" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -17731,11 +17731,8 @@
   <anime anidbid="6516" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Fushigi na Daiko</name>
   </anime>
-  <anime anidbid="6517" tvdbid="142601" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="6517" tvdbid="142601" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt9044262,tt9044260,tt9044268,tt9044266,tt9044272,tt9044264,tt9044270">
     <name>Kidou Senshi Gundam Unicorn</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-8;15-9;</mapping>
-    </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
     </supplemental-info>
@@ -23598,7 +23595,7 @@
   <anime anidbid="8516" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sorette Dakara ne!</name>
   </anime>
-  <anime anidbid="8517" tvdbid="319976" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8517" tvdbid="319976" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt4483100,tt5377654,tt5871184,tt6296148,tt7303948,tt8742774">
     <name>Kidou Senshi Gundam: The Origin</name>
   </anime>
   <anime anidbid="8520" tvdbid="264533" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
@@ -23947,10 +23944,10 @@
   <anime anidbid="8653" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Tensai Eri-chan Kingyo o Tabeta</name>
   </anime>
-  <anime anidbid="8655" tvdbid="244061" defaulttvdbseason="0" episodeoffset="" tmdbid="83380" imdbid="">
+  <anime anidbid="8655" tvdbid="244061" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt2967286">
     <name>Steins;Gate: Fuka Ryouiki no Deja vu</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-8;2-0;3-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;2-0;3-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8656" tvdbid="unknown" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
@@ -25823,7 +25820,7 @@
   <anime anidbid="9322" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt2086830">
     <name>Dwaejiui Wang</name>
   </anime>
-  <anime anidbid="9323" tvdbid="252322" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9323" tvdbid="252322" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt2918988">
     <name>Gekijouban Hunter x Hunter: Phantom Rouge</name>
   </anime>
   <anime anidbid="9324" tvdbid="195711" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -27624,10 +27621,10 @@
   <anime anidbid="9985" tvdbid="283947" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Ansatsu Kyoushitsu</name>
   </anime>
-  <anime anidbid="9987" tvdbid="70900" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9987" tvdbid="70900" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt3971764,tt4971484,tt5463088">
     <name>Shin Gekijouban Initial D</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;2-7;3-8;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9988" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -27707,7 +27704,7 @@
   <anime anidbid="10011" tvdbid="276050" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>D-Frag!</name>
   </anime>
-  <anime anidbid="10012" tvdbid="252322" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10012" tvdbid="252322" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt3198698">
     <name>Gekijouban Hunter x Hunter: The Last Mission</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-36;</mapping>
@@ -27833,7 +27830,7 @@
   <anime anidbid="10065" tvdbid="262090" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Psycho-Pass 2</name>
   </anime>
-  <anime anidbid="10066" tvdbid="262090" defaulttvdbseason="0" episodeoffset="11" tmdbid="" imdbid="">
+  <anime anidbid="10066" tvdbid="262090" defaulttvdbseason="0" episodeoffset="11" tmdbid="" imdbid="tt4219130">
     <name>Gekijouban Psycho-Pass</name>
   </anime>
   <anime anidbid="10067" tvdbid="276893" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -28286,7 +28283,7 @@
   <anime anidbid="10244" tvdbid="278152" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Baby Steps</name>
   </anime>
-  <anime anidbid="10245" tvdbid="275609" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10245" tvdbid="275609" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt3465710">
     <name>Wake Up, Girls! Shichinin no Idol</name>
   </anime>
   <anime anidbid="10246" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -30205,10 +30202,10 @@
   <anime anidbid="10990" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Bogeul Bogeul Bomulseon</name>
   </anime>
-  <anime anidbid="10991" tvdbid="79214" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10991" tvdbid="79214" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt5575408">
     <name>Mushishi Zoku Shou: Suzu no Shizuku</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10992" tvdbid="81831" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
@@ -33195,7 +33192,7 @@
   <anime anidbid="12097" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Fella Hame Lips</name>
   </anime>
-  <anime anidbid="12098" tvdbid="305171" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12098" tvdbid="305171" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt6035470">
     <name>Kidou Senshi Gundam: Thunderbolt - December Sky</name>
   </anime>
   <anime anidbid="12100" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -38184,7 +38181,7 @@
   <anime anidbid="13893" tvdbid="354154" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Carole &amp; Tuesday</name>
   </anime>
-  <anime anidbid="13894" tvdbid="262090" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13894" tvdbid="262090" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt10443844,tt11078434,tt11078522">
     <name>Psycho-Pass: Sinners of the System</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-13;2-14;3-15;</mapping>
@@ -38581,7 +38578,7 @@
   <anime anidbid="14041" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="6356813" imdbid="">
     <name>Kimi dake ni Motetainda.</name>
   </anime>
-  <anime anidbid="14042" tvdbid="142601" defaulttvdbseason="0" episodeoffset="9" tmdbid="" imdbid="">
+  <anime anidbid="14042" tvdbid="142601" defaulttvdbseason="0" episodeoffset="9" tmdbid="" imdbid="tt9497146">
     <name>Kidou Senshi Gundam Narrative</name>
   </anime>
   <anime anidbid="14043" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
