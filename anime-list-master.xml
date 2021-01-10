@@ -36141,11 +36141,8 @@
   <anime anidbid="13186" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Super Titan 15</name>
   </anime>
-  <anime anidbid="13187" tvdbid="272316" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13187" tvdbid="272316" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
     <name>Non Non Biyori: Vacation</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="13188" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Jungle Hero</name>
