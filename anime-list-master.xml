@@ -34734,11 +34734,8 @@
   <anime anidbid="12688" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gekijouban Uta no Prince-sama: Maji Love Kingdom</name>
   </anime>
-  <anime anidbid="12689" tvdbid="272316" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12689" tvdbid="272316" defaulttvdbseason="0" episodeoffset="1" tmdbid="452617" imdbid="">
     <name>Non Non Biyori Repeat: Hotaru ga Tanoshinda</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="12690" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Wa Wa Wa Wappi-chan</name>
