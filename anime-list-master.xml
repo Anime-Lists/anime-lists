@@ -27609,11 +27609,8 @@
   <anime anidbid="9985" tvdbid="283947" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Ansatsu Kyoushitsu</name>
   </anime>
-  <anime anidbid="9987" tvdbid="70900" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt3971764,tt4971484,tt5463088">
+  <anime anidbid="9987" tvdbid="70900" defaulttvdbseason="0" episodeoffset="5" tmdbid="" imdbid="tt3971764,tt4971484,tt5463088">
     <name>Shin Gekijouban Initial D</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-6;2-7;3-8;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="9988" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tayu Tayu</name>
