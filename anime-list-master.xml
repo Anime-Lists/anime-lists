@@ -30576,6 +30576,9 @@
   </anime>
   <anime anidbid="11143" tvdbid="283942" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Akatsuki no Yona (2015)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-4;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11144" tvdbid="299742" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Starmyu</name>
