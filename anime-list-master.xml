@@ -34121,9 +34121,6 @@
   </anime>
   <anime anidbid="12483" tvdbid="326337" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Idolmaster Cinderella Girls Gekijou</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;14-0;15-0;16-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="12484" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tennis no Ouji-sama: Best Games!!</name>
@@ -36387,7 +36384,6 @@
   <anime anidbid="13274" tvdbid="326337" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Idolmaster Cinderella Girls Gekijou (2017)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;14-0;15-0;16-0;</mapping>
       <mapping anidbseason="0" tvdbseason="0" start="1" end="13" offset="13"/>
     </mapping-list>
   </anime>
@@ -38070,7 +38066,8 @@
   <anime anidbid="13859" tvdbid="326337" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Idolmaster Cinderella Girls Gekijou (2018)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="8" offset="26"/>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="7" offset="26"/>
+	  <mapping anidbseason="0" tvdbseason="0" start="8" end="10" offset="46"/>
     </mapping-list>
   </anime>
   <anime anidbid="13860" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -39928,8 +39925,12 @@
   <anime anidbid="14515" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shishunki Sex</name>
   </anime>
-  <anime anidbid="14516" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14516" tvdbid="326337" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Idolmaster Cinderella Girls Gekijou (2019)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="7" offset="33"/>
+	  <mapping anidbseason="0" tvdbseason="0" start="8" end="10" offset="49"/>
+    </mapping-list>
   </anime>
   <anime anidbid="14517" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Rune's Pharmacy: Tiara-tou no Okusuriya-san</name>
