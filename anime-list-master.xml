@@ -30553,7 +30553,7 @@
   <anime anidbid="11135" tvdbid="289763" defaulttvdbseason="1" episodeoffset="13" tmdbid="" imdbid="">
     <name>The Idolmaster: Cinderella Girls (2015)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;3-4;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" offset="1"/>
     </mapping-list>
   </anime>
   <anime anidbid="11136" tvdbid="272129" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -36390,7 +36390,7 @@
   <anime anidbid="13274" tvdbid="326337" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Idolmaster Cinderella Girls Gekijou (2017)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-14;2-15;3-16;4-17;5-18;6-19;7-20;8-21;9-22;10-23;11-24;12-25;13-26;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="13" offset="13">;14-44;15-45;16-46;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="13275" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -38072,7 +38072,7 @@
   <anime anidbid="13859" tvdbid="326337" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Idolmaster Cinderella Girls Gekijou (2018)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-27;2-28;3-29;4-30;5-31;6-32;7-33;8-47;9-48;10-49;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="7" offset="26">;8-47;9-48;10-49;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="13860" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -39932,7 +39932,7 @@
   </anime>
   <anime anidbid="14516" tvdbid="326337" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Idolmaster Cinderella Girls Gekijou (2019)</name>
-	  <mapping anidbseason="0" tvdbseason="0">;1-34;2-35;3-36;4-37;5-38;6-39;7-40;8-50;9-51;10-52;</mapping>
+	  <mapping anidbseason="0" tvdbseason="0" start="1" end="7" offset="33">;8-50;9-51;10-52;</mapping>
   </anime>
   <anime anidbid="14517" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Rune's Pharmacy: Tiara-tou no Okusuriya-san</name>
