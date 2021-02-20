@@ -20,6 +20,8 @@ This list contains entries for every title on AniDb.net and serves as a template
 ### anime-list.xml ###
 The default list used by the scraper.  Contains all entries from the master list that are not empty or marked as "unknown".
 
+Test
+
 ### anime-list-full.xml ###
 Alternative list for the scraper.  Contains all entries from the master list that are not empty (but includes "unknown" titles).
 
