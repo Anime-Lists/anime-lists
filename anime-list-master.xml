@@ -1168,38 +1168,39 @@
   <anime anidbid="265" tvdbid="291921" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Time Travel Tondekeman!</name>
   </anime>
-  <anime anidbid="266" tvdbid="72454" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="266" tvdbid="72454" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Meitantei Conan</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
-      <mapping anidbseason="1" tvdbseason="2" start="29" end="54" offset="-28"></mapping>
-      <mapping anidbseason="1" tvdbseason="3" start="55" end="82" offset="-54"></mapping>
-      <mapping anidbseason="1" tvdbseason="4" start="83" end="106" offset="-82"></mapping>
-      <mapping anidbseason="1" tvdbseason="5" start="107" end="134" offset="-106"></mapping>
-      <mapping anidbseason="1" tvdbseason="6" start="135" end="162" offset="-134"></mapping>
-      <mapping anidbseason="1" tvdbseason="7" start="163" end="193" offset="-162"></mapping>
-      <mapping anidbseason="1" tvdbseason="8" start="194" end="219" offset="-193"></mapping>
-      <mapping anidbseason="1" tvdbseason="9" start="220" end="254" offset="-219"></mapping>
-      <mapping anidbseason="1" tvdbseason="10" start="255" end="285" offset="-254"></mapping>
-      <mapping anidbseason="1" tvdbseason="11" start="286" end="315" offset="-285"></mapping>
-      <mapping anidbseason="1" tvdbseason="12" start="316" end="353" offset="-315"></mapping>
-      <mapping anidbseason="1" tvdbseason="13" start="354" end="389" offset="-353"></mapping>
-      <mapping anidbseason="1" tvdbseason="14" start="390" end="426" offset="-389"></mapping>
-      <mapping anidbseason="1" tvdbseason="15" start="427" end="465" offset="-426"></mapping>
-      <mapping anidbseason="1" tvdbseason="16" start="466" end="490" offset="-465"></mapping>
-      <mapping anidbseason="1" tvdbseason="17" start="491" end="523" offset="-490"></mapping>
-      <mapping anidbseason="1" tvdbseason="18" start="524" end="565" offset="-523"></mapping>
-      <mapping anidbseason="1" tvdbseason="19" start="566" end="605" offset="-565"></mapping>
-      <mapping anidbseason="1" tvdbseason="20" start="606" end="645" offset="-605"></mapping>
-      <mapping anidbseason="1" tvdbseason="21" start="646" end="680" offset="-645"></mapping>
-      <mapping anidbseason="1" tvdbseason="22" start="681" end="723" offset="-680"></mapping>
-      <mapping anidbseason="1" tvdbseason="23" start="724" end="762" offset="-723"></mapping>
-      <mapping anidbseason="1" tvdbseason="24" start="763" end="803" offset="-762"></mapping>
-      <mapping anidbseason="1" tvdbseason="25" start="804" end="886" offset="-803"></mapping>
-      <mapping anidbseason="1" tvdbseason="26" start="887" end="926" offset="-886"></mapping>
-      <mapping anidbseason="1" tvdbseason="27" start="927" end="964" offset="-926"></mapping>
-      <mapping anidbseason="1" tvdbseason="28" start="965" end="992" offset="-964"></mapping>
-      <mapping anidbseason="1" tvdbseason="29" start="993" end="1008" offset="-992"></mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="29"/>
+      <mapping anidbseason="1" tvdbseason="2" start="29" end="54" offset="-28"/>
+      <mapping anidbseason="1" tvdbseason="3" start="55" end="82" offset="-54"/>
+      <mapping anidbseason="1" tvdbseason="4" start="83" end="106" offset="-82"/>
+      <mapping anidbseason="1" tvdbseason="5" start="107" end="134" offset="-106"/>
+      <mapping anidbseason="1" tvdbseason="6" start="135" end="162" offset="-134"/>
+      <mapping anidbseason="1" tvdbseason="7" start="163" end="193" offset="-162"/>
+      <mapping anidbseason="1" tvdbseason="8" start="194" end="219" offset="-193"/>
+      <mapping anidbseason="1" tvdbseason="9" start="220" end="254" offset="-219"/>
+      <mapping anidbseason="1" tvdbseason="10" start="255" end="285" offset="-254"/>
+      <mapping anidbseason="1" tvdbseason="11" start="286" end="315" offset="-285"/>
+      <mapping anidbseason="1" tvdbseason="12" start="316" end="353" offset="-315"/>
+      <mapping anidbseason="1" tvdbseason="13" start="354" end="389" offset="-353"/>
+      <mapping anidbseason="1" tvdbseason="14" start="390" end="426" offset="-389"/>
+      <mapping anidbseason="1" tvdbseason="15" start="427" end="465" offset="-426"/>
+      <mapping anidbseason="1" tvdbseason="16" start="466" end="490" offset="-465"/>
+      <mapping anidbseason="1" tvdbseason="17" start="491" end="523" offset="-490"/>
+      <mapping anidbseason="1" tvdbseason="18" start="524" end="565" offset="-523"/>
+      <mapping anidbseason="1" tvdbseason="19" start="566" end="605" offset="-565"/>
+      <mapping anidbseason="1" tvdbseason="20" start="606" end="645" offset="-605"/>
+      <mapping anidbseason="1" tvdbseason="21" start="646" end="680" offset="-645"/>
+      <mapping anidbseason="1" tvdbseason="22" start="681" end="723" offset="-680"/>
+      <mapping anidbseason="1" tvdbseason="23" start="724" end="762" offset="-723"/>
+      <mapping anidbseason="1" tvdbseason="24" start="763" end="803" offset="-762"/>
+      <mapping anidbseason="1" tvdbseason="25" start="804" end="886" offset="-803"/>
+      <mapping anidbseason="1" tvdbseason="26" start="887" end="926" offset="-886"/>
+      <mapping anidbseason="1" tvdbseason="27" start="927" end="964" offset="-926"/>
+      <mapping anidbseason="1" tvdbseason="28" start="965" end="992" offset="-964"/>
+      <mapping anidbseason="1" tvdbseason="29" start="993" end="1008" offset="-992"/>
     </mapping-list>
   </anime>
   <anime anidbid="267" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -30541,7 +30542,7 @@
   <anime anidbid="11135" tvdbid="289763" defaulttvdbseason="1" episodeoffset="13" tmdbid="" imdbid="">
     <name>The Idolmaster: Cinderella Girls (2015)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" offset="1"/>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="4" offset="1"/>
     </mapping-list>
   </anime>
   <anime anidbid="11136" tvdbid="272129" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
