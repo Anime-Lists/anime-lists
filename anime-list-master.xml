@@ -1172,7 +1172,7 @@
     <name>Meitantei Conan</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
-      <mapping anidbseason="1" tvdbseason="1" start="1" end="29"/>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="28"/>
       <mapping anidbseason="1" tvdbseason="2" start="29" end="54" offset="-28"/>
       <mapping anidbseason="1" tvdbseason="3" start="55" end="82" offset="-54"/>
       <mapping anidbseason="1" tvdbseason="4" start="83" end="106" offset="-82"/>
