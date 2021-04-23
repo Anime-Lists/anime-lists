@@ -1091,6 +1091,13 @@
   </anime>
   <anime anidbid="239" tvdbid="78857" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Naruto</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="35"/>
+      <mapping anidbseason="1" tvdbseason="2" start="36" end="83" override="-35"/>
+      <mapping anidbseason="1" tvdbseason="3" start="84" end="131" override="-83"/>
+      <mapping anidbseason="1" tvdbseason="4" start="132" end="179" override="-131"/>
+      <mapping anidbseason="1" tvdbseason="5" start="180" end="220" override="-179"/>
+    </mapping-list>
   </anime>
   <anime anidbid="240" tvdbid="72726" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Gasaraki</name>
@@ -2419,7 +2426,7 @@
   <anime anidbid="573" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Lunatic Night</name>
   </anime>
-  <anime anidbid="574" tvdbid="201571" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="574" tvdbid="253938" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Memories Off 2nd</name>
   </anime>
   <anime anidbid="575" tvdbid="79179" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -8783,7 +8790,7 @@
   <anime anidbid="2603" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Chikansha Thomas</name>
   </anime>
-  <anime anidbid="2604" tvdbid="201581" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="2604" tvdbid="253938" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Memories Off 3.5</name>
   </anime>
   <anime anidbid="2605" tvdbid="75869" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -12201,7 +12208,7 @@
       <mapping anidbseason="0" tvdbseason="0">;1-14;2-15;3-16;4-17;5-18;6-0;7-0;8-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="4139" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="4139" tvdbid="253938" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Memories Off #5 Togireta Film</name>
   </anime>
   <anime anidbid="4140" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -14103,6 +14110,28 @@
     <name>Naruto Shippuuden</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-5;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="32"/>
+      <mapping anidbseason="1" tvdbseason="2" start="33" end="53" override="-32"/>
+      <mapping anidbseason="1" tvdbseason="3" start="54" end="71" override="-53"/>
+      <mapping anidbseason="1" tvdbseason="4" start="72" end="88" override="-71"/>
+      <mapping anidbseason="1" tvdbseason="5" start="89" end="112" override="-88"/>
+      <mapping anidbseason="1" tvdbseason="6" start="113" end="143" override="-112"/>
+      <mapping anidbseason="1" tvdbseason="7" start="144" end="151" override="-143"/>
+      <mapping anidbseason="1" tvdbseason="8" start="152" end="175" override="-151"/>
+      <mapping anidbseason="1" tvdbseason="9" start="176" end="196" override="-175"/>
+      <mapping anidbseason="1" tvdbseason="10" start="197" end="222" override="-196"/>
+      <mapping anidbseason="1" tvdbseason="11" start="223" end="242" override="-222"/>
+      <mapping anidbseason="1" tvdbseason="12" start="243" end="260" override="-242"/>
+      <mapping anidbseason="1" tvdbseason="13" start="261" end="295" override="-260"/>
+      <mapping anidbseason="1" tvdbseason="14" start="296" end="320" override="-295"/>
+      <mapping anidbseason="1" tvdbseason="15" start="321" end="348" override="-320"/>
+      <mapping anidbseason="1" tvdbseason="16" start="349" end="361" override="-348"/>
+      <mapping anidbseason="1" tvdbseason="17" start="362" end="393" override="-361"/>
+      <mapping anidbseason="1" tvdbseason="18" start="394" end="413" override="-393"/>
+      <mapping anidbseason="1" tvdbseason="19" start="414" end="431" override="-413"/>
+      <mapping anidbseason="1" tvdbseason="20" start="432" end="450" override="-431"/>
+      <mapping anidbseason="1" tvdbseason="21" start="451" end="458" override="-450"/>
+      <mapping anidbseason="1" tvdbseason="22" start="459" end="500" override="-458"/>
     </mapping-list>
   </anime>
   <anime anidbid="4884" tvdbid="84027" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
