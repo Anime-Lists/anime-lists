@@ -15469,7 +15469,7 @@
   <anime anidbid="5424" tvdbid="79839" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Aria the Origination</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-4;2-5;3-6;4-7;5-8;6-9;7-10;8-11;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="8" offset="3" />
     </mapping-list>
   </anime>
   <anime anidbid="5426" tvdbid="78920" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="">
