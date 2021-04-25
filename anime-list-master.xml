@@ -12543,6 +12543,9 @@
   </anime>
   <anime anidbid="4243" tvdbid="79839" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Aria the Natural</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;204-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="4244" tvdbid="73532" defaulttvdbseason="8" episodeoffset="" tmdbid="" imdbid="">
     <name>Tennis no Ouji-sama: Zenkoku Taikai Hen</name>
@@ -14815,7 +14818,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="5115" tvdbid="79839" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
+  <anime anidbid="5115" tvdbid="79839" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
     <name>Aria the OVA: Arietta</name>
   </anime>
   <anime anidbid="5116" tvdbid="80330" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -15466,7 +15469,7 @@
   <anime anidbid="5424" tvdbid="79839" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Aria the Origination</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;3-4;4-5;5-6;6-7;7-8;8-9;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-4;2-5;3-6;4-7;5-8;6-9;7-10;8-11;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="5426" tvdbid="78920" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="">
