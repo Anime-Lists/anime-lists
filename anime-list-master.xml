@@ -333,27 +333,6 @@
     <name>One Piece</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-28;2-3;3-9;4-10;5-14;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-0;15-0;16-32;17-23;18-24;19-29;20-30;21-31;22-0;23-33;24-35;25-0;26-37;27-38;</mapping>
-      <mapping anidbseason="1" tvdbseason="1" start="1" end="8"/>
-      <mapping anidbseason="1" tvdbseason="2" start="9" end="30" offset="-8"/>
-      <mapping anidbseason="1" tvdbseason="3" start="31" end="47" offset="-30"/>
-      <mapping anidbseason="1" tvdbseason="4" start="48" end="60" offset="-47"/>
-      <mapping anidbseason="1" tvdbseason="5" start="61" end="69" offset="-60"/>
-      <mapping anidbseason="1" tvdbseason="6" start="70" end="91" offset="-69"/>
-      <mapping anidbseason="1" tvdbseason="7" start="92" end="130" offset="-91"/>
-      <mapping anidbseason="1" tvdbseason="8" start="131" end="143" offset="-130"/>
-      <mapping anidbseason="1" tvdbseason="9" start="144" end="195" offset="-143"/>
-      <mapping anidbseason="1" tvdbseason="10" start="196" end="226" offset="-195"/>
-      <mapping anidbseason="1" tvdbseason="11" start="227" end="325" offset="-226"/>
-      <mapping anidbseason="1" tvdbseason="12" start="326" end="381" offset="-325"/>
-      <mapping anidbseason="1" tvdbseason="13" start="382" end="481" offset="-381"/>
-      <mapping anidbseason="1" tvdbseason="14" start="482" end="516" offset="-481"/>
-      <mapping anidbseason="1" tvdbseason="15" start="517" end="578" offset="-516"/>
-      <mapping anidbseason="1" tvdbseason="16" start="579" end="628" offset="-578"/>
-      <mapping anidbseason="1" tvdbseason="17" start="629" end="746" offset="-628"/>
-      <mapping anidbseason="1" tvdbseason="18" start="747" end="779" offset="-746"/>
-      <mapping anidbseason="1" tvdbseason="19" start="780" end="877" offset="-779"/>
-      <mapping anidbseason="1" tvdbseason="20" start="878" end="891" offset="-877"/>
-      <mapping anidbseason="1" tvdbseason="21" start="892" end="981" offset="-891"/>
     </mapping-list>
   </anime>
   <anime anidbid="70" tvdbid="73616" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -1091,13 +1070,6 @@
   </anime>
   <anime anidbid="239" tvdbid="78857" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Naruto</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="1" start="1" end="35"/>
-      <mapping anidbseason="1" tvdbseason="2" start="36" end="83" offset="-35"/>
-      <mapping anidbseason="1" tvdbseason="3" start="84" end="131" offset="-83"/>
-      <mapping anidbseason="1" tvdbseason="4" start="132" end="179" offset="-131"/>
-      <mapping anidbseason="1" tvdbseason="5" start="180" end="220" offset="-179"/>
-    </mapping-list>
   </anime>
   <anime anidbid="240" tvdbid="72726" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Gasaraki</name>
@@ -1200,35 +1172,6 @@
     <name>Meitantei Conan</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
-      <mapping anidbseason="1" tvdbseason="1" start="1" end="28"/>
-      <mapping anidbseason="1" tvdbseason="2" start="29" end="54" offset="-28"/>
-      <mapping anidbseason="1" tvdbseason="3" start="55" end="82" offset="-54"/>
-      <mapping anidbseason="1" tvdbseason="4" start="83" end="106" offset="-82"/>
-      <mapping anidbseason="1" tvdbseason="5" start="107" end="134" offset="-106"/>
-      <mapping anidbseason="1" tvdbseason="6" start="135" end="162" offset="-134"/>
-      <mapping anidbseason="1" tvdbseason="7" start="163" end="193" offset="-162"/>
-      <mapping anidbseason="1" tvdbseason="8" start="194" end="219" offset="-193"/>
-      <mapping anidbseason="1" tvdbseason="9" start="220" end="254" offset="-219"/>
-      <mapping anidbseason="1" tvdbseason="10" start="255" end="285" offset="-254"/>
-      <mapping anidbseason="1" tvdbseason="11" start="286" end="315" offset="-285"/>
-      <mapping anidbseason="1" tvdbseason="12" start="316" end="353" offset="-315"/>
-      <mapping anidbseason="1" tvdbseason="13" start="354" end="389" offset="-353"/>
-      <mapping anidbseason="1" tvdbseason="14" start="390" end="426" offset="-389"/>
-      <mapping anidbseason="1" tvdbseason="15" start="427" end="465" offset="-426"/>
-      <mapping anidbseason="1" tvdbseason="16" start="466" end="490" offset="-465"/>
-      <mapping anidbseason="1" tvdbseason="17" start="491" end="523" offset="-490"/>
-      <mapping anidbseason="1" tvdbseason="18" start="524" end="565" offset="-523"/>
-      <mapping anidbseason="1" tvdbseason="19" start="566" end="605" offset="-565"/>
-      <mapping anidbseason="1" tvdbseason="20" start="606" end="645" offset="-605"/>
-      <mapping anidbseason="1" tvdbseason="21" start="646" end="680" offset="-645"/>
-      <mapping anidbseason="1" tvdbseason="22" start="681" end="723" offset="-680"/>
-      <mapping anidbseason="1" tvdbseason="23" start="724" end="762" offset="-723"/>
-      <mapping anidbseason="1" tvdbseason="24" start="763" end="803" offset="-762"/>
-      <mapping anidbseason="1" tvdbseason="25" start="804" end="886" offset="-803"/>
-      <mapping anidbseason="1" tvdbseason="26" start="887" end="926" offset="-886"/>
-      <mapping anidbseason="1" tvdbseason="27" start="927" end="964" offset="-926"/>
-      <mapping anidbseason="1" tvdbseason="28" start="965" end="992" offset="-964"/>
-      <mapping anidbseason="1" tvdbseason="29" start="993" end="1008" offset="-992"/>
     </mapping-list>
   </anime>
   <anime anidbid="267" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -14116,28 +14059,6 @@
     <name>Naruto Shippuuden</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-5;</mapping>
-      <mapping anidbseason="1" tvdbseason="1" start="1" end="32"/>
-      <mapping anidbseason="1" tvdbseason="2" start="33" end="53" offset="-32"/>
-      <mapping anidbseason="1" tvdbseason="3" start="54" end="71" offset="-53"/>
-      <mapping anidbseason="1" tvdbseason="4" start="72" end="88" offset="-71"/>
-      <mapping anidbseason="1" tvdbseason="5" start="89" end="112" offset="-88"/>
-      <mapping anidbseason="1" tvdbseason="6" start="113" end="143" offset="-112"/>
-      <mapping anidbseason="1" tvdbseason="7" start="144" end="151" offset="-143"/>
-      <mapping anidbseason="1" tvdbseason="8" start="152" end="175" offset="-151"/>
-      <mapping anidbseason="1" tvdbseason="9" start="176" end="196" offset="-175"/>
-      <mapping anidbseason="1" tvdbseason="10" start="197" end="222" offset="-196"/>
-      <mapping anidbseason="1" tvdbseason="11" start="223" end="242" offset="-222"/>
-      <mapping anidbseason="1" tvdbseason="12" start="243" end="260" offset="-242"/>
-      <mapping anidbseason="1" tvdbseason="13" start="261" end="295" offset="-260"/>
-      <mapping anidbseason="1" tvdbseason="14" start="296" end="320" offset="-295"/>
-      <mapping anidbseason="1" tvdbseason="15" start="321" end="348" offset="-320"/>
-      <mapping anidbseason="1" tvdbseason="16" start="349" end="361" offset="-348"/>
-      <mapping anidbseason="1" tvdbseason="17" start="362" end="393" offset="-361"/>
-      <mapping anidbseason="1" tvdbseason="18" start="394" end="413" offset="-393"/>
-      <mapping anidbseason="1" tvdbseason="19" start="414" end="431" offset="-413"/>
-      <mapping anidbseason="1" tvdbseason="20" start="432" end="450" offset="-431"/>
-      <mapping anidbseason="1" tvdbseason="21" start="451" end="458" offset="-450"/>
-      <mapping anidbseason="1" tvdbseason="22" start="459" end="500" offset="-458"/>
     </mapping-list>
   </anime>
   <anime anidbid="4884" tvdbid="84027" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
