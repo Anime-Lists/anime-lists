@@ -23375,11 +23375,8 @@
   <anime anidbid="10011" tvdbid="276050" defaulttvdbseason="1">
     <name>D-Frag!</name>
   </anime>
-  <anime anidbid="10012" tvdbid="252322" defaulttvdbseason="0" imdbid="tt3198698">
+  <anime anidbid="10012" tvdbid="252322" defaulttvdbseason="0" episodeoffset="1" imdbid="tt3198698">
     <name>Gekijouban Hunter x Hunter: The Last Mission</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-36;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="10015" tvdbid="81463" defaulttvdbseason="0">
     <name>Minami-ke Natsuyasumi</name>
