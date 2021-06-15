@@ -39320,11 +39320,8 @@
   <anime anidbid="14317" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tianxin Gege Di San Ji</name>
   </anime>
-  <anime anidbid="14318" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="568012" imdbid="tt9430698">
+  <anime anidbid="14318" tvdbid="81797" defaulttvdbseason="0" episodeoffset="37" tmdbid="568012" imdbid="tt9430698">
     <name>Gekijouban One Piece: Stampede</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-39;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="14319" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tsubiregg Tsuburegg March</name>

@@ -32510,11 +32510,8 @@
   <anime anidbid="14308" tvdbid="360593" defaulttvdbseason="1">
     <name>Chou Kadou Girl 1/6</name>
   </anime>
-  <anime anidbid="14318" tvdbid="81797" defaulttvdbseason="0" tmdbid="568012" imdbid="tt9430698">
+  <anime anidbid="14318" tvdbid="81797" defaulttvdbseason="0" episodeoffset="37" tmdbid="568012" imdbid="tt9430698">
     <name>Gekijouban One Piece: Stampede</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-39;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="14327" tvdbid="352192" defaulttvdbseason="1">
     <name>Inazuma Eleven: Orion no Kokuin</name>
