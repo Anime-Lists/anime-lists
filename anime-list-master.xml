@@ -34398,10 +34398,10 @@
   <anime anidbid="12565" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Balala Xiaomoxian: Qiji Wubu</name>
   </anime>
-  <anime anidbid="12566" tvdbid="79525" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt6344664">
+  <anime anidbid="12566" tvdbid="79525" defaulttvdbseason="0" episodeoffset="" tmdbid="553837" imdbid="tt6344664">
     <name>Code Geass: Fukkatsu no Lelouch</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-51;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-42;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="12567" tvdbid="79525" defaulttvdbseason="0" episodeoffset="" tmdbid="477776" imdbid="">
