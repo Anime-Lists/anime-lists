@@ -5492,7 +5492,7 @@
   <anime anidbid="1544" tvdbid="75941" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Elfen Lied</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-4;4-2;5-3;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="1545" tvdbid="181851" defaulttvdbseason="1" episodeoffset="1" tmdbid="" imdbid="">
