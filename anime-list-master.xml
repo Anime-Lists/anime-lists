@@ -42475,6 +42475,9 @@
   </anime>
   <anime anidbid="15456" tvdbid="352408" defaulttvdbseason="2" episodeoffset="12" tmdbid="" imdbid="">
     <name>Tensei Shitara Slime Datta Ken (2021 Dai 2 Bu)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-8;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="15457" tvdbid="385374" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tensei Shitara Slime Datta Ken: Tensura Nikki</name>
