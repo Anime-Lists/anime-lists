@@ -27645,8 +27645,8 @@
   <anime anidbid="10008" tvdbid="262098" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt5284414">
     <name>Girls und Panzer Gekijouban</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-36;2-38;3-39;4-40;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-37;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-37;2-38;3-39;4-40;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-36;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10009" tvdbid="262098" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
