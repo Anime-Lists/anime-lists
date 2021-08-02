@@ -40363,7 +40363,7 @@
   <anime anidbid="14678" tvdbid="318893" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Kobayashi-san Chi no Maidragon S</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="14" offset="8"/>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="22" offset="7">;1-30;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="14679" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="594188" imdbid="tt9760504">
