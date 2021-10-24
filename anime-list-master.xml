@@ -42208,7 +42208,7 @@
   <anime anidbid="15357" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Suna no Akari</name>
   </anime>
-  <anime anidbid="15358" tvdbid="376003" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15358" tvdbid="376003" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Digimon Adventure:</name>
   </anime>
   <anime anidbid="15359" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -43012,7 +43012,7 @@
   <anime anidbid="15655" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Jib</name>
   </anime>
-  <anime anidbid="15656" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15656" tvdbid="386570" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kaizoku Oujo</name>
   </anime>
   <anime anidbid="15657" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -43021,7 +43021,7 @@
   <anime anidbid="15658" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Buddy Complex: Tokubetsu Henshuuban - Daremo Shiranai Ashita e</name>
   </anime>
-  <anime anidbid="15659" tvdbid="388536" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15659" tvdbid="388536" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Dogeza de Tanondemita</name>
   </anime>
   <anime anidbid="15660" tvdbid="398106" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -43031,10 +43031,10 @@
       <mapping anidbseason="0" tvdbseason="0" start="2" end="13" offset="-1"/>
     </mapping-list>
   </anime>
-  <anime anidbid="15661" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15661" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kaa-chan no Tomodachi ni Shikotteru Tokoro Mirareta. The Animation</name>
   </anime>
-  <anime anidbid="15662" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15662" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Toshoshitsu no Kanojo: Seiso na Kimi ga Ochiru made The Animation</name>
   </anime>
   <anime anidbid="15663" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -44108,7 +44108,7 @@
   <anime anidbid="16047" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Bitch na In'ane-sama</name>
   </anime>
-  <anime anidbid="16048" tvdbid="397617" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="16048" tvdbid="397617" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kuro Gal ni Natta kara Shin'yuu to Shite Mita.</name>
   </anime>
   <anime anidbid="16049" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -44294,7 +44294,7 @@
   <anime anidbid="16112" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Eiyuu Densetsu: Sen no Kiseki</name>
   </anime>
-  <anime anidbid="16113" tvdbid="316842" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="16113" tvdbid="316842" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mahou Tsukai no Yome: Nishi no Shounen to Seiran no Kishi</name>
   </anime>
   <anime anidbid="16114" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -45344,7 +45344,7 @@
   <anime anidbid="16532" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Zoku Oujo &amp; Onna Kishi W Dogehin Roshutsu: Chijoku no Misemono Dorei</name>
   </anime>
-  <anime anidbid="16533" tvdbid="408631" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="16533" tvdbid="408631" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Yojouhan Time Machine Blues</name>
   </anime>
   <anime anidbid="16534" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
