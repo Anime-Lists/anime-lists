@@ -33452,6 +33452,9 @@
   </anime>
   <anime anidbid="12233" tvdbid="305074" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Boku no Hero Academia (2017)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12234" tvdbid="318860" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Masamune-kun no Revenge</name>
