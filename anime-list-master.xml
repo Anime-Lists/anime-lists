@@ -25583,10 +25583,10 @@
   <anime anidbid="9249" tvdbid="262095" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Btooom!</name>
   </anime>
-  <anime anidbid="9250" tvdbid="318161" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt2704454">
+  <anime anidbid="9250" tvdbid="318161" defaulttvdbseason="0" episodeoffset="" tmdbid="182131" imdbid="tt2704454">
     <name>Little Witch Academia</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9251" tvdbid="259863" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
@@ -27541,10 +27541,10 @@
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="9971" tvdbid="318161" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="tt4831682">
+  <anime anidbid="9971" tvdbid="318161" defaulttvdbseason="0" episodeoffset="1" tmdbid="347413" imdbid="tt4831682">
     <name>Little Witch Academia: The Enchanted Parade</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9973" tvdbid="278127" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
