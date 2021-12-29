@@ -45092,8 +45092,13 @@
   <anime anidbid="16444" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mori no Kuma-san, Toumin-chuu.</name>
   </anime>
+<<<<<<< HEAD
   <anime anidbid="16445" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta... X: Unmei no Hito ni Deatte Shimatta...</name>
+=======
+  <anime anidbid="16445" tvdbid="371437" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="">
+    <name>Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta... (2021)</name>
+>>>>>>> 5bd8600 (Map Hamefura OVA)
   </anime>
   <anime anidbid="16446" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kono Subarashii Sekai ni Shukufuku o! (Shinsaku Anime)</name>
