@@ -33787,8 +33787,12 @@
   <anime anidbid="12360" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi</name>
   </anime>
-  <anime anidbid="12361" tvdbid="262098" defaulttvdbseason="0" episodeoffset="40" tmdbid="" imdbid="tt7833606,tt7834494">
+  <anime anidbid="12361" tvdbid="262098" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt7833606,tt7834494,tt12286898">
     <name>Girls und Panzer: Saishuushou</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-43;2-46;3-47;4-50;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-41;2-45;3-51;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12362" tvdbid="349498" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Yume Oukoku to Nemureru 100 Nin no Ouji-sama</name>
