@@ -22427,6 +22427,9 @@
   </anime>
   <anime anidbid="8132" tvdbid="114801" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Fairy Tail (2011)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;4-5;5-7;6-8;7-9;8-10;9-11;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8133" tvdbid="248027" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hyouge Mono</name>
@@ -24316,10 +24319,10 @@
   <anime anidbid="8787" tvdbid="259675" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Uchuu Senkan Yamato 2199</name>
   </anime>
-  <anime anidbid="8788" tvdbid="114801" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt2085795">
+  <anime anidbid="8788" tvdbid="114801" defaulttvdbseason="0" episodeoffset="3" tmdbid="135531" imdbid="tt2085795">
     <name>Gekijouban Fairy Tail: Houou no Miko</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8789" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0245655">
@@ -30829,11 +30832,8 @@
   <anime anidbid="11246" tvdbid="297313" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kaijuu Sakaba Kanpai!</name>
   </anime>
-  <anime anidbid="11247" tvdbid="114801" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt6548966">
+  <anime anidbid="11247" tvdbid="114801" defaulttvdbseason="0" episodeoffset="11" tmdbid="433422" imdbid="tt6548966">
     <name>Gekijouban Fairy Tail: Dragon Cry</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-12;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="11248" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mudai</name>
