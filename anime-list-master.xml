@@ -37960,10 +37960,10 @@
   <anime anidbid="13829" tvdbid="289882" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth II</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="2" offset="2" />
     </mapping-list>
   </anime>
-  <anime anidbid="13830" tvdbid="289882" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="tt9526152">
+  <anime anidbid="13830" tvdbid="289882" defaulttvdbseason="0" episodeoffset="1" tmdbid="553835" imdbid="tt9526152">
     <name>Gekijouban Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Orion no Ya</name>
   </anime>
   <anime anidbid="13831" tvdbid="350166" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -41582,7 +41582,7 @@
   <anime anidbid="15111" tvdbid="289882" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth III</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-5;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="1" offset="4" />
     </mapping-list>
   </anime>
   <anime anidbid="15112" tvdbid="unknown" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
