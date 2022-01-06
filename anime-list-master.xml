@@ -27575,8 +27575,13 @@
   <anime anidbid="9979" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Koroshiya-san: The Hired Gun</name>
   </anime>
-  <anime anidbid="9980" tvdbid="114801" defaulttvdbseason="5" episodeoffset="175" tmdbid="" imdbid="">
+  <anime anidbid="9980" tvdbid="114801" defaulttvdbseason="a" episodeoffset="175" tmdbid="" imdbid="">
     <name>Fairy Tail (2014)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="5" start="1" end="51" offset="0"/>
+      <mapping anidbseason="1" tvdbseason="6" start="52" end="90" offset="-51"/>
+      <mapping anidbseason="1" tvdbseason="7" start="91" end="102" offset="-90"/>
+    </mapping-list>
   </anime>
   <anime anidbid="9982" tvdbid="79685" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Hajime no Ippo: The Fighting! - Rising</name>
@@ -36431,8 +36436,11 @@
   <anime anidbid="13294" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Onyankopon</name>
   </anime>
-  <anime anidbid="13295" tvdbid="114801" defaulttvdbseason="8" episodeoffset="277" tmdbid="" imdbid="">
+  <anime anidbid="13295" tvdbid="114801" defaulttvdbseason="a" episodeoffset="277" tmdbid="" imdbid="">
     <name>Fairy Tail (2018)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="8" start="1" end="51" offset="0"/>
+    </mapping-list>
   </anime>
   <anime anidbid="13296" tvdbid="346948" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Harukana Receive</name>
