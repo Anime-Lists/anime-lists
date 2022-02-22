@@ -37915,6 +37915,7 @@
     <name>Kishibe Rohan wa Ugokanai</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-1;2-2;3-6;4-7;</mapping>
+      <mapping anidbseason="99" tvdbseason="1" start="1" end="4"></mapping>
     </mapping-list>
   </anime>
   <anime anidbid="13813" tvdbid="344200" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
