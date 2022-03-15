@@ -43831,6 +43831,9 @@
   </anime>
   <anime anidbid="15954" tvdbid="371310" defaulttvdbseason="1" episodeoffset="11" tmdbid="" imdbid="">
     <name>Mushoku Tensei: Isekai Ittara Honki Dasu (2021)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="15955" tvdbid="337336" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Idolish Seven: Third Beat!</name>
