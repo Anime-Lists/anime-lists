@@ -20616,8 +20616,8 @@
   <anime anidbid="7508" tvdbid="79525" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Code Geass: Boukoku no Akito</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-7;2-8;3-9;4-10;5-11;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="46"/>
+      <mapping anidbseason="1" tvdbseason="0" start="1" end="5" offset="6"/>
     </mapping-list>
   </anime>
   <anime anidbid="7510" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
