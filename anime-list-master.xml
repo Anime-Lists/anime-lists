@@ -337,7 +337,7 @@
   <anime anidbid="69" tvdbid="81797" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>One Piece</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-28;2-3;3-9;4-10;5-14;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-0;15-0;16-32;17-23;18-24;19-29;20-30;21-31;22-0;23-33;24-35;25-0;26-37;27-38;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-27;2-3;3-9;4-10;5-14;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-0;15-0;16-31;17-23;18-24;19-28;20-29;21-30;22-0;23-32;24-34;25-0;26-36;27-37;28-40;29-41;30-42;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="70" tvdbid="73616" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -3462,7 +3462,8 @@
   <anime anidbid="893" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0832449">
     <name>One Piece: Nejimakijima no Bouken</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-4;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-5;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="894" tvdbid="82319" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -4606,7 +4607,8 @@
   <anime anidbid="1253" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0997084">
     <name>One Piece: Chinjuujima no Chopper Oukoku</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-6;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-7;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="1254" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1006926">
@@ -24749,7 +24751,8 @@
   <anime anidbid="8940" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt2375379">
     <name>One Piece Film: Z</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-27;2-27;3-27;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-25;2-25;3-25;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-26;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8941" tvdbid="73988" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
@@ -31618,7 +31621,8 @@
   <anime anidbid="11529" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt5251328">
     <name>One Piece Film: Gold</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-34;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-35;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-33;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="11530" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
