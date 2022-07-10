@@ -1978,7 +1978,7 @@
   <anime anidbid="463" tvdbid="71744" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Vandread Gekitouhen</name>
   </anime>
-  <anime anidbid="464" tvdbid="72241" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="464" tvdbid="380653" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Digimon Frontier</name>
   </anime>
   <anime anidbid="465" tvdbid="79718" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -2332,7 +2332,7 @@
   <anime anidbid="561" tvdbid="72241" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Digimon Adventure 02</name>
   </anime>
-  <anime anidbid="562" tvdbid="72241" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="562" tvdbid="277575" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Digimon Tamers</name>
   </anime>
   <anime anidbid="563" tvdbid="97951" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -4538,7 +4538,7 @@
   <anime anidbid="1225" tvdbid="80787" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Comic Party Revolution</name>
   </anime>
-  <anime anidbid="1227" tvdbid="72241" defaulttvdbseason="0" episodeoffset="4" tmdbid="" imdbid="tt0810831">
+  <anime anidbid="1227" tvdbid="277575 " defaulttvdbseason="0" episodeoffset="4" tmdbid="" imdbid="tt0810831">
     <name>Digimon Tamers: Boukensha-tachi no Tatakai</name>
   </anime>
   <anime anidbid="1229" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="72696" imdbid="">
@@ -5291,7 +5291,7 @@
   <anime anidbid="1474" tvdbid="81472" defaulttvdbseason="0" episodeoffset="10" tmdbid="" imdbid="tt0142247">
     <name>Dragon Ball Z: Zetsubou e no Hankou!! Nokosareta Chousenshi - Gohan to Trunks</name>
   </anime>
-  <anime anidbid="1475" tvdbid="72241" defaulttvdbseason="0" episodeoffset="5" tmdbid="" imdbid="tt0810833">
+  <anime anidbid="1475" tvdbid="277575 " defaulttvdbseason="0" episodeoffset="5" tmdbid="" imdbid="tt0810833">
     <name>Digimon Tamers: Bousou Digimon Tokkyuu</name>
   </anime>
   <anime anidbid="1476" tvdbid="271770" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -8530,7 +8530,7 @@
   <anime anidbid="2526" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Curry no Kuni no Kobal</name>
   </anime>
-  <anime anidbid="2528" tvdbid="72241" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0810832">
+  <anime anidbid="2528" tvdbid="380653" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0810832">
     <name>Digimon Frontier: Kodai Digimon Fukkatsu!!</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
@@ -12603,7 +12603,7 @@
   <anime anidbid="4282" tvdbid="204401" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Yuusei Shounen Papii</name>
   </anime>
-  <anime anidbid="4283" tvdbid="72241" defaulttvdbseason="5" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4283" tvdbid="339733" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Digimon Savers</name>
   </anime>
   <anime anidbid="4285" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -13830,7 +13830,7 @@
   <anime anidbid="4765" tvdbid="252696" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Nobita no Kekkon Zen'ya: The Night Before a Wedding</name>
   </anime>
-  <anime anidbid="4771" tvdbid="72241" defaulttvdbseason="0" episodeoffset="" tmdbid="36197" imdbid="">
+  <anime anidbid="4771" tvdbid="339733" defaulttvdbseason="0" episodeoffset="" tmdbid="36197" imdbid="">
     <name>Digimon Savers The Movie: Kyuukyoku Power! Burst Mode Hatsudou!!</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-9;</mapping>
@@ -20421,7 +20421,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="7445" tvdbid="72241" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="7445" tvdbid="339733" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Digimon Savers 3D: Digital World Kiki Ippatsu!</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
@@ -22984,11 +22984,8 @@
   <anime anidbid="8319" tvdbid="252477" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mashiro-iro Symphony: The Color of Lovers</name>
   </anime>
-  <anime anidbid="8321" tvdbid="202241" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8321" tvdbid="202241" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="1">;1-31;2-32;3-33;4-34;5-35;6-36;7-37;8-38;9-39;10-40;11-41;12-42;13-43;14-44;15-45;16-46;17-47;18-48;19-49;20-50;21-51;22-52;23-53;24-54;25-55;26-56;27-57;28-58;29-59;30-60;</mapping>
-    </mapping-list>
     <supplemental-info>
       <studio>Toei Animation</studio>
     </supplemental-info>
@@ -23830,7 +23827,7 @@
   <anime anidbid="8615" tvdbid="197261" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Tantei Opera Milky Holmes: Summer Special</name>
   </anime>
-  <anime anidbid="8616" tvdbid="202241" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8616" tvdbid="202241" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Digimon Xros Wars: Toki o Kakeru Shounen Hunter-tachi</name>
   </anime>
   <anime anidbid="8617" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
