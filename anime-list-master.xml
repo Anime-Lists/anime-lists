@@ -39694,6 +39694,9 @@
   </anime>
   <anime anidbid="14441" tvdbid="114921" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Toaru Kagaku no Railgun T</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-12;4-13;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14442" tvdbid="368862" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt10883006">
     <name>Ore o Suki na no wa Omae dake ka yo</name>
