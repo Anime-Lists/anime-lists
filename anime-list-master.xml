@@ -26246,6 +26246,9 @@
   </anime>
   <anime anidbid="9485" tvdbid="249869" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Rou Kyuu Bu! SS</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9486" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mouryou no Nie</name>
