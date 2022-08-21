@@ -13111,7 +13111,7 @@
   <anime anidbid="4521" tvdbid="79525" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Code Geass: Hangyaku no Lelouch</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-1;3-3;4-2;5-4;6-5;7-6;8-7;9-8;10-9;11-10;12-11;13-38;14-0;15-0;16-0;17-0;18-0;19-0;20-0;21-0;22-0;23-0;24-0;25-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="12" offset="12">;1-0;13-35;14-0;15-0;16-0;17-0;18-0;19-0;20-0;21-0;22-0;23-0;24-0;25-0;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
@@ -15311,7 +15311,7 @@
   <anime anidbid="5373" tvdbid="79525" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Code Geass: Hangyaku no Lelouch R2</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-13;2-14;3-15;4-16;5-17;6-18;7-19;8-20;9-21;10-0;11-0;12-0;13-0;14-0;15-0;16-0;17-0;18-0;19-23;20-0;21-0;22-0;23-0;24-0;25-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-25;2-26;3-27;4-28;5-30;6-31;7-32;8-33;9-34;10-29;11-0;12-0;13-0;14-0;15-0;16-0;17-0;18-0;19-0;20-36;21-0;22-0;23-0;24-0;25-0;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
@@ -19469,13 +19469,13 @@
   <anime anidbid="7126" tvdbid="79525" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-12;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7127" tvdbid="79525" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Code Geass: Hangyaku no Lelouch R2 Special Edition - Zero Requiem</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-31;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7128" tvdbid="82154" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
@@ -20618,7 +20618,6 @@
   <anime anidbid="7508" tvdbid="79525" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Code Geass: Boukoku no Akito</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="46"/>
       <mapping anidbseason="1" tvdbseason="0" start="1" end="5" offset="6"/>
     </mapping-list>
   </anime>
@@ -24670,7 +24669,7 @@
   <anime anidbid="8914" tvdbid="79525" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Code Geass: Hangyaku no Lelouch - Nunnally in Wonderland</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-35;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-12;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8915" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -34339,13 +34338,13 @@
   <anime anidbid="12566" tvdbid="79525" defaulttvdbseason="0" episodeoffset="" tmdbid="553837" imdbid="tt6344664">
     <name>Code Geass: Fukkatsu no Lelouch</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-42;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="12567" tvdbid="79525" defaulttvdbseason="0" episodeoffset="" tmdbid="477776" imdbid="">
     <name>Gekijou Soushuuhen Code Geass: Hangyaku no Lelouch</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-48;2-49;3-50;</mapping>
+      <mapping anidbseason="1" tvdbseason="0"/>
     </mapping-list>
   </anime>
   <anime anidbid="12569" tvdbid="348742" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
