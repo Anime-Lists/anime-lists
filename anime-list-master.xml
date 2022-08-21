@@ -352,7 +352,7 @@
   <anime anidbid="72" tvdbid="87941" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Eat-Man '98</name>
   </anime>
-  <anime anidbid="73" tvdbid="70863" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="73" tvdbid="70863" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku Hen</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
@@ -884,7 +884,7 @@
   <anime anidbid="195" tvdbid="70863" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou Hen</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-5;2-6;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;2-7;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Studio Deen</studio>
@@ -1816,7 +1816,7 @@
   <anime anidbid="422" tvdbid="70863" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0184872">
     <name>Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-7;2-7;3-7;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;</mapping>
     </mapping-list>
     <supplemental-info replace="true">
       <studio>Studio Deen</studio>
