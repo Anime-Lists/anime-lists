@@ -29230,7 +29230,7 @@
   <anime anidbid="10648" tvdbid="278127" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Hitsugi no Chaika: Nerawareta Hitsugi / Yomigaeru Iseki</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-1+2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0"/>
     </mapping-list>
   </anime>
   <anime anidbid="10649" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
