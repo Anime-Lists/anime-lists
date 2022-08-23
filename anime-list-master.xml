@@ -179,7 +179,7 @@
   <anime anidbid="35" tvdbid="70861" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Love Hina</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-8;2-0;3-4;4-0;5-3;6-0;7-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-8;2-0;3-7;4-0;5-6;6-0;7-0;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>XEBEC</studio>
@@ -239,7 +239,7 @@
   <anime anidbid="48" tvdbid="79445" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ippatsu Kikimusume</name>
   </anime>
-  <anime anidbid="49" tvdbid="70861" defaulttvdbseason="0" episodeoffset="4" tmdbid="" imdbid="">
+  <anime anidbid="49" tvdbid="70861" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
     <name>Love Hina Again</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
@@ -352,7 +352,7 @@
   <anime anidbid="72" tvdbid="87941" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Eat-Man '98</name>
   </anime>
-  <anime anidbid="73" tvdbid="70863" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="73" tvdbid="70863" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku Hen</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
@@ -884,7 +884,7 @@
   <anime anidbid="195" tvdbid="70863" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou Hen</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-5;2-6;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;2-7;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Studio Deen</studio>
@@ -1816,7 +1816,7 @@
   <anime anidbid="422" tvdbid="70863" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0184872">
     <name>Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-7;2-7;3-7;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;</mapping>
     </mapping-list>
     <supplemental-info replace="true">
       <studio>Studio Deen</studio>
@@ -13111,7 +13111,7 @@
   <anime anidbid="4521" tvdbid="79525" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Code Geass: Hangyaku no Lelouch</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-1;3-3;4-2;5-4;6-5;7-6;8-7;9-8;10-9;11-10;12-11;13-38;14-0;15-0;16-0;17-0;18-0;19-0;20-0;21-0;22-0;23-0;24-0;25-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="12" offset="12">;1-0;13-35;14-0;15-0;16-0;17-0;18-0;19-0;20-0;21-0;22-0;23-0;24-0;25-0;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
@@ -15311,7 +15311,7 @@
   <anime anidbid="5373" tvdbid="79525" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Code Geass: Hangyaku no Lelouch R2</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-13;2-14;3-15;4-16;5-17;6-18;7-19;8-20;9-21;10-0;11-0;12-0;13-0;14-0;15-0;16-0;17-0;18-0;19-23;20-0;21-0;22-0;23-0;24-0;25-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-25;2-26;3-27;4-28;5-30;6-31;7-32;8-33;9-34;10-29;11-0;12-0;13-0;14-0;15-0;16-0;17-0;18-0;19-0;20-36;21-0;22-0;23-0;24-0;25-0;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
@@ -15405,7 +15405,7 @@
   <anime anidbid="5424" tvdbid="79839" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Aria the Origination</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="8" offset="3"/>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="8" offset="2"/>
     </mapping-list>
   </anime>
   <anime anidbid="5426" tvdbid="78920" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="">
@@ -16734,6 +16734,9 @@
   </anime>
   <anime anidbid="6080" tvdbid="87491" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Queen's Blade: Rurou no Senshi</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="6" offset="0"/>
+    </mapping-list>
   </anime>
   <anime anidbid="6081" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Suishou no Yoru: Aoi Kokuhaku yori</name>
@@ -19466,13 +19469,13 @@
   <anime anidbid="7126" tvdbid="79525" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-12;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7127" tvdbid="79525" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Code Geass: Hangyaku no Lelouch R2 Special Edition - Zero Requiem</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-31;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7128" tvdbid="82154" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
@@ -20406,11 +20409,8 @@
   <anime anidbid="7441" tvdbid="210291" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Bungaku Shoujo: Memoire</name>
   </anime>
-  <anime anidbid="7442" tvdbid="87491" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="7442" tvdbid="87491" defaulttvdbseason="0" episodeoffset="12" tmdbid="" imdbid="">
     <name>Queen's Blade: Utsukushiki Toushi-tachi</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-13;2-14;3-15;4-16;5-17;6-18;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="7443" tvdbid="254663" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mouretsu Pirates</name>
@@ -20618,7 +20618,6 @@
   <anime anidbid="7508" tvdbid="79525" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Code Geass: Boukoku no Akito</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="46"/>
       <mapping anidbseason="1" tvdbseason="0" start="1" end="5" offset="6"/>
     </mapping-list>
   </anime>
@@ -24670,7 +24669,7 @@
   <anime anidbid="8914" tvdbid="79525" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Code Geass: Hangyaku no Lelouch - Nunnally in Wonderland</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-35;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-12;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8915" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -29230,7 +29229,7 @@
   <anime anidbid="10648" tvdbid="278127" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Hitsugi no Chaika: Nerawareta Hitsugi / Yomigaeru Iseki</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-1+2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0"/>
     </mapping-list>
   </anime>
   <anime anidbid="10649" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -29491,7 +29490,7 @@
   <anime anidbid="10751" tvdbid="289310" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Military!</name>
   </anime>
-  <anime anidbid="10755" tvdbid="79151" defaulttvdbseason="0" episodeoffset="5" tmdbid="283984,390634,390635" imdbid="tt4054952,tt8091892,tt8092118">
+  <anime anidbid="10755" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="283984,390634,390635" imdbid="tt4054952,tt8091892,tt8092118">
     <name>Gekijouban Fate/Stay Night: Heaven's Feel</name>
   </anime>
   <anime anidbid="10756" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -30344,7 +30343,7 @@
   <anime anidbid="11058" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Omakase! Miracle Cat-dan</name>
   </anime>
-  <anime anidbid="11059" tvdbid="79839" defaulttvdbseason="0" episodeoffset="11" tmdbid="" imdbid="">
+  <anime anidbid="11059" tvdbid="79839" defaulttvdbseason="0" episodeoffset="10" tmdbid="" imdbid="">
     <name>Aria the Avvenire</name>
   </anime>
   <anime anidbid="11060" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -30872,7 +30871,7 @@
   <anime anidbid="11256" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gyakuten Majo Saiban: Chijo na Majo ni Sabakarechau The Animation</name>
   </anime>
-  <anime anidbid="11257" tvdbid="87491" defaulttvdbseason="0" episodeoffset="38" tmdbid="" imdbid="">
+  <anime anidbid="11257" tvdbid="87491" defaulttvdbseason="0" episodeoffset="36" tmdbid="" imdbid="">
     <name>Queen's Blade: Grimoire</name>
   </anime>
   <anime anidbid="11258" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -34339,13 +34338,13 @@
   <anime anidbid="12566" tvdbid="79525" defaulttvdbseason="0" episodeoffset="" tmdbid="553837" imdbid="tt6344664">
     <name>Code Geass: Fukkatsu no Lelouch</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-42;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="12567" tvdbid="79525" defaulttvdbseason="0" episodeoffset="" tmdbid="477776" imdbid="">
     <name>Gekijou Soushuuhen Code Geass: Hangyaku no Lelouch</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-48;2-49;3-50;</mapping>
+      <mapping anidbseason="1" tvdbseason="0"/>
     </mapping-list>
   </anime>
   <anime anidbid="12569" tvdbid="348742" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -34918,9 +34917,6 @@
   <anime anidbid="12763" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Dance with Devils: Fortuna</name>
   </anime>
-  <anime anidbid="12764" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Macross (Shin Series)</name>
-  </anime>
   <anime anidbid="12766" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Future Card Buddyfight Batzz</name>
   </anime>
@@ -35125,7 +35121,7 @@
   <anime anidbid="12835" tvdbid="327015" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Koi to Uso</name>
   </anime>
-  <anime anidbid="12836" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12836" tvdbid="87491" defaulttvdbseason="0" episodeoffset="38" tmdbid="" imdbid="">
     <name>Queen's Blade Unlimited</name>
   </anime>
   <anime anidbid="12837" tvdbid="305075" defaulttvdbseason="0" episodeoffset="1" tmdbid="483455" imdbid="">
@@ -43426,7 +43422,7 @@
     <name>Xin Jue</name>
   </anime>
   <anime anidbid="15801" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Gekijouban Tsurune: Hajimari no Hitosa</name>
+    <name>Gekijouban Tsurune: Hajimari no Issha</name>
   </anime>
   <anime anidbid="15802" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Obsolete (2020)</name>
@@ -44128,7 +44124,7 @@
     <name>Chickip Dancers</name>
   </anime>
   <anime anidbid="16051" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Aru Hihon no ekaki Shounen</name>
+    <name>Aru Nihon no Ekaki Shounen</name>
   </anime>
   <anime anidbid="16052" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Urvan</name>
@@ -45034,7 +45030,7 @@
     <name>Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note - Tokubetsu Hen</name>
   </anime>
   <anime anidbid="16422" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>SK8 (Shinsaku Anime Project)</name>
+    <name>SK8 (OVA)</name>
   </anime>
   <anime anidbid="16423" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mini Van Large</name>
@@ -46446,7 +46442,7 @@
   <anime anidbid="16926" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ijiranaide, Nagatoro-san 2nd Attack</name>
   </anime>
-  <anime anidbid="16927" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="16927" tvdbid="400512" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Love Live! Superstar!! (2022)</name>
   </anime>
   <anime anidbid="16928" tvdbid="411770" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -47161,7 +47157,7 @@
     <name>Neko Jockey</name>
   </anime>
   <anime anidbid="17183" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Edens Zero 2</name>
+    <name>Edens Zero (2023)</name>
   </anime>
   <anime anidbid="17184" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Hua Kaizhang Meili</name>
@@ -47223,7 +47219,7 @@
   <anime anidbid="17206" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Shin Injuu Gakuen La Blue Girl</name>
   </anime>
-  <anime anidbid="17207" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17207" tvdbid="416802" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Yurei Deco</name>
   </anime>
   <anime anidbid="17208" tvdbid="329822" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
@@ -47896,7 +47892,7 @@
     <name>Hibike! Euphonium: Ensemble Contest Hen</name>
   </anime>
   <anime anidbid="17442" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Douluo Dalu: Di Shisan Bufen</name>
+    <name>Douluo Dalu: Feng Huo Bu Xi</name>
   </anime>
   <anime anidbid="17443" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Sekai no Owari ni Shiba Inu to</name>
@@ -48257,5 +48253,35 @@
   </anime>
   <anime anidbid="17571" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kisaku Reiwa Ban</name>
+  </anime>
+  <anime anidbid="17572" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>SK8 (TV)</name>
+  </anime>
+  <anime anidbid="17573" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Gekijouban Psycho-Pass: Providence</name>
+  </anime>
+  <anime anidbid="17574" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Aoharu Snatch</name>
+  </anime>
+  <anime anidbid="17575" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Majo to Yajuu</name>
+  </anime>
+  <anime anidbid="17576" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>One Punch Man 3</name>
+  </anime>
+  <anime anidbid="17577" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>鉄拳 : Bloodline</name>
+  </anime>
+  <anime anidbid="17578" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tekken: Bloodline</name>
+  </anime>
+  <anime anidbid="17579" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tsurune: Tsunagari no Issha</name>
+  </anime>
+  <anime anidbid="17580" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta</name>
+  </anime>
+  <anime anidbid="17581" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>San Cun Renjian</name>
   </anime>
 </anime-list>
