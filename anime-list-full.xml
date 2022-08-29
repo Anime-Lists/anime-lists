@@ -16937,7 +16937,7 @@
     <name>Mori no Senshi Bonolon</name>
   </anime>
   <anime anidbid="6206" tvdbid="unknown" defaulttvdbseason="2">
-    <name>Sugar Bunnies Chocolate!</name>
+    <name>Sugar Bunnies Chocolat!</name>
   </anime>
   <anime anidbid="6207" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1888591">
     <name>Sougen no Ko Tenguri</name>
@@ -19190,7 +19190,7 @@
     <name>Stitch! Itazura Alien no Daibouken</name>
   </anime>
   <anime anidbid="7080" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Youbi Masochist Animation</name>
+    <name>Youbi Maso Animation</name>
   </anime>
   <anime anidbid="7081" tvdbid="unknown" defaulttvdbseason="1">
     <name>Baboo Factory</name>
@@ -20411,7 +20411,7 @@
   <anime anidbid="7532" tvdbid="173271" defaulttvdbseason="1">
     <name>Seitokai Yakuindomo</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7533" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
@@ -26863,6 +26863,9 @@
   </anime>
   <anime anidbid="10197" tvdbid="173271" defaulttvdbseason="2">
     <name>Seitokai Yakuindomo *</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-0;15-0;16-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10198" tvdbid="82484" defaulttvdbseason="0" episodeoffset="2">
     <name>Strike Witches: Operation Victory Arrow</name>
@@ -27960,7 +27963,7 @@
   <anime anidbid="10761" tvdbid="173271" defaulttvdbseason="0">
     <name>Seitokai Yakuindomo * OAD</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-9;2-11;3-12;4-13;5-14;</mapping>
+      <mapping anidbseason="1" tvdbseason="0" start="2" end="9" offset="9">;1-9;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10763" tvdbid="262106" defaulttvdbseason="2">
@@ -28450,7 +28453,7 @@
   <anime anidbid="10970" tvdbid="297315" defaulttvdbseason="1">
     <name>Okusama ga Seitokaichou!</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="13" offset="1"/>
     </mapping-list>
   </anime>
   <anime anidbid="10971" tvdbid="314031" defaulttvdbseason="1">
@@ -29433,6 +29436,10 @@
   </anime>
   <anime anidbid="11743" tvdbid="297315" defaulttvdbseason="0">
     <name>Okusama ga Seitokaichou! Seitokaichou to Ofuro Asobi</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-15;</mapping>
+      <mapping anidbseason="1" tvdbseason="0"/>
+    </mapping-list>
   </anime>
   <anime anidbid="11745" tvdbid="327017" defaulttvdbseason="1">
     <name>The Reflection</name>
@@ -30681,7 +30688,7 @@
   <anime anidbid="12618" tvdbid="173271" defaulttvdbseason="0" imdbid="tt6337252">
     <name>Gekijouban Seitokai Yakuindomo</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-19;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="12621" tvdbid="311149" defaulttvdbseason="0" episodeoffset="2">
@@ -31187,7 +31194,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="13164" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Ichigo Chocola Flavor</name>
+    <name>Ichigo Chocolat Flavor</name>
   </anime>
   <anime anidbid="13165" tvdbid="331787" defaulttvdbseason="1">
     <name>Houseki no Kuni (2017)</name>
@@ -31703,6 +31710,7 @@
   <anime anidbid="13543" tvdbid="284719" defaulttvdbseason="0" tmdbid="507732">
     <name>Shinmai Maou no Testament Departures</name>
     <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-15;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-14;</mapping>
     </mapping-list>
   </anime>
@@ -32726,7 +32734,7 @@
     <name>Tejina Senpai</name>
   </anime>
   <anime anidbid="14468" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Kanpeki Ojou-sama no Watakushi ga Dogeza de Mazo Ochisuru Choroin na Wakenai Desu wa!</name>
+    <name>Kanpeki Ojou-sama no Watakushi ga Dogeza de Maso Ochisuru Choroin na Wakenai Desu wa!</name>
   </anime>
   <anime anidbid="14469" tvdbid="hentai" defaulttvdbseason="1">
     <name>Makai Kishi Ingrid: Re - Mesu Buta Dorei ni Ochita Makai Kishi</name>
@@ -33723,6 +33731,12 @@
   </anime>
   <anime anidbid="15293" tvdbid="366263" defaulttvdbseason="1" episodeoffset="14">
     <name>Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen (2020)</name>
+  </anime>
+  <anime anidbid="15294" tvdbid="173271" defaulttvdbseason="0">
+    <name>Gekijouban Seitokai Yakuindomo 2</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-20;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="15298" tvdbid="391625" defaulttvdbseason="1">
     <name>Ousama Ranking</name>

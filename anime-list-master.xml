@@ -17003,7 +17003,7 @@
     <name>Mori no Senshi Bonolon</name>
   </anime>
   <anime anidbid="6206" tvdbid="unknown" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
-    <name>Sugar Bunnies Chocolate!</name>
+    <name>Sugar Bunnies Chocolat!</name>
   </anime>
   <anime anidbid="6207" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1888591">
     <name>Sougen no Ko Tenguri</name>
@@ -19343,7 +19343,7 @@
     <name>Stitch! Itazura Alien no Daibouken</name>
   </anime>
   <anime anidbid="7080" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Youbi Masochist Animation</name>
+    <name>Youbi Maso Animation</name>
   </anime>
   <anime anidbid="7081" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Baboo Factory</name>
@@ -20684,7 +20684,7 @@
   <anime anidbid="7532" tvdbid="173271" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Seitokai Yakuindomo</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7533" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
@@ -28123,6 +28123,9 @@
   </anime>
   <anime anidbid="10197" tvdbid="173271" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Seitokai Yakuindomo *</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-0;15-0;16-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10198" tvdbid="82484" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
     <name>Strike Witches: Operation Victory Arrow</name>
@@ -29514,7 +29517,7 @@
   <anime anidbid="10761" tvdbid="173271" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Seitokai Yakuindomo * OAD</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-9;2-11;3-12;4-13;5-14;</mapping>
+      <mapping anidbseason="1" tvdbseason="0" start="2" end="9" offset="9">;1-9;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10762" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -30425,7 +30428,7 @@
     <name>Niji ni Mukatte</name>
   </anime>
   <anime anidbid="11092" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Okonjoururi</name>
+    <name>Okon Joururi</name>
   </anime>
   <anime anidbid="11093" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Rusuban</name>
@@ -34501,7 +34504,7 @@
   <anime anidbid="12618" tvdbid="173271" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt6337252">
     <name>Gekijouban Seitokai Yakuindomo</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-19;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="12621" tvdbid="311149" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
@@ -36045,7 +36048,7 @@
     <name>Moheomwang Jangbogo</name>
   </anime>
   <anime anidbid="13164" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Ichigo Chocola Flavor</name>
+    <name>Ichigo Chocolat Flavor</name>
   </anime>
   <anime anidbid="13165" tvdbid="331787" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Houseki no Kuni (2017)</name>
@@ -36300,7 +36303,7 @@
     <name>Miira no Kaikata</name>
   </anime>
   <anime anidbid="13253" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Inko Colours</name>
+    <name>Inko Colors the Animation</name>
   </anime>
   <anime anidbid="13254" tvdbid="352854" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Rerided: Tokigoe no Derrida</name>
@@ -37108,7 +37111,7 @@
     <name>SNS Police</name>
   </anime>
   <anime anidbid="13530" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Bary-san x Gospe Rats: Tonde Bary Bary Monogatari</name>
+    <name>Bary-san x Gospe Rats: Tonde Bari Bari Story</name>
   </anime>
   <anime anidbid="13531" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Yakiniku-ten Sengoku</name>
@@ -39772,7 +39775,7 @@
     <name>Tejina Senpai</name>
   </anime>
   <anime anidbid="14468" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kanpeki Ojou-sama no Watakushi ga Dogeza de Mazo Ochisuru Choroin na Wakenai Desu wa!</name>
+    <name>Kanpeki Ojou-sama no Watakushi ga Dogeza de Maso Ochisuru Choroin na Wakenai Desu wa!</name>
   </anime>
   <anime anidbid="14469" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Makai Kishi Ingrid: Re - Mesu Buta Dorei ni Ochita Makai Kishi</name>
@@ -42027,8 +42030,11 @@
   <anime anidbid="15293" tvdbid="366263" defaulttvdbseason="1" episodeoffset="14" tmdbid="" imdbid="">
     <name>Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen (2020)</name>
   </anime>
-  <anime anidbid="15294" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15294" tvdbid="173271" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Gekijouban Seitokai Yakuindomo 2</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-20;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="15295" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kyonyuu Princess Saimin</name>
@@ -46745,7 +46751,7 @@
     <name>Backkom 3</name>
   </anime>
   <anime anidbid="17037" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Gridman x Dynazenon</name>
+    <name>Gridman Universe</name>
   </anime>
   <anime anidbid="17038" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Koukyuu no Karasu</name>
@@ -47747,7 +47753,7 @@
     <name>Sentaku Jab Jab</name>
   </anime>
   <anime anidbid="17390" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Akai Hana Shiroi Ha</name>
+    <name>Akai Hana Shiroi Hana</name>
   </anime>
   <anime anidbid="17391" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tooi Sekai ni</name>
@@ -48288,5 +48294,23 @@
   </anime>
   <anime anidbid="17581" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>San Cun Renjian</name>
+  </anime>
+  <anime anidbid="17582" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Jian Yu Feng Yun</name>
+  </anime>
+  <anime anidbid="17583" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Romantic Killer</name>
+  </anime>
+  <anime anidbid="17584" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Paradise, Hirano, Ryo</name>
+  </anime>
+  <anime anidbid="17585" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Period of the Mouseman</name>
+  </anime>
+  <anime anidbid="17586" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Undead Unluck</name>
+  </anime>
+  <anime anidbid="17587" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Mesudachi The Animation</name>
   </anime>
 </anime-list>
