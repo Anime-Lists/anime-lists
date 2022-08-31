@@ -1,0 +1,52 @@
+name: New Mapping
+description: Report a missing mapping
+title: "[MAP] <title>"
+labels: [Mapping]
+body:
+- type: input
+  attributes:
+    label: Anime Title
+    placeholder: 'ex. Seikai no Monshou'
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: AniDB ID
+    placeholder: 'ex. 12345'
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: TVDB ID
+    description: 'Not required but helps a lot'
+    placeholder: 'ex. 12345'
+- type: markdown
+  attributes:
+    value: 'Search for it: https://thetvdb.com/search?menu[type]=series&query= _`<series name>`_'
+- type: input
+  attributes:
+    label: Season Number
+    value: '1'
+- type: input
+  attributes:
+    label: TMDB ID (Only for movies)
+    description: 'Not required but helps a lot'
+    placeholder: 'ex. 12345'
+- type: markdown
+  attributes:
+    value: 'Search for it: https://www.themoviedb.org/search/movie?query= _`<movie name>`_'
+- type: input
+  attributes:
+    label: IMDB ID (Only for movies)
+    description: 'Not required but helps a lot'
+    placeholder: 'tt12345678'
+- type: markdown
+  attributes:
+    value: 'Search for it: https://www.imdb.com/find?s=tt&ttype=ft&q= _`<movie name>`_'
+- type: checkboxes
+  attributes:
+    label: Is there an existing issue for this?
+    description: Please search to see if an issue or pull request already exists for this missing ID.
+    options:
+    - label: I have searched the existing issues and pull requests
+      required: true
