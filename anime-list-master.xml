@@ -34603,8 +34603,11 @@
   <anime anidbid="12653" tvdbid="321209" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Inuyashiki</name>
   </anime>
-  <anime anidbid="12654" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="tt10253816">
+  <anime anidbid="12654" tvdbid="305082" defaulttvdbseason="0" episodeoffset="" tmdbid="567006" imdbid="tt10253816">
     <name>Koutetsujou no Kabaneri: Unato Kessen</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;2-3;3-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12655" tvdbid="326439" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Warau Salesman New</name>
@@ -36260,7 +36263,7 @@
   <anime anidbid="13238" tvdbid="344076" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Comic Girls</name>
   </anime>
-  <anime anidbid="13239" tvdbid="278154" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="tt12642574">
+  <anime anidbid="13239" tvdbid="278154" defaulttvdbseason="0" episodeoffset="1" tmdbid="725986" imdbid="tt12642574">
     <name>Sidonia no Kishi: Ai Tsumugu Hoshi</name>
   </anime>
   <anime anidbid="13240" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -36413,7 +36416,7 @@
   <anime anidbid="13286" tvdbid="284131" defaulttvdbseason="0" episodeoffset="8" tmdbid="507569" imdbid="tt9089294">
     <name>Gekijouban Nanatsu no Taizai: Tenkuu no Torawarebito</name>
   </anime>
-  <anime anidbid="13288" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="tt7933596">
+  <anime anidbid="13288" tvdbid="305171" defaulttvdbseason="0" episodeoffset="1" tmdbid="468690" imdbid="tt7933596">
     <name>Kidou Senshi Gundam: Thunderbolt - Bandit Flower</name>
   </anime>
   <anime anidbid="13289" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -38556,7 +38559,7 @@
   <anime anidbid="14042" tvdbid="142601" defaulttvdbseason="0" episodeoffset="9" tmdbid="" imdbid="tt9497146">
     <name>Kidou Senshi Gundam Narrative</name>
   </anime>
-  <anime anidbid="14043" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="tt13288678">
+  <anime anidbid="14043" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="685274" imdbid="tt13288678">
     <name>Kidou Senshi Gundam: Senkou no Hathaway</name>
   </anime>
   <anime anidbid="14044" tvdbid="348719" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -40668,7 +40671,7 @@
   <anime anidbid="14775" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mang Huang Ji</name>
   </anime>
-  <anime anidbid="14776" tvdbid="305074" defaulttvdbseason="0" episodeoffset="6" tmdbid="" imdbid="tt11107074">
+  <anime anidbid="14776" tvdbid="305074" defaulttvdbseason="0" episodeoffset="6" tmdbid="592350" imdbid="tt11107074">
     <name>Boku no Hero Academia the Movie - Heroes:Rising</name>
   </anime>
   <anime anidbid="14777" tvdbid="368757" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt10054654">
@@ -41601,7 +41604,7 @@
   <anime anidbid="15112" tvdbid="unknown" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Sylvanian Families: Mini Story - Clover</name>
   </anime>
-  <anime anidbid="15113" tvdbid="348545" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt11032374">
+  <anime anidbid="15113" tvdbid="348545" defaulttvdbseason="0" episodeoffset="1" tmdbid="635302" imdbid="tt11032374">
     <name>Gekijouban Kimetsu no Yaiba: Mugen Ressha Hen</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
@@ -42033,7 +42036,7 @@
   <anime anidbid="15293" tvdbid="366263" defaulttvdbseason="1" episodeoffset="14" tmdbid="" imdbid="">
     <name>Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen (2020)</name>
   </anime>
-  <anime anidbid="15294" tvdbid="173271" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt12439230">
+  <anime anidbid="15294" tvdbid="173271" defaulttvdbseason="0" episodeoffset="19" tmdbid="653858" imdbid="tt12439230">
     <name>Gekijouban Seitokai Yakuindomo 2</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-20;</mapping>
@@ -43255,7 +43258,7 @@
   <anime anidbid="15734" tvdbid="388739" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Gekidol</name>
   </anime>
-  <anime anidbid="15735" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="tt13424422">
+  <anime anidbid="15735" tvdbid="259640" defaulttvdbseason="0" episodeoffset="26" tmdbid="761898" imdbid="tt13424422">
     <name>Gekijouban Sword Art Online: Progressive - Hoshinaki Yoru no Aria</name>
   </anime>
   <anime anidbid="15736" tvdbid="388858" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -43771,7 +43774,7 @@
   <anime anidbid="15923" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Eiga Crayon Shin-chan: Nazo Meki! Hana no Tenkasu Gakuen</name>
   </anime>
-  <anime anidbid="15924" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="tt13651628">
+  <anime anidbid="15924" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="776305" imdbid="tt13651628">
     <name>Ryuu to Sobakasu no Hime</name>
   </anime>
   <anime anidbid="15925" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -46717,7 +46720,7 @@
   <anime anidbid="17024" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Yowamushi Pedal: Limit Break</name>
   </anime>
-  <anime anidbid="17025" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="tt16360006">
+  <anime anidbid="17025" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="912598" imdbid="tt16360006">
     <name>Bubble</name>
   </anime>
   <anime anidbid="17026" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
