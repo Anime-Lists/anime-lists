@@ -27565,6 +27565,12 @@
   <anime anidbid="12653" tvdbid="321209" defaulttvdbseason="1">
     <name>Inuyashiki</name>
   </anime>
+  <anime anidbid="12654" tvdbid="305082" defaulttvdbseason="0" tmdbid="567006" imdbid="tt10253816">
+    <name>Koutetsujou no Kabaneri: Unato Kessen</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;2-3;3-3;4-3;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="12655" tvdbid="326439" defaulttvdbseason="1">
     <name>Warau Salesman New</name>
   </anime>
@@ -28097,7 +28103,7 @@
   <anime anidbid="13238" tvdbid="344076" defaulttvdbseason="1">
     <name>Comic Girls</name>
   </anime>
-  <anime anidbid="13239" tvdbid="278154" defaulttvdbseason="3">
+  <anime anidbid="13239" tvdbid="278154" defaulttvdbseason="0" episodeoffset="1" tmdbid="725986" imdbid="tt12642574">
     <name>Sidonia no Kishi: Ai Tsumugu Hoshi</name>
   </anime>
   <anime anidbid="13241" tvdbid="267440" defaulttvdbseason="3">
@@ -28207,6 +28213,9 @@
   </anime>
   <anime anidbid="13286" tvdbid="284131" defaulttvdbseason="0" episodeoffset="8" tmdbid="507569" imdbid="tt9089294">
     <name>Gekijouban Nanatsu no Taizai: Tenkuu no Torawarebito</name>
+  </anime>
+  <anime anidbid="13288" tvdbid="305171" defaulttvdbseason="0" episodeoffset="1" tmdbid="468690" imdbid="tt7933596">
+    <name>Kidou Senshi Gundam: Thunderbolt - Bandit Flower</name>
   </anime>
   <anime anidbid="13291" tvdbid="78881" defaulttvdbseason="2">
     <name>Basilisk: Ouka Ninpou Chou</name>
@@ -29108,6 +29117,9 @@
   </anime>
   <anime anidbid="14042" tvdbid="142601" defaulttvdbseason="0" episodeoffset="9" imdbid="tt9497146">
     <name>Kidou Senshi Gundam Narrative</name>
+  </anime>
+  <anime anidbid="14043" tvdbid="movie" tmdbid="685274" imdbid="tt13288678">
+    <name>Kidou Senshi Gundam: Senkou no Hathaway</name>
   </anime>
   <anime anidbid="14044" tvdbid="348719" defaulttvdbseason="1">
     <name>Aguu: Tensai Ningyou</name>
@@ -30018,7 +30030,7 @@
   <anime anidbid="14773" tvdbid="web" defaulttvdbseason="1">
     <name>Ero Lover</name>
   </anime>
-  <anime anidbid="14776" tvdbid="305074" defaulttvdbseason="0" episodeoffset="6">
+  <anime anidbid="14776" tvdbid="305074" defaulttvdbseason="0" episodeoffset="6" tmdbid="592350" imdbid="tt11107074">
     <name>Boku no Hero Academia the Movie - Heroes:Rising</name>
   </anime>
   <anime anidbid="14777" tvdbid="368757" defaulttvdbseason="1" imdbid="tt10054654">
@@ -30417,7 +30429,7 @@
       <mapping anidbseason="0" tvdbseason="0" start="1" end="1" offset="4"/>
     </mapping-list>
   </anime>
-  <anime anidbid="15113" tvdbid="348545" defaulttvdbseason="0">
+  <anime anidbid="15113" tvdbid="348545" defaulttvdbseason="0" episodeoffset="1" tmdbid="635302" imdbid="tt11032374">
     <name>Gekijouban Kimetsu no Yaiba: Mugen Ressha Hen</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
@@ -30573,7 +30585,7 @@
   <anime anidbid="15293" tvdbid="366263" defaulttvdbseason="1" episodeoffset="14">
     <name>Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen (2020)</name>
   </anime>
-  <anime anidbid="15294" tvdbid="173271" defaulttvdbseason="0">
+  <anime anidbid="15294" tvdbid="173271" defaulttvdbseason="0" episodeoffset="19" tmdbid="653858" imdbid="tt12439230">
     <name>Gekijouban Seitokai Yakuindomo 2</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-20;</mapping>
@@ -31003,6 +31015,9 @@
   <anime anidbid="15734" tvdbid="388739" defaulttvdbseason="1">
     <name>Gekidol</name>
   </anime>
+  <anime anidbid="15735" tvdbid="259640" defaulttvdbseason="0" episodeoffset="26" tmdbid="761898" imdbid="tt13424422">
+    <name>Gekijouban Sword Art Online: Progressive - Hoshinaki Yoru no Aria</name>
+  </anime>
   <anime anidbid="15736" tvdbid="388858" defaulttvdbseason="1">
     <name>SK8</name>
   </anime>
@@ -31149,6 +31164,9 @@
   </anime>
   <anime anidbid="15918" tvdbid="393301" defaulttvdbseason="1">
     <name>Isekai Meikyuu de Harem o</name>
+  </anime>
+  <anime anidbid="15924" tvdbid="movie" tmdbid="776305" imdbid="tt13651628">
+    <name>Ryuu to Sobakasu no Hime</name>
   </anime>
   <anime anidbid="15930" tvdbid="383518" defaulttvdbseason="2">
     <name>100-man no Inochi no Ue ni Ore wa Tatte Iru (2021)</name>
@@ -31396,7 +31414,7 @@
   <anime anidbid="16196" tvdbid="402125" defaulttvdbseason="1">
     <name>Dance Dance Danseur</name>
   </anime>
-  <anime anidbid="16200" tvdbid="391005" defaulttvdbseason="1" episodeoffset="5">
+  <anime anidbid="16200" tvdbid="391005" defaulttvdbseason="2">
     <name>Gokushufudou (2021)</name>
   </anime>
   <anime anidbid="16249" tvdbid="401935" defaulttvdbseason="1">
@@ -31675,6 +31693,9 @@
   <anime anidbid="17014" tvdbid="413122" defaulttvdbseason="1">
     <name>Ninjala (2022)</name>
   </anime>
+  <anime anidbid="17025" tvdbid="movie" tmdbid="912598" imdbid="tt16360006">
+    <name>Bubble</name>
+  </anime>
   <anime anidbid="17028" tvdbid="movie" tmdbid="955666" imdbid="tt16410438">
     <name>Eiga Crayon Shin-chan: Mononoke Ninja Chinfuuden</name>
   </anime>
@@ -31737,6 +31758,9 @@
   </anime>
   <anime anidbid="17284" tvdbid="418265" defaulttvdbseason="1">
     <name>Engage Kiss</name>
+  </anime>
+  <anime anidbid="17286" tvdbid="262954" defaulttvdbseason="5" episodeoffset="12">
+    <name>JoJo no Kimyou na Bouken: Stone Ocean (2022)</name>
   </anime>
   <anime anidbid="17356" tvdbid="305074" defaulttvdbseason="0" episodeoffset="12">
     <name>Boku no Hero Academia (Web)</name>
