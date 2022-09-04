@@ -24500,6 +24500,9 @@
   </anime>
   <anime anidbid="10603" tvdbid="269872" defaulttvdbseason="2">
     <name>Hello!! Kin'iro Mosaic</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10605" tvdbid="web" defaulttvdbseason="1">
     <name>Tuzki: Love Assassin</name>
@@ -26798,8 +26801,11 @@
   <anime anidbid="12036" tvdbid="267437" defaulttvdbseason="0" episodeoffset="6">
     <name>Yuyushiki: Komarasetari, Komarasaretari</name>
   </anime>
-  <anime anidbid="12037" tvdbid="269872" defaulttvdbseason="0" imdbid="tt5988680">
+  <anime anidbid="12037" tvdbid="269872" defaulttvdbseason="0" tmdbid="445475" imdbid="tt5988680">
     <name>Kin'iro Mosaic: Pretty Days</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12038" tvdbid="312559" defaulttvdbseason="0">
     <name>Drifters: Special Edition</name>
@@ -30776,6 +30782,12 @@
   </anime>
   <anime anidbid="15448" tvdbid="389459" defaulttvdbseason="1">
     <name>Burn the Witch</name>
+  </anime>
+  <anime anidbid="15450" tvdbid="269872" defaulttvdbseason="0" episodeoffset="1" tmdbid="693853">
+    <name>Gekijouban Kin'iro Mosaic: Thank You!!</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="15456" tvdbid="352408" defaulttvdbseason="2" episodeoffset="12">
     <name>Tensei Shitara Slime Datta Ken (2021 Dai 2 Bu)</name>
