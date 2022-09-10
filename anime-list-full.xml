@@ -3126,7 +3126,7 @@
     <name>Kizuna</name>
   </anime>
   <anime anidbid="795" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Keiraku no Houteishiki Level-C</name>
+    <name>Kairaku no Houteishiki Level-C</name>
   </anime>
   <anime anidbid="796" tvdbid="hentai" defaulttvdbseason="1">
     <name>Boku no Sexual Harassment</name>
@@ -11476,7 +11476,7 @@
     <name>Huckleberry Finn Monogatari</name>
   </anime>
   <anime anidbid="3676" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Sekai Meisaku Douwa Series: Wow! Maerchen Oukoku</name>
+    <name>Sekai Meisaku Douwa Series: Wow! Marchen Oukoku</name>
   </anime>
   <anime anidbid="3677" tvdbid="unknown" defaulttvdbseason="1">
     <name>Cinderella Monogatari</name>
@@ -12210,7 +12210,7 @@
     </supplemental-info>
   </anime>
   <anime anidbid="4161" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
-    <name>Radio City Fantasy: Machikado no Maerchen</name>
+    <name>Radio City Fantasy: Machikado no Marchen</name>
   </anime>
   <anime anidbid="4163" tvdbid="unknown" defaulttvdbseason="1">
     <name>Yagami-kun no Katei no Jijou</name>
@@ -13743,7 +13743,7 @@
     <name>Haha o Tazunete Sanzenri (1980)</name>
   </anime>
   <anime anidbid="4752" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
-    <name>Zeno Kagiri Naki Ai Ni</name>
+    <name>Zeno: Kagiri Naki Ai ni</name>
   </anime>
   <anime anidbid="4753" tvdbid="149911" defaulttvdbseason="2">
     <name>Koi Suru Tenshi Angelique: Kagayaki no Ashita</name>
@@ -16426,7 +16426,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="5957" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0422881">
-    <name>Omocha-Bako Series, Dai-3-Wa: Ehon 1936-nen</name>
+    <name>Omochabako Series Dai 3 Wa: Ehon 1936-nen</name>
   </anime>
   <anime anidbid="5960" tvdbid="unknown" defaulttvdbseason="1">
     <name>Hai! Akko Desu</name>
@@ -23631,7 +23631,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="8807" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Yanase Takashi Maerchen Gekijou</name>
+    <name>Yanase Takashi Marchen Gekijou</name>
   </anime>
   <anime anidbid="8808" tvdbid="264663" defaulttvdbseason="1">
     <name>Date a Live</name>
@@ -32785,7 +32785,7 @@
     <name>Tejina Senpai</name>
   </anime>
   <anime anidbid="14468" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Kanpeki Ojou-sama no Watakushi ga Dogeza de Maso Ochisuru Choroin na Wakenai Desu wa!</name>
+    <name>Kanpeki Ojou-sama no Watakushi ga Dogeza de Maso Ochi Suru Choroin na Wakenai Desu wa!</name>
   </anime>
   <anime anidbid="14469" tvdbid="hentai" defaulttvdbseason="1">
     <name>Makai Kishi Ingrid: Re - Mesu Buta Dorei ni Ochita Makai Kishi</name>
@@ -34876,6 +34876,9 @@
   <anime anidbid="16601" tvdbid="409529" defaulttvdbseason="1">
     <name>Heike Monogatari</name>
   </anime>
+  <anime anidbid="16602" tvdbid="79840" defaulttvdbseason="3">
+    <name>Otome wa Boku ni Koi Shiteru: Trinkle Stars The Animation</name>
+  </anime>
   <anime anidbid="16611" tvdbid="409723" defaulttvdbseason="1">
     <name>Kumichou Musume to Sewagakari</name>
   </anime>
@@ -35031,6 +35034,9 @@
   </anime>
   <anime anidbid="17278" tvdbid="418183" defaulttvdbseason="1">
     <name>Bucchigire!</name>
+  </anime>
+  <anime anidbid="17281" tvdbid="79840" defaulttvdbseason="4">
+    <name>Otome wa Boku ni Koi Shiteru: Trinkle Stars The Animation (2022)</name>
   </anime>
   <anime anidbid="17284" tvdbid="418265" defaulttvdbseason="1">
     <name>Engage Kiss</name>
