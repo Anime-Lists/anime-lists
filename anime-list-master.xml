@@ -40727,6 +40727,9 @@
   </anime>
   <anime anidbid="14792" tvdbid="305089" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Re:Zero kara Hajimeru Isekai Seikatsu (2020)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="13" offset="29"/>
+    </mapping-list>
   </anime>
   <anime anidbid="14793" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ojamajo Doremi: Owarai Gekijou</name>
@@ -42878,6 +42881,9 @@
   </anime>
   <anime anidbid="15593" tvdbid="305089" defaulttvdbseason="2" episodeoffset="13" tmdbid="" imdbid="">
     <name>Re:Zero kara Hajimeru Isekai Seikatsu (2021)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="12" offset="42"/>
+    </mapping-list>
   </anime>
   <anime anidbid="15594" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Xingchen Bian: Yu Li Cang Hai</name>
@@ -44747,7 +44753,7 @@
     <name>Love Live! Nijigasaki Gakuen School Idol Doukoukai (2022)</name>
   </anime>
   <anime anidbid="16311" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Stand My Heroes: Map Story</name>
+    <name>Stand My Heroes: Warmth of Memories</name>
   </anime>
   <anime anidbid="16312" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tian Bao Fuyao Lu 2</name>
@@ -45470,7 +45476,7 @@
     <name>Akai Hoshi Aoi Hoshi: Tenmon Carat no Hoshi kara</name>
   </anime>
   <anime anidbid="16573" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Fumetsu no Anata e (2022)</name>
+    <name>Fumetsu no Anata e Season 2</name>
   </anime>
   <anime anidbid="16574" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Condom Battler Gorou</name>
@@ -48357,5 +48363,71 @@
   </anime>
   <anime anidbid="17597" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Cang Lan Jue</name>
+  </anime>
+  <anime anidbid="17598" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shanhai Juelun</name>
+  </anime>
+  <anime anidbid="17599" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Mahou Tsukai no Yome Season 2</name>
+  </anime>
+  <anime anidbid="17600" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Rick and Morty tai Genocider</name>
+  </anime>
+  <anime anidbid="17601" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Jiu Tian Xuan Di Jue</name>
+  </anime>
+  <anime anidbid="17602" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Jiu Tian Xuan Di Jue Di Er Ji</name>
+  </anime>
+  <anime anidbid="17603" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Sekai Meisaku Gekijou Kanketsu Ban: Les Miserables: Shoujo Cosette</name>
+  </anime>
+  <anime anidbid="17604" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Umi no Uta</name>
+  </anime>
+  <anime anidbid="17605" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>81 Hao Nongchang: Baowei Mai Ji</name>
+  </anime>
+  <anime anidbid="17606" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>81 Hao Nongchang: Fengkuang de Mai Ji</name>
+  </anime>
+  <anime anidbid="17607" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hei Mao Jing Zhang (2010)</name>
+  </anime>
+  <anime anidbid="17608" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story</name>
+  </anime>
+  <anime anidbid="17609" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Gekijou Versailles no Bara</name>
+  </anime>
+  <anime anidbid="17610" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Sylvanian Families: Freya no Happy Diary</name>
+  </anime>
+  <anime anidbid="17611" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Jitsu wa Ore, Saikyou Deshita?</name>
+  </anime>
+  <anime anidbid="17612" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Megami no Cafe Terrace</name>
+  </anime>
+  <anime anidbid="17613" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Chibiham, Juicy &amp; Me</name>
+  </anime>
+  <anime anidbid="17614" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Dekoboko Majo no Oyako Jijou</name>
+  </anime>
+  <anime anidbid="17615" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Arifureta Shokugyou de Sekai Saikyou 3rd Season</name>
+  </anime>
+  <anime anidbid="17616" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Keiken Zumi na Kimi to, Keiken Zero na Ore ga, Otsukiai Suru Hanashi.</name>
+  </anime>
+  <anime anidbid="17617" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Sousou no Frieren</name>
+  </anime>
+  <anime anidbid="17618" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Sekai Meisaku Gekijou Kanketsu Ban: Porphy no Nagai Tabi</name>
+  </anime>
+  <anime anidbid="17619" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Sekai Meisaku Gekijou Kanketsu Ban: Konnichiwa Anne</name>
   </anime>
 </anime-list>

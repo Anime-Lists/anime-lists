@@ -33275,6 +33275,9 @@
   </anime>
   <anime anidbid="14792" tvdbid="305089" defaulttvdbseason="2">
     <name>Re:Zero kara Hajimeru Isekai Seikatsu (2020)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="13" offset="29"/>
+    </mapping-list>
   </anime>
   <anime anidbid="14795" tvdbid="368553" defaulttvdbseason="1">
     <name>Africa no Salaryman (2019)</name>
@@ -34124,6 +34127,9 @@
   </anime>
   <anime anidbid="15593" tvdbid="305089" defaulttvdbseason="2" episodeoffset="13">
     <name>Re:Zero kara Hajimeru Isekai Seikatsu (2021)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="12" offset="42"/>
+    </mapping-list>
   </anime>
   <anime anidbid="15596" tvdbid="383837" defaulttvdbseason="1">
     <name>Shaman King (2021)</name>
