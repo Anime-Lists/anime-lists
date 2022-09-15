@@ -27618,7 +27618,7 @@
   <anime anidbid="9992" tvdbid="254658" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kyousougiga (2013)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-4;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="3" offset="6"/>
     </mapping-list>
   </anime>
   <anime anidbid="9995" tvdbid="275574" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
