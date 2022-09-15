@@ -24596,8 +24596,8 @@
   <anime anidbid="8883" tvdbid="261862" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Chuunibyou demo Koi ga Shitai!</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-14;</mapping>
-      <mapping anidbseason="0" tvdbseason="0" start="2" end="14" offset="-1"/>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="7" offset="3"/>
+      <mapping anidbseason="0" tvdbseason="0" start="8" end="14" offset="13"/>
     </mapping-list>
   </anime>
   <anime anidbid="8885" tvdbid="81999" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
