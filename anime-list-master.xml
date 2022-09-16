@@ -27271,7 +27271,8 @@
   <anime anidbid="9874" tvdbid="261862" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Chuunibyou demo Koi ga Shitai! Ren</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="8" end="14" offset="15">;1-30;2-16;3-17;4-18;5-19;6-21;7-22;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="7" offset="9">;1-2;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="8" end="14" offset="20"/>
     </mapping-list>
   </anime>
   <anime anidbid="9875" tvdbid="272074" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
