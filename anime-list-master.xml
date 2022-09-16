@@ -30199,6 +30199,9 @@
   </anime>
   <anime anidbid="10997" tvdbid="289679" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Charlotte</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10998" tvdbid="263851" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Wooser no Sono Higurashi Mugen Hen</name>
