@@ -28563,8 +28563,8 @@
   <anime anidbid="10384" tvdbid="79214" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Mushishi Zoku Shou</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;11-4+5;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;11-2+3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10385" tvdbid="279554" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
