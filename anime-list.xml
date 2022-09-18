@@ -26937,7 +26937,7 @@
   <anime anidbid="12118" tvdbid="278818" defaulttvdbseason="0" imdbid="tt7625514">
     <name>Gochuumon wa Usagi Desuka?? Dear My Sister</name>
   </anime>
-  <anime anidbid="12121" tvdbid="272129" defaulttvdbseason="0" episodeoffset="2">
+  <anime anidbid="12121" tvdbid="272129" defaulttvdbseason="2">
     <name>Strike the Blood II</name>
   </anime>
   <anime anidbid="12123" tvdbid="273004" defaulttvdbseason="0">
@@ -28959,7 +28959,7 @@
     <name>Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai</name>
     <before>;1-4;2-7;3-9;4-11;5-14;</before>
   </anime>
-  <anime anidbid="13901" tvdbid="272129" defaulttvdbseason="0" episodeoffset="10">
+  <anime anidbid="13901" tvdbid="272129" defaulttvdbseason="3">
     <name>Strike the Blood III</name>
   </anime>
   <anime anidbid="13904" tvdbid="348601" defaulttvdbseason="1">
@@ -30453,8 +30453,14 @@
   <anime anidbid="15121" tvdbid="373680" defaulttvdbseason="1">
     <name>Murenase! Seton Gakuen</name>
   </anime>
+  <anime anidbid="15126" tvdbid="272129" defaulttvdbseason="4">
+    <name>Strike the Blood IV</name>
+  </anime>
   <anime anidbid="15128" tvdbid="407695" defaulttvdbseason="1">
     <name>Futsal Boys!!!!!</name>
+  </anime>
+  <anime anidbid="15130" tvdbid="272129" defaulttvdbseason="0" episodeoffset="2">
+    <name>Strike the Blood: Kieta Seisou Hen</name>
   </anime>
   <anime anidbid="15131" tvdbid="375927" defaulttvdbseason="1">
     <name>Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou</name>
@@ -31545,6 +31551,9 @@
   </anime>
   <anime anidbid="16410" tvdbid="movie" tmdbid="896499" imdbid="tt15799550">
     <name>Fruits Basket: Prelude</name>
+  </anime>
+  <anime anidbid="16412" tvdbid="272129" defaulttvdbseason="5">
+    <name>Strike the Blood Final</name>
   </anime>
   <anime anidbid="16419" tvdbid="405904" defaulttvdbseason="1">
     <name>Shin Ikkitousen</name>
