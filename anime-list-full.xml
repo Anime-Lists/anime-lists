@@ -32301,6 +32301,9 @@
   <anime anidbid="14013" tvdbid="movie" tmdbid="533514" imdbid="tt8652818">
     <name>Gekijouban Violet Evergarden</name>
   </anime>
+  <anime anidbid="14017" tvdbid="306743" defaulttvdbseason="0" episodeoffset="2">
+    <name>High School Fleet Gekijouban</name>
+  </anime>
   <anime anidbid="14025" tvdbid="352681" defaulttvdbseason="1">
     <name>Beelzebub-jou no Oki ni Mesu Mama.</name>
   </anime>
@@ -34572,6 +34575,9 @@
   </anime>
   <anime anidbid="16055" tvdbid="398193" defaulttvdbseason="1">
     <name>Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru</name>
+  </anime>
+  <anime anidbid="16056" tvdbid="348545" defaulttvdbseason="0" episodeoffset="2">
+    <name>Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine Hen</name>
   </anime>
   <anime anidbid="16069" tvdbid="402831" defaulttvdbseason="1">
     <name>Leadale no Daichi nite</name>
