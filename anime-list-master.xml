@@ -39868,6 +39868,9 @@
   </anime>
   <anime anidbid="14491" tvdbid="355774" defaulttvdbseason="1" episodeoffset="" tmdbid="86031" imdbid="tt9679542">
     <name>Dr. Stone</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14492" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Goman-hiki</name>
