@@ -41173,6 +41173,9 @@
   </anime>
   <anime anidbid="14951" tvdbid="289909" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Shokugeki no Souma: Shin no Sara</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14952" tvdbid="374491" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Uchi Tama?! Uchi no Tama Shirimasenka?</name>
