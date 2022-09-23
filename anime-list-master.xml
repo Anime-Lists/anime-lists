@@ -31136,9 +31136,6 @@
   </anime>
   <anime anidbid="11345" tvdbid="299963" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Dimension W</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-1;2-2;3-3;4-5;5-6;6-4;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="11347" tvdbid="300989" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Osomatsu-san</name>
