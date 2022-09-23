@@ -21646,7 +21646,7 @@
   <anime anidbid="9237" tvdbid="251737" defaulttvdbseason="2">
     <name>Busou Shinki</name>
   </anime>
-  <anime anidbid="9239" tvdbid="OVA" defaulttvdbseason="1" imdbid="unknown">
+  <anime anidbid="9239" tvdbid="OVA" defaulttvdbseason="1" tmdbid="755417" imdbid="tt20752046">
     <name>Arisa Good Luck</name>
   </anime>
   <anime anidbid="9240" tvdbid="252232" defaulttvdbseason="0" imdbid="unknown">
@@ -28439,6 +28439,9 @@
   </anime>
   <anime anidbid="13481" tvdbid="83322" defaulttvdbseason="3">
     <name>Toaru Majutsu no Index III</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-7;2-8;3-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13485" tvdbid="305074" defaulttvdbseason="3">
     <name>Boku no Hero Academia (2018)</name>
@@ -30389,6 +30392,9 @@
   </anime>
   <anime anidbid="15062" tvdbid="hentai" defaulttvdbseason="1">
     <name>Love x Holic: Miwaku no Otome to Hakudaku Kankei The Animation</name>
+  </anime>
+  <anime anidbid="15065" tvdbid="376812" defaulttvdbseason="1">
+    <name>Another World</name>
   </anime>
   <anime anidbid="15067" tvdbid="76703" defaulttvdbseason="19">
     <name>Pocket Monsters (2019)</name>

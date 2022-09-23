@@ -25543,7 +25543,7 @@
   <anime anidbid="9237" tvdbid="251737" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Busou Shinki</name>
   </anime>
-  <anime anidbid="9239" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="9239" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="755417" imdbid="tt20752046">
     <name>Arisa Good Luck</name>
   </anime>
   <anime anidbid="9240" tvdbid="252232" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
@@ -36971,6 +36971,9 @@
   </anime>
   <anime anidbid="13481" tvdbid="83322" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Toaru Majutsu no Index III</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-7;2-8;3-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13482" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mobile Suit Gundam: Twilight Axis - Akaki Zan'ei</name>
@@ -41475,7 +41478,7 @@
   <anime anidbid="15064" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gekijouban Kyochuu Rettou</name>
   </anime>
-  <anime anidbid="15065" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15065" tvdbid="376812" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Another World</name>
   </anime>
   <anime anidbid="15066" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
