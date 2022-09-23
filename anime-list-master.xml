@@ -35441,7 +35441,8 @@
   <anime anidbid="12942" tvdbid="316842" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mahou Tsukai no Yome</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="27" offset="3"/>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="25" offset="3"/>
+      <mapping anidbseason="0" tvdbseason="0" start="27" end="32" offset="2">;34-35;35-0;36-0;37-0;38-0;39-0;40-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="12944" tvdbid="300989" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
