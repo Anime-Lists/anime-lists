@@ -30782,6 +30782,9 @@
   </anime>
   <anime anidbid="11221" tvdbid="281275" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Saenai Heroine no Sodatekata Flat</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11223" tvdbid="284133" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Shingeki no Bahamut: Virgin Soul</name>
