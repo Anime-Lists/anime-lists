@@ -40636,6 +40636,9 @@
   </anime>
   <anime anidbid="14758" tvdbid="371310" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mushoku Tensei: Isekai Ittara Honki Dasu</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14759" tvdbid="367067" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>No Guns Life</name>
