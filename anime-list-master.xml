@@ -40762,6 +40762,9 @@
   </anime>
   <anime anidbid="14796" tvdbid="259640" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Sword Art Online: Alicization - War of Underworld</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-26;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14797" tvdbid="313435" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
     <name>Saiki Kusuo no Sainan: Saishidou Hen</name>
