@@ -304,7 +304,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;4-1;5-1;6-1;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="62" tvdbid="81694" defaulttvdbseason="0">
+  <anime anidbid="62" tvdbid="81694" defaulttvdbseason="2">
     <name>Mata Mata Saber Marionette J</name>
     <supplemental-info replace="true">
       <studio>Hal Film Maker</studio>
@@ -1689,10 +1689,10 @@
   <anime anidbid="393" tvdbid="205521" defaulttvdbseason="1">
     <name>Makai Tenshou</name>
   </anime>
-  <anime anidbid="394" tvdbid="81694" defaulttvdbseason="2">
+  <anime anidbid="394" tvdbid="81694" defaulttvdbseason="3">
     <name>Saber Marionette J to X</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="2">;1-26;</mapping>
+      <mapping anidbseason="0" tvdbseason="3">;1-26;</mapping>
     </mapping-list>
     <before>;1-26;</before>
   </anime>
@@ -33649,6 +33649,9 @@
   <anime anidbid="15097" tvdbid="372836" defaulttvdbseason="1" imdbid="tt10954084">
     <name>Shin Sakura Taisen the Animation</name>
   </anime>
+  <anime anidbid="15100" tvdbid="264663" defaulttvdbseason="0" episodeoffset="3">
+    <name>Date a Bullet</name>
+  </anime>
   <anime anidbid="15101" tvdbid="370501" defaulttvdbseason="1" tmdbid="94299">
     <name>Taeko no Nichijou</name>
   </anime>
@@ -34513,6 +34516,9 @@
   </anime>
   <anime anidbid="15976" tvdbid="400033" defaulttvdbseason="1">
     <name>Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu</name>
+  </anime>
+  <anime anidbid="15982" tvdbid="408477" defaulttvdbseason="1">
+    <name>Assault Lily: Fruits</name>
   </anime>
   <anime anidbid="15983" tvdbid="395400" defaulttvdbseason="1">
     <name>Aikatsu Planet!</name>
