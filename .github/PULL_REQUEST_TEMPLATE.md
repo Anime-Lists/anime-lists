@@ -1,21 +1,22 @@
-<!---
-To make reviewing easier, please include the Season on the numbered list
-and the IDs at the end of the respective URLs on the unnumbered one.
+<!--
+To make reviewing easier, please fill out the table with the IDs.
+Detailing changes on the Notes column is appreciated:
+E.g:
+  Season 2
+  Specials (2-5)
+  Movie
+  TVDB Removed \ Reordered Episodes
 
-E.g.:
-1. Season 1 - Sekai no Monshou (Title not required)
-    - https://anidb.net/anime/1
-    - https://thetvdb.com/index.php?tab=series&id=72025
+TVDB URLs are prefered in the example format (with ID) instead of their address bar redirect (title slug):
+   👎 https://thetvdb.com/series/those-obnoxious-aliens/
+   👍 https://thetvdb.com/index.php?tab=series&id=75113
+-->
 
-2. Season 2 - Sekai no Senki (Title not required)
-    - https://anidb.net/anime/4
-    - https://thetvdb.com/index.php?tab=series&id=72025
---->
+| AniDB | TVDB/TMDB/IMDB | Notes |
+| --- | --- | --- |
+| https://anidb.net/anime/ |  |  |
 
-1. Season 
-    - https://anidb.net/anime/
-    - https://thetvdb.com/index.php?tab=series&id=
-
-1. Season 
-    - https://anidb.net/anime/
-    - https://thetvdb.com/index.php?tab=series&id=
+<!-- EXAMPLE ROWS - Enjoy CopyPaste
+| https://anidb.net/anime/ | https://thetvdb.com/index.php?tab=series&id= | Season X |
+| https://anidb.net/anime/ | https://www.imdb.com/title/tt <br/> https://www.themoviedb.org/movie/ | Movie |
+EXAMPLES END -->

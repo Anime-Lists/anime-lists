@@ -28672,7 +28672,8 @@
   <anime anidbid="11130" tvdbid="293119" defaulttvdbseason="1">
     <name>Monster Musume no Iru Nichijou</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;66-0;67-66;68-67;69-68;70-69;71-70;72-71;73-72;76-75;74-0;75-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="65" offset="0"/>
+      <mapping anidbseason="0" tvdbseason="0" start="67" end="73" offset="-1">;66-0;74-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="11135" tvdbid="289763" defaulttvdbseason="1" episodeoffset="13">
@@ -31258,6 +31259,9 @@
   </anime>
   <anime anidbid="13205" tvdbid="264523" defaulttvdbseason="3">
     <name>Yama no Susume: Third Season</name>
+  </anime>
+  <anime anidbid="13206" tvdbid="264523" defaulttvdbseason="0" episodeoffset="3">
+    <name>Yama no Susume: Omoide Present - Natsu: Kokona no 8/31 / Aki: Hinata no 10/28</name>
   </anime>
   <anime anidbid="13207" tvdbid="289884" defaulttvdbseason="0" episodeoffset="18" imdbid="tt7089882">
     <name>Gekijouban Hibike! Euphonium: Chikai no Finale</name>
@@ -34032,6 +34036,9 @@
   <anime anidbid="15448" tvdbid="389459" defaulttvdbseason="1">
     <name>Burn the Witch</name>
   </anime>
+  <anime anidbid="15449" tvdbid="74796" defaulttvdbseason="17">
+    <name>Bleach: Sennen Kessen Hen</name>
+  </anime>
   <anime anidbid="15450" tvdbid="269872" defaulttvdbseason="0" episodeoffset="1" tmdbid="693853">
     <name>Gekijouban Kin'iro Mosaic: Thank You!!</name>
     <mapping-list>
@@ -34306,6 +34313,9 @@
   <anime anidbid="15741" tvdbid="360553" defaulttvdbseason="3">
     <name>Yatogame-chan Kansatsu Nikki Sansatsume</name>
   </anime>
+  <anime anidbid="15742" tvdbid="381406" defaulttvdbseason="2">
+    <name>Uzaki-chan wa Asobitai! Double</name>
+  </anime>
   <anime anidbid="15743" tvdbid="380654" defaulttvdbseason="2">
     <name>Kanojo, Okarishimasu (2022)</name>
   </anime>
@@ -34432,6 +34442,9 @@
   <anime anidbid="15912" tvdbid="407852" defaulttvdbseason="1">
     <name>Sankaku Mado no Sotogawa wa Yoru</name>
   </anime>
+  <anime anidbid="15914" tvdbid="397934" defaulttvdbseason="1">
+    <name>Chainsaw Man</name>
+  </anime>
   <anime anidbid="15917" tvdbid="406168" defaulttvdbseason="1">
     <name>Koroshi Ai</name>
   </anime>
@@ -34456,7 +34469,7 @@
   <anime anidbid="15934" tvdbid="283934" defaulttvdbseason="3">
     <name>World Trigger 3rd Season</name>
   </anime>
-  <anime anidbid="15936" tvdbid="393742" defaulttvdbseason="1">
+  <anime anidbid="15936" tvdbid="399902" defaulttvdbseason="1">
     <name>Platinum End</name>
   </anime>
   <anime anidbid="15938" tvdbid="401899" defaulttvdbseason="1">
@@ -34534,6 +34547,9 @@
   <anime anidbid="16009" tvdbid="325374" defaulttvdbseason="5">
     <name>Duel Masters King!</name>
   </anime>
+  <anime anidbid="16010" tvdbid="337336" defaulttvdbseason="3" episodeoffset="13">
+    <name>Idolish Seven: Third Beat! (2022)</name>
+  </anime>
   <anime anidbid="16018" tvdbid="402636" defaulttvdbseason="1">
     <name>Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei</name>
   </anime>
@@ -34594,6 +34610,9 @@
   <anime anidbid="16071" tvdbid="402124" defaulttvdbseason="1">
     <name>Ore, Tsushima</name>
   </anime>
+  <anime anidbid="16073" tvdbid="407520" defaulttvdbseason="1">
+    <name>Kage no Jitsuryokusha ni Naritakute!</name>
+  </anime>
   <anime anidbid="16077" tvdbid="275582" defaulttvdbseason="6">
     <name>Youkai Watch (2021)</name>
   </anime>
@@ -34616,7 +34635,7 @@
     <name>Shijou Saikyou no Daimaou, Murabito A ni Tensei Suru</name>
   </anime>
   <anime anidbid="16101" tvdbid="375927" defaulttvdbseason="2">
-    <name>Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou (2023)</name>
+    <name>Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou II</name>
   </anime>
   <anime anidbid="16102" tvdbid="375927" defaulttvdbseason="2" episodeoffset="13">
     <name>Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou 2 (2 Cour)</name>
@@ -34666,6 +34685,9 @@
   <anime anidbid="16137" tvdbid="385002" defaulttvdbseason="2">
     <name>Higurashi no Naku Koro ni Sotsu</name>
   </anime>
+  <anime anidbid="16138" tvdbid="264523" defaulttvdbseason="4">
+    <name>Yama no Susume: Next Summit</name>
+  </anime>
   <anime anidbid="16141" tvdbid="384485" defaulttvdbseason="1" episodeoffset="24">
     <name>Han'you no Yashahime: Sengoku Otogizoushi (2021)</name>
   </anime>
@@ -34702,6 +34724,9 @@
   <anime anidbid="16184" tvdbid="401906" defaulttvdbseason="1">
     <name>Gyakuten Sekai no Denchi Shoujo</name>
   </anime>
+  <anime anidbid="16185" tvdbid="402180" defaulttvdbseason="1">
+    <name>Obey Me!</name>
+  </anime>
   <anime anidbid="16187" tvdbid="262954" defaulttvdbseason="5">
     <name>JoJo no Kimyou na Bouken: Stone Ocean</name>
   </anime>
@@ -34714,7 +34739,7 @@
   <anime anidbid="16196" tvdbid="402125" defaulttvdbseason="1">
     <name>Dance Dance Danseur</name>
   </anime>
-  <anime anidbid="16200" tvdbid="391005" defaulttvdbseason="2">
+  <anime anidbid="16200" tvdbid="391005" defaulttvdbseason="1" episodeoffset="5">
     <name>Gokushufudou (2021)</name>
   </anime>
   <anime anidbid="16249" tvdbid="401935" defaulttvdbseason="1">
@@ -34900,6 +34925,9 @@
   <anime anidbid="16564" tvdbid="409264" defaulttvdbseason="1">
     <name>Heroine Taru Mono! Kiraware Heroine to Naisho no Oshigoto</name>
   </anime>
+  <anime anidbid="16573" tvdbid="375271" defaulttvdbseason="2">
+    <name>Fumetsu no Anata e Season 2</name>
+  </anime>
   <anime anidbid="16601" tvdbid="409529" defaulttvdbseason="1">
     <name>Heike Monogatari</name>
   </anime>
@@ -34909,6 +34937,9 @@
   <anime anidbid="16611" tvdbid="409723" defaulttvdbseason="1">
     <name>Kumichou Musume to Sewagakari</name>
   </anime>
+  <anime anidbid="16627" tvdbid="369144" defaulttvdbseason="3">
+    <name>Mairimashita! Iruma-kun (2022)</name>
+  </anime>
   <anime anidbid="16629" tvdbid="396876" defaulttvdbseason="2">
     <name>Shadows House 2nd Season</name>
   </anime>
@@ -34917,6 +34948,12 @@
   </anime>
   <anime anidbid="16734" tvdbid="318271" defaulttvdbseason="2">
     <name>Getsuyoubi no Tawawa 2</name>
+  </anime>
+  <anime anidbid="16785" tvdbid="410378" defaulttvdbseason="1">
+    <name>Tensei Shitara Ken Deshita</name>
+  </anime>
+  <anime anidbid="16793" tvdbid="305074" defaulttvdbseason="6">
+    <name>Boku no Hero Academia (2022)</name>
   </anime>
   <anime anidbid="16796" tvdbid="413474" defaulttvdbseason="1" imdbid="tt15680762">
     <name>Tales of Luminaria: The Fateful Crossroad</name>
@@ -34929,6 +34966,9 @@
   </anime>
   <anime anidbid="16825" tvdbid="410760" defaulttvdbseason="1">
     <name>Tribe Nine</name>
+  </anime>
+  <anime anidbid="16826" tvdbid="411821" defaulttvdbseason="1">
+    <name>Akuyaku Reijou nano de Last Boss o Katte Mimashita</name>
   </anime>
   <anime anidbid="16848" tvdbid="411004" defaulttvdbseason="1">
     <name>Dou Shen Ji</name>
@@ -34944,6 +34984,9 @@
   </anime>
   <anime anidbid="16914" tvdbid="hentai">
     <name>Kyonyuu Elf Oyako Saimin</name>
+  </anime>
+  <anime anidbid="16915" tvdbid="307375" defaulttvdbseason="3">
+    <name>Mob Psycho 100 III</name>
   </anime>
   <anime anidbid="16917" tvdbid="411625" defaulttvdbseason="1">
     <name>Yuusha, Yamemasu</name>
@@ -34972,6 +35015,9 @@
   <anime anidbid="16948" tvdbid="412031" defaulttvdbseason="1">
     <name>Tomodachi Game</name>
   </anime>
+  <anime anidbid="16961" tvdbid="385007" defaulttvdbseason="2">
+    <name>Tonikaku Kawaii 2</name>
+  </anime>
   <anime anidbid="16966" tvdbid="412312" defaulttvdbseason="1">
     <name>Kunoichi Tsubaki no Mune no Uchi</name>
   </anime>
@@ -34984,11 +35030,17 @@
   <anime anidbid="16971" tvdbid="412374" defaulttvdbseason="1">
     <name>Yofukashi no Uta</name>
   </anime>
+  <anime anidbid="16973" tvdbid="379923" defaulttvdbseason="2">
+    <name>Peter Grill to Kenja no Jikan: Super Extra</name>
+  </anime>
   <anime anidbid="16980" tvdbid="412579" defaulttvdbseason="1">
     <name>Shoot! Goal to the Future</name>
   </anime>
   <anime anidbid="16983" tvdbid="movie" tmdbid="900667" imdbid="tt16183464">
     <name>One Piece Film: Red</name>
+  </anime>
+  <anime anidbid="17001" tvdbid="412806" defaulttvdbseason="1">
+    <name>Fuufu Ijou, Koibito Miman.</name>
   </anime>
   <anime anidbid="17005" tvdbid="412826" defaulttvdbseason="1">
     <name>Otomege Sekai wa Mob ni Kibishii Sekai Desu</name>
@@ -34999,11 +35051,17 @@
   <anime anidbid="17014" tvdbid="413122" defaulttvdbseason="1">
     <name>Ninjala (2022)</name>
   </anime>
+  <anime anidbid="17023" tvdbid="338455" defaulttvdbseason="4">
+    <name>Golden Kamuy (2022)</name>
+  </anime>
   <anime anidbid="17025" tvdbid="movie" tmdbid="912598" imdbid="tt16360006">
     <name>Bubble</name>
   </anime>
   <anime anidbid="17028" tvdbid="movie" tmdbid="955666" imdbid="tt16410438">
     <name>Eiga Crayon Shin-chan: Mononoke Ninja Chinfuuden</name>
+  </anime>
+  <anime anidbid="17061" tvdbid="405920" defaulttvdbseason="1" episodeoffset="12">
+    <name>Spy x Family (2022)</name>
   </anime>
   <anime anidbid="17062" tvdbid="413549" defaulttvdbseason="1">
     <name>Yuu Gi Ou: Go Rush!!</name>
@@ -35011,11 +35069,20 @@
   <anime anidbid="17072" tvdbid="402412" defaulttvdbseason="2">
     <name>Komi-san wa, Komyushou Desu. (2022)</name>
   </anime>
+  <anime anidbid="17079" tvdbid="339278" defaulttvdbseason="2">
+    <name>Pop Team Epic (2022)</name>
+  </anime>
+  <anime anidbid="17096" tvdbid="414096" defaulttvdbseason="1">
+    <name>Urusei Yatsura (2022)</name>
+  </anime>
   <anime anidbid="17097" tvdbid="414057" defaulttvdbseason="1">
     <name>Lycoris Recoil</name>
   </anime>
   <anime anidbid="17118" tvdbid="416684" defaulttvdbseason="1">
     <name>Teppen!!!!!!!!!!!!!!!</name>
+  </anime>
+  <anime anidbid="17125" tvdbid="376751" defaulttvdbseason="3">
+    <name>Xian Wang de Richang Shenghuo Di San Ji</name>
   </anime>
   <anime anidbid="17150" tvdbid="415061" defaulttvdbseason="1">
     <name>Hoshi no Samidare</name>
@@ -35044,6 +35111,12 @@
   <anime anidbid="17208" tvdbid="329822" defaulttvdbseason="2">
     <name>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season</name>
   </anime>
+  <anime anidbid="17211" tvdbid="416902" defaulttvdbseason="1">
+    <name>Shinobi no Ittoki</name>
+  </anime>
+  <anime anidbid="17222" tvdbid="417165" defaulttvdbseason="1">
+    <name>Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.</name>
+  </anime>
   <anime anidbid="17226" tvdbid="419457" defaulttvdbseason="1">
     <name>Yuki Hodokishi Futaai</name>
   </anime>
@@ -35065,11 +35138,17 @@
   <anime anidbid="17281" tvdbid="79840" defaulttvdbseason="4">
     <name>Otome wa Boku ni Koi Shiteru: Trinkle Stars The Animation (2022)</name>
   </anime>
+  <anime anidbid="17282" tvdbid="418218" defaulttvdbseason="1">
+    <name>Ren'ai Flops</name>
+  </anime>
   <anime anidbid="17284" tvdbid="418265" defaulttvdbseason="1">
     <name>Engage Kiss</name>
   </anime>
   <anime anidbid="17286" tvdbid="262954" defaulttvdbseason="5" episodeoffset="12">
     <name>JoJo no Kimyou na Bouken: Stone Ocean (2022)</name>
+  </anime>
+  <anime anidbid="17300" tvdbid="385007" defaulttvdbseason="0" episodeoffset="14">
+    <name>Tonikaku Kawaii: Seifuku</name>
   </anime>
   <anime anidbid="17356" tvdbid="305074" defaulttvdbseason="0" episodeoffset="12">
     <name>Boku no Hero Academia (Web)</name>
@@ -35085,5 +35164,17 @@
   </anime>
   <anime anidbid="17438" tvdbid="420867" defaulttvdbseason="1">
     <name>Bang Dream! Morfonication</name>
+  </anime>
+  <anime anidbid="17443" tvdbid="420982" defaulttvdbseason="1">
+    <name>Sekai no Owari ni Shiba Inu to</name>
+  </anime>
+  <anime anidbid="17444" tvdbid="421092">
+    <name>Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau</name>
+  </anime>
+  <anime anidbid="17450" tvdbid="402180" defaulttvdbseason="2">
+    <name>Obey Me! (2022)</name>
+  </anime>
+  <anime anidbid="17566" tvdbid="423395" defaulttvdbseason="1">
+    <name>Harem Camp!</name>
   </anime>
 </anime-list>
