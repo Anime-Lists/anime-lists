@@ -31260,6 +31260,9 @@
   <anime anidbid="13205" tvdbid="264523" defaulttvdbseason="3">
     <name>Yama no Susume: Third Season</name>
   </anime>
+  <anime anidbid="13206" tvdbid="264523" defaulttvdbseason="0" episodeoffset="3">
+    <name>Yama no Susume: Omoide Present - Natsu: Kokona no 8/31 / Aki: Hinata no 10/28</name>
+  </anime>
   <anime anidbid="13207" tvdbid="289884" defaulttvdbseason="0" episodeoffset="18" imdbid="tt7089882">
     <name>Gekijouban Hibike! Euphonium: Chikai no Finale</name>
   </anime>
@@ -34681,6 +34684,9 @@
   </anime>
   <anime anidbid="16137" tvdbid="385002" defaulttvdbseason="2">
     <name>Higurashi no Naku Koro ni Sotsu</name>
+  </anime>
+  <anime anidbid="16138" tvdbid="264523" defaulttvdbseason="4">
+    <name>Yama no Susume: Next Summit</name>
   </anime>
   <anime anidbid="16141" tvdbid="384485" defaulttvdbseason="1" episodeoffset="24">
     <name>Han'you no Yashahime: Sengoku Otogizoushi (2021)</name>
