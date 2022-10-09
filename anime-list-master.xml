@@ -44491,6 +44491,9 @@
   </anime>
   <anime anidbid="16172" tvdbid="378609" defaulttvdbseason="1" episodeoffset="11" tmdbid="" imdbid="">
     <name>86 (2021)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="3" offset="1"/>
+    </mapping-list>
   </anime>
   <anime anidbid="16173" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gekijouban Uta no Prince-sama: Maji Love Starish Tours</name>
