@@ -28672,6 +28672,10 @@
   </anime>
   <anime anidbid="13624" tvdbid="357019" defaulttvdbseason="1" tmdbid="86034">
     <name>Arifureta Shokugyou de Sekai Saikyou</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="0"/>
+      <mapping anidbseason="0" tvdbseason="0" start="5" end="16" offset="-16"/>
+    </mapping-list>
   </anime>
   <anime anidbid="13625" tvdbid="343815" defaulttvdbseason="1">
     <name>Hisone to Masotan</name>
@@ -30839,7 +30843,7 @@
     <name>Tensei Shitara Slime Datta Ken: Tensura Nikki</name>
   </anime>
   <anime anidbid="15459" tvdbid="284131" defaulttvdbseason="4">
-    <name>Nanatsu no Taizai: Fundo no Shinpan</name>
+    <name>Nanatsu no Taizai: Funnu no Shinpan</name>
   </anime>
   <anime anidbid="15460" tvdbid="346931" defaulttvdbseason="2">
     <name>"Hataraku Saibou!!" Saikyou no Teki, Futatabi. Karada no Naka wa "Chou" Oosawagi!</name>
@@ -31489,6 +31493,9 @@
   </anime>
   <anime anidbid="16172" tvdbid="378609" defaulttvdbseason="1" episodeoffset="11">
     <name>86 (2021)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="3" offset="1"/>
+    </mapping-list>
   </anime>
   <anime anidbid="16174" tvdbid="400133" defaulttvdbseason="1">
     <name>Vanitas no Karte</name>
@@ -31853,6 +31860,9 @@
   <anime anidbid="17023" tvdbid="338455" defaulttvdbseason="4">
     <name>Golden Kamuy (2022)</name>
   </anime>
+  <anime anidbid="17024" tvdbid="272309" defaulttvdbseason="5">
+    <name>Yowamushi Pedal: Limit Break</name>
+  </anime>
   <anime anidbid="17025" tvdbid="movie" tmdbid="912598" imdbid="tt16360006">
     <name>Bubble</name>
   </anime>
@@ -31977,7 +31987,7 @@
     <name>Engage Kiss</name>
   </anime>
   <anime anidbid="17286" tvdbid="262954" defaulttvdbseason="5" episodeoffset="12">
-    <name>JoJo no Kimyou na Bouken: Stone Ocean (2022)</name>
+    <name>JoJo no Kimyou na Bouken: Stone Ocean (Part 2)</name>
   </anime>
   <anime anidbid="17300" tvdbid="385007" defaulttvdbseason="0" episodeoffset="14">
     <name>Tonikaku Kawaii: Seifuku</name>
@@ -32000,7 +32010,7 @@
   <anime anidbid="17443" tvdbid="420982" defaulttvdbseason="1">
     <name>Sekai no Owari ni Shiba Inu to</name>
   </anime>
-  <anime anidbid="17444" tvdbid="421092">
+  <anime anidbid="17444" tvdbid="421092" defaulttvdbseason="1">
     <name>Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau</name>
   </anime>
   <anime anidbid="17450" tvdbid="402180" defaulttvdbseason="2">
@@ -32014,6 +32024,15 @@
   </anime>
   <anime anidbid="17566" tvdbid="423395" defaulttvdbseason="1">
     <name>Harem Camp!</name>
+  </anime>
+  <anime anidbid="17615" tvdbid="357019" defaulttvdbseason="3">
+    <name>Arifureta Shokugyou de Sekai Saikyou 3rd Season</name>
+  </anime>
+  <anime anidbid="17647" tvdbid="357019" defaulttvdbseason="0" episodeoffset="7">
+    <name>Arifureta Shokugyou de Sekai Saikyou 2nd Season: Maboroshi no Bouken to Kiseki no Kaikou</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-8+9;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="17657" tvdbid="423154" defaulttvdbseason="1">
     <name>Human Bug Daigaku</name>

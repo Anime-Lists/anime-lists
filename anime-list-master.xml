@@ -37393,6 +37393,10 @@
   </anime>
   <anime anidbid="13624" tvdbid="357019" defaulttvdbseason="1" episodeoffset="" tmdbid="86034" imdbid="">
     <name>Arifureta Shokugyou de Sekai Saikyou</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="0"/>
+      <mapping anidbseason="0" tvdbseason="0" start="5" end="16" offset="-16"/>
+    </mapping-list>
   </anime>
   <anime anidbid="13625" tvdbid="343815" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hisone to Masotan</name>
@@ -42527,7 +42531,7 @@
     <name>Number Nine</name>
   </anime>
   <anime anidbid="15459" tvdbid="284131" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
-    <name>Nanatsu no Taizai: Fundo no Shinpan</name>
+    <name>Nanatsu no Taizai: Funnu no Shinpan</name>
   </anime>
   <anime anidbid="15460" tvdbid="346931" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>"Hataraku Saibou!!" Saikyou no Teki, Futatabi. Karada no Naka wa "Chou" Oosawagi!</name>
@@ -44491,6 +44495,9 @@
   </anime>
   <anime anidbid="16172" tvdbid="378609" defaulttvdbseason="1" episodeoffset="11" tmdbid="" imdbid="">
     <name>86 (2021)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="3" offset="1"/>
+    </mapping-list>
   </anime>
   <anime anidbid="16173" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gekijouban Uta no Prince-sama: Maji Love Starish Tours</name>
@@ -44502,7 +44509,7 @@
     <name>Ai Zai Xiyuan Qian Di 2 Ji</name>
   </anime>
   <anime anidbid="16176" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Gekijouban Black Clover</name>
+    <name>Eiga Black Clover: Mahou Mikado no Ken</name>
   </anime>
   <anime anidbid="16177" tvdbid="267440" defaulttvdbseason="4" episodeoffset="16" tmdbid="" imdbid="">
     <name>Shingeki no Kyojin: The Final Season (2022)</name>
@@ -46727,7 +46734,7 @@
   <anime anidbid="17023" tvdbid="338455" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Golden Kamuy (2022)</name>
   </anime>
-  <anime anidbid="17024" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17024" tvdbid="272309" defaulttvdbseason="5" episodeoffset="" tmdbid="" imdbid="">
     <name>Yowamushi Pedal: Limit Break</name>
   </anime>
   <anime anidbid="17025" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="912598" imdbid="tt16360006">
@@ -47472,7 +47479,7 @@
     <name>4-nin wa Sorezore Uso o Tsuku</name>
   </anime>
   <anime anidbid="17286" tvdbid="262954" defaulttvdbseason="5" episodeoffset="12" tmdbid="" imdbid="">
-    <name>JoJo no Kimyou na Bouken: Stone Ocean (2022)</name>
+    <name>JoJo no Kimyou na Bouken: Stone Ocean (Part 2)</name>
   </anime>
   <anime anidbid="17287" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Eiga Sasaki to Miyano: Sotsugyou Hen</name>
@@ -47500,9 +47507,6 @@
   </anime>
   <anime anidbid="17295" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei</name>
-  </anime>
-  <anime anidbid="17296" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Sukkiri!! x Eiga Himitsu no Akko-chan</name>
   </anime>
   <anime anidbid="17297" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>#Ima Made de Ichiban Yokatta Sex The Animation</name>
@@ -47924,7 +47928,7 @@
   <anime anidbid="17443" tvdbid="420982" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sekai no Owari ni Shiba Inu to</name>
   </anime>
-  <anime anidbid="17444" tvdbid="421092" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17444" tvdbid="421092" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau</name>
   </anime>
   <anime anidbid="17445" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -48410,7 +48414,7 @@
   <anime anidbid="17614" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Dekoboko Majo no Oyako Jijou</name>
   </anime>
-  <anime anidbid="17615" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17615" tvdbid="357019" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Arifureta Shokugyou de Sekai Saikyou 3rd Season</name>
   </anime>
   <anime anidbid="17616" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -48494,8 +48498,11 @@
   <anime anidbid="17646" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ars no Kyojuu</name>
   </anime>
-  <anime anidbid="17647" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17647" tvdbid="357019" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="">
     <name>Arifureta Shokugyou de Sekai Saikyou 2nd Season: Maboroshi no Bouken to Kiseki no Kaikou</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-8+9;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="17648" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam: Suisei no Majo (2023)</name>
@@ -48523,5 +48530,26 @@
   </anime>
   <anime anidbid="17657" tvdbid="423154" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Human Bug Daigaku</name>
+  </anime>
+  <anime anidbid="17658" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shy</name>
+  </anime>
+  <anime anidbid="17659" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>ROAD OF NARUTO</name>
+  </anime>
+  <anime anidbid="17660" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Mama Katsu: Midareru Mama-tachi no Himitsu</name>
+  </anime>
+  <anime anidbid="17661" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Roshutsu-kei Mahou Joshidaisei Christhea</name>
+  </anime>
+  <anime anidbid="17662" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi</name>
+  </anime>
+  <anime anidbid="17663" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hoshikuzu Telepath</name>
+  </anime>
+  <anime anidbid="17664" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>JoJo no Kimyou na Bouken: Stone Ocean (Part 3)</name>
   </anime>
 </anime-list>
