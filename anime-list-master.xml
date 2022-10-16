@@ -23775,7 +23775,7 @@
   <anime anidbid="8597" tvdbid="247691" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>A Channel +Smile</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-12;2-13;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-12;2-13;3-14;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8599" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1583243">
