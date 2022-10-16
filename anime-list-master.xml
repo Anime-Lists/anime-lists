@@ -35893,7 +35893,7 @@
     <name>Anime Douyou</name>
   </anime>
   <anime anidbid="13102" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Eiga de Utaou! Mother Goose</name>
+    <name>Eigo de Utaou! Mother Goose</name>
   </anime>
   <anime anidbid="13103" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Dreaming Pupa: Yumemiru Bokura</name>
@@ -46336,7 +46336,7 @@
     <name>Tai Lyu</name>
   </anime>
   <anime anidbid="16876" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Rakudai Majo</name>
+    <name>Rakudai Majo: Fuuka to Yami no Majo</name>
   </anime>
   <anime anidbid="16877" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Meitounao He Bugaoxing</name>
@@ -46635,7 +46635,7 @@
   <anime anidbid="16985" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ensemble Stars!! Road to Show!!</name>
   </anime>
-  <anime anidbid="16986" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="16986" tvdbid="358828" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Meng Qi Shi Shen: Zai Jie Liangyuan</name>
   </anime>
   <anime anidbid="16987" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -48123,7 +48123,7 @@
   <anime anidbid="17510" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Hao pengyou</name>
   </anime>
-  <anime anidbid="17511" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17511" tvdbid="358828" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Meng Qi Shi Shen: Huanxi Zhui Hun</name>
   </anime>
   <anime anidbid="17512" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -48554,5 +48554,20 @@
   </anime>
   <anime anidbid="17664" tvdbid="262954" defaulttvdbseason="5" episodeoffset="24" tmdbid="" imdbid="">
     <name>JoJo no Kimyou na Bouken: Stone Ocean (Part 3)</name>
+  </anime>
+  <anime anidbid="17665" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Love Live! Superstar!! 3</name>
+  </anime>
+  <anime anidbid="17666" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ojou to Banken-kun</name>
+  </anime>
+  <anime anidbid="17667" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shuumatsu Train Doko e Iku?</name>
+  </anime>
+  <anime anidbid="17668" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>The Red Turtle</name>
+  </anime>
+  <anime anidbid="17669" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Juedai Shuang Jiao</name>
   </anime>
 </anime-list>
