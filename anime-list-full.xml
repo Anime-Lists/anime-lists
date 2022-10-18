@@ -11523,7 +11523,7 @@
   <anime anidbid="3702" tvdbid="hentai" defaulttvdbseason="1">
     <name>Inko</name>
   </anime>
-  <anime anidbid="3703" tvdbid="81932" defaulttvdbseason="1">
+  <anime anidbid="3703" tvdbid="75205" defaulttvdbseason="2">
     <name>Bouken Ou Beet Excellion</name>
   </anime>
   <anime anidbid="3704" tvdbid="100161" defaulttvdbseason="1">
@@ -14706,7 +14706,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="5115" tvdbid="79839" defaulttvdbseason="0" episodeoffset="2">
+  <anime anidbid="5115" tvdbid="79839" defaulttvdbseason="0" episodeoffset="1">
     <name>Aria the OVA: Arietta</name>
   </anime>
   <anime anidbid="5116" tvdbid="80330" defaulttvdbseason="1">
@@ -23067,11 +23067,8 @@
   <anime anidbid="8596" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Pop</name>
   </anime>
-  <anime anidbid="8597" tvdbid="247691" defaulttvdbseason="0">
+  <anime anidbid="8597" tvdbid="247691" defaulttvdbseason="0" episodeoffset="11">
     <name>A Channel +Smile</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-12;2-13;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="8599" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1583243">
     <name>Ecophan</name>
@@ -28681,7 +28678,7 @@
   <anime anidbid="11082" tvdbid="295205" defaulttvdbseason="1">
     <name>Akagami no Shirayuki-hime</name>
   </anime>
-  <anime anidbid="11086" tvdbid="OVA" defaulttvdbseason="1" tmdbid="358813">
+  <anime anidbid="11086" tvdbid="305073" defaulttvdbseason="0" tmdbid="358813">
     <name>Big Order</name>
   </anime>
   <anime anidbid="11100" tvdbid="Movie" defaulttvdbseason="1" tmdbid="334493">
@@ -29296,6 +29293,9 @@
   </anime>
   <anime anidbid="11572" tvdbid="316815" defaulttvdbseason="1">
     <name>Mahou Shoujo Ikusei Keikaku</name>
+  </anime>
+  <anime anidbid="11573" tvdbid="301830" defaulttvdbseason="1">
+    <name>Brave Beats</name>
   </anime>
   <anime anidbid="11577" tvdbid="300835" defaulttvdbseason="1">
     <name>Ajin (2016)</name>
@@ -30059,6 +30059,9 @@
   </anime>
   <anime anidbid="12048" tvdbid="299497" defaulttvdbseason="2">
     <name>Kidou Senshi Gundam: Tekketsu no Orphans (2016)</name>
+  </anime>
+  <anime anidbid="12053" tvdbid="313185" defaulttvdbseason="1">
+    <name>Brotherhood: Final Fantasy XV</name>
   </anime>
   <anime anidbid="12054" tvdbid="movie" imdbid="tt5595168">
     <name>Kingsglaive: Final Fantasy XV</name>
@@ -32033,6 +32036,9 @@
   </anime>
   <anime anidbid="13705" tvdbid="340138" defaulttvdbseason="1">
     <name>Emiya-san Chi no Kyou no Gohan</name>
+  </anime>
+  <anime anidbid="13706" tvdbid="344194" defaulttvdbseason="1">
+    <name>Binan Koukou Chikyuu Bouei Bu Happy Kiss!</name>
   </anime>
   <anime anidbid="13717" tvdbid="315500" defaulttvdbseason="0" tmdbid="553839" imdbid="tt9507276">
     <name>Youjo Senki (2019)</name>
@@ -34028,6 +34034,9 @@
   <anime anidbid="15327" tvdbid="392491" defaulttvdbseason="1">
     <name>Azur Lane: Bisoku Zenshin!</name>
   </anime>
+  <anime anidbid="15328" tvdbid="378034" defaulttvdbseason="1">
+    <name>Bungou to Alchemist: Shinpan no Haguruma</name>
+  </anime>
   <anime anidbid="15329" tvdbid="368862" defaulttvdbseason="0" episodeoffset="1">
     <name>Ore o Suki na no wa Omae dake ka yo: Oretachi no Game Set</name>
   </anime>
@@ -34114,6 +34123,9 @@
   </anime>
   <anime anidbid="15389" tvdbid="397250" defaulttvdbseason="1">
     <name>Mars Red</name>
+  </anime>
+  <anime anidbid="15390" tvdbid="379918" defaulttvdbseason="1">
+    <name>Bessatsu Olympia Kyklos</name>
   </anime>
   <anime anidbid="15391" tvdbid="376729" defaulttvdbseason="1">
     <name>Kami no Tou</name>
@@ -34506,6 +34518,9 @@
   <anime anidbid="15743" tvdbid="380654" defaulttvdbseason="2">
     <name>Kanojo, Okarishimasu (2022)</name>
   </anime>
+  <anime anidbid="15744" tvdbid="389200" defaulttvdbseason="1">
+    <name>Biohazard: Infinite Darkness</name>
+  </anime>
   <anime anidbid="15746" tvdbid="394792" defaulttvdbseason="1">
     <name>Idolls! Idol Survival</name>
   </anime>
@@ -34707,6 +34722,12 @@
   <anime anidbid="15964" tvdbid="402117" defaulttvdbseason="1">
     <name>Kawaii dake ja Nai Shikimori-san</name>
   </anime>
+  <anime anidbid="15966" tvdbid="381536" defaulttvdbseason="1">
+    <name>Bai Yao Pu Di Yi Ce</name>
+  </anime>
+  <anime anidbid="15967" tvdbid="381536" defaulttvdbseason="2">
+    <name>Bai Yao Pu Di Er Ji</name>
+  </anime>
   <anime anidbid="15969" tvdbid="402475" defaulttvdbseason="1">
     <name>Orient</name>
   </anime>
@@ -34820,6 +34841,9 @@
   </anime>
   <anime anidbid="16057" tvdbid="410768" defaulttvdbseason="1">
     <name>Maou Evelogia ni Mi o Sasageyo</name>
+  </anime>
+  <anime anidbid="16063" tvdbid="413522" defaulttvdbseason="1">
+    <name>Bocchi the Rock!</name>
   </anime>
   <anime anidbid="16069" tvdbid="402831" defaulttvdbseason="1">
     <name>Leadale no Daichi nite</name>
@@ -35174,6 +35198,9 @@
   </anime>
   <anime anidbid="16507" tvdbid="272316" defaulttvdbseason="0" episodeoffset="3">
     <name>Non Non Biyori Nonstop: Bukatsu o Ganbatta</name>
+  </anime>
+  <anime anidbid="16511" tvdbid="408325" defaulttvdbseason="1">
+    <name>Can Ci Pin: Fangzhu Xingkong</name>
   </anime>
   <anime anidbid="16527" tvdbid="408348" defaulttvdbseason="1">
     <name>Love All Play</name>
@@ -35696,6 +35723,9 @@
   </anime>
   <anime anidbid="17511" tvdbid="358828" defaulttvdbseason="3">
     <name>Meng Qi Shi Shen: Huanxi Zhui Hun</name>
+  </anime>
+  <anime anidbid="17535" tvdbid="381536" defaulttvdbseason="3">
+    <name>Bai Yao Pu Jing Shi Pia</name>
   </anime>
   <anime anidbid="17538" tvdbid="hentai">
     <name>Eroriman 2</name>
