@@ -30978,7 +30978,7 @@
   <anime anidbid="11288" tvdbid="275582" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="tt4168024">
     <name>Eiga Youkai Watch: Enma Daiou to Itsutsu no Monogatari Da Nyan!</name>
   </anime>
-  <anime anidbid="11289" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11289" tvdbid="253182" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>DD Hokuto no Ken 2: Ichigo Aji+</name>
   </anime>
   <anime anidbid="11290" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -31533,7 +31533,7 @@
   <anime anidbid="11490" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Akuma no Kairozu</name>
   </anime>
-  <anime anidbid="11491" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11491" tvdbid="272312" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Diabolik Lovers (2015)</name>
   </anime>
   <anime anidbid="11492" tvdbid="319985" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -32991,7 +32991,7 @@
   <anime anidbid="12034" tvdbid="329252" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Infini-T Force</name>
   </anime>
-  <anime anidbid="12035" tvdbid="314361" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12035" tvdbid="314361" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou Hen</name>
   </anime>
   <anime anidbid="12036" tvdbid="267437" defaulttvdbseason="0" episodeoffset="6" tmdbid="" imdbid="">
@@ -35501,7 +35501,7 @@
   <anime anidbid="12967" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Jie Mo Ren</name>
   </anime>
-  <anime anidbid="12968" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12968" tvdbid="284439" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Donten ni Warau: Gaiden</name>
   </anime>
   <anime anidbid="12969" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -40160,8 +40160,12 @@
   <anime anidbid="14597" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kyou mo Tsuno ga Aru</name>
   </anime>
-  <anime anidbid="14598" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14598" tvdbid="373360" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shaonu Qianxian: Renxing Xiao Juchang</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="12"/>
+	  <mapping anidbseason="1" tvdbseason="2" start="13" end="24" offset="-12"/>
+    </mapping-list>	
   </anime>
   <anime anidbid="14599" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Gaki ni Modotte Yarinaoshi!!!</name>
@@ -44877,7 +44881,7 @@
   <anime anidbid="16355" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Biao Ren</name>
   </anime>
-  <anime anidbid="16356" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="16356" tvdbid="413480" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Dawang Raoming</name>
   </anime>
   <anime anidbid="16357" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -45111,7 +45115,7 @@
   <anime anidbid="16435" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Douluo Dalu: Shan Yu Yu Lai</name>
   </anime>
-  <anime anidbid="16436" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="16436" tvdbid="415023" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>ELF Academy</name>
   </anime>
   <anime anidbid="16437" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
