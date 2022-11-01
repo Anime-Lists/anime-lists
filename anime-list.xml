@@ -2930,7 +2930,7 @@
     <name>Fortune Quest L</name>
   </anime>
   <anime anidbid="744" tvdbid="OVA" defaulttvdbseason="1">
-    <name>Canary</name>
+    <name>Canaria</name>
   </anime>
   <anime anidbid="745" tvdbid="71654" defaulttvdbseason="1">
     <name>Betterman</name>
@@ -19735,7 +19735,7 @@
     <name>R-15</name>
   </anime>
   <anime anidbid="8398" tvdbid="83479" defaulttvdbseason="1">
-    <name>Neko Ramen: Ore no Shoyu Aji</name>
+    <name>Neko Ramen: Ore no Shouyu Aji</name>
   </anime>
   <anime anidbid="8399" tvdbid="72454" defaulttvdbseason="0">
     <name>Meitantei Conan Magic File 2011: Niigata - Tokyo Omiyage Capriccio</name>
@@ -32158,6 +32158,9 @@
   <anime anidbid="16928" tvdbid="411770" defaulttvdbseason="1">
     <name>Tokyo 24-ku</name>
   </anime>
+  <anime anidbid="16931" tvdbid="411800" defaulttvdbseason="1">
+    <name>Arknights: Prelude to Dawn</name>
+  </anime>
   <anime anidbid="16934" tvdbid="416764" defaulttvdbseason="1">
     <name>3 Byou Go, Yajuu. Goukon de Sumi ni Ita Kare wa Midara na Nikushoku Deshita</name>
   </anime>
@@ -32499,6 +32502,9 @@
   </anime>
   <anime anidbid="17300" tvdbid="385007" defaulttvdbseason="0" episodeoffset="14">
     <name>Tonikaku Kawaii: Seifuku</name>
+  </anime>
+  <anime anidbid="17330" tvdbid="419283" defaulttvdbseason="1">
+    <name>Cool Doji Danshi</name>
   </anime>
   <anime anidbid="17336" tvdbid="419448" defaulttvdbseason="1">
     <name>Yoru wa Neko to Issho</name>
