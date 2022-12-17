@@ -10604,7 +10604,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="4068" tvdbid="83464" defaulttvdbseason="1">
-    <name>Yoshinaga-sanchi no Gargoyle</name>
+    <name>Yoshinaga-san Chi no Gargoyle</name>
   </anime>
   <anime anidbid="4070" tvdbid="tv special" defaulttvdbseason="1" imdbid="unknown">
     <name>Lily to Kaeru to (Otouto)</name>
@@ -31714,7 +31714,7 @@
   <anime anidbid="16111" tvdbid="359095" defaulttvdbseason="0" episodeoffset="1">
     <name>Bokutachi wa Benkyou ga Dekinai!: Chapel no Kane wa [X] o Shukufuku Suru</name>
   </anime>
-  <anime anidbid="16113" tvdbid="316842" defaulttvdbseason="1">
+  <anime anidbid="16113" tvdbid="316842" defaulttvdbseason="0" episodeoffset="35">
     <name>Mahou Tsukai no Yome: Nishi no Shounen to Seiran no Kishi</name>
   </anime>
   <anime anidbid="16114" tvdbid="hentai">
@@ -32019,6 +32019,9 @@
   </anime>
   <anime anidbid="16512" tvdbid="407998" defaulttvdbseason="1">
     <name>Uchi no Shishou wa Shippo ga Nai</name>
+  </anime>
+  <anime anidbid="16519" tvdbid="408629" defaulttvdbseason="1">
+    <name>Blue Lock</name>
   </anime>
   <anime anidbid="16525" tvdbid="418740" defaulttvdbseason="1">
     <name>Hanabi-chan wa Okure-gachi</name>
