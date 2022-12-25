@@ -475,7 +475,7 @@
       <mapping anidbseason="0" tvdbseason="3">;4-33;</mapping>
       <mapping anidbseason="1" tvdbseason="1" start="1" end="27"/>
       <mapping anidbseason="1" tvdbseason="2" start="28" end="62" offset="-27"/>
-      <mapping anidbseason="1" tvdbseason="3" start="63" end="95" offset="-62"/>
+      <mapping anidbseason="1" tvdbseason="3" start="63" end="94" offset="-62"/>
     </mapping-list>
     <before>;4-95;</before>
   </anime>
