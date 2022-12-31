@@ -15,7 +15,9 @@ def transform = { out, xs, xml ->
     def dom = parser.parseText(buffer as String)
 
     def result = XmlUtil.serialize(dom)
-    result = result.replace('<?xml version="1.0" encoding="UTF-8"?>', '<?xml version="1.0" encoding="utf-8"?>' + System.lineSeparator()) // JAVA XML PRETTY PRINTING IS PRETTY BUGGY :(
+    result = result.replace('<?xml version="1.0" encoding="UTF-8"?>', '<?xml version="1.0" encoding="utf-8"?>\n') // JAVA XML PRETTY PRINTING IS PRETTY BUGGY :(
+    result = result.replaceAll(/\s+\R+/, '\n')
+
     new File(out).setText(result, 'UTF-8')
 }
 
