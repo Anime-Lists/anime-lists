@@ -2660,7 +2660,7 @@
     <name>Kokudou Ou</name>
   </anime>
   <anime anidbid="661" tvdbid="79888" defaulttvdbseason="1">
-    <name>Harlock Saga</name>
+    <name>Herlock Saga</name>
   </anime>
   <anime anidbid="662" tvdbid="72459" defaulttvdbseason="a">
     <name>Sonic X</name>
@@ -2862,13 +2862,13 @@
     <name>Refrain Blue</name>
   </anime>
   <anime anidbid="725" tvdbid="100151" defaulttvdbseason="1">
-    <name>Uchuu Kaizoku Captain Harlock</name>
+    <name>Uchuu Kaizoku Captain Herlock</name>
   </anime>
   <anime anidbid="726" tvdbid="79765" defaulttvdbseason="1">
     <name>Waga Seishun no Arcadia: Mugen Kidou SSX</name>
   </anime>
   <anime anidbid="727" tvdbid="100151" defaulttvdbseason="0" episodeoffset="2" imdbid="tt0185736">
-    <name>Uchuu Kaizoku Captain Harlock: Arcadia-gou no Nazo</name>
+    <name>Uchuu Kaizoku Captain Herlock: Arcadia-gou no Nazo</name>
   </anime>
   <anime anidbid="728" tvdbid="79765" defaulttvdbseason="0" imdbid="tt0084881">
     <name>Waga Seishun no Arcadia</name>
@@ -23302,7 +23302,7 @@
     <name>Fuurinkanzan: Doku o Motte Doku o Seisu</name>
   </anime>
   <anime anidbid="9945" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Seikou! Lose A Virgin For The First Term</name>
+    <name>Seikou! Lose a Virgin for the First Term</name>
   </anime>
   <anime anidbid="9948" tvdbid="272313" defaulttvdbseason="1">
     <name>Megane Bu!</name>
@@ -31044,6 +31044,9 @@
   <anime anidbid="15463" tvdbid="hentai">
     <name>Kutsujoku 2 The Animation</name>
   </anime>
+  <anime anidbid="15464" tvdbid="373679" defaulttvdbseason="2">
+    <name>Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2</name>
+  </anime>
   <anime anidbid="15467" tvdbid="389227" defaulttvdbseason="1">
     <name>Show by Rock!! Stars!!</name>
   </anime>
@@ -31257,6 +31260,9 @@
   </anime>
   <anime anidbid="15678" tvdbid="388445" defaulttvdbseason="1">
     <name>Peach Boy Riverside</name>
+  </anime>
+  <anime anidbid="15683" tvdbid="388678" defaulttvdbseason="1">
+    <name>Min Diao Ju Yi Wen Lu</name>
   </anime>
   <anime anidbid="15689" tvdbid="386981" defaulttvdbseason="1">
     <name>Taisou Zamurai</name>
@@ -31528,7 +31534,7 @@
   <anime anidbid="15954" tvdbid="371310" defaulttvdbseason="1" episodeoffset="11">
     <name>Mushoku Tensei: Isekai Ittara Honki Dasu (2021)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-1;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="17" offset="-17">;1-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="15955" tvdbid="337336" defaulttvdbseason="3">
@@ -31911,6 +31917,9 @@
   </anime>
   <anime anidbid="16363" tvdbid="271591" defaulttvdbseason="9">
     <name>Yami Shibai 9</name>
+  </anime>
+  <anime anidbid="16364" tvdbid="380477" defaulttvdbseason="2">
+    <name>Kami-tachi ni Hirowareta Otoko 2</name>
   </anime>
   <anime anidbid="16367" tvdbid="400133" defaulttvdbseason="1" episodeoffset="12">
     <name>Vanitas no Karte (2022)</name>
@@ -32347,6 +32356,9 @@
   <anime anidbid="17101" tvdbid="419405" defaulttvdbseason="1">
     <name>Huan You Lieren</name>
   </anime>
+  <anime anidbid="17108" tvdbid="414221" defaulttvdbseason="1">
+    <name>Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken</name>
+  </anime>
   <anime anidbid="17118" tvdbid="416684" defaulttvdbseason="1">
     <name>Teppen!!!!!!!!!!!!!!!</name>
   </anime>
@@ -32536,11 +32548,23 @@
   <anime anidbid="17336" tvdbid="419448" defaulttvdbseason="1">
     <name>Yoru wa Neko to Issho</name>
   </anime>
+  <anime anidbid="17341" tvdbid="419502" defaulttvdbseason="1">
+    <name>Hyouken no Majutsushi ga Sekai o Suberu</name>
+  </anime>
   <anime anidbid="17344" tvdbid="hentai">
     <name>Sleepless: A Midsummer Night's Dream The Animation</name>
   </anime>
+  <anime anidbid="17345" tvdbid="hentai">
+    <name>Summer: Inaka no Seikatsu</name>
+  </anime>
+  <anime anidbid="17346" tvdbid="hentai">
+    <name>Haji+</name>
+  </anime>
   <anime anidbid="17356" tvdbid="305074" defaulttvdbseason="0" episodeoffset="12">
     <name>Boku no Hero Academia (Web)</name>
+  </anime>
+  <anime anidbid="17360" tvdbid="420084" defaulttvdbseason="1">
+    <name>Kubo-san wa Boku o Yurusanai</name>
   </anime>
   <anime anidbid="17361" tvdbid="250070" defaulttvdbseason="0" episodeoffset="2">
     <name>Uta no Prince-sama: Maji Love Starish Tours - Tabi no Hajimari</name>
@@ -32566,11 +32590,26 @@
   <anime anidbid="17450" tvdbid="402180" defaulttvdbseason="2">
     <name>Obey Me! (2022)</name>
   </anime>
+  <anime anidbid="17473" tvdbid="421514" defaulttvdbseason="1">
+    <name>Koori Zokusei Danshi to Cool na Douryou Joshi</name>
+  </anime>
   <anime anidbid="17475" tvdbid="421676" defaulttvdbseason="1">
     <name>Akiba Meido Sensou</name>
   </anime>
+  <anime anidbid="17494" tvdbid="421994" defaulttvdbseason="1">
+    <name>Tomo-chan wa Onnanoko!</name>
+  </anime>
   <anime anidbid="17511" tvdbid="358828" defaulttvdbseason="3">
     <name>Meng Qi Shi Shen: Huanxi Zhui Hun</name>
+  </anime>
+  <anime anidbid="17513" tvdbid="422345" defaulttvdbseason="1">
+    <name>Aru Asa Dummy Head Mike ni Natte Ita Ore-kun no Jinsei</name>
+  </anime>
+  <anime anidbid="17517" tvdbid="422564" defaulttvdbseason="1">
+    <name>Kaiko Sareta Ankoku Heishi (30-dai) no Slow na Second Life</name>
+  </anime>
+  <anime anidbid="17523" tvdbid="422675" defaulttvdbseason="1">
+    <name>Rougo ni Sonaete Isekai de 8-manmai no Kinka o Tamemasu</name>
   </anime>
   <anime anidbid="17535" tvdbid="381536" defaulttvdbseason="3">
     <name>Bai Yao Pu Jing Shi Pia</name>
@@ -32652,5 +32691,11 @@
   </anime>
   <anime anidbid="17664" tvdbid="262954" defaulttvdbseason="5" episodeoffset="24">
     <name>JoJo no Kimyou na Bouken: Stone Ocean (Part 3)</name>
+  </anime>
+  <anime anidbid="17674" tvdbid="426294" defaulttvdbseason="1">
+    <name>Buddy Daddies</name>
+  </anime>
+  <anime anidbid="17689" tvdbid="426572" defaulttvdbseason="1">
+    <name>Tondemo Skill de Isekai Hourou Meshi</name>
   </anime>
 </anime-list>
