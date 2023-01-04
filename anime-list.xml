@@ -32044,6 +32044,9 @@
   <anime anidbid="16536" tvdbid="408734" defaulttvdbseason="1">
     <name>Ganbare Douki-chan</name>
   </anime>
+  <anime anidbid="16538" tvdbid="415188" defaulttvdbseason="1">
+    <name>Ningen Fushin no Boukensha-tachi ga Sekai o Sukuu You Desu</name>
+  </anime>
   <anime anidbid="16543" tvdbid="424562" defaulttvdbseason="1">
     <name>Showtime! Uta no Onee-san Datte Shitai</name>
   </anime>
@@ -32608,8 +32611,14 @@
   <anime anidbid="17517" tvdbid="422564" defaulttvdbseason="1">
     <name>Kaiko Sareta Ankoku Heishi (30-dai) no Slow na Second Life</name>
   </anime>
+  <anime anidbid="17518" tvdbid="hentai">
+    <name>Boku ni Sexfriend ga Dekita Riyuu</name>
+  </anime>
   <anime anidbid="17523" tvdbid="422675" defaulttvdbseason="1">
     <name>Rougo ni Sonaete Isekai de 8-manmai no Kinka o Tamemasu</name>
+  </anime>
+  <anime anidbid="17527" tvdbid="397197" defaulttvdbseason="2">
+    <name>Tantei wa Mou, Shinde Iru. Season 2</name>
   </anime>
   <anime anidbid="17535" tvdbid="381536" defaulttvdbseason="3">
     <name>Bai Yao Pu Jing Shi Pia</name>
@@ -32634,6 +32643,9 @@
   </anime>
   <anime anidbid="17571" tvdbid="hentai">
     <name>Kisaku Reiwa Ban</name>
+  </anime>
+  <anime anidbid="17573" tvdbid="movie">
+    <name>Gekijouban Psycho-Pass: Providence</name>
   </anime>
   <anime anidbid="17580" tvdbid="423653" defaulttvdbseason="1">
     <name>Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta</name>
@@ -32697,5 +32709,8 @@
   </anime>
   <anime anidbid="17689" tvdbid="426572" defaulttvdbseason="1">
     <name>Tondemo Skill de Isekai Hourou Meshi</name>
+  </anime>
+  <anime anidbid="17759" tvdbid="425285" defaulttvdbseason="1">
+    <name>Oemo Jisang Juui</name>
   </anime>
 </anime-list>
