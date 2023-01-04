@@ -95,6 +95,10 @@
   </anime>
   <anime anidbid="19" tvdbid="83692" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Rizelmine</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="12"/>
+      <mapping anidbseason="1" tvdbseason="2" start="13" end="24" offset="-12"/>
+    </mapping-list>
   </anime>
   <anime anidbid="20" tvdbid="72435" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tokyo Underground</name>
@@ -135,6 +139,7 @@
     <name>Juuni Kokuki</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="45"/>
     </mapping-list>
   </anime>
   <anime anidbid="27" tvdbid="78920" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -282,6 +287,13 @@
     <name>Tennis no Ouji-sama</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;3-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="26"/>
+      <mapping anidbseason="1" tvdbseason="2" start="27" end="53" offset="-26"/>
+      <mapping anidbseason="1" tvdbseason="3" start="54" end="75" offset="-53"/>
+      <mapping anidbseason="1" tvdbseason="4" start="76" end="101" offset="-75"/>
+      <mapping anidbseason="1" tvdbseason="5" start="102" end="128" offset="-101"/>
+      <mapping anidbseason="1" tvdbseason="6" start="129" end="165" offset="-128"/>
+      <mapping anidbseason="1" tvdbseason="7" start="166" end="178" offset="-165"/>
     </mapping-list>
   </anime>
   <anime anidbid="58" tvdbid="79239" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -338,6 +350,27 @@
     <name>One Piece</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-27;2-3;3-9;4-10;5-14;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-0;15-0;16-31;17-23;18-24;19-28;20-29;21-30;22-0;23-32;24-34;25-0;26-36;27-37;28-40;29-41;30-42;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="8"/>
+      <mapping anidbseason="1" tvdbseason="2" start="9" end="30" offset="-8"/>
+      <mapping anidbseason="1" tvdbseason="3" start="31" end="47" offset="-30"/>
+      <mapping anidbseason="1" tvdbseason="4" start="48" end="60" offset="-47"/>
+      <mapping anidbseason="1" tvdbseason="5" start="61" end="69" offset="-60"/>
+      <mapping anidbseason="1" tvdbseason="6" start="70" end="91" offset="-69"/>
+      <mapping anidbseason="1" tvdbseason="7" start="92" end="130" offset="-91"/>
+      <mapping anidbseason="1" tvdbseason="8" start="131" end="143" offset="-130"/>
+      <mapping anidbseason="1" tvdbseason="9" start="144" end="195" offset="-143"/>
+      <mapping anidbseason="1" tvdbseason="10" start="196" end="226" offset="-195"/>
+      <mapping anidbseason="1" tvdbseason="11" start="227" end="325" offset="-226"/>
+      <mapping anidbseason="1" tvdbseason="12" start="326" end="381" offset="-325"/>
+      <mapping anidbseason="1" tvdbseason="13" start="382" end="481" offset="-381"/>
+      <mapping anidbseason="1" tvdbseason="14" start="482" end="516" offset="-481"/>
+      <mapping anidbseason="1" tvdbseason="15" start="517" end="578" offset="-516"/>
+      <mapping anidbseason="1" tvdbseason="16" start="579" end="627" offset="-578"/>
+      <mapping anidbseason="1" tvdbseason="17" start="628" end="745" offset="-627"/>
+      <mapping anidbseason="1" tvdbseason="18" start="746" end="778" offset="-745"/>
+      <mapping anidbseason="1" tvdbseason="19" start="779" end="876" offset="-778"/>
+      <mapping anidbseason="1" tvdbseason="20" start="877" end="890" offset="-876"/>
+      <mapping anidbseason="1" tvdbseason="21" start="891" end="1045" offset="-890"/>
     </mapping-list>
   </anime>
   <anime anidbid="70" tvdbid="73616" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -409,6 +442,11 @@
     <supplemental-info>
       <studio>Studio Pierrot</studio>
     </supplemental-info>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="30"/>
+      <mapping anidbseason="1" tvdbseason="2" start="31" end="60" offset="-30"/>
+      <mapping anidbseason="1" tvdbseason="3" start="61" end="75" offset="-60"/>
+    </mapping-list>
   </anime>
   <anime anidbid="85" tvdbid="79145" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Star Ocean Ex</name>
@@ -420,6 +458,8 @@
     <name>Fushigi Yuugi</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="26"/>
+      <mapping anidbseason="1" tvdbseason="2" start="27" end="52" offset="-26"/>
     </mapping-list>
   </anime>
   <anime anidbid="88" tvdbid="80790" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -433,6 +473,9 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;5-0;6-0;</mapping>
       <mapping anidbseason="0" tvdbseason="3">;4-33;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="27"/>
+      <mapping anidbseason="1" tvdbseason="2" start="28" end="62" offset="-27"/>
+      <mapping anidbseason="1" tvdbseason="3" start="63" end="94" offset="-62"/>
     </mapping-list>
     <before>;4-95;</before>
   </anime>
@@ -446,6 +489,7 @@
     <name>Shaman King</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;4-5;5-4;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="64"/>
     </mapping-list>
   </anime>
   <anime anidbid="93" tvdbid="72792" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -606,6 +650,8 @@
     <name>Magic Knight Rayearth</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="4">;5-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="20"/>
+      <mapping anidbseason="1" tvdbseason="2" start="21" end="49" offset="-20"/>
     </mapping-list>
     <supplemental-info replace="true">
       <studio>TMS Entertainment</studio>
@@ -730,6 +776,10 @@
   </anime>
   <anime anidbid="161" tvdbid="74598" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Tokyo Mew Mew</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="26"/>
+      <mapping anidbseason="1" tvdbseason="2" start="27" end="52" offset="-26"/>
+    </mapping-list>
   </anime>
   <anime anidbid="162" tvdbid="70525" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sei Juushi Bismarck</name>
@@ -8045,6 +8095,22 @@
     <name>Bleach</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;2-0;3-2;4-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="20"/>
+      <mapping anidbseason="1" tvdbseason="2" start="21" end="41" offset="-20"/>
+      <mapping anidbseason="1" tvdbseason="3" start="42" end="63" offset="-41"/>
+      <mapping anidbseason="1" tvdbseason="4" start="64" end="91" offset="-63"/>
+      <mapping anidbseason="1" tvdbseason="5" start="92" end="109" offset="-91"/>
+      <mapping anidbseason="1" tvdbseason="6" start="110" end="131" offset="-109"/>
+      <mapping anidbseason="1" tvdbseason="7" start="132" end="151" offset="-131"/>
+      <mapping anidbseason="1" tvdbseason="8" start="152" end="167" offset="-151"/>
+      <mapping anidbseason="1" tvdbseason="9" start="168" end="189" offset="-167"/>
+      <mapping anidbseason="1" tvdbseason="10" start="190" end="205" offset="-189"/>
+      <mapping anidbseason="1" tvdbseason="11" start="206" end="212" offset="-205"/>
+      <mapping anidbseason="1" tvdbseason="12" start="213" end="229" offset="-212"/>
+      <mapping anidbseason="1" tvdbseason="13" start="230" end="265" offset="-229"/>
+      <mapping anidbseason="1" tvdbseason="14" start="266" end="316" offset="-265"/>
+      <mapping anidbseason="1" tvdbseason="15" start="317" end="342" offset="-316"/>
+      <mapping anidbseason="1" tvdbseason="16" start="343" end="366" offset="-342"/>
     </mapping-list>
     <supplemental-info>
       <studio>Studio Pierrot</studio>
