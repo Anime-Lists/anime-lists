@@ -32278,6 +32278,9 @@
   <anime anidbid="17300" tvdbid="385077" defaulttvdbseason="0" episodeoffset="14">
     <name>Tonikaku Kawaii: Seifuku</name>
   </anime>
+  <anime anidbid="17328" tvdbid="419278" defaulttvdbseason="1">
+    <name>Onii-chan wa Oshimai!</name>
+  </anime>
   <anime anidbid="17330" tvdbid="419283" defaulttvdbseason="1">
     <name>Cool Doji Danshi</name>
   </anime>
@@ -32421,6 +32424,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-8+9;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="17651" tvdbid="425520" defaulttvdbseason="1">
+    <name>Revenger</name>
   </anime>
   <anime anidbid="17652" tvdbid="289882" defaulttvdbseason="4" episodeoffset="11">
     <name>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth IV (2023)</name>
