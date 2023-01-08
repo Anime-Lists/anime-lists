@@ -31450,6 +31450,9 @@
   <anime anidbid="16111" tvdbid="359095" defaulttvdbseason="0" episodeoffset="1">
     <name>Bokutachi wa Benkyou ga Dekinai!: Chapel no Kane wa [X] o Shukufuku Suru</name>
   </anime>
+  <anime anidbid="16112" tvdbid="412573" defaulttvdbseason="1">
+    <name>The Legend of Heroes: Sen no Kiseki - Northern War</name>
+  </anime>
   <anime anidbid="16113" tvdbid="316842" defaulttvdbseason="0" episodeoffset="35">
     <name>Mahou Tsukai no Yome: Nishi no Shounen to Seiran no Kishi</name>
   </anime>
@@ -32158,7 +32161,7 @@
   <anime anidbid="17198" tvdbid="348545" defaulttvdbseason="4">
     <name>Kimetsu no Yaiba: Katanakaji no Sato Hen</name>
   </anime>
-  <anime anidbid="17203" tvdbid="hentai">
+  <anime anidbid="17203" tvdbid="424563" defaulttvdbseason="1">
     <name>Sazanami Souji ni Shojo o Sasagu: Saa, Jikkuri Medemashou ka</name>
   </anime>
   <anime anidbid="17204" tvdbid="416588" defaulttvdbseason="1">
@@ -32329,11 +32332,17 @@
   <anime anidbid="17450" tvdbid="402180" defaulttvdbseason="2">
     <name>Obey Me! (2022)</name>
   </anime>
+  <anime anidbid="17464" tvdbid="421378" defaulttvdbseason="1">
+    <name>Trigun Stampede</name>
+  </anime>
   <anime anidbid="17473" tvdbid="421514" defaulttvdbseason="1">
     <name>Koori Zokusei Danshi to Cool na Douryou Joshi</name>
   </anime>
   <anime anidbid="17475" tvdbid="421676" defaulttvdbseason="1">
     <name>Akiba Meido Sensou</name>
+  </anime>
+  <anime anidbid="17488" tvdbid="421893" defaulttvdbseason="1">
+    <name>Nokemono-tachi no Yoru</name>
   </anime>
   <anime anidbid="17494" tvdbid="421994" defaulttvdbseason="1">
     <name>Tomo-chan wa Onnanoko!</name>
@@ -32415,6 +32424,9 @@
   </anime>
   <anime anidbid="17637" tvdbid="423413" defaulttvdbseason="1">
     <name>Yamada-kun to Lv999 no Koi o Suru</name>
+  </anime>
+  <anime anidbid="17639" tvdbid="426861" defaulttvdbseason="1">
+    <name>UniteUp!</name>
   </anime>
   <anime anidbid="17643" tvdbid="391005" defaulttvdbseason="2">
     <name>Gokushufudou (2023)</name>
