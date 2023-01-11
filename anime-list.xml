@@ -30816,6 +30816,9 @@
   <anime anidbid="15498" tvdbid="hentai">
     <name>Ushichichi Tabehoudai! The Animation</name>
   </anime>
+  <anime anidbid="15501" tvdbid="392988" defaulttvdbseason="1">
+    <name>Toutotsu ni Egypt Shin</name>
+  </anime>
   <anime anidbid="15502" tvdbid="380402" defaulttvdbseason="1">
     <name>Hataraku Saibou Black</name>
   </anime>
@@ -31761,6 +31764,9 @@
   </anime>
   <anime anidbid="16507" tvdbid="272316" defaulttvdbseason="0" episodeoffset="3">
     <name>Non Non Biyori Nonstop: Bukatsu o Ganbatta</name>
+  </anime>
+  <anime anidbid="16508" tvdbid="392988" defaulttvdbseason="2">
+    <name>Toutotsu ni Egypt Shin 2</name>
   </anime>
   <anime anidbid="16511" tvdbid="408325" defaulttvdbseason="1">
     <name>Can Ci Pin: Fangzhu Xingkong</name>
