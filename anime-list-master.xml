@@ -21272,7 +21272,7 @@
   <anime anidbid="7729" tvdbid="244061" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Steins;Gate</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;2-7;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;2-7;</mapping>
     </mapping-list>
     <before>;1-25;</before>
   </anime>
@@ -23907,7 +23907,7 @@
   <anime anidbid="8653" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Tensai Eri-chan Kingyo o Tabeta</name>
   </anime>
-  <anime anidbid="8655" tvdbid="244061" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt2967286">
+  <anime anidbid="8655" tvdbid="244061" defaulttvdbseason="0" episodeoffset="" tmdbid="225745" imdbid="tt2967286">
     <name>Steins;Gate: Fuka Ryouiki no Deja vu</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;2-0;3-0;</mapping>
@@ -29846,7 +29846,7 @@
   <anime anidbid="10887" tvdbid="244061" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Steins;Gate: Soumei Eichi no Cognitive Computing</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;3-5;4-6;</mapping>
+      <mapping anidbseason="1" tvdbseason="0" start="1" end="4" offset="2"/>
     </mapping-list>
   </anime>
   <anime anidbid="10888" tvdbid="293774" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -30644,6 +30644,9 @@
   </anime>
   <anime anidbid="11167" tvdbid="339268" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Steins;Gate 0</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11168" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Chi Jian Chuan Qi</name>
