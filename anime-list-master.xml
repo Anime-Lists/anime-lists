@@ -24590,8 +24590,8 @@
   <anime anidbid="8883" tvdbid="261862" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Chuunibyou demo Koi ga Shitai!</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-14;</mapping>
-      <mapping anidbseason="0" tvdbseason="0" start="2" end="14" offset="-1"/>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="7" offset="3">;1-1;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="8" end="14" offset="13"/>
     </mapping-list>
   </anime>
   <anime anidbid="8885" tvdbid="81999" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
@@ -27265,7 +27265,8 @@
   <anime anidbid="9874" tvdbid="261862" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Chuunibyou demo Koi ga Shitai! Ren</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="8" end="14" offset="15">;1-30;2-16;3-17;4-18;5-19;6-21;7-22;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="7" offset="9">;1-2;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="8" end="14" offset="20"/>
     </mapping-list>
   </anime>
   <anime anidbid="9875" tvdbid="272074" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -27388,11 +27389,11 @@
   <anime anidbid="9918" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Taka no Tsume Go: Yoshida, Himitsukessha Yamerutteyo.</name>
   </anime>
-  <anime anidbid="9919" tvdbid="261862" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9919" tvdbid="261862" defaulttvdbseason="0" episodeoffset="" tmdbid="214553" imdbid="tt3203996">
     <name>Takanashi Rikka Kai: Gekijouban Chuunibyou demo Koi ga Shitai!</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-20;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-17;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9921" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt3178174">
@@ -36081,10 +36082,11 @@
   <anime anidbid="13175" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Eiga Entotsu Machi no Poupelle</name>
   </anime>
-  <anime anidbid="13176" tvdbid="261862" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt6915208">
+  <anime anidbid="13176" tvdbid="261862" defaulttvdbseason="0" episodeoffset="" tmdbid="460399" imdbid="tt6915208">
     <name>Eiga Chuunibyou demo Koi ga Shitai! Take on Me</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-31;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="25" end="27" offset="-7"/>
     </mapping-list>
   </anime>
   <anime anidbid="13177" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
