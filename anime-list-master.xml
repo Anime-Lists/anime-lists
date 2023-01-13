@@ -16812,7 +16812,7 @@
   <anime anidbid="6107" tvdbid="85249" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hagane no Renkinjutsushi (2009)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="2" end="21" offset="-1">;22-22;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="21" offset="-1">;1-0;22-22;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="6108" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1174954">
