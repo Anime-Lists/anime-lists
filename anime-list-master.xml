@@ -23655,7 +23655,7 @@
   <anime anidbid="8556" tvdbid="254349" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Another</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;2-3;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8557" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1709652">
