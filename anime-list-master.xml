@@ -24033,7 +24033,7 @@
   <anime anidbid="8692" tvdbid="259640" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sword Art Online</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;10-0;11-0;12-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="9" offset="0"/>
     </mapping-list>
   </anime>
   <anime anidbid="8693" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -32034,7 +32034,7 @@
   <anime anidbid="11680" tvdbid="257516" defaulttvdbseason="0" episodeoffset="10" tmdbid="" imdbid="">
     <name>Accel World: Infinite Burst</name>
   </anime>
-  <anime anidbid="11681" tvdbid="259640" defaulttvdbseason="0" episodeoffset="21" tmdbid="" imdbid="tt5544384">
+  <anime anidbid="11681" tvdbid="259640" defaulttvdbseason="0" episodeoffset="21" tmdbid="413594" imdbid="tt5544384">
     <name>Gekijouban Sword Art Online: Ordinal Scale</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-23;</mapping>
@@ -40754,6 +40754,9 @@
   </anime>
   <anime anidbid="14796" tvdbid="259640" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Sword Art Online: Alicization - War of Underworld</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-26;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14797" tvdbid="313435" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
     <name>Saiki Kusuo no Sainan: Saishidou Hen</name>
