@@ -34149,10 +34149,13 @@
       <mapping anidbseason="1" tvdbseason="0">;1-18;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="12500" tvdbid="284263" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12500" tvdbid="284263" defaulttvdbseason="2" episodeoffset="6" tmdbid="" imdbid="">
     <name>Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-7;</mapping>
+    </mapping-list>
   </anime>
-  <anime anidbid="12501" tvdbid="284263" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="tt6728412,tt6903382,tt7092940">
+  <anime anidbid="12501" tvdbid="284263" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt6728412,tt6903382,tt7092940">
     <name>Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou</name>
   </anime>
   <anime anidbid="12502" tvdbid="319998" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -34275,7 +34278,7 @@
   <anime anidbid="12542" tvdbid="329823" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Vatican Kiseki Chousakan</name>
   </anime>
-  <anime anidbid="12543" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12543" tvdbid="284263" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="">
     <name>Yuuki Yuuna wa Yuusha Bu Shozoku</name>
   </anime>
   <anime anidbid="12544" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -37671,7 +37674,7 @@
   <anime anidbid="13727" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ru Guo Wo Shi Ying Xiong</name>
   </anime>
-  <anime anidbid="13728" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13728" tvdbid="284263" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou (2017)</name>
   </anime>
   <anime anidbid="13729" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -42849,7 +42852,7 @@
   <anime anidbid="15576" tvdbid="380207" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Wan Sheng Jie</name>
   </anime>
-  <anime anidbid="15577" tvdbid="unknown" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15577" tvdbid="284263" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="">
     <name>Yuuki Yuuna wa Yuusha de Aru Churutto!</name>
   </anime>
   <anime anidbid="15578" tvdbid="400134" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
