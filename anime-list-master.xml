@@ -38022,6 +38022,9 @@
   </anime>
   <anime anidbid="13841" tvdbid="251982" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Chihayafuru 3</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-5;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13842" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Meitantei Conan: Hoshikage no Magician</name>
