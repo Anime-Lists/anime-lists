@@ -9633,7 +9633,7 @@
   <anime anidbid="3433" tvdbid="79214" defaulttvdbseason="1">
     <name>Mushishi</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-5;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3434" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt0265997">
@@ -19092,6 +19092,9 @@
   </anime>
   <anime anidbid="8181" tvdbid="247958" defaulttvdbseason="1">
     <name>Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai.</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="1" offset="0"/>
+    </mapping-list>
   </anime>
   <anime anidbid="8182" tvdbid="253182" defaulttvdbseason="1">
     <name>DD Hokuto no Ken</name>
@@ -21715,7 +21718,7 @@
   <anime anidbid="9298" tvdbid="262106" defaulttvdbseason="1">
     <name>Kamisama Hajimemashita</name>
   </anime>
-  <anime anidbid="9299" tvdbid="252232" episodeoffset="8" tmdbid="212153,297189,332169,372761" imdbid="tt3198652,tt3898504,tt4331400,tt5463052">
+  <anime anidbid="9299" tvdbid="252232" defaulttvdbseason="0" episodeoffset="8" tmdbid="212153,297189,332169,372761" imdbid="tt3198652,tt3898504,tt4331400,tt5463052">
     <name>Persona 3 the Movie</name>
   </anime>
   <anime anidbid="9302" tvdbid="259642" defaulttvdbseason="0" episodeoffset="1">
@@ -21862,7 +21865,7 @@
   <anime anidbid="9355" tvdbid="music video" defaulttvdbseason="1">
     <name>Touhou PVD 3</name>
   </anime>
-  <anime anidbid="9356" tvdbid="247958" defaulttvdbseason="0" imdbid="tt2323836">
+  <anime anidbid="9356" tvdbid="247958" defaulttvdbseason="0" episodeoffset="1" imdbid="tt2323836">
     <name>Gekijouban Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai.</name>
   </anime>
   <anime anidbid="9357" tvdbid="267810" defaulttvdbseason="1">
@@ -22967,7 +22970,7 @@
   <anime anidbid="9875" tvdbid="272074" defaulttvdbseason="1">
     <name>Kill la Kill</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;5-2;2-3;3-4;4-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9877" tvdbid="hentai" defaulttvdbseason="1">
@@ -23787,7 +23790,7 @@
   <anime anidbid="10273" tvdbid="278819" defaulttvdbseason="1">
     <name>Isshuukan Friends.</name>
   </anime>
-  <anime anidbid="10274" tvdbid="79214" defaulttvdbseason="0" episodeoffset="1">
+  <anime anidbid="10274" tvdbid="79214" defaulttvdbseason="0">
     <name>Mushishi Tokubetsu Hen: Hihamu Kage</name>
   </anime>
   <anime anidbid="10276" tvdbid="276346" defaulttvdbseason="1">
@@ -23973,8 +23976,7 @@
   <anime anidbid="10384" tvdbid="79214" defaulttvdbseason="2">
     <name>Mushishi Zoku Shou</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;11-4+5;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;11-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10385" tvdbid="279554" defaulttvdbseason="1">
@@ -24331,7 +24333,7 @@
   <anime anidbid="10571" tvdbid="79214" defaulttvdbseason="2" episodeoffset="10">
     <name>Mushishi Zoku Shou (2014)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-7;2-0;3-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10572" tvdbid="275633" defaulttvdbseason="0" episodeoffset="1">
@@ -25229,11 +25231,8 @@
   <anime anidbid="10985" tvdbid="291723" defaulttvdbseason="1">
     <name>Vampire Holmes</name>
   </anime>
-  <anime anidbid="10991" tvdbid="79214" defaulttvdbseason="0" imdbid="tt5575408">
+  <anime anidbid="10991" tvdbid="79214" defaulttvdbseason="0" episodeoffset="3" imdbid="tt5575408">
     <name>Mushishi Zoku Shou: Suzu no Shizuku</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="10992" tvdbid="81831" defaulttvdbseason="4">
     <name>To Love-Ru: Trouble - Darkness 2nd</name>
@@ -26566,7 +26565,7 @@
   <anime anidbid="11965" tvdbid="305075" defaulttvdbseason="1" episodeoffset="12">
     <name>Bungou Stray Dogs (2016)</name>
   </anime>
-  <anime anidbid="11966" tvdbid="257765" defaulttvdbseason="0" episodeoffset="36" tmdbid="428707">
+  <anime anidbid="11966" tvdbid="257765" defaulttvdbseason="0" episodeoffset="36" tmdbid="428707" imdbid="tt6728390">
     <name>Gekijouban Kuroko no Baske: Last Game</name>
   </anime>
   <anime anidbid="11967" tvdbid="hentai" defaulttvdbseason="1">
@@ -27288,10 +27287,13 @@
       <mapping anidbseason="1" tvdbseason="0">;1-18;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="12500" tvdbid="284263" defaulttvdbseason="2">
+  <anime anidbid="12500" tvdbid="284263" defaulttvdbseason="2" episodeoffset="6">
     <name>Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-7;</mapping>
+    </mapping-list>
   </anime>
-  <anime anidbid="12501" tvdbid="284263" defaulttvdbseason="0" episodeoffset="2" imdbid="tt6728412,tt6903382,tt7092940">
+  <anime anidbid="12501" tvdbid="284263" defaulttvdbseason="0" imdbid="tt6728412,tt6903382,tt7092940">
     <name>Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou</name>
   </anime>
   <anime anidbid="12502" tvdbid="319998" defaulttvdbseason="1">
@@ -27326,6 +27328,9 @@
   </anime>
   <anime anidbid="12542" tvdbid="329823" defaulttvdbseason="1">
     <name>Vatican Kiseki Chousakan</name>
+  </anime>
+  <anime anidbid="12543" tvdbid="284263" defaulttvdbseason="0" episodeoffset="3">
+    <name>Yuuki Yuuna wa Yuusha Bu Shozoku</name>
   </anime>
   <anime anidbid="12545" tvdbid="337120" defaulttvdbseason="1">
     <name>Citrus</name>
@@ -27447,7 +27452,7 @@
   <anime anidbid="12621" tvdbid="311149" defaulttvdbseason="0" episodeoffset="2">
     <name>Days: Touin Gakuensen!</name>
   </anime>
-  <anime anidbid="12622" tvdbid="335088" defaulttvdbseason="1">
+  <anime anidbid="12622" tvdbid="335088" defaulttvdbseason="0">
     <name>Nekopara</name>
   </anime>
   <anime anidbid="12625" tvdbid="275609" defaulttvdbseason="2">
@@ -28710,6 +28715,9 @@
   <anime anidbid="13718" tvdbid="327572" defaulttvdbseason="2">
     <name>Kakegurui XX</name>
   </anime>
+  <anime anidbid="13728" tvdbid="284263" defaulttvdbseason="2">
+    <name>Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou (2017)</name>
+  </anime>
   <anime anidbid="13730" tvdbid="hentai">
     <name>Enkou JK Bitch Gal: Oji-san to Nama Pako Seikatsu</name>
   </anime>
@@ -28848,6 +28856,9 @@
   </anime>
   <anime anidbid="13841" tvdbid="251982" defaulttvdbseason="3">
     <name>Chihayafuru 3</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-5;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13843" tvdbid="85192" defaulttvdbseason="3">
     <name>Souten no Ken: Regenesis (2018)</name>
@@ -29063,7 +29074,7 @@
       <mapping anidbseason="0" tvdbseason="0" start="1" end="13" offset="28"/>
     </mapping-list>
   </anime>
-  <anime anidbid="14013" tvdbid="movie" tmdbid="533514" imdbid="tt8652818">
+  <anime anidbid="14013" tvdbid="330139" defaulttvdbseason="0" episodeoffset="2" tmdbid="533514" imdbid="tt8652818">
     <name>Gekijouban Violet Evergarden</name>
   </anime>
   <anime anidbid="14017" tvdbid="306743" defaulttvdbseason="0" episodeoffset="2">
@@ -29312,7 +29323,7 @@
   <anime anidbid="14205" tvdbid="361217" defaulttvdbseason="1">
     <name>Strike Witches: 501 Butai Hasshin Shimasu!</name>
   </anime>
-  <anime anidbid="14206" tvdbid="335088" defaulttvdbseason="0">
+  <anime anidbid="14206" tvdbid="335088" defaulttvdbseason="0" episodeoffset="1">
     <name>Nekopara: Koneko no Hi no Yakusoku</name>
   </anime>
   <anime anidbid="14213" tvdbid="354170" defaulttvdbseason="1">
@@ -30978,6 +30989,9 @@
   <anime anidbid="15576" tvdbid="380207" defaulttvdbseason="1">
     <name>Wan Sheng Jie</name>
   </anime>
+  <anime anidbid="15577" tvdbid="284263" defaulttvdbseason="0" episodeoffset="7">
+    <name>Yuuki Yuuna wa Yuusha de Aru Churutto!</name>
+  </anime>
   <anime anidbid="15578" tvdbid="400134" defaulttvdbseason="1">
     <name>Kenja no Deshi o Nanoru Kenja</name>
   </anime>
@@ -31894,6 +31908,9 @@
   <anime anidbid="16538" tvdbid="415188" defaulttvdbseason="1">
     <name>Ningen Fushin no Boukensha-tachi ga Sekai o Sukuu You Desu</name>
   </anime>
+  <anime anidbid="16540" tvdbid="393810" defaulttvdbseason="2">
+    <name>Shuumatsu no Walkure II</name>
+  </anime>
   <anime anidbid="16543" tvdbid="424562" defaulttvdbseason="1">
     <name>Showtime! Uta no Onee-san Datte Shitai</name>
   </anime>
@@ -32191,6 +32208,9 @@
   <anime anidbid="17075" tvdbid="422405" defaulttvdbseason="1">
     <name>Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san</name>
   </anime>
+  <anime anidbid="17076" tvdbid="397208" defaulttvdbseason="0" episodeoffset="14" tmdbid="919609" imdbid="tt16609250">
+    <name>Eiga Odd Taxi: In the Woods</name>
+  </anime>
   <anime anidbid="17077" tvdbid="404886" defaulttvdbseason="0">
     <name>Sasaki to Miyano: Koi ni Kizuku Mae no Chotto Shita Hanashi.</name>
   </anime>
@@ -32445,6 +32465,9 @@
   </anime>
   <anime anidbid="17427" tvdbid="420549" defaulttvdbseason="1">
     <name>Warau Arsnotoria Sun!</name>
+  </anime>
+  <anime anidbid="17428" tvdbid="420682" defaulttvdbseason="1">
+    <name>Boku to Roboco</name>
   </anime>
   <anime anidbid="17438" tvdbid="420867" defaulttvdbseason="1">
     <name>Bang Dream! Morfonication</name>
