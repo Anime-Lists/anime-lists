@@ -2425,7 +2425,7 @@
   <anime anidbid="589" tvdbid="160061" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Melty Lancer</name>
   </anime>
-  <anime anidbid="590" tvdbid="72491" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="590" tvdbid="72491" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Slam Dunk</name>
   </anime>
   <anime anidbid="591" tvdbid="87191" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -10861,7 +10861,7 @@
   <anime anidbid="3466" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sasuga no Sarutobi</name>
   </anime>
-  <anime anidbid="3468" tvdbid="79895" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="3468" tvdbid="79895" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Gintama</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;3-0;4-3;</mapping>
@@ -24527,9 +24527,10 @@
   <anime anidbid="8864" tvdbid="276896" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ryuugajou Nanana no Maizoukin (2014)</name>
   </anime>
-  <anime anidbid="8865" tvdbid="256705" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8865" tvdbid="256705" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Uchuu Kyoudai</name>
     <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="51"/>
       <mapping anidbseason="1" tvdbseason="2" start="52" end="99" offset="-51"/>
     </mapping-list>
   </anime>
