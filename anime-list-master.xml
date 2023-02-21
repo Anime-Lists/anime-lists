@@ -946,7 +946,7 @@
     </mapping-list>
     <before>;1-13;</before>
   </anime>
-  <anime anidbid="208" tvdbid="152531" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="208" tvdbid="396101" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>El-Hazard: The Magnificent World</name>
   </anime>
   <anime anidbid="209" tvdbid="82970" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -1326,7 +1326,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="305" tvdbid="152531" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="">
+  <anime anidbid="305" tvdbid="396101" defaulttvdbseason="2" episodeoffset="7" tmdbid="" imdbid="">
     <name>El-Hazard: The Magnificent World 2</name>
   </anime>
   <anime anidbid="306" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0104652">
@@ -1729,8 +1729,13 @@
       <studio>Sunrise</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="402" tvdbid="73312" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="402" tvdbid="73312" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Dirty Pair Flash</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="6"/>
+      <mapping anidbseason="1" tvdbseason="2" start="7" end="11" offset="-6"/>
+      <mapping anidbseason="1" tvdbseason="3" start="11" end="16" offset="-11"/>
+    </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
     </supplemental-info>
@@ -17502,7 +17507,7 @@
   <anime anidbid="6425" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Naoko no Tropic Angel: Hyouryuu</name>
   </anime>
-  <anime anidbid="6426" tvdbid="70799" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="6426" tvdbid="387655" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Metal Fight Beyblade</name>
   </anime>
   <anime anidbid="6427" tvdbid="84932" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1411966">
@@ -20355,7 +20360,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="7426" tvdbid="70799" defaulttvdbseason="5" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="7426" tvdbid="387655" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Metal Fight Beyblade: Baku</name>
   </anime>
   <anime anidbid="7427" tvdbid="199111" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
@@ -22929,7 +22934,7 @@
   <anime anidbid="8297" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tottoko Hamtarou Dechu</name>
   </anime>
-  <anime anidbid="8298" tvdbid="70799" defaulttvdbseason="6" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8298" tvdbid="387655" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Metal Fight Beyblade 4D</name>
   </anime>
   <anime anidbid="8299" tvdbid="79886" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
@@ -25053,7 +25058,7 @@
   <anime anidbid="9047" tvdbid="other" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Neko no Sumu Shima</name>
   </anime>
-  <anime anidbid="9048" tvdbid="70799" defaulttvdbseason="7" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9048" tvdbid="387655" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Metal Fight Beyblade Zero G</name>
   </anime>
   <anime anidbid="9049" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -28851,8 +28856,13 @@
   <anime anidbid="10514" tvdbid="279829" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>M3: Sono Kuroki Hagane</name>
   </anime>
-  <anime anidbid="10515" tvdbid="282059" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10515" tvdbid="282059" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>PriPara</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="38"/>
+      <mapping anidbseason="1" tvdbseason="2" start="39" end="89" offset="-38"/>
+      <mapping anidbseason="1" tvdbseason="3" start="90" end="140" offset="-89"/>
+    </mapping-list>
   </anime>
   <anime anidbid="10517" tvdbid="281947" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shounen Hollywood: Holly Stage for 49</name>
@@ -33239,8 +33249,18 @@
   <anime anidbid="12118" tvdbid="278818" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt7625514">
     <name>Gochuumon wa Usagi Desuka?? Dear My Sister</name>
   </anime>
-  <anime anidbid="12119" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12119" tvdbid="310311" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Hu Yao Xiao Hongniang</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="13"/>
+      <mapping anidbseason="1" tvdbseason="2" start="14" end="27" offset="-13"/>
+      <mapping anidbseason="1" tvdbseason="3" start="28" end="48" offset="-27"/>
+      <mapping anidbseason="1" tvdbseason="4" start="49" end="63" offset="-48"/>
+      <mapping anidbseason="1" tvdbseason="5" start="64" end="89" offset="-63"/>
+      <mapping anidbseason="1" tvdbseason="6" start="90" end="101" offset="-89"/>
+      <mapping anidbseason="1" tvdbseason="7" start="102" end="111" offset="-101"/>
+      <mapping anidbseason="1" tvdbseason="8" start="112" end="121" offset="-111"/>
+    </mapping-list>
   </anime>
   <anime anidbid="12120" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Pinkerton</name>
@@ -33630,7 +33650,7 @@
   <anime anidbid="12291" tvdbid="314031" defaulttvdbseason="0" episodeoffset="8" tmdbid="415282,428294,428297" imdbid="">
     <name>Chain Chronicle (2016)</name>
   </anime>
-  <anime anidbid="12292" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12292" tvdbid="345384" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Inazuma Eleven: Ares no Tenbin</name>
   </anime>
   <anime anidbid="12295" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -39395,7 +39415,7 @@
   <anime anidbid="14326" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Nanchatte!</name>
   </anime>
-  <anime anidbid="14327" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14327" tvdbid="345384" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Inazuma Eleven: Orion no Kokuin</name>
   </anime>
   <anime anidbid="14328" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -39809,7 +39829,7 @@
   <anime anidbid="14471" tvdbid="361751" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt10470444">
     <name>Joshikousei no Mudazukai</name>
   </anime>
-  <anime anidbid="14472" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14472" tvdbid="355025" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hero Mask</name>
   </anime>
   <anime anidbid="14473" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -41370,7 +41390,7 @@
   <anime anidbid="15020" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Jurassic!</name>
   </anime>
-  <anime anidbid="15021" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15021" tvdbid="355025" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Hero Mask (2019)</name>
   </anime>
   <anime anidbid="15022" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -42366,7 +42386,7 @@
   <anime anidbid="15392" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Haritsuke</name>
   </anime>
-  <anime anidbid="15393" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15393" tvdbid="380103" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Digimon Adventure: 20th Memorial Story</name>
   </anime>
   <anime anidbid="15394" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -44053,7 +44073,7 @@
   <anime anidbid="16006" tvdbid="401231" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Dolls' Frontline</name>
   </anime>
-  <anime anidbid="16007" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="16007" tvdbid="395483" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Pui Pui Molcar</name>
   </anime>
   <anime anidbid="16008" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -45610,10 +45630,10 @@
   <anime anidbid="16615" tvdbid="414669" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Atasha Kawashiri Kodama Da yo: Dangerous Lifehacker no Tadareta Seikatsu</name>
   </anime>
-  <anime anidbid="16616" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="16616" tvdbid="310311" defaulttvdbseason="9" episodeoffset="" tmdbid="" imdbid="">
     <name>Hu Yao Xiao Hongniang: Mu Tiancheng Pian</name>
   </anime>
-  <anime anidbid="16617" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="16617" tvdbid="310311" defaulttvdbseason="10" episodeoffset="" tmdbid="" imdbid="">
     <name>Hu Yao Xiao Hongniang: Liang Sheng Hua Pian</name>
   </anime>
   <anime anidbid="16618" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -47911,7 +47931,7 @@
   <anime anidbid="17432" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kitsune Musume no Ecchi na Oyado</name>
   </anime>
-  <anime anidbid="17433" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17433" tvdbid="395483" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Pui Pui Molcar: Driving School</name>
   </anime>
   <anime anidbid="17434" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -48058,7 +48078,7 @@
   <anime anidbid="17483" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Renseijutsushi Collet no H na Shibo Shirage Monogatari</name>
   </anime>
-  <anime anidbid="17484" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17484" tvdbid="351487" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Knights of the Zodiac: Saint Seiya - Battle for Sanctuary</name>
   </anime>
   <anime anidbid="17485" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
