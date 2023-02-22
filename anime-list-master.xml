@@ -1326,7 +1326,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="305" tvdbid="396101" defaulttvdbseason="2" episodeoffset="7" tmdbid="" imdbid="">
+  <anime anidbid="305" tvdbid="152531" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="">
     <name>El-Hazard: The Magnificent World 2</name>
   </anime>
   <anime anidbid="306" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0104652">
