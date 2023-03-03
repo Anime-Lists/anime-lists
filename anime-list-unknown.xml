@@ -345,9 +345,6 @@
   <anime anidbid="1929" tvdbid="unknown" defaulttvdbseason="1">
     <name>Kousoku Denjin Albegus</name>
   </anime>
-  <anime anidbid="1931" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Stop!! Hibari-kun!</name>
-  </anime>
   <anime anidbid="1932" tvdbid="unknown" defaulttvdbseason="1">
     <name>Bemubemu Hunter Kotengu Tenmaru</name>
   </anime>
@@ -362,9 +359,6 @@
   </anime>
   <anime anidbid="1938" tvdbid="unknown" defaulttvdbseason="1">
     <name>Konpora Kid</name>
-  </anime>
-  <anime anidbid="1939" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Akai Hayate</name>
   </anime>
   <anime anidbid="1947" tvdbid="unknown" defaulttvdbseason="1">
     <name>Shiawase Sou no Okojo-san</name>
@@ -690,9 +684,6 @@
   <anime anidbid="2597" tvdbid="unknown" defaulttvdbseason="1">
     <name>Ki-Fighter Taerang</name>
   </anime>
-  <anime anidbid="2606" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Kasei Yakyoku</name>
-  </anime>
   <anime anidbid="2618" tvdbid="unknown" defaulttvdbseason="1">
     <name>Galerians: Rion</name>
   </anime>
@@ -704,9 +695,6 @@
   </anime>
   <anime anidbid="2689" tvdbid="unknown" defaulttvdbseason="1">
     <name>Marriage</name>
-  </anime>
-  <anime anidbid="2704" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Nozomi Witches</name>
   </anime>
   <anime anidbid="2705" tvdbid="unknown" defaulttvdbseason="1">
     <name>Hey! Bumboo</name>
@@ -1029,9 +1017,6 @@
   <anime anidbid="3293" tvdbid="unknown" defaulttvdbseason="1">
     <name>Play Ball</name>
   </anime>
-  <anime anidbid="3297" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Let's Nupu Nupu</name>
-  </anime>
   <anime anidbid="3304" tvdbid="unknown" defaulttvdbseason="1">
     <name>Hoero Bunbun</name>
   </anime>
@@ -1215,9 +1200,6 @@
   <anime anidbid="3602" tvdbid="unknown" defaulttvdbseason="1">
     <name>Nessa no Haou Gandalla</name>
   </anime>
-  <anime anidbid="3603" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Hoshi Neko Full House</name>
-  </anime>
   <anime anidbid="3604" tvdbid="unknown" defaulttvdbseason="1">
     <name>Bouken Shounen Shadar</name>
   </anime>
@@ -1359,9 +1341,6 @@
   <anime anidbid="4010" tvdbid="unknown" defaulttvdbseason="0">
     <name>Moeru! Onii-san (1989)</name>
   </anime>
-  <anime anidbid="4031" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Hi-Speed Jecy</name>
-  </anime>
   <anime anidbid="4034" tvdbid="unknown" defaulttvdbseason="1">
     <name>Yuukan Club</name>
   </anime>
@@ -1487,12 +1466,6 @@
   </anime>
   <anime anidbid="4217" tvdbid="unknown" defaulttvdbseason="1">
     <name>Obake no... Holly</name>
-  </anime>
-  <anime anidbid="4220" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Inferious Wakusei Senshi Gaiden Condition Green</name>
-  </anime>
-  <anime anidbid="4225" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Oz</name>
   </anime>
   <anime anidbid="4234" tvdbid="unknown" defaulttvdbseason="1">
     <name>Emblem Take 2</name>
@@ -1820,9 +1793,6 @@
   </anime>
   <anime anidbid="4926" tvdbid="unknown" defaulttvdbseason="1">
     <name>Catblue Dynamite</name>
-  </anime>
-  <anime anidbid="4928" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Chou Kousoku Galvion</name>
   </anime>
   <anime anidbid="4943" tvdbid="unknown" defaulttvdbseason="0">
     <name>21 Emon: Sora Ike! Hadashi no Princess</name>
@@ -2232,9 +2202,6 @@
   <anime anidbid="5938" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Tenjou Hen: Utsu no Miko (1990)</name>
   </anime>
-  <anime anidbid="5943" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Eien no Filerna</name>
-  </anime>
   <anime anidbid="5944" tvdbid="unknown" defaulttvdbseason="1">
     <name>Toki-iro Kaima</name>
   </anime>
@@ -2445,9 +2412,6 @@
   <anime anidbid="6807" tvdbid="unknown" defaulttvdbseason="1">
     <name>Sue Cat</name>
   </anime>
-  <anime anidbid="6808" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Tomoe ga Yuku!</name>
-  </anime>
   <anime anidbid="6954" tvdbid="unknown" defaulttvdbseason="1">
     <name>Ginga Shounen Tai</name>
   </anime>
@@ -2562,9 +2526,6 @@
   <anime anidbid="7167" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Gekijouban Duel Masters: Lunatic God Saga</name>
   </anime>
-  <anime anidbid="7168" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Wolf Guy</name>
-  </anime>
   <anime anidbid="7187" tvdbid="unknown" defaulttvdbseason="1">
     <name>Kaitou Reinya</name>
   </anime>
@@ -2675,9 +2636,6 @@
   </anime>
   <anime anidbid="7455" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Gegege no Kitarou: Kitarou no Yuurei Densha</name>
-  </anime>
-  <anime anidbid="7462" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Izumo</name>
   </anime>
   <anime anidbid="7463" tvdbid="unknown" defaulttvdbseason="1">
     <name>Ipponbouchou Mantarou</name>
@@ -3309,9 +3267,6 @@
   <anime anidbid="10454" tvdbid="unknown" defaulttvdbseason="0">
     <name>Gekijouban Yuuto-kun ga Iku</name>
   </anime>
-  <anime anidbid="10913" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Sengoku Musou</name>
-  </anime>
   <anime anidbid="11180" tvdbid="unknown" defaulttvdbseason="1">
     <name>The Snack World</name>
   </anime>
@@ -3360,9 +3315,6 @@
   <anime anidbid="13902" tvdbid="unknown" defaulttvdbseason="1">
     <name>Sword Gai</name>
   </anime>
-  <anime anidbid="14327" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Inazuma Eleven: Orion no Kokuin</name>
-  </anime>
   <anime anidbid="14566" tvdbid="unknown" defaulttvdbseason="1">
     <name>Battle Spirits: Saga Brave</name>
   </anime>
@@ -3407,9 +3359,6 @@
   </anime>
   <anime anidbid="15928" tvdbid="unknown">
     <name>Iii Icecrin</name>
-  </anime>
-  <anime anidbid="15957" tvdbid="unknown">
-    <name>Itazuraguma no Gloomy</name>
   </anime>
   <anime anidbid="16070" tvdbid="unknown">
     <name>Shikaru Neko</name>

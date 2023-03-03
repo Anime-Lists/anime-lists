@@ -1,21 +1,24 @@
 Anime Lists
 ===========
 
-Anime mapping lists used by the [AniDb.net [MOD] scrapers](http://forum.kodi.tv/showthread.php?tid=142835) for [Kodi](http://kodi.tv/).
+Anime mapping lists used by:
+  - [AniDb.net [MOD] scrapers](https://forum.kodi.tv/showthread.php?tid=142835) for [Kodi](https://kodi.tv/)
+  - [HTTP Anidb Metadata Agent (HAMA)](https://github.com/ZeroQI/Hama.bundle) for [Plex](https://plex.tv)
+  - [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager)
+  - [MyAnimeList Plex Metadata Agent](https://github.com/Fribb/MyAnimeList.bundle)
 
-These lists map information between [AniDb.net](http://anidb.net), [theTVDB.com](http://www.thetvdb.com), and [themoviedb.org](http://www.themoviedb.org).
+
+These lists map information between [AniDB](https://anidb.net), [TheTVDB](https://www.thetvdb.com), [TMDB](https://www.themoviedb.org) and [IMDB](https://www.imdb.com).
 
 The Lists
 ---------
-
-### animetitles.xml ###
-Copy of the animetitles.xml available from AniDb.net.  This is used by the scraper to search for matching titles.
 
 ### anime-movieset-list.xml ###
 This list contains groupings of anime titles that are suitable as movie sets (includes movies, TV specials, and one-shot OVAs).
 
 ### anime-list-master.xml ###
 This list contains entries for every title on AniDb.net and serves as a template from which all the remaining lists are derived.
+Feel free to [contribute to it](/#contributing) if you notice missing or mismatched entries
 
 ### anime-list.xml ###
 The default list used by the scraper.  Contains all entries from the master list that are not empty or marked as "unknown".
@@ -29,6 +32,9 @@ Any of these titles may potentially become "known" if they are added to theTVDB.
 
 ### anime-list-todo.xml ###
 All empty entries from the master list.  Literally a to-do list.
+
+### animetitles.xml ###
+Copy of the animetitles.xml available from AniDb.net.  This is used by the scraper to search for matching titles.
 
 Format
 ------
@@ -51,7 +57,7 @@ Each entry consists of an **anime** node with the following attributes:
 
 *   **anidbid** - The AniDb.net id (pre-filled).
 
-*   **tvdbid** - theTVDB.com id.  Multi-episode titles not found on theTVDB.com are marked as "unknown", as they may eventually get added and
+*   **tvdbid** - theTVDB.com **series** id (do not use movie IDs). Multi-episode titles not found on theTVDB.com are marked as "unknown", as they may eventually get added and
     this makes it easier to re-check (via anime-list-unknown.xml).  One-off titles that won't ever be added to theTVDB.com (movies, TV specials, one-shot OVAs)
     are marked by their AniDb.net type, unless they can be associated to a multi-episode series (in which case they use the corresponding theTVDB.com id or "unknown").
 
@@ -65,9 +71,8 @@ Each entry consists of an **anime** node with the following attributes:
     Not necessary if the episode numbers match up exactly.
     For special episodes and more complex situations the mapping-list is used (see below).
 
-*   **tmdbid**/**imdbid** - themoviedb.org/imdb.com id.  Only used for one-off titles, unless there's definitely a themoviedb.org entry.
-    Only one will be filled, with preference going to the imdb.com id, but the imdb.com entry must correspond exactly with AniDb.net.
-    **[Do not use tmdbid for series.](https://github.com/ScudLee/anime-lists/issues/342)**
+*   **tmdbid**/**imdbid** - themoviedb.org/imdb.com id. Only used for one-off titles like movies.
+    **[Do not use tmdbid for series!](https://github.com/ScudLee/anime-lists/issues/342)**
 
 Within the anime node are any of the following nodes
 
@@ -161,8 +166,35 @@ Each **title** node consists of two attributes, either **type="main" xml:lang="x
 
 The "main" title is always present and is derived from an appropriate "main" (romaji) title on AniDb.net, while the "official" titles are derived from the corresponding "official" titles in the relevant languages.  Unofficial translations are not used.
 
+Contributing
+------------
+There are a couple of ways to contribute updates:
+
+The simplest way is to just open an [Issue](https://github.com/Anime-Lists/anime-lists/issues), and they will be dealt with when noticed.
+
+The prefered way is to open a [Pull Request](https://github.com/Anime-Lists/anime-lists/pulls):
+
+1.   [Fork the repo](https://github.com/Anime-Lists/anime-lists/fork)
+2.   Create a new branch (`git checkout -b new_branch`)
+3.   Edit **anime-list-master.xml** and/or **anime-movieset-list.xml** following the [Format](/#format)
+4.   Commit your changes (`git commit -am "Added some titles"`)
+5.   Push to the branch (`git push origin new_branch`)
+6.   [Submit the Pull Request](https://github.com/Anime-Lists/anime-lists/compare)
+7.   Wait for review/merge
+8.   Profit
+
+**Do not edit any other lists!!!** They are automatically generated after your Pull Request was merged.
+
+Likewise, the anime names and the sort order in `anime-movieset-list.xml` will be automatically fixed based on the **anidbid**s, so don't be overly concerned about getting them exactly right (but obviously do get the **title** nodes right).
+
+
 Batch Files
 -----------
+Used to automate update and generation of the lists.
+<details>
+ <summary>(click to expand)</summary>
+DO NOT run any of these when contributing!
+
 The Windows batch files are used to automate the updating of the lists.
 They require the following programs to work:
 *   **[curl.exe](http://curl.haxx.se/)** - Used to download animetitles.xml from AniDb.net.
@@ -185,24 +217,4 @@ Same as `generate-lists.bat` but for POSIX platforms. As most POSIX style system
 
 ### generate-lists.groovy ###
 Same as `generate-lists.bat` but for all platforms. It requires [Groovy](http://www.groovy-lang.org/) and [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html) and works on Windows, Linux and Mac OS X.
-
-Contributing
-------------
-There are a couple of ways to contribute updates:
-
-The simplest way is to just post the details of the update, either in the [XBMC forum thread](http://forum.kodi.tv/showthread.php?tid=142835) or as an [Issue](https://github.com/Anime-Lists/anime-lists/issues) on GitHub, and they will be dealt with when noticed.
-
-Or you can post a [Pull Request](https://github.com/Anime-Lists/anime-lists/pulls):
-
-1.   [Fork the repo](https://github.com/Anime-Lists/anime-lists/fork)
-2.   Create a new branch (`git checkout -b new_branch`)
-3.   Edit either the **anime-list-master.xml** or **anime-movieset-list.xml** (or both)
-4.   Commit your changes (`git commit -am "Added some titles"`)
-5.   Push to the branch (`git push origin new_branch`)
-6.   Submit the Pull Request
-7.   ???
-8.   Profit
-
-**Do not edit any other lists** as they are automatically generated after your Pull Request was merged.
-
-Likewise, the anime names and the sort order in anime-movieset-list.xml will be automatically fixed based on the **anidbid**s, so don't be overly concerned about getting them exactly right (but obviously do get the **title** nodes right).
+</details>
