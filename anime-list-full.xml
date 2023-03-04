@@ -33752,6 +33752,9 @@
   <anime anidbid="15003" tvdbid="movie" defaulttvdbseason="1" imdbid="tt10621032">
     <name>Lupin Sansei: The First</name>
   </anime>
+  <anime anidbid="15004" tvdbid="379528" defaulttvdbseason="1">
+    <name>Han Hua Ri Ji</name>
+  </anime>
   <anime anidbid="15007" tvdbid="80009" defaulttvdbseason="5">
     <name>Tenchi Muyou! Ryououki Dai Go-ki</name>
   </anime>
@@ -35499,6 +35502,9 @@
   <anime anidbid="16708" tvdbid="419975" defaulttvdbseason="1">
     <name>Oni: Kamigami Yama no Onari</name>
   </anime>
+  <anime anidbid="16720" tvdbid="379528" defaulttvdbseason="2">
+    <name>Han Hua Ri Ji Di Er Ji</name>
+  </anime>
   <anime anidbid="16732" tvdbid="410147" defaulttvdbseason="1">
     <name>Shinmai Renkinjutsushi no Tenpo Keiei</name>
   </anime>
@@ -35774,6 +35780,9 @@
   </anime>
   <anime anidbid="17118" tvdbid="416684" defaulttvdbseason="1">
     <name>Teppen!!!!!!!!!!!!!!!</name>
+  </anime>
+  <anime anidbid="17122" tvdbid="379528" defaulttvdbseason="3">
+    <name>Han Hua Ri Ji Di San Ji</name>
   </anime>
   <anime anidbid="17125" tvdbid="376751" defaulttvdbseason="3">
     <name>Xian Wang de Richang Shenghuo Di San Ji</name>
