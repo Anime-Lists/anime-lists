@@ -40808,6 +40808,7 @@
   <anime anidbid="14804" tvdbid="259675" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="tt10915840">
     <name>Uchuu Senkan Yamato 2205: Aratanaru Tabidachi</name>
     <mapping-list>
+      <mapping anidbseason="1" tvdbseason="3">;1-0;2-0;</mapping>
       <mapping anidbseason="0" tvdbseason="3">;401-1;402-2;403-3;404-4;405-5;406-6;407-7;408-8;</mapping>
     </mapping-list>
   </anime>
