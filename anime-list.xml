@@ -6842,7 +6842,7 @@
     <name>Kannazuki no Miko</name>
   </anime>
   <anime anidbid="2144" tvdbid="81104" defaulttvdbseason="1">
-    <name>Kidou Senshi Gundam MS IGLOO: 1-nen Sensou Hiroku</name>
+    <name>Kidou Senshi Gundam MS Igloo: 1-nen Sensou Hiroku</name>
   </anime>
   <anime anidbid="2145" tvdbid="hentai" defaulttvdbseason="1">
     <name>Suika</name>
@@ -24461,6 +24461,9 @@
   <anime anidbid="10605" tvdbid="web" defaulttvdbseason="1">
     <name>Tuzki: Love Assassin</name>
   </anime>
+  <anime anidbid="10607" tvdbid="259675" defaulttvdbseason="0">
+    <name>Uchuu Senkan Yamato 2199: Tsuioku no Koukai</name>
+  </anime>
   <anime anidbid="10609" tvdbid="281253" defaulttvdbseason="1">
     <name>Majimoji Rurumo</name>
   </anime>
@@ -26803,6 +26806,9 @@
   </anime>
   <anime anidbid="12048" tvdbid="299497" defaulttvdbseason="2">
     <name>Kidou Senshi Gundam: Tekketsu no Orphans (2016)</name>
+  </anime>
+  <anime anidbid="12051" tvdbid="259675" defaulttvdbseason="2">
+    <name>Uchuu Senkan Yamato 2202: Ai no Senshi-tachi</name>
   </anime>
   <anime anidbid="12053" tvdbid="313185" defaulttvdbseason="1">
     <name>Brotherhood: Final Fantasy XV</name>
@@ -30196,6 +30202,13 @@
   </anime>
   <anime anidbid="14802" tvdbid="320002" defaulttvdbseason="0" episodeoffset="11" imdbid="tt11056458">
     <name>Bang Dream! Film Live</name>
+  </anime>
+  <anime anidbid="14804" tvdbid="259675" defaulttvdbseason="3" imdbid="tt10915840">
+    <name>Uchuu Senkan Yamato 2205: Aratanaru Tabidachi</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="3">;1-0;2-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="3">;401-1;402-2;403-3;404-4;405-5;406-6;407-7;408-8;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14805" tvdbid="366358" defaulttvdbseason="1">
     <name>Hakata Mentai! Pirikarako-chan</name>

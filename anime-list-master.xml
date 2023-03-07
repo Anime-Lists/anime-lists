@@ -7304,7 +7304,7 @@
     <name>PostPet Momobin</name>
   </anime>
   <anime anidbid="2144" tvdbid="81104" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kidou Senshi Gundam MS IGLOO: 1-nen Sensou Hiroku</name>
+    <name>Kidou Senshi Gundam MS Igloo: 1-nen Sensou Hiroku</name>
   </anime>
   <anime anidbid="2145" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Suika</name>
@@ -12364,7 +12364,7 @@
     <name>Cleavage</name>
   </anime>
   <anime anidbid="4195" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kidou Senshi Gundam MS IGLOO: Mokushiroku 0079</name>
+    <name>Kidou Senshi Gundam MS Igloo: Mokushiroku 0079</name>
   </anime>
   <anime anidbid="4196" tvdbid="79796" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Air Gear</name>
@@ -15503,7 +15503,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="5464" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Ichigo Ichie Koibana Tomobana</name>
+    <name>Ichigo Ichie: Koibana Tomobana</name>
   </anime>
   <anime anidbid="5465" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Jokutsuma</name>
@@ -16470,7 +16470,7 @@
     <name>What's Michael?</name>
   </anime>
   <anime anidbid="5949" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kidou Senshi Gundam MS IGLOO 2 Juuryoku Sensen</name>
+    <name>Kidou Senshi Gundam MS Igloo 2: Juuryoku Sensen</name>
   </anime>
   <anime anidbid="5950" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hime Dorei: Mesu e to Ochiyuku Futago no Oujo</name>
@@ -29129,7 +29129,7 @@
   <anime anidbid="10605" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tuzki: Love Assassin</name>
   </anime>
-  <anime anidbid="10607" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10607" tvdbid="259675" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Uchuu Senkan Yamato 2199: Tsuioku no Koukai</name>
   </anime>
   <anime anidbid="10609" tvdbid="281253" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -33053,7 +33053,7 @@
   <anime anidbid="12050" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>A-Jang.com</name>
   </anime>
-  <anime anidbid="12051" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12051" tvdbid="259675" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Uchuu Senkan Yamato 2202: Ai no Senshi-tachi</name>
   </anime>
   <anime anidbid="12053" tvdbid="313185" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -36398,7 +36398,7 @@
     <name>Vatican Kiseki Chousakan: Majo no Soup</name>
   </anime>
   <anime anidbid="13272" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Maguro no Notta Keikan</name>
+    <name>Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Maguro ni Notta Keikan</name>
   </anime>
   <anime anidbid="13273" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Grisaia: Phantom Trigger the Animation</name>
@@ -40805,8 +40805,12 @@
   <anime anidbid="14803" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Vampire</name>
   </anime>
-  <anime anidbid="14804" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14804" tvdbid="259675" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="tt10915840">
     <name>Uchuu Senkan Yamato 2205: Aratanaru Tabidachi</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="3">;1-0;2-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="3">;401-1;402-2;403-3;404-4;405-5;406-6;407-7;408-8;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14805" tvdbid="366358" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hakata Mentai! Pirikarako-chan</name>
@@ -41958,7 +41962,7 @@
     <name>Yinyang Shi: Pingan Wuyu 2</name>
   </anime>
   <anime anidbid="15249" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>** Kouhai</name>
+    <name>**** Kouhai</name>
   </anime>
   <anime anidbid="15250" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Nezha: Mo Tong Jiang Shi</name>
@@ -49208,5 +49212,41 @@
   </anime>
   <anime anidbid="17879" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kyuujitsu no Warumono-san</name>
+  </anime>
+  <anime anidbid="17880" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Fushigi no Kuni no Succubus</name>
+  </anime>
+  <anime anidbid="17881" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>1LDK+JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?</name>
+  </anime>
+  <anime anidbid="17882" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Bosanimal</name>
+  </anime>
+  <anime anidbid="17883" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Pokemon Concierge</name>
+  </anime>
+  <anime anidbid="17884" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Gekai Elise</name>
+  </anime>
+  <anime anidbid="17885" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Yao-Chinese Folktales</name>
+  </anime>
+  <anime anidbid="17886" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Maid Kyouiku. Botsuraku Kizoku Rurikawa Tsubaki The Animation</name>
+  </anime>
+  <anime anidbid="17887" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kawagoe Boys Sing</name>
+  </anime>
+  <anime anidbid="17888" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Taisu Project</name>
+  </anime>
+  <anime anidbid="17889" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Chibi Godzilla no Gyakushuu</name>
+  </anime>
+  <anime anidbid="17890" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Eiga Precure All Stars F</name>
+  </anime>
+  <anime anidbid="17891" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Sore Shikanai Wakenai Deshou</name>
   </anime>
 </anime-list>
