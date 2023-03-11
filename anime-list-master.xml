@@ -10876,7 +10876,7 @@
     <name>Gintama</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;3-0;4-3;</mapping>
-      <mapping anidbseason="1" tvdbseason="2" start="1" end="49"/>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="49"/>
       <mapping anidbseason="1" tvdbseason="2" start="50" end="99" offset="-49"/>
       <mapping anidbseason="1" tvdbseason="3" start="100" end="150" offset="-99"/>
       <mapping anidbseason="1" tvdbseason="4" start="151" end="201" offset="-150"/>
