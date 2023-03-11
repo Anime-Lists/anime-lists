@@ -2436,7 +2436,7 @@
       <mapping anidbseason="1" tvdbseason="1" start="1" end="26"/>
       <mapping anidbseason="1" tvdbseason="2" start="27" end="52" offset="-26"/>
       <mapping anidbseason="1" tvdbseason="3" start="53" end="78" offset="-52"/>
-      <mapping anidbseason="1" tvdbseason="4" start="79" end="104" offset="-78"/>
+      <mapping anidbseason="1" tvdbseason="4" start="79" end="101" offset="-78"/>
     </mapping-list>
   </anime>
   <anime anidbid="591" tvdbid="87191" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
