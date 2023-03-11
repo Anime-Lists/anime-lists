@@ -2432,6 +2432,12 @@
   </anime>
   <anime anidbid="590" tvdbid="72491" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Slam Dunk</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="26"/>
+      <mapping anidbseason="1" tvdbseason="2" start="27" end="52" offset="-26"/>
+      <mapping anidbseason="1" tvdbseason="3" start="53" end="78" offset="-52"/>
+      <mapping anidbseason="1" tvdbseason="4" start="79" end="104" offset="-78"/>
+    </mapping-list>
   </anime>
   <anime anidbid="591" tvdbid="87191" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mirai Keisatsu Urashiman</name>
@@ -10870,6 +10876,7 @@
     <name>Gintama</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;3-0;4-3;</mapping>
+      <mapping anidbseason="1" tvdbseason="2" start="1" end="49"/>
       <mapping anidbseason="1" tvdbseason="2" start="50" end="99" offset="-49"/>
       <mapping anidbseason="1" tvdbseason="3" start="100" end="150" offset="-99"/>
       <mapping anidbseason="1" tvdbseason="4" start="151" end="201" offset="-150"/>
