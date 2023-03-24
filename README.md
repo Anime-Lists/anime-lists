@@ -8,7 +8,6 @@ Anime mapping lists used by:
   - [MyAnimeList Plex Metadata Agent](https://github.com/Fribb/MyAnimeList.bundle)
   - [Ani-Sync Jellyfin Plugin](https://github.com/vosmiic/jellyfin-ani-sync) for [Jellyfin](https://jellyfin.org/)
   - [JellySeer](https://github.com/Fallenbagel/jellyseerr)
-  - [Medusa](https://github.com/pymedusa/Medusa)
   - [Overseer](https://github.com/sct/overseerr)
   
 These lists map information between [AniDB](https://anidb.net), [TheTVDB](https://www.thetvdb.com), [TMDB](https://www.themoviedb.org) and [IMDB](https://www.imdb.com).
