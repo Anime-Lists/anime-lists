@@ -20,7 +20,7 @@ This list contains groupings of anime titles that are suitable as movie sets (in
 
 ### anime-list-master.xml ###
 This list contains entries for every title on AniDb.net and serves as a template from which all the remaining lists are derived.
-Feel free to [contribute to it](/#contributing) if you notice missing or mismatched entries
+Feel free to [contribute to it](#contributing) if you notice missing or mismatched entries
 
 ### anime-list.xml ###
 The default list used by the scraper.  Contains all entries from the master list that are not empty or marked as "unknown".
