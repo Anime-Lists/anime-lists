@@ -6,8 +6,10 @@ Anime mapping lists used by:
   - [HTTP Anidb Metadata Agent (HAMA)](https://github.com/ZeroQI/Hama.bundle) for [Plex](https://plex.tv)
   - [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager)
   - [MyAnimeList Plex Metadata Agent](https://github.com/Fribb/MyAnimeList.bundle)
-
-
+  - [Ani-Sync Jellyfin Plugin](https://github.com/vosmiic/jellyfin-ani-sync) for [Jellyfin](https://jellyfin.org/)
+  - [JellySeer](https://github.com/Fallenbagel/jellyseerr)
+  - [Overseer](https://github.com/sct/overseerr)
+  
 These lists map information between [AniDB](https://anidb.net), [TheTVDB](https://www.thetvdb.com), [TMDB](https://www.themoviedb.org) and [IMDB](https://www.imdb.com).
 
 The Lists
@@ -18,7 +20,7 @@ This list contains groupings of anime titles that are suitable as movie sets (in
 
 ### anime-list-master.xml ###
 This list contains entries for every title on AniDb.net and serves as a template from which all the remaining lists are derived.
-Feel free to [contribute to it](/#contributing) if you notice missing or mismatched entries
+Feel free to [contribute to it](#contributing) if you notice missing or mismatched entries
 
 ### anime-list.xml ###
 The default list used by the scraper.  Contains all entries from the master list that are not empty or marked as "unknown".

@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <anime-list>
-  <anime anidbid="249" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Pia Carrot e Youkoso!!</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
-    </mapping-list>
-  </anime>
-  <anime anidbid="340" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Sore Yuke! Uchuu Senkan Yamamoto Youko (1999)</name>
-  </anime>
   <anime anidbid="357" tvdbid="unknown" defaulttvdbseason="1">
     <name>Test Anime</name>
   </anime>
