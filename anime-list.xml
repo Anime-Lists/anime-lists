@@ -28139,6 +28139,9 @@
   <anime anidbid="13228" tvdbid="movie" tmdbid="495925" imdbid="tt8098546">
     <name>Eiga Doraemon: Nobita no Takarajima</name>
   </anime>
+  <anime anidbid="13237" tvdbid="324710" defaulttvdbseason="2">
+    <name>Gin no Guardian II</name>
+  </anime>
   <anime anidbid="13238" tvdbid="344076" defaulttvdbseason="1">
     <name>Comic Girls</name>
   </anime>
@@ -32977,6 +32980,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-8+9;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="17648" tvdbid="418364" defaulttvdbseason="2">
+    <name>Kidou Senshi Gundam: Suisei no Majo (2023)</name>
   </anime>
   <anime anidbid="17651" tvdbid="425520" defaulttvdbseason="1">
     <name>Revenger</name>
