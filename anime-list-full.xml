@@ -36353,7 +36353,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-8+9;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="17648" tvdbid="418364" defaulttvdbseason="2">
+  <anime anidbid="17648" tvdbid="418364" defaulttvdbseason="1" episodeoffset="12">
     <name>Kidou Senshi Gundam: Suisei no Majo (2023)</name>
   </anime>
   <anime anidbid="17651" tvdbid="425520" defaulttvdbseason="1">
