@@ -4723,7 +4723,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="1321" tvdbid="81961" defaulttvdbseason="1">
-    <name>Kita e: Diamond Dust Drops</name>
+    <name>Kita e.: Diamond Dust Drops</name>
   </anime>
   <anime anidbid="1322" tvdbid="81113" defaulttvdbseason="1">
     <name>Hikari to Mizu no Daphne</name>
@@ -21639,7 +21639,7 @@
     <name>Vividred Operation</name>
   </anime>
   <anime anidbid="9243" tvdbid="81961" defaulttvdbseason="0">
-    <name>Kita e: Pure Session</name>
+    <name>Kita e.: Pure Session</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
@@ -33071,6 +33071,9 @@
   <anime anidbid="17759" tvdbid="425285" defaulttvdbseason="1">
     <name>Oemo Jisang Juui</name>
   </anime>
+  <anime anidbid="17777" tvdbid="76703" defaulttvdbseason="20">
+    <name>Pocket Monsters (2023)</name>
+  </anime>
   <anime anidbid="17789" tvdbid="410378" defaulttvdbseason="2">
     <name>Tensei Shitara Ken Deshita 2</name>
   </anime>
@@ -33115,6 +33118,9 @@
   </anime>
   <anime anidbid="17910" tvdbid="432449" defaulttvdbseason="1">
     <name>Mahou Shoujo ni Akogarete</name>
+  </anime>
+  <anime anidbid="17912" tvdbid="372939" defaulttvdbseason="4">
+    <name>Majutsushi Orphen Hagure Tabi: Seiiki Hen</name>
   </anime>
   <anime anidbid="17914" tvdbid="432531" defaulttvdbseason="1">
     <name>Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san</name>
