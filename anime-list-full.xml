@@ -4807,7 +4807,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="1321" tvdbid="81961" defaulttvdbseason="1">
-    <name>Kita e: Diamond Dust Drops</name>
+    <name>Kita e.: Diamond Dust Drops</name>
   </anime>
   <anime anidbid="1322" tvdbid="81113" defaulttvdbseason="1">
     <name>Hikari to Mizu no Daphne</name>
@@ -24729,7 +24729,7 @@
     <name>Vividred Operation</name>
   </anime>
   <anime anidbid="9243" tvdbid="81961" defaulttvdbseason="0">
-    <name>Kita e: Pure Session</name>
+    <name>Kita e.: Pure Session</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
@@ -35306,6 +35306,9 @@
   <anime anidbid="16317" tvdbid="hentai" defaulttvdbseason="1">
     <name>Succubus Appli: Gakuen Sai*</name>
   </anime>
+  <anime anidbid="16320" tvdbid="402893" defaulttvdbseason="1">
+    <name>Mahou Shoujo Magical Destroyers</name>
+  </anime>
   <anime anidbid="16325" tvdbid="405227" defaulttvdbseason="1">
     <name>Fantasy Bishoujo Juniku Ojisan to</name>
   </anime>
@@ -35663,6 +35666,9 @@
   <anime anidbid="16940" tvdbid="411914" defaulttvdbseason="1">
     <name>Birdie Wing: Golf Girls' Story</name>
   </anime>
+  <anime anidbid="16943" tvdbid="415509" defaulttvdbseason="1">
+    <name>Chiikawa</name>
+  </anime>
   <anime anidbid="16945" tvdbid="hentai" defaulttvdbseason="1">
     <name>Ero Ishi: Seijun Bishoujo o Kotoba Takumi ni Hametai Houdai</name>
   </anime>
@@ -35858,6 +35864,9 @@
   <anime anidbid="17146" tvdbid="414947" defaulttvdbseason="1">
     <name>Kami wa Game ni Uete Iru.</name>
   </anime>
+  <anime anidbid="17147" tvdbid="414965" defaulttvdbseason="1">
+    <name>Alice Gear Aegis Expansion</name>
+  </anime>
   <anime anidbid="17150" tvdbid="415061" defaulttvdbseason="1">
     <name>Hoshi no Samidare</name>
   </anime>
@@ -36023,6 +36032,9 @@
   <anime anidbid="17300" tvdbid="385077" defaulttvdbseason="0" episodeoffset="14">
     <name>Tonikaku Kawaii: Seifuku</name>
   </anime>
+  <anime anidbid="17301" tvdbid="424278" defaulttvdbseason="1">
+    <name>The Idolmaster: Cinderella Girls - U149</name>
+  </anime>
   <anime anidbid="17303" tvdbid="267440" defaulttvdbseason="4" episodeoffset="28">
     <name>Shingeki no Kyojin: The Final Season (2023)</name>
   </anime>
@@ -36073,6 +36085,9 @@
   </anime>
   <anime anidbid="17346" tvdbid="hentai" defaulttvdbseason="1">
     <name>Haji+</name>
+  </anime>
+  <anime anidbid="17351" tvdbid="344220" defaulttvdbseason="3">
+    <name>Uma Musume: Pretty Derby - Road to the Top</name>
   </anime>
   <anime anidbid="17353" tvdbid="419854" defaulttvdbseason="1">
     <name>Level 1 Dakedo Unique Skill de Saikyou Desu</name>
@@ -36326,6 +36341,9 @@
   <anime anidbid="17632" tvdbid="425478" defaulttvdbseason="1">
     <name>Nijiyon Animation</name>
   </anime>
+  <anime anidbid="17633" tvdbid="397280" defaulttvdbseason="2">
+    <name>Tokyo Mew Mew New (2023)</name>
+  </anime>
   <anime anidbid="17637" tvdbid="423413" defaulttvdbseason="1">
     <name>Yamada-kun to Lv999 no Koi o Suru</name>
   </anime>
@@ -36416,17 +36434,29 @@
   <anime anidbid="17702" tvdbid="426834" defaulttvdbseason="1">
     <name>Tensei Shitara Dai Nana Ouji Datta no de, Kimamani Majutsu o Kiwamemasu</name>
   </anime>
+  <anime anidbid="17711" tvdbid="427027" defaulttvdbseason="1">
+    <name>The Marginal Service</name>
+  </anime>
   <anime anidbid="17713" tvdbid="427074" defaulttvdbseason="1">
     <name>Kizuna no Allele</name>
   </anime>
   <anime anidbid="17719" tvdbid="427239" defaulttvdbseason="1">
     <name>Dead Mount Death Play</name>
   </anime>
+  <anime anidbid="17720" tvdbid="427276" defaulttvdbseason="1">
+    <name>Jijou o Shiranai Tenkousei ga Guigui Kuru.</name>
+  </anime>
   <anime anidbid="17733" tvdbid="hentai" defaulttvdbseason="1">
     <name>Imouto wa Gal Kawaii</name>
   </anime>
+  <anime anidbid="17734" tvdbid="428539" defaulttvdbseason="1">
+    <name>Pole Princess!!</name>
+  </anime>
   <anime anidbid="17735" tvdbid="hentai" defaulttvdbseason="1">
     <name>Ikumonogakari The Animation</name>
+  </anime>
+  <anime anidbid="17739" tvdbid="427708" defaulttvdbseason="1">
+    <name>World Dai Star</name>
   </anime>
   <anime anidbid="17741" tvdbid="hentai" defaulttvdbseason="1">
     <name>Majo wa Kekkyoku Sono Kyaku to... The Animation</name>
@@ -36443,8 +36473,14 @@
   <anime anidbid="17759" tvdbid="425285" defaulttvdbseason="1">
     <name>Oemo Jisang Juui</name>
   </anime>
+  <anime anidbid="17777" tvdbid="76703" defaulttvdbseason="20">
+    <name>Pocket Monsters (2023)</name>
+  </anime>
   <anime anidbid="17789" tvdbid="410378" defaulttvdbseason="2">
     <name>Tensei Shitara Ken Deshita 2</name>
+  </anime>
+  <anime anidbid="17800" tvdbid="432849" defaulttvdbseason="1">
+    <name>Aiyou de Mishi</name>
   </anime>
   <anime anidbid="17802" tvdbid="429055" defaulttvdbseason="1">
     <name>16bit Sensation: Another Layer</name>
@@ -36463,6 +36499,9 @@
   </anime>
   <anime anidbid="17860" tvdbid="430925" defaulttvdbseason="1">
     <name>Toaru Ossan no VRMMO Katsudou Ki</name>
+  </anime>
+  <anime anidbid="17867" tvdbid="431237" defaulttvdbseason="1">
+    <name>Kuromi's Pretty Journey</name>
   </anime>
   <anime anidbid="17870" tvdbid="431162" defaulttvdbseason="1">
     <name>Kusuriya no Hitorigoto</name>
