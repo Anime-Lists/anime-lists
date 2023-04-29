@@ -31153,6 +31153,9 @@
       <mapping anidbseason="1" tvdbseason="0">;1-31;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="15587" tvdbid="tv special" defaulttvdbseason="1" imdbid="tt12441478">
+    <name>Aya to Majo</name>
+  </anime>
   <anime anidbid="15593" tvdbid="305089" defaulttvdbseason="2" episodeoffset="13">
     <name>Re:Zero kara Hajimeru Isekai Seikatsu (2021)</name>
     <mapping-list>
