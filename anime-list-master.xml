@@ -16138,6 +16138,9 @@
   </anime>
   <anime anidbid="5786" tvdbid="82807" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sekirei</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="5787" tvdbid="82788" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Natsume Yuujinchou</name>
@@ -30557,7 +30560,7 @@
   <anime anidbid="11135" tvdbid="289763" defaulttvdbseason="1" episodeoffset="13" tmdbid="" imdbid="">
     <name>The Idolmaster: Cinderella Girls (2015)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="2" end="4" offset="1"/>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="3" offset="0">;1-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="11136" tvdbid="272129" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -34004,7 +34007,7 @@
     </mapping-list>
     <before>;1-1;2-3;</before>
   </anime>
-  <anime anidbid="12431" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12431" tvdbid="307868" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Orange: Mirai</name>
   </anime>
   <anime anidbid="12432" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -35957,7 +35960,7 @@
     <name>Konbini Kareshi</name>
   </anime>
   <anime anidbid="13118" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Jinryoku Senkan!? Shiokaze Sawakaze</name>
+    <name>Jinriki Senkan!? Shiokaze Sawakaze</name>
   </anime>
   <anime anidbid="13119" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Nui Nui Hinobori San Kyoudai</name>
@@ -38615,7 +38618,7 @@
   <anime anidbid="14046" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Morimori Shima no Mogu to Perol</name>
   </anime>
-  <anime anidbid="14047" tvdbid="250022" defaulttvdbseason="0" episodeoffset="9" tmdbid="" imdbid="">
+  <anime anidbid="14047" tvdbid="250022" defaulttvdbseason="0" episodeoffset="8" tmdbid="" imdbid="">
     <name>Yuru Yuri Ten</name>
   </anime>
   <anime anidbid="14048" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -43685,7 +43688,7 @@
   <anime anidbid="15868" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Puparia</name>
   </anime>
-  <anime anidbid="15869" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15869" tvdbid="355969" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Watashi ni Tenshi ga Maiorita! Precious Friends</name>
   </anime>
   <anime anidbid="15870" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -47988,7 +47991,7 @@
     <name>Xixing Ji: Chongsheng Pian</name>
   </anime>
   <anime anidbid="17449" tvdbid="421069" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Oshi no Ko</name>
+    <name>"Oshi no Ko"</name>
   </anime>
   <anime anidbid="17450" tvdbid="402180" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Obey Me! (2022)</name>
@@ -48615,7 +48618,7 @@
     <name>Tsuyokute New Saga</name>
   </anime>
   <anime anidbid="17673" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Bartender (Shin Anime)</name>
+    <name>Bartender: Kami no Glass</name>
   </anime>
   <anime anidbid="17674" tvdbid="426294" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Buddy Daddies</name>
@@ -49119,7 +49122,7 @@
     <name>Hametsu no Oukoku</name>
   </anime>
   <anime anidbid="17847" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kokuhaku...</name>
+    <name>Kokuhaku......</name>
   </anime>
   <anime anidbid="17850" tvdbid="425148" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Berserk: Ougon Jidai-hen - Memorial Edition</name>
@@ -49185,7 +49188,7 @@
     <name>Kyoukai Senki: Kyokkou no Souki</name>
   </anime>
   <anime anidbid="17872" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Koumi Shima ~Shuu 7 de Umeru Mesu-tachi~</name>
+    <name>Koumi-jima: Shuu 7 de Umeru Mesu-tachi</name>
   </anime>
   <anime anidbid="17873" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tensei Shitara Slime Datta Ken: Corius no Yume</name>
@@ -49210,9 +49213,6 @@
   </anime>
   <anime anidbid="17880" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Fushigi no Kuni no Succubus</name>
-  </anime>
-  <anime anidbid="17881" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>1LDK+JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?</name>
   </anime>
   <anime anidbid="17882" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Bosanimal</name>
@@ -49543,5 +49543,92 @@
   </anime>
   <anime anidbid="17994" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Amagami-san Chi no Enmusubi</name>
+  </anime>
+  <anime anidbid="17995" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>My Mother The Animation</name>
+  </anime>
+  <anime anidbid="17996" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xyrin Empire</name>
+  </anime>
+  <anime anidbid="17997" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Vapor Trail</name>
+  </anime>
+  <anime anidbid="17998" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Girls Band Cry</name>
+  </anime>
+  <anime anidbid="17999" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Oroka na Tenshi wa Akuma to Odoru</name>
+  </anime>
+  <anime anidbid="18000" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Aishang Ta de Liyou</name>
+  </anime>
+  <anime anidbid="18001" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Hokkyoku Hyakkaten no Concierge-san</name>
+  </anime>
+  <anime anidbid="18002" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Ensemble Stars!! Tsuioku Selection "Crossroad"</name>
+  </anime>
+  <anime anidbid="18003" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>A Log Day of Timbre</name>
+  </anime>
+  <anime anidbid="18004" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Chikkun Takkun (1999)</name>
+  </anime>
+  <anime anidbid="18005" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Zhe Tian</name>
+  </anime>
+  <anime anidbid="18006" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Zhui Xu</name>
+  </anime>
+  <anime anidbid="18007" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>So_low</name>
+  </anime>
+  <anime anidbid="18008" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>1LDK + JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?</name>
+  </anime>
+  <anime anidbid="18009" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Okusama no Kaifukujutsu The Animation</name>
+  </anime>
+  <anime anidbid="18010" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Kunoichi **den Ajisai</name>
+  </anime>
+  <anime anidbid="18011" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>The Ravages of Time</name>
+  </anime>
+  <anime anidbid="18012" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Komada Jouryuusho e Youkoso</name>
+  </anime>
+  <anime anidbid="18013" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Yarinaoshi Reijou wa Ryuutei Heika o Kouryakuchuu</name>
+  </anime>
+  <anime anidbid="18014" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Jiuzhou Piaomiao Lu</name>
+  </anime>
+  <anime anidbid="18015" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Yuzuki-san Chi no Yon Kyoudai.</name>
+  </anime>
+  <anime anidbid="18016" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tanetsuke Ojisan to NTR Hitozuma Sex The Animation</name>
+  </anime>
+  <anime anidbid="18017" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tanetsuke Ojisan to Papakko JD Saimin Seikatsu The Animation</name>
+  </anime>
+  <anime anidbid="18019" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Oi! Tonbo</name>
+  </anime>
+  <anime anidbid="18020" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Yami Shibai 11</name>
+  </anime>
+  <anime anidbid="18021" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shinzou Ningen Struggle Bunny</name>
+  </anime>
+  <anime anidbid="18022" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Idol</name>
+  </anime>
+  <anime anidbid="18023" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Mamekichi Mameko NEET no Nichijou (2023)</name>
+  </anime>
+  <anime anidbid="18024" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Jashin-chan Dropkick "Seikimatsu Hen"</name>
   </anime>
 </anime-list>

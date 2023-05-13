@@ -16072,6 +16072,9 @@
   </anime>
   <anime anidbid="5786" tvdbid="82807" defaulttvdbseason="1">
     <name>Sekirei</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="5787" tvdbid="82788" defaulttvdbseason="1">
     <name>Natsume Yuujinchou</name>
@@ -28742,7 +28745,7 @@
   <anime anidbid="11135" tvdbid="289763" defaulttvdbseason="1" episodeoffset="13">
     <name>The Idolmaster: Cinderella Girls (2015)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="2" end="4" offset="1"/>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="3" offset="0">;1-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="11136" tvdbid="272129" defaulttvdbseason="0">
@@ -30604,6 +30607,9 @@
       <mapping anidbseason="0" tvdbseason="0">;1-8;2-9;3-10;4-11;5-12;6-13;7-14</mapping>
     </mapping-list>
     <before>;1-1;2-3;</before>
+  </anime>
+  <anime anidbid="12431" tvdbid="307868" defaulttvdbseason="0">
+    <name>Orange: Mirai</name>
   </anime>
   <anime anidbid="12433" tvdbid="320003" defaulttvdbseason="1">
     <name>Nyanko Days</name>
@@ -32519,7 +32525,7 @@
   <anime anidbid="14044" tvdbid="348719" defaulttvdbseason="1">
     <name>Aguu: Tensai Ningyou</name>
   </anime>
-  <anime anidbid="14047" tvdbid="250022" defaulttvdbseason="0" episodeoffset="9">
+  <anime anidbid="14047" tvdbid="250022" defaulttvdbseason="0" episodeoffset="8">
     <name>Yuru Yuri Ten</name>
   </anime>
   <anime anidbid="14049" tvdbid="320002" defaulttvdbseason="0" episodeoffset="1">
@@ -34808,6 +34814,9 @@
   <anime anidbid="15867" tvdbid="392226" defaulttvdbseason="1">
     <name>Tunshi Xingkong</name>
   </anime>
+  <anime anidbid="15869" tvdbid="355969" defaulttvdbseason="0" episodeoffset="1">
+    <name>Watashi ni Tenshi ga Maiorita! Precious Friends</name>
+  </anime>
   <anime anidbid="15872" tvdbid="392944" defaulttvdbseason="1">
     <name>Tropical-Rouge! Precure</name>
   </anime>
@@ -36147,7 +36156,7 @@
     <name>Itou Junji: Maniac</name>
   </anime>
   <anime anidbid="17449" tvdbid="421069" defaulttvdbseason="1">
-    <name>Oshi no Ko</name>
+    <name>"Oshi no Ko"</name>
   </anime>
   <anime anidbid="17450" tvdbid="402180" defaulttvdbseason="2">
     <name>Obey Me! (2022)</name>
@@ -36256,6 +36265,9 @@
   </anime>
   <anime anidbid="17553" tvdbid="423096" defaulttvdbseason="1">
     <name>Okashi na Tensei</name>
+  </anime>
+  <anime anidbid="17556" tvdbid="360761" defaulttvdbseason="2">
+    <name>Mix: Meisei Story 2nd Season - Nidome no Natsu, Sora no Mukou e</name>
   </anime>
   <anime anidbid="17557" tvdbid="423121" defaulttvdbseason="1">
     <name>Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou</name>
@@ -36498,7 +36510,7 @@
     <name>Hametsu no Oukoku</name>
   </anime>
   <anime anidbid="17847" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Kokuhaku...</name>
+    <name>Kokuhaku......</name>
   </anime>
   <anime anidbid="17850" tvdbid="425148" defaulttvdbseason="1">
     <name>Berserk: Ougon Jidai-hen - Memorial Edition</name>
