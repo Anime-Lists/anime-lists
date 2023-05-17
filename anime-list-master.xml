@@ -33831,7 +33831,7 @@
   <anime anidbid="12361" tvdbid="262098" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt7833606,tt7834494,tt12286898">
     <name>Girls und Panzer: Saishuushou</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-43;2-46;3-47;4-50;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-46;2-52;3-43;4-47;5-53;6-50;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-41;2-45;3-51;</mapping>
     </mapping-list>
   </anime>
