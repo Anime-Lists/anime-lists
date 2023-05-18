@@ -1773,11 +1773,8 @@
   <anime anidbid="410" tvdbid="113591" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kurogane Communication</name>
   </anime>
-  <anime anidbid="411" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0814243">
+  <anime anidbid="411" tvdbid="81797" defaulttvdbseason="0" episodeoffset="1" tmdbid="19576" imdbid="tt0814243">
     <name>One Piece (2000)</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="412" tvdbid="79174" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Z.O.E Dolores,i</name>
@@ -3470,7 +3467,7 @@
   <anime anidbid="892" tvdbid="71459" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="">
     <name>Ai Tenshi Densetsu Wedding Peach DX</name>
   </anime>
-  <anime anidbid="893" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0832449">
+  <anime anidbid="893" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="23446" imdbid="tt0832449">
     <name>One Piece: Nejimakijima no Bouken</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-5;</mapping>
@@ -4615,14 +4612,14 @@
   <anime anidbid="1252" tvdbid="207111" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kingdom of Chaos: Born to Kill</name>
   </anime>
-  <anime anidbid="1253" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0997084">
+  <anime anidbid="1253" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="44725" imdbid="tt0997084">
     <name>One Piece: Chinjuujima no Chopper Oukoku</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-7;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="1254" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1006926">
+  <anime anidbid="1254" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="44727" imdbid="tt1006926">
     <name>One Piece The Movie: Dead End no Bouken</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-8;2-8;3-8;</mapping>
@@ -6931,7 +6928,7 @@
   <anime anidbid="2034" tvdbid="265533" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Lingerie Senshi Papillon Rose</name>
   </anime>
-  <anime anidbid="2036" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1010435">
+  <anime anidbid="2036" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="44728" imdbid="tt1010435">
     <name>One Piece: Norowareta Seiken</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-12;</mapping>
@@ -8848,11 +8845,8 @@
       <mapping anidbseason="1" tvdbseason="0">;401-17;402-18;403-18;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="2644" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1018764">
+  <anime anidbid="2644" tvdbid="81797" defaulttvdbseason="0" episodeoffset="12" tmdbid="44729" imdbid="tt1018764">
     <name>One Piece: Omatsuri Danshaku to Himitsu no Shima</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-13;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="2645" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0965649">
     <name>Meitantei Conan: Juuyonbanme no Target</name>
@@ -9109,11 +9103,8 @@
   <anime anidbid="2735" tvdbid="179311" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Glass no Kamen: Sen no Kamen o Motsu Shoujo</name>
   </anime>
-  <anime anidbid="2736" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1012788">
+  <anime anidbid="2736" tvdbid="81797" defaulttvdbseason="0" episodeoffset="0" tmdbid="116315" imdbid="tt1012788">
     <name>One Piece: Taose! Kaizoku Ganzack</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="2737" tvdbid="82737" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Gera Gera Booth Monogatari</name>
@@ -12066,11 +12057,8 @@
       <studio>Sunrise</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="4097" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1059950">
+  <anime anidbid="4097" tvdbid="81797" defaulttvdbseason="0" episodeoffset="14" tmdbid="44730" imdbid="tt1059950">
     <name>One Piece The Movie: Karakurijou no Mecha Kyohei</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="4098" tvdbid="232181" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Wild 7</name>
@@ -14016,11 +14004,8 @@
   <anime anidbid="4848" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mahou no Rouge Lipstick</name>
   </anime>
-  <anime anidbid="4851" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1037116">
+  <anime anidbid="4851" tvdbid="81797" defaulttvdbseason="0" episodeoffset="15" tmdbid="25278" imdbid="tt1037116">
     <name>One Piece: Episode of Arabasta - Sabaku no Oujo to Kaizoku-tachi</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-16;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="4852" tvdbid="80900" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Aika R-16</name>
@@ -15955,11 +15940,8 @@
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="5691" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1206326">
+  <anime anidbid="5691" tvdbid="81797" defaulttvdbseason="0" episodeoffset="16" tmdbid="44731" imdbid="tt1206326">
     <name>One Piece The Movie: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-17;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="5693" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0259534">
     <name>Ramayana: Rama Ouji Densetsu</name>
@@ -16996,11 +16978,8 @@
   <anime anidbid="6196" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sukeban Shokai Cutie Lemon</name>
   </anime>
-  <anime anidbid="6199" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="6199" tvdbid="81797" defaulttvdbseason="0" episodeoffset="17" tmdbid="422807" imdbid="unknown">
     <name>One Piece Special: Romance Dawn Story</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-18;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="6200" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Umigame to Shounen</name>
@@ -17774,11 +17753,8 @@
   <anime anidbid="6536" tvdbid="250266" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1492851">
     <name>Gekijouban Yatterman: Shin Yattermecha Daishuugou! Omocha no Kuni de Daiketsudan Da Koron!</name>
   </anime>
-  <anime anidbid="6537" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1485763">
+  <anime anidbid="6537" tvdbid="81797" defaulttvdbseason="0" episodeoffset="18" tmdbid="41498" imdbid="tt1485763">
     <name>One Piece Film: Strong World</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-19;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="6538" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hyakujitsu no Bara</name>
@@ -20717,11 +20693,8 @@
       <mapping anidbseason="1" tvdbseason="0">;1-27;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="7538" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="7538" tvdbid="81797" defaulttvdbseason="0" episodeoffset="19" tmdbid="270413" imdbid="">
     <name>One Piece Film: Strong World - Episode 0</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-20;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="7539" tvdbid="184211" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Kaibutsu-kun: Kaibutsu Land e no Shoutai</name>
@@ -22099,11 +22072,8 @@
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="8010" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1865467">
+  <anime anidbid="8010" tvdbid="81797" defaulttvdbseason="0" episodeoffset="20" tmdbid="79082" imdbid="tt1865467">
     <name>One Piece 3D: Mugiwara Chase</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-21;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="8012" tvdbid="76703" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1739212">
     <name>Gekijouban Pocket Monsters: Best Wishes! - Victini to Kuroki Eiyuu Zekrom</name>
@@ -24257,11 +24227,8 @@
   <anime anidbid="8761" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Oni Chichi: Re-born</name>
   </anime>
-  <anime anidbid="8762" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8762" tvdbid="81797" defaulttvdbseason="0" episodeoffset="21" tmdbid="462387" imdbid="tt27639430">
     <name>One Piece 3D: Gekisou! Trap Coaster</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-22;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="8763" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Wish Me Mell</name>
@@ -24757,7 +24724,7 @@
   <anime anidbid="8939" tvdbid="255904" defaulttvdbseason="0" episodeoffset="1" tmdbid="179883" imdbid="">
     <name>Eiga Smile Precure! Ehon no Naka wa Minna Chiguhagu!</name>
   </anime>
-  <anime anidbid="8940" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt2375379">
+  <anime anidbid="8940" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="176983" imdbid="tt2375379">
     <name>One Piece Film: Z</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-25;2-25;3-25;</mapping>
@@ -31645,7 +31612,7 @@
   <anime anidbid="11527" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="372762" imdbid="">
     <name>Gekijouban Tantei Opera Milky Holmes: Gyakushuu no Milky Holmes</name>
   </anime>
-  <anime anidbid="11529" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt5251328">
+  <anime anidbid="11529" tvdbid="81797" defaulttvdbseason="0" episodeoffset="" tmdbid="374205" imdbid="tt5251328">
     <name>One Piece Film: Gold</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-35;</mapping>
@@ -46673,7 +46640,7 @@
   <anime anidbid="16982" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mato Seihei no Slave</name>
   </anime>
-  <anime anidbid="16983" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="900667" imdbid="tt16183464">
+  <anime anidbid="16983" tvdbid="81797" defaulttvdbseason="0" episodeoffset="45" tmdbid="900667" imdbid="tt16183464">
     <name>One Piece Film: Red</name>
   </anime>
   <anime anidbid="16984" tvdbid="412843" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
