@@ -5896,9 +5896,6 @@
   <anime anidbid="13888" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tanoshii ne</name>
   </anime>
-  <anime anidbid="13892" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Chimera</name>
-  </anime>
   <anime anidbid="13903" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>NHK Manga De Yomu Koten</name>
   </anime>
@@ -8888,7 +8885,7 @@
     <name>Tasuu Ketsu: Judgement Assizes</name>
   </anime>
   <anime anidbid="15866" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>B-Project 3</name>
+    <name>B-Project: Netsuretsu Love Call</name>
   </anime>
   <anime anidbid="15868" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Puparia</name>
@@ -9455,7 +9452,7 @@
     <name>Kimetsu no Yaiba: Hashira Gou Kaigi - Chouyashiki Hen</name>
   </anime>
   <anime anidbid="16259" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kimetsu no Yaiba: Natagumo Yama Hen</name>
+    <name>Kimetsu no Yaiba: Natagumoyama Hen</name>
   </anime>
   <anime anidbid="16269" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mi Bao Zhi Guo</name>
@@ -10086,9 +10083,6 @@
   </anime>
   <anime anidbid="16594" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Zi Chuan</name>
-  </anime>
-  <anime anidbid="16595" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Long Zu</name>
   </anime>
   <anime anidbid="16596" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Xue Ying Lingzhu Di San Ji</name>
@@ -10908,9 +10902,6 @@
   </anime>
   <anime anidbid="16946" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Oshiri Tantei (2022)</name>
-  </anime>
-  <anime anidbid="16951" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Gekijouban Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo</name>
   </anime>
   <anime anidbid="16952" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gekijouban Soushuuhen Mazica Party</name>
@@ -12365,10 +12356,10 @@
     <name>Project Bullet/Bullet</name>
   </anime>
   <anime anidbid="17746" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>OVA Bonyuu-chan wa Dashitai.</name>
+    <name>Bonyuu-chan wa Dashitai.</name>
   </anime>
   <anime anidbid="17747" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>OVA Class de Otoko wa Boku Hitori!?</name>
+    <name>Class de Otoko wa Boku Hitori!?</name>
   </anime>
   <anime anidbid="17750" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Wuxian Shijie</name>
@@ -12686,7 +12677,7 @@
     <name>Koumi-jima: Shuu 7 de Umeru Mesu-tachi</name>
   </anime>
   <anime anidbid="17873" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Tensei Shitara Slime Datta Ken: Corius no Yume</name>
+    <name>Tensei Shitara Slime Datta Ken: Coleus no Yume</name>
   </anime>
   <anime anidbid="17874" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Lian Qi Lianle 3000 Nian</name>
@@ -12926,7 +12917,7 @@
     <name>Boku no Koi</name>
   </anime>
   <anime anidbid="17976" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kimetsu no Yaiba: Yuukaku Hen Special Edition</name>
+    <name>Kimetsu no Yaiba: Yuukaku Hen - Tokubetsu Henshuu Ban</name>
   </anime>
   <anime anidbid="17977" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Umi no Manimani</name>
@@ -13069,5 +13060,68 @@
   <anime anidbid="18024" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Jashin-chan Dropkick "Seikimatsu Hen"</name>
   </anime>
+  <anime anidbid="18025" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Liang Bu Yi Season 2</name>
+  </anime>
+  <anime anidbid="18026" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tensei Kizoku, Kantei Skill de Nariagaru</name>
+  </anime>
+  <anime anidbid="18027" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shen Lan Qi Yu Wushuang Zhu II</name>
+  </anime>
+  <anime anidbid="18028" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Da Zhu Zai Nian Fan</name>
+  </anime>
+  <anime anidbid="18029" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Atarashii Joushi wa Do Tennen</name>
+  </anime>
+  <anime anidbid="18030" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Medalist</name>
+  </anime>
+  <anime anidbid="18032" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>New Initial D Movie: Battle Digest</name>
+  </anime>
+  <anime anidbid="18033" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Fuufu Koukan: Modorenai Yoru</name>
+  </anime>
+  <anime anidbid="18034" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Goku's Traffic Safety</name>
+  </anime>
+  <anime anidbid="18035" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Goku's Fire Brigade</name>
+  </anime>
+  <anime anidbid="18036" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Anpanman ga Umareta Hi</name>
+  </anime>
+  <anime anidbid="18037" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>BEYBLADE X</name>
+  </anime>
+  <anime anidbid="18038" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shen Wu Tianzun</name>
+  </anime>
+  <anime anidbid="18039" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Soushuuhen Bocchi the Rock!</name>
+  </anime>
+  <anime anidbid="18040" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Bucchigiri?!</name>
+  </anime>
+  <anime anidbid="18041" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tsurubami-iro no Nagiko-tachi</name>
+  </anime>
+  <anime anidbid="18042" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Dan Dao Zong Shi</name>
+  </anime>
+  <anime anidbid="18043" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Pon no Michi</name>
+  </anime>
+  <anime anidbid="18044" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Odekake Kozame</name>
+  </anime>
+  <anime anidbid="18045" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Zuo Shou Shang Lan</name>
+  </anime>
+  <anime anidbid="18046" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Zatsu Tabi</name>
+  </anime>
 </anime-list>
-<!--4350 titles remaining-->
+<!--4368 titles remaining-->
