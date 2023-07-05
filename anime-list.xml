@@ -32581,6 +32581,9 @@
   </anime>
   <anime anidbid="17236" tvdbid="371310" defaulttvdbseason="2">
     <name>Mushoku Tensei II: Isekai Ittara Honki Dasu</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="17237" tvdbid="329822" defaulttvdbseason="3">
     <name>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season</name>
