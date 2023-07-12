@@ -20663,7 +20663,7 @@
   <anime anidbid="7529" tvdbid="188551" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Panty &amp; Stocking with Garterbelt</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="1">;1-1+2;2-3+4;3-5+6;4-7+8;5-9+10;6-11;7-12+13;8-14+15;9-16+17;10-18+19;11-21+22;12-23+24;13-25+26;</mapping>
+      <mapping anidbseason="1" tvdbseason="1">;1-1+2;2-3+4;3-5+6;4-7+8;5-9+10;6-11;7-12+13;8-14+15;9-16+17;10-18+19+20;11-21+22;12-23+24;13-25+26;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7531" tvdbid="197731" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -28422,6 +28422,9 @@
   </anime>
   <anime anidbid="10321" tvdbid="254667" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Senki Zesshou Symphogear GX</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="2"/>
+    </mapping-list>
   </anime>
   <anime anidbid="10322" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ppaekkom-ui Mug-jan Yeohaeng</name>
@@ -32774,6 +32777,9 @@
   </anime>
   <anime anidbid="11955" tvdbid="254667" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
     <name>Senki Zesshou Symphogear AXZ</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="5" offset="6"/>
+    </mapping-list>
   </anime>
   <anime anidbid="11957" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Xiong Chumo</name>
@@ -32783,6 +32789,9 @@
   </anime>
   <anime anidbid="11959" tvdbid="254667" defaulttvdbseason="5" episodeoffset="" tmdbid="" imdbid="">
     <name>Senki Zesshou Symphogear XV</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="12"/>
+    </mapping-list>
   </anime>
   <anime anidbid="11960" tvdbid="277063" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Future Card Buddyfight DDD</name>
