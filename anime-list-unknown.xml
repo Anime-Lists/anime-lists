@@ -3,9 +3,6 @@
   <anime anidbid="357" tvdbid="unknown" defaulttvdbseason="1">
     <name>Test Anime</name>
   </anime>
-  <anime anidbid="419" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Riding Bean</name>
-  </anime>
   <anime anidbid="531" tvdbid="unknown" defaulttvdbseason="1">
     <name>Madou King Grandzort</name>
   </anime>
@@ -392,9 +389,6 @@
   </anime>
   <anime anidbid="2059" tvdbid="unknown" defaulttvdbseason="1">
     <name>Sono Kinisasete yo: My My Mai</name>
-  </anime>
-  <anime anidbid="2060" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Shounan Bakusouzoku</name>
   </anime>
   <anime anidbid="2063" tvdbid="unknown" defaulttvdbseason="1">
     <name>Kono Shihai kara no Sotsugyou: Ozaki Yutaka</name>
@@ -989,9 +983,6 @@
   </anime>
   <anime anidbid="3208" tvdbid="unknown" defaulttvdbseason="1">
     <name>F</name>
-  </anime>
-  <anime anidbid="3219" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Chouon Senshi Borgman</name>
   </anime>
   <anime anidbid="3220" tvdbid="unknown" defaulttvdbseason="2">
     <name>Chouon Senshi Borgman Second: Shin Seiki 2058</name>
@@ -3263,9 +3254,6 @@
   </anime>
   <anime anidbid="11181" tvdbid="unknown" defaulttvdbseason="0">
     <name>Eiga The Snack World</name>
-  </anime>
-  <anime anidbid="11544" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Manaria Friends</name>
   </anime>
   <anime anidbid="11594" tvdbid="unknown" defaulttvdbseason="1">
     <name>Luger Code 1951</name>
