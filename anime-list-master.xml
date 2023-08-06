@@ -4603,7 +4603,7 @@
   <anime anidbid="1249" tvdbid="73670" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Hana yori Dango (1997)</name>
   </anime>
-  <anime anidbid="1250" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1920940">
+  <anime anidbid="1250" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="37585" imdbid="tt1920940">
     <name>Ginga Tetsudou no Yoru</name>
   </anime>
   <anime anidbid="1251" tvdbid="79048" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -17831,7 +17831,7 @@
   <anime anidbid="6569" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0443060">
     <name>Issunboushi: Chibi Jo Monogatari</name>
   </anime>
-  <anime anidbid="6570" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1092338">
+  <anime anidbid="6570" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="380380" imdbid="tt1092338">
     <name>Dekobou no Jidousha Ryokou</name>
   </anime>
   <anime anidbid="6571" tvdbid="133821" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -18302,7 +18302,7 @@
   <anime anidbid="6723" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1092358">
     <name>Hinomaru Tarou: Musha Shugyou no Maki</name>
   </anime>
-  <anime anidbid="6724" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1092390">
+  <anime anidbid="6724" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="380621" imdbid="tt1092390">
     <name>Maabou no Daikyousou</name>
   </anime>
   <anime anidbid="6725" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0418915">
@@ -18323,7 +18323,7 @@
   <anime anidbid="6731" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0422605">
     <name>Kuma ni Kuwarenu Otoko</name>
   </anime>
-  <anime anidbid="6732" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1092354">
+  <anime anidbid="6732" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="380389" imdbid="tt1092354">
     <name>Gulliver Funtouki</name>
   </anime>
   <anime anidbid="6733" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0440843">
@@ -18554,7 +18554,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-27;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="6802" tvdbid="76703" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1172967">
+  <anime anidbid="6802" tvdbid="76703" defaulttvdbseason="0" episodeoffset="" tmdbid="216651" imdbid="tt1172967">
     <name>Pikachu no Wanpaku Island</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-28;</mapping>
@@ -18689,7 +18689,7 @@
   <anime anidbid="6854" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0418593">
     <name>Chagama Ondo</name>
   </anime>
-  <anime anidbid="6855" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0418858">
+  <anime anidbid="6855" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="381171" imdbid="tt0418858">
     <name>Chinkoroheibei Tamatebako</name>
   </anime>
   <anime anidbid="6856" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0418919">
@@ -19669,7 +19669,7 @@
   <anime anidbid="7192" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Perestroika</name>
   </anime>
-  <anime anidbid="7193" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1092363">
+  <anime anidbid="7193" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="380412" imdbid="tt1092363">
     <name>Kaitei no Boukun</name>
   </anime>
   <anime anidbid="7194" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1092322">
@@ -24356,7 +24356,7 @@
       <studio>Sunrise</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="8806" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt2369099">
+  <anime anidbid="8806" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="122583" imdbid="tt2369099">
     <name>Meitantei Conan: 11-ninme no Striker</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-51;</mapping>
