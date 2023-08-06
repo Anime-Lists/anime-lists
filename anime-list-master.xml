@@ -4367,7 +4367,7 @@
   <anime anidbid="1166" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kakyuusei</name>
   </anime>
-  <anime anidbid="1167" tvdbid="80049" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="1167" tvdbid="199571" defaulttvdbseason="0" episodeoffset="4" tmdbid="" imdbid="">
     <name>Elf Ban Kakyuusei: Anata dake o Mitsumete...</name>
   </anime>
   <anime anidbid="1168" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -10799,7 +10799,7 @@
   <anime anidbid="3440" tvdbid="81115" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Mahou Shoujo Lyrical Nanoha A's</name>
   </anime>
-  <anime anidbid="3442" tvdbid="79232" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="3442" tvdbid="OVA" defaulttvdbseason="" episodeoffset="" tmdbid="13274" imdbid="">
     <name>Last Order: Final Fantasy VII</name>
   </anime>
   <anime anidbid="3444" tvdbid="80206" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -10978,7 +10978,7 @@
   <anime anidbid="3500" tvdbid="80051" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ginban Kaleidoscope</name>
   </anime>
-  <anime anidbid="3506" tvdbid="81902" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0471589">
+  <anime anidbid="3506" tvdbid="81092" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0471589">
     <name>Black Jack: Futari no Kuroi Isha</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
@@ -13074,7 +13074,7 @@
   <anime anidbid="4493" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Himekishi Lilia</name>
   </anime>
-  <anime anidbid="4502" tvdbid="143441" defaulttvdbseason="0" episodeoffset="" tmdbid="47656" imdbid="">
+  <anime anidbid="4502" tvdbid="web" defaulttvdbseason="0" episodeoffset="" tmdbid="47656" imdbid="">
     <name>Hoshizora Kiseki</name>
   </anime>
   <anime anidbid="4504" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
