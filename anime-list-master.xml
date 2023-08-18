@@ -794,7 +794,7 @@
   <anime anidbid="175" tvdbid="180111" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Otogi Story Tenshi no Shippo</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="3" end="6" offset="2">;101-3;102-4;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="3" end="6" offset="1">;2-13;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="177" tvdbid="71744" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -12463,6 +12463,9 @@
   </anime>
   <anime anidbid="4224" tvdbid="113571" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Soul Link</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="4" offset="1">;1-1+2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="4225" tvdbid="301659" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Oz</name>
@@ -24955,6 +24958,9 @@
   </anime>
   <anime anidbid="9015" tvdbid="259649" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hagure Yuusha no Aesthetica</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" offset="1" start="1" end="6" />
+    </mapping-list>
   </anime>
   <anime anidbid="9016" tvdbid="257755" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Furusato Saisei Nippon no Mukashibanashi</name>
@@ -31289,7 +31295,7 @@
   <anime anidbid="11394" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>20-dai no Heya Hen</name>
   </anime>
-  <anime anidbid="11395" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11395" tvdbid="306269" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Sangatsu no Lion meets Bump of Chicken</name>
   </anime>
   <anime anidbid="11396" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -31849,6 +31855,9 @@
   </anime>
   <anime anidbid="11606" tvdbid="306269" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sangatsu no Lion</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11607" tvdbid="344315" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Persona 5 the Animation: The Day Breakers</name>
@@ -40268,6 +40277,9 @@
   </anime>
   <anime anidbid="14623" tvdbid="347215" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Jashin-chan Dropkick Dash</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14625" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Megane no Megami</name>
@@ -42531,6 +42543,10 @@
   </anime>
   <anime anidbid="15448" tvdbid="389459" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Burn the Witch</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="1">;401-1;402-2;403-3;</mapping>
+      <mapping anidbseason="1" tvdbseason="1">;1-1+2+3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="15449" tvdbid="74796" defaulttvdbseason="17" episodeoffset="" tmdbid="" imdbid="">
     <name>Bleach: Sennen Kessen Hen</name>
@@ -44911,6 +44927,9 @@
   </anime>
   <anime anidbid="16350" tvdbid="71863" defaulttvdbseason="6" episodeoffset="" tmdbid="" imdbid="">
     <name>Lupin Sansei: Part 6</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-50;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="16354" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Shi Yi ChangAn: Mingyue Jishi You Er</name>
