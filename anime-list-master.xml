@@ -8052,7 +8052,23 @@
   <anime anidbid="2369" tvdbid="74796" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Bleach</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;2-0;3-2;4-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;2-99;3-2;4-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="20" />
+      <mapping anidbseason="1" tvdbseason="2" start="21" end="41" offset="-20" />
+      <mapping anidbseason="1" tvdbseason="3" start="42" end="63" offset="-41" />
+      <mapping anidbseason="1" tvdbseason="4" start="64" end="91" offset="-63" />
+      <mapping anidbseason="1" tvdbseason="5" start="92" end="109" offset="-91" />
+      <mapping anidbseason="1" tvdbseason="6" start="110" end="131" offset="-109" />
+      <mapping anidbseason="1" tvdbseason="7" start="132" end="151" offset="-131" />
+      <mapping anidbseason="1" tvdbseason="8" start="152" end="167" offset="-151" />
+      <mapping anidbseason="1" tvdbseason="9" start="168" end="189" offset="-167" />
+      <mapping anidbseason="1" tvdbseason="10" start="190" end="205" offset="-190" />
+      <mapping anidbseason="1" tvdbseason="11" start="206" end="212" offset="-205" />
+      <mapping anidbseason="1" tvdbseason="12" start="213" end="229" offset="-212" />
+      <mapping anidbseason="1" tvdbseason="13" start="230" end="265" offset="-229" />
+      <mapping anidbseason="1" tvdbseason="14" start="266" end="316" offset="-265" />
+      <mapping anidbseason="1" tvdbseason="15" start="317" end="342" offset="-316" />
+      <mapping anidbseason="1" tvdbseason="16" start="343" end="366" offset="-342" />
     </mapping-list>
     <supplemental-info>
       <studio>Studio Pierrot</studio>
