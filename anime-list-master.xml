@@ -22988,6 +22988,9 @@
   </anime>
   <anime anidbid="8319" tvdbid="252477" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mashiro-iro Symphony: The Color of Lovers</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-4;3-5;4-0;5-0;6-0;7-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8321" tvdbid="202241" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku</name>
@@ -34682,6 +34685,9 @@
   </anime>
   <anime anidbid="12665" tvdbid="331753" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Black Clover (2017)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="16" offset="9">;1-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12666" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Akai Boushi</name>
@@ -36520,6 +36526,9 @@
   </anime>
   <anime anidbid="13309" tvdbid="337123" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Marchen Madchen</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="1" start="1" end="2" offset="10" />
+    </mapping-list>
   </anime>
   <anime anidbid="13310" tvdbid="303867" defaulttvdbseason="0" episodeoffset="4" tmdbid="532067" imdbid="tt9239552">
     <name>Kono Subarashii Sekai ni Shukufuku o! Kurenai Densetsu</name>
@@ -37472,6 +37481,9 @@
   </anime>
   <anime anidbid="13637" tvdbid="347215" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Jashin-chan Dropkick</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13638" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mentori</name>
@@ -44375,6 +44387,9 @@
   </anime>
   <anime anidbid="16104" tvdbid="267441" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Hataraku Maou-sama!!</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-3;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="16105" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ojamajo Doremi: Honobono Gekijou</name>
