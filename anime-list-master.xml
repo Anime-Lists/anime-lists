@@ -1842,7 +1842,7 @@
   <anime anidbid="428" tvdbid="131261" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Chikyuu Bouei Kigyou Dai-Guard</name>
   </anime>
-  <anime anidbid="429" tvdbid="70865" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0184041">
+  <anime anidbid="429" tvdbid="70865" defaulttvdbseason="0" episodeoffset="" tmdbid="44587" imdbid="tt0184041">
     <name>X</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;2-1;3-1;</mapping>
@@ -10644,7 +10644,7 @@
   <anime anidbid="3382" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Henbou Moral Hazard</name>
   </anime>
-  <anime anidbid="3383" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="3383" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="166614" imdbid="">
     <name>Call Me Tonight</name>
   </anime>
   <anime anidbid="3384" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0287114">
@@ -11029,7 +11029,7 @@
   <anime anidbid="3514" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Bit the Cupid</name>
   </anime>
-  <anime anidbid="3515" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="3515" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="73710" imdbid="">
     <name>Blue Butterfly Fish</name>
   </anime>
   <anime anidbid="3516" tvdbid="70476" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -11182,7 +11182,7 @@
   <anime anidbid="3566" tvdbid="84334" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="tt0498493">
     <name>Eiga Futari wa Precure Max Heart 2: Yukizora no Tomodachi</name>
   </anime>
-  <anime anidbid="3567" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="3567" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="813958" imdbid="">
     <name>Boku no Boukuugou</name>
   </anime>
   <anime anidbid="3568" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -11700,7 +11700,7 @@
   <anime anidbid="3982" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Dragon Knight Gaiden</name>
   </anime>
-  <anime anidbid="3983" tvdbid="76703" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="3983" tvdbid="76703" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt15535704">
     <name>Bokutachi Pichu Brothers: Party wa Oosawagi! no Maki</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-16;</mapping>
@@ -14430,7 +14430,7 @@
   <anime anidbid="5005" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Violence Gekiga David no Hoshi</name>
   </anime>
-  <anime anidbid="5007" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="5007" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="333954" imdbid="">
     <name>Bavi Stock I: Hateshi Naki Target</name>
   </anime>
   <anime anidbid="5008" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
@@ -20238,7 +20238,7 @@
   <anime anidbid="7376" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Suki Desu Suzuki-kun!!</name>
   </anime>
-  <anime anidbid="7377" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="7377" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="491356" imdbid="">
     <name>Bakumatsu no Spasibo</name>
   </anime>
   <anime anidbid="7378" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
@@ -23871,7 +23871,7 @@
       <studio>Manglobe</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="8633" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8633" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="421919" imdbid="">
     <name>Bavi Stock II: The Revenge of Eyesman - Ai no Kodou no Kanata ni</name>
   </anime>
   <anime anidbid="8634" tvdbid="unknown" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
@@ -24564,7 +24564,7 @@
   <anime anidbid="8872" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Arashi no Yoru ni: Himitsu no Tomodachi</name>
   </anime>
-  <anime anidbid="8873" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8873" tvdbid="OVA" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt3124800">
     <name>Asa made Jugyou Chu!</name>
   </anime>
   <anime anidbid="8874" tvdbid="264533" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="">
@@ -37005,7 +37005,7 @@
   <anime anidbid="13474" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Wangpai Yushi</name>
   </anime>
-  <anime anidbid="13475" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13475" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="485942" imdbid="">
     <name>Batman Ninja</name>
   </anime>
   <anime anidbid="13476" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
