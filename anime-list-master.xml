@@ -10244,7 +10244,7 @@
     </mapping-list>
     <before>;1-5;2-6;3-7;4-8;</before>
   </anime>
-  <anime anidbid="3184" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="3184" tvdbid="260116" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tezuka Osamu no Kyuuyaku Seisho Monogatari: In the Beginning</name>
   </anime>
   <anime anidbid="3185" tvdbid="79104" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -18490,7 +18490,7 @@
   <anime anidbid="6781" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Makai Tenshi Djibril 3</name>
   </anime>
-  <anime anidbid="6782" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="6782" tvdbid="426542" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Aki Sora</name>
   </anime>
   <anime anidbid="6783" tvdbid="132771" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -20561,11 +20561,8 @@
       <studio>Studio Pierrot</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="7484" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="7484" tvdbid="426542" defaulttvdbseason="1" episodeoffset="1" tmdbid="" imdbid="">
     <name>Aki Sora: Yume no Naka</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="1">;1-2;2-3;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="7485" tvdbid="80096" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Gurren Lagann Parallel Works 2</name>
@@ -24986,6 +24983,13 @@
   </anime>
   <anime anidbid="9016" tvdbid="257755" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Furusato Saisei Nippon no Mukashibanashi</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="52" />
+      <mapping anidbseason="1" tvdbseason="2" start="53" end="104" offset="-52" />
+      <mapping anidbseason="1" tvdbseason="3" start="105" end="155" offset="-104" />
+      <mapping anidbseason="1" tvdbseason="4" start="156" end="207" offset="-155" />
+      <mapping anidbseason="1" tvdbseason="5" start="208" end="258" offset="-207" />
+    </mapping-list>
   </anime>
   <anime anidbid="9018" tvdbid="312723" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="unknown">
     <name>Bonobono: Kumomo no Ki no Koto</name>
@@ -34870,7 +34874,7 @@
   <anime anidbid="12717" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Terajima-chou Kidan: Ginnagashi</name>
   </anime>
-  <anime anidbid="12718" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12718" tvdbid="317829" defaulttvdbseason="1" episodeoffset="13" tmdbid="" imdbid="">
     <name>Sengoku Choujuu Giga: Otsu</name>
   </anime>
   <anime anidbid="12719" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -34930,7 +34934,7 @@
   <anime anidbid="12738" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt6452332">
     <name>Yoake Tsugeru Lu no Uta</name>
   </anime>
-  <anime anidbid="12739" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12739" tvdbid="333237" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shiyan Pin Jiating</name>
   </anime>
   <anime anidbid="12740" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -43089,7 +43093,7 @@
   <anime anidbid="15625" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>The Idolmaster Million Live!</name>
   </anime>
-  <anime anidbid="15626" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15626" tvdbid="383488" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>PokeToon</name>
   </anime>
   <anime anidbid="15627" tvdbid="300989" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
@@ -43429,7 +43433,7 @@
   <anime anidbid="15747" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Gotcha!</name>
   </anime>
-  <anime anidbid="15748" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15748" tvdbid="394293" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Youjo Shachou</name>
   </anime>
   <anime anidbid="15749" tvdbid="347215" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
@@ -45667,7 +45671,7 @@
   <anime anidbid="16598" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kenda Master Ken</name>
   </anime>
-  <anime anidbid="16599" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="16599" tvdbid="409490" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Pokemon Evolutions</name>
   </anime>
   <anime anidbid="16600" tvdbid="385542" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -47218,8 +47222,11 @@
   <anime anidbid="17150" tvdbid="415061" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hoshi no Samidare</name>
   </anime>
-  <anime anidbid="17151" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt21970564">
+  <anime anidbid="17151" tvdbid="415119" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt21970564">
     <name>Pocket Monsters: Kami to Yobareshi Arceus</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;401-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="17153" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Effendi De Gushi</name>
