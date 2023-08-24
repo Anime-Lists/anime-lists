@@ -10653,7 +10653,7 @@
   <anime anidbid="3385" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0493247">
     <name>Gin'iro no Kami no Agito</name>
   </anime>
-  <anime anidbid="3386" tvdbid="74908" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="3386" tvdbid="74908" defaulttvdbseason="0" episodeoffset="" tmdbid="45392" imdbid="">
     <name>Bakuretsu Tenshi: Infinity</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;3-0;</mapping>
@@ -17703,7 +17703,7 @@
       <studio>Studio Pierrot</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="6504" tvdbid="91431" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="6504" tvdbid="91431" defaulttvdbseason="1" episodeoffset="" tmdbid="471279" imdbid="">
     <name>Issho ni Training: Training with Hinako</name>
   </anime>
   <anime anidbid="6506" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -18180,7 +18180,7 @@
   <anime anidbid="6669" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tatakae! Chou Robot Seimeitai Transformers: Scramble City Hatsudou Hen</name>
   </anime>
-  <anime anidbid="6670" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="6670" tvdbid="OVA" defaulttvdbseason="" episodeoffset="" tmdbid="73784" imdbid="">
     <name>Cherry no Manma</name>
   </anime>
   <anime anidbid="6671" tvdbid="133341" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -18636,7 +18636,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-4;2-5;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="6820" tvdbid="162711" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="6820" tvdbid="162711" defaulttvdbseason="0" episodeoffset="" tmdbid="58107" imdbid="">
     <name>Black Rock Shooter</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
@@ -20003,7 +20003,7 @@
   <anime anidbid="7294" tvdbid="210291" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Bungaku Shoujo: Kyou no Oyatsu - Hatsukoi</name>
   </anime>
-  <anime anidbid="7295" tvdbid="91431" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="7295" tvdbid="91431" defaulttvdbseason="1" episodeoffset="" tmdbid="837350" imdbid="">
     <name>Issho ni Sleeping: Sleeping with Hinako</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="1">;1-2;</mapping>
@@ -20673,7 +20673,7 @@
       <studio>AIC Build</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="7526" tvdbid="84569" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="7526" tvdbid="84569" defaulttvdbseason="0" episodeoffset="" tmdbid="373394" imdbid="">
     <name>Akage no Anne: Green Gables e no Michi</name>
   </anime>
   <anime anidbid="7527" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -22235,7 +22235,7 @@
   <anime anidbid="8066" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Nana to Kaoru</name>
   </anime>
-  <anime anidbid="8068" tvdbid="91431" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8068" tvdbid="91431" defaulttvdbseason="1" episodeoffset="" tmdbid="837351" imdbid="">
     <name>Issho ni Training Ofuro: Bathtime with Hinako &amp; Hiyoko</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="1">;1-4;</mapping>
@@ -24336,13 +24336,13 @@
   <anime anidbid="8791" tvdbid="259635" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kingdom</name>
   </anime>
-  <anime anidbid="8792" tvdbid="79077" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8792" tvdbid="79077" defaulttvdbseason="0" episodeoffset="" tmdbid="626218" imdbid="">
     <name>Azumanga Web Daiou</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-9;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="8793" tvdbid="79077" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0381895">
+  <anime anidbid="8793" tvdbid="79077" defaulttvdbseason="0" episodeoffset="" tmdbid="87785" imdbid="tt0381895">
     <name>Azumanga Daiou The Animation</name>
   </anime>
   <anime anidbid="8794" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -35822,7 +35822,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-2;2-2;3-3;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="13060" tvdbid="70668" defaulttvdbseason="0" episodeoffset="" tmdbid="476400" imdbid="">
+  <anime anidbid="13060" tvdbid="70668" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Cardcaptor Sakura: Clear Card Hen - Prologue - Sakura to Futatsu no Kuma</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
