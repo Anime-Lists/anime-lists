@@ -282,6 +282,13 @@
     <name>Tennis no Ouji-sama</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;3-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="26"/>
+      <mapping anidbseason="1" tvdbseason="2" start="27" end="53" offset="26"/>
+      <mapping anidbseason="1" tvdbseason="3" start="54" end="75" offset="53"/>
+      <mapping anidbseason="1" tvdbseason="4" start="76" end="101" offset="75"/>
+      <mapping anidbseason="1" tvdbseason="5" start="102" end="128" offset="101"/>
+      <mapping anidbseason="1" tvdbseason="6" start="129" end="165" offset="128"/>
+      <mapping anidbseason="1" tvdbseason="7" start="166" end="178" offset="165"/>
     </mapping-list>
   </anime>
   <anime anidbid="58" tvdbid="79239" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -8099,10 +8106,9 @@
   <anime anidbid="2379" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Reijou Caster: Ingyaku no Wana</name>
   </anime>
-  <anime anidbid="2380" tvdbid="73532" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1107334">
+  <anime anidbid="2380" tvdbid="73532" defaulttvdbseason="0" episodeoffset="" tmdbid="47341" imdbid="tt1107334">
     <name>Gekijouban Tennis no Ouji-sama: Futari no Samurai - The First Game</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-5;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
@@ -12526,7 +12532,7 @@
       <mapping anidbseason="0" tvdbseason="0">;204-1;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="4244" tvdbid="73532" defaulttvdbseason="8" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4244" tvdbid="73532" defaulttvdbseason="0" episodeoffset="9" tmdbid="" imdbid="">
     <name>Tennis no Ouji-sama: Zenkoku Taikai Hen</name>
   </anime>
   <anime anidbid="4245" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -14821,7 +14827,7 @@
   <anime anidbid="5133" tvdbid="155161" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kouya no Shounen Isamu</name>
   </anime>
-  <anime anidbid="5134" tvdbid="73532" defaulttvdbseason="9" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="5134" tvdbid="73532" defaulttvdbseason="0" episodeoffset="22" tmdbid="" imdbid="">
     <name>Tennis no Ouji-sama: Zenkoku Taikai Hen - Semifinal</name>
   </anime>
   <anime anidbid="5135" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
@@ -16082,7 +16088,7 @@
       <mapping anidbseason="0" tvdbseason="0" start="1" end="6" offset="6">;7-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="5750" tvdbid="73532" defaulttvdbseason="10" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="5750" tvdbid="73532" defaulttvdbseason="0" episodeoffset="29" tmdbid="" imdbid="">
     <name>Tennis no Ouji-sama: Zenkoku Taikai Hen - Final</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
@@ -17566,10 +17572,10 @@
   <anime anidbid="6441" tvdbid="103321" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tokyo Magnitude 8.0</name>
   </anime>
-  <anime anidbid="6442" tvdbid="73532" defaulttvdbseason="11" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="6442" tvdbid="73532" defaulttvdbseason="0" episodeoffset="35" tmdbid="" imdbid="">
     <name>Tennis no Ouji-sama OVA Another Story: Kako to Mirai no Message</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="11">;1-5;2-6;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-40;2-41;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="6443" tvdbid="102011" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -23068,7 +23074,7 @@
   <anime anidbid="8343" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>The Epic of Zektbach</name>
   </anime>
-  <anime anidbid="8344" tvdbid="73532" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1107335">
+  <anime anidbid="8344" tvdbid="73532" defaulttvdbseason="0" episodeoffset="" tmdbid="408973" imdbid="tt1107335">
     <name>Tennis no Ouji-sama: Atobe kara no Okurimono - Kimi ni Sasageru Tenipri Matsuri</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
@@ -23146,16 +23152,16 @@
   <anime anidbid="8372" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Inshitsu Otaku ni Ikareru Kanojo</name>
   </anime>
-  <anime anidbid="8373" tvdbid="73532" defaulttvdbseason="12" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8373" tvdbid="73532" defaulttvdbseason="0" episodeoffset="41" tmdbid="" imdbid="">
     <name>Tennis no Ouji-sama OVA Another Story II: Ano Toki no Bokura</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-7;2-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-7;2-64;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="8374" tvdbid="73532" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1920939">
+  <anime anidbid="8374" tvdbid="73532" defaulttvdbseason="0" episodeoffset="" tmdbid="259169" imdbid="tt1920939">
     <name>Gekijouban Tennis no Ouji-sama: Eikoku Shiki Teikyuu Shiro Kessen!</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8375" tvdbid="249864" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt1941466">
@@ -23791,8 +23797,11 @@
   <anime anidbid="8600" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Soredemo Tsuma o Aishiteru</name>
   </anime>
-  <anime anidbid="8601" tvdbid="73532" defaulttvdbseason="13" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8601" tvdbid="73532" defaulttvdbseason="8" episodeoffset="" tmdbid="" imdbid="">
     <name>Shin Tennis no Ouji-sama</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="7" offset="45" />
+    </mapping-list>
   </anime>
   <anime anidbid="8602" tvdbid="301205" defaulttvdbseason="1" episodeoffset="" tmdbid="358682" imdbid="">
     <name>Yuri Seijin Naoko-san (2012)</name>
@@ -28541,8 +28550,11 @@
   <anime anidbid="10367" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tsubasa to Hotaru</name>
   </anime>
-  <anime anidbid="10368" tvdbid="254899" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10368" tvdbid="73532" defaulttvdbseason="0" episodeoffset="52" tmdbid="" imdbid="">
     <name>Shin Tennis no Ouji-sama (2014)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10369" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Chou Akuukan Bouheki Cheese Neapolitan</name>
@@ -34165,7 +34177,7 @@
       <mapping anidbseason="0" tvdbseason="0">;14-41;15-42;16-43;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="12484" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12484" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="747979,0,747977" imdbid="tt9108390,tt10276074,tt11575566">
     <name>Tennis no Ouji-sama: Best Games!!</name>
   </anime>
   <anime anidbid="12485" tvdbid="325373" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -40101,7 +40113,7 @@
   <anime anidbid="14550" tvdbid="360786" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Jimoto ga Japan</name>
   </anime>
-  <anime anidbid="14551" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14551" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="650270" imdbid="">
     <name>Ryouma! The Prince of Tennis Shinsei Gekijouban Tennis no Ouji-sama</name>
   </anime>
   <anime anidbid="14552" tvdbid="278157" defaulttvdbseason="4" episodeoffset="" tmdbid="" imdbid="">
@@ -46441,7 +46453,7 @@
   <anime anidbid="16877" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Meitounao He Bugaoxing</name>
   </anime>
-  <anime anidbid="16878" tvdbid="411222" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="16878" tvdbid="73532" defaulttvdbseason="9" episodeoffset="" tmdbid="" imdbid="">
     <name>Shin Tennis no Ouji-sama: U-17 World Cup</name>
   </anime>
   <anime anidbid="16879" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
