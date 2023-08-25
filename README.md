@@ -73,8 +73,9 @@ Each entry consists of an **anime** node with the following attributes:
     Not necessary if the episode numbers match up exactly.
     For special episodes and more complex situations the mapping-list is used (see below).
 
-*   **tmdbid**/**imdbid** - themoviedb.org/imdb.com id. Only used for one-off titles like movies.
-    **[Do not use tmdbid for series!](https://github.com/ScudLee/anime-lists/issues/342)**
+*   **tmdbid**/**imdbid** - themoviedb.org/imdb.com id. Only used for one-off titles like movies or movie-series that are not available in theTVDB.com.
+    For movie-series the attribute shuld be a [comma separated list](https://github.com/Anime-Lists/anime-lists/issues/356) of IDs for each movie in the series.
+    **[Do not use tmdbid for TV-series!](https://github.com/ScudLee/anime-lists/issues/342)**
 
 Within the anime node are any of the following nodes
 
