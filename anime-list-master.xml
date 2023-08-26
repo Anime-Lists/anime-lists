@@ -283,12 +283,12 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;3-0;</mapping>
       <mapping anidbseason="1" tvdbseason="1" start="1" end="26"/>
-      <mapping anidbseason="1" tvdbseason="2" start="27" end="53" offset="26"/>
-      <mapping anidbseason="1" tvdbseason="3" start="54" end="75" offset="53"/>
-      <mapping anidbseason="1" tvdbseason="4" start="76" end="101" offset="75"/>
-      <mapping anidbseason="1" tvdbseason="5" start="102" end="128" offset="101"/>
-      <mapping anidbseason="1" tvdbseason="6" start="129" end="165" offset="128"/>
-      <mapping anidbseason="1" tvdbseason="7" start="166" end="178" offset="165"/>
+      <mapping anidbseason="1" tvdbseason="2" start="27" end="53" offset="-26"/>
+      <mapping anidbseason="1" tvdbseason="3" start="54" end="75" offset="-53"/>
+      <mapping anidbseason="1" tvdbseason="4" start="76" end="101" offset="-75"/>
+      <mapping anidbseason="1" tvdbseason="5" start="102" end="128" offset="-101"/>
+      <mapping anidbseason="1" tvdbseason="6" start="129" end="165" offset="-128"/>
+      <mapping anidbseason="1" tvdbseason="7" start="166" end="178" offset="-165"/>
     </mapping-list>
   </anime>
   <anime anidbid="58" tvdbid="79239" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
