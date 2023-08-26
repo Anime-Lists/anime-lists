@@ -2762,7 +2762,7 @@
   <anime anidbid="688" tvdbid="73495" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ike! Ina-chuu Takkyuubu</name>
   </anime>
-  <anime anidbid="689" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="689" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="131597" imdbid="">
     <name>Early Reins</name>
   </anime>
   <anime anidbid="690" tvdbid="103571" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -8914,7 +8914,7 @@
   <anime anidbid="2654" tvdbid="90821" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Nils no Fushigi na Tabi</name>
   </anime>
-  <anime anidbid="2655" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="2655" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="603694" imdbid="">
     <name>Cool Cool Bye</name>
   </anime>
   <anime anidbid="2656" tvdbid="79755" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -9594,7 +9594,7 @@
       <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="2893" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="2893" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="404508" imdbid="">
     <name>Clover</name>
   </anime>
   <anime anidbid="2894" tvdbid="70865" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
@@ -10061,7 +10061,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="3121" tvdbid="78974" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="3121" tvdbid="78974" defaulttvdbseason="0" episodeoffset="" tmdbid="174815" imdbid="">
     <name>Tenjou Tenge: The Past Chapter</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
@@ -12087,7 +12087,7 @@
   <anime anidbid="4098" tvdbid="232181" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Wild 7</name>
   </anime>
-  <anime anidbid="4099" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="4099" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="166688" imdbid="unknown">
     <name>Choujikuu Romanesque Samy: Missing 99</name>
   </anime>
   <anime anidbid="4100" tvdbid="232181" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -18430,7 +18430,7 @@
   <anime anidbid="6760" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Yakeato no, Okashi no Ki</name>
   </anime>
-  <anime anidbid="6761" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="6761" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="795977" imdbid="">
     <name>Chiisai Sensuikan ni Koi o Shita Dekasugiru Kujira no Hanashi</name>
   </anime>
   <anime anidbid="6762" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="63233" imdbid="">
@@ -21968,7 +21968,7 @@
   <anime anidbid="7961" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Choujin Densetsu Urotsukidouji: Inferno Road Jain Kanzenban</name>
   </anime>
-  <anime anidbid="7963" tvdbid="19243" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
+  <anime anidbid="7963" tvdbid="71776" defaulttvdbseason="0" episodeoffset="1" tmdbid="512443" imdbid="">
     <name>Maison Ikkoku: Shiki Utsuriyuku Kisetsu no Naka de</name>
   </anime>
   <anime anidbid="7964" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
@@ -22079,7 +22079,7 @@
   <anime anidbid="8002" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Taropicana</name>
   </anime>
-  <anime anidbid="8003" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="8003" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="416268" imdbid="unknown">
     <name>Coluboccoro</name>
   </anime>
   <anime anidbid="8004" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
@@ -49336,10 +49336,10 @@
   <anime anidbid="17900" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Neko to Wakai se na</name>
   </anime>
-  <anime anidbid="17901" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17901" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="1102556" imdbid="">
     <name>Detarame na Sekai no Melodrama</name>
   </anime>
-  <anime anidbid="17902" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17902" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="1102568" imdbid="">
     <name>Colors</name>
   </anime>
   <anime anidbid="17904" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
