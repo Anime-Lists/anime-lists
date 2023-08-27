@@ -48595,8 +48595,11 @@
   <anime anidbid="17639" tvdbid="426861" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>UniteUp!</name>
   </anime>
-  <anime anidbid="17640" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbid="1056803" imdbid="tt27348312">
+  <anime anidbid="17640" tvdbid="345596" defaulttvdbseason="0" episodeoffset="" tmdbid="1056803" imdbid="tt27348312">
     <name>Seishun Buta Yarou wa Odekake Sister no Yume o Minai</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="17641" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Onmyouji</name>
@@ -49228,8 +49231,11 @@
   <anime anidbid="17861" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Urusei Yatsura (2024)</name>
   </anime>
-  <anime anidbid="17862" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17862" tvdbid="345596" defaulttvdbseason="0" episodeoffset="" tmdbid="1086591" imdbid="tt28036417">
     <name>Seishun Buta Yarou wa Ransel Girl no Yume o Minai</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="17864" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Lycoris Recoil (Shinsaku Animation)</name>
