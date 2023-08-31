@@ -7751,7 +7751,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="2284" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="2284" tvdbid="movie" defaulttvdbseason="0" episodeoffset="" tmdbid="622488" imdbid="unknown">
     <name>Gegege no Kitarou: Youkai Daisensou</name>
   </anime>
   <anime anidbid="2285" tvdbid="250848" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0389076">
@@ -8450,7 +8450,7 @@
   <anime anidbid="2492" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Twinbee Paradise</name>
   </anime>
-  <anime anidbid="2493" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="2493" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="334210" imdbid="unknown">
     <name>Greed</name>
   </anime>
   <anime anidbid="2494" tvdbid="72629" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -10539,7 +10539,7 @@
   <anime anidbid="3344" tvdbid="157211" defaulttvdbseason="0" episodeoffset="24" tmdbid="" imdbid="tt0203012">
     <name>Musha Knight Commando: SD Gundam Scramble</name>
   </anime>
-  <anime anidbid="3345" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="3345" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="600056" imdbid="">
     <name>Growlanser IV: Wayfarer of the Time</name>
   </anime>
   <anime anidbid="3346" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -20531,7 +20531,7 @@
   <anime anidbid="7473" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Yoshino no Hime</name>
   </anime>
-  <anime anidbid="7474" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="7474" tvdbid="movie" defaulttvdbseason="0" episodeoffset="" tmdbid="501753" imdbid="unknown">
     <name>Gegege no Kitarou: Chisougan</name>
   </anime>
   <anime anidbid="7475" tvdbid="248423" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
@@ -37915,7 +37915,7 @@
   <anime anidbid="13783" tvdbid="348294" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hanebado!</name>
   </anime>
-  <anime anidbid="13784" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13784" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="597419" imdbid="">
     <name>Gekijouban Ta ga Tame no Alchemist</name>
   </anime>
   <anime anidbid="13785" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -38565,7 +38565,7 @@
   <anime anidbid="14010" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mekakucity Days</name>
   </anime>
-  <anime anidbid="14011" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14011" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="521296" imdbid="">
     <name>Gekijouban Wakaokami wa Shougakusei!</name>
   </anime>
   <anime anidbid="14012" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -40161,7 +40161,7 @@
   <anime anidbid="14566" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Battle Spirits: Saga Brave</name>
   </anime>
-  <anime anidbid="14568" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14568" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="576617" imdbid="">
     <name>Kyochuu Rettou</name>
   </anime>
   <anime anidbid="14569" tvdbid="361756" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -41573,7 +41573,7 @@
   <anime anidbid="15063" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Uzumaki</name>
   </anime>
-  <anime anidbid="15064" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15064" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="658558" imdbid="">
     <name>Gekijouban Kyochuu Rettou</name>
   </anime>
   <anime anidbid="15065" tvdbid="376812" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -42077,7 +42077,7 @@
   <anime anidbid="15269" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kaiju Decode</name>
   </anime>
-  <anime anidbid="15270" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15270" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="648457" imdbid="">
     <name>Gekijouban Deemo: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku</name>
   </anime>
   <anime anidbid="15271" tvdbid="341437" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
@@ -43897,7 +43897,7 @@
   <anime anidbid="15921" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Rail Romanesque 2</name>
   </anime>
-  <anime anidbid="15922" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15922" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="814662" imdbid="">
     <name>Gekijou Henshuuban Kakushigoto: Himegoto wa Nandesuka</name>
   </anime>
   <anime anidbid="15923" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
