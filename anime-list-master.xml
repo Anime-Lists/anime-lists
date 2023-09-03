@@ -7420,7 +7420,7 @@
   <anime anidbid="2176" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kijoku: Princess Double Kari</name>
   </anime>
-  <anime anidbid="2177" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="2177" tvdbid="ova" defaulttvdbseason="1" episodeoffset="" tmdbid="582825" imdbid="">
     <name>Ichigeki Sacchuu!! Hoihoi-san</name>
   </anime>
   <anime anidbid="2178" tvdbid="121681" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0489102">
@@ -9439,7 +9439,7 @@
   <anime anidbid="2841" tvdbid="167921" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Sore Yuke! Gedou Otometai</name>
   </anime>
-  <anime anidbid="2842" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="2842" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="73724" imdbid="">
     <name>Hotori: Tada Saiwai o Koinegau.</name>
   </anime>
   <anime anidbid="2843" tvdbid="80984" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -13374,7 +13374,7 @@
   <anime anidbid="4604" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Peut-etre Toi</name>
   </anime>
-  <anime anidbid="4605" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="4605" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="799336" imdbid="unknown">
     <name>Joseito</name>
   </anime>
   <anime anidbid="4606" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0878116">
@@ -18081,7 +18081,7 @@
   <anime anidbid="6631" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1927007">
     <name>Dai-chan, Daisuki.</name>
   </anime>
-  <anime anidbid="6632" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="6632" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="379152" imdbid="unknown">
     <name>Happy Birthday Inochi Kagayaku Toki</name>
   </anime>
   <anime anidbid="6633" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0829134">
@@ -20107,11 +20107,8 @@
       <studio>Kitty Film</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="7323" tvdbid="71361" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="7323" tvdbid="71361" defaulttvdbseason="0" episodeoffset="4" tmdbid="" imdbid="tt15436162">
     <name>Inuyasha: Kuroi Tessaiga</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="7324" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Inmu Gakuen: "Dame... Konna ni Nacchau no wa Yume no Naka dake na no...!" - Inmu ni Torawareta Bijin Shimai</name>
@@ -35341,7 +35338,7 @@
   <anime anidbid="12883" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Manga Kamishibai Kintarou no Maki</name>
   </anime>
-  <anime anidbid="12884" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12884" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="589082" imdbid="">
     <name>Hakubo</name>
   </anime>
   <anime anidbid="12886" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -35614,7 +35611,7 @@
   <anime anidbid="12983" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Africa no Salaryman</name>
   </anime>
-  <anime anidbid="12984" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12984" tvdbid="other" defaulttvdbseason="1" episodeoffset="" tmdbid="656568" imdbid="">
     <name>It's a Rumic World: 50th Anniversary Weekly-Shonen Sunday</name>
   </anime>
   <anime anidbid="12985" tvdbid="329828" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -44494,7 +44491,7 @@
   <anime anidbid="16126" tvdbid="339076" defaulttvdbseason="6" episodeoffset="" tmdbid="" imdbid="">
     <name>Beyblade Burst Dynamite Battle</name>
   </anime>
-  <anime anidbid="16127" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="16127" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="1086423" imdbid="">
     <name>Heikousen</name>
   </anime>
   <anime anidbid="16128" tvdbid="402227" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -49330,7 +49327,7 @@
   <anime anidbid="17898" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tentai Kansoku</name>
   </anime>
-  <anime anidbid="17899" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17899" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="1102550" imdbid="">
     <name>Himitsu no Hana no Niwa</name>
   </anime>
   <anime anidbid="17900" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -49684,7 +49681,7 @@
   <anime anidbid="18021" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Shinzou Ningen Struggle Bunny</name>
   </anime>
-  <anime anidbid="18022" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="18022" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt27551813">
     <name>Idol</name>
   </anime>
   <anime anidbid="18023" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
