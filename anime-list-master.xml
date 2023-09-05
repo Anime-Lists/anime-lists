@@ -8241,7 +8241,7 @@
   <anime anidbid="2417" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Doctor Mambo &amp; Kaitou Jibako: Uchuu yori Ai o Komete!!</name>
   </anime>
-  <anime anidbid="2418" tvdbid="74739" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="2418" tvdbid="74739" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt6264836">
     <name>Kaleido Star: Aratanaru Tsubasa - Extra Stage</name>
   </anime>
   <anime anidbid="2419" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0249984">
@@ -10055,7 +10055,7 @@
   <anime anidbid="3119" tvdbid="72281" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="unknown">
     <name>Black Jack: Heian Sento</name>
   </anime>
-  <anime anidbid="3120" tvdbid="74739" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="3120" tvdbid="74739" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt13904064">
     <name>Kaleido Star: Good Da yo! Goood!!</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
@@ -12157,7 +12157,7 @@
   <anime anidbid="4122" tvdbid="100171" defaulttvdbseason="0" episodeoffset="4" tmdbid="" imdbid="tt0185338">
     <name>Ginga Tetsudou 999: Kimi wa Haha no You ni Aiseruka!!</name>
   </anime>
-  <anime anidbid="4123" tvdbid="74739" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4123" tvdbid="74739" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt10674772">
     <name>Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
@@ -16049,7 +16049,7 @@
   <anime anidbid="5728" tvdbid="other" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1280036">
     <name>Naked Youth</name>
   </anime>
-  <anime anidbid="5730" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="5730" tvdbid="ova" defaulttvdbseason="1" episodeoffset="" tmdbid="686108" imdbid="">
     <name>Juliet</name>
   </anime>
   <anime anidbid="5731" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1615015">
@@ -16779,7 +16779,7 @@
   <anime anidbid="6084" tvdbid="unknown" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Noramimi 2</name>
   </anime>
-  <anime anidbid="6085" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="6085" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="820879" imdbid="">
     <name>Kiku-chan to Ookami</name>
   </anime>
   <anime anidbid="6087" tvdbid="84591" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -20709,7 +20709,7 @@
   <anime anidbid="7535" tvdbid="82832" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Bakugan Battle Brawlers: Gundalian Invaders</name>
   </anime>
-  <anime anidbid="7536" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="7536" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="328354" imdbid="unknown">
     <name>Kennel Tokorozawa</name>
   </anime>
   <anime anidbid="7537" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -25497,7 +25497,7 @@
   <anime anidbid="9201" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tatsumi</name>
   </anime>
-  <anime anidbid="9205" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9205" tvdbid="ova" defaulttvdbseason="1" episodeoffset="" tmdbid="552122" imdbid="">
     <name>Junkers Come Here: Memories of You</name>
   </anime>
   <anime anidbid="9206" tvdbid="251908" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
@@ -42852,7 +42852,7 @@
   <anime anidbid="15538" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Jintian Kaishi Zuo Mingxing</name>
   </anime>
-  <anime anidbid="15540" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15540" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="628964" imdbid="">
     <name>Kamiarizuki no Kodomo</name>
   </anime>
   <anime anidbid="15541" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -44749,10 +44749,10 @@
   <anime anidbid="16256" tvdbid="401911" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Jahy-sama wa Kujikenai!</name>
   </anime>
-  <anime anidbid="16258" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="16258" tvdbid="348545" defaulttvdbseason="0" episodeoffset="10" tmdbid="811948" imdbid="">
     <name>Kimetsu no Yaiba: Hashira Gou Kaigi - Chouyashiki Hen</name>
   </anime>
-  <anime anidbid="16259" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="16259" tvdbid="348545" defaulttvdbseason="0" episodeoffset="9" tmdbid="802401" imdbid="">
     <name>Kimetsu no Yaiba: Natagumoyama Hen</name>
   </anime>
   <anime anidbid="16261" tvdbid="401915" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -47398,7 +47398,7 @@
   <anime anidbid="17218" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Feel the Fairies (2020)</name>
   </anime>
-  <anime anidbid="17219" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17219" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="942881" imdbid="">
     <name>Kagami no Kojou</name>
   </anime>
   <anime anidbid="17220" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
