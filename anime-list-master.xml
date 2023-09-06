@@ -2123,7 +2123,7 @@
   <anime anidbid="501" tvdbid="74309" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0113726">
     <name>Choujikuu Yousai Macross II: Lovers Again</name>
   </anime>
-  <anime anidbid="502" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="502" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="35589" imdbid="">
     <name>Kumo no You ni Kaze no You ni</name>
   </anime>
   <anime anidbid="503" tvdbid="73196" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -2476,7 +2476,7 @@
       <studio>Ishikawa Pro</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="601" tvdbid="71776" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
+  <anime anidbid="601" tvdbid="71776" defaulttvdbseason="0" episodeoffset="2" tmdbid="482810" imdbid="">
     <name>Maison Ikkoku: Bangaihen Ikkokujima Nanpa Shimatsuki</name>
   </anime>
   <anime anidbid="602" tvdbid="81432" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -11351,7 +11351,7 @@
   <anime anidbid="3614" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="400144" imdbid="">
     <name>Amefurikozou</name>
   </anime>
-  <anime anidbid="3615" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="3615" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="400147" imdbid="unknown">
     <name>Lunn wa Kaze no Naka</name>
   </anime>
   <anime anidbid="3616" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="86638" imdbid="">
@@ -13017,7 +13017,7 @@
   <anime anidbid="4445" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mujigen Hunter Fandora</name>
   </anime>
-  <anime anidbid="4447" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="4447" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="741453" imdbid="unknown">
     <name>Licca the Movie: Licca-chan to Yamaneko Hoshi no Tabi</name>
   </anime>
   <anime anidbid="4448" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
@@ -13368,7 +13368,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="4603" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="4603" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="799500" imdbid="unknown">
     <name>Maihime</name>
   </anime>
   <anime anidbid="4604" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -14641,7 +14641,7 @@
   <anime anidbid="5077" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Pelican Road: Club Caroucha</name>
   </anime>
-  <anime anidbid="5078" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="5078" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="334725" imdbid="unknown">
     <name>Majo demo Steady</name>
   </anime>
   <anime anidbid="5079" tvdbid="127151" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
@@ -15545,7 +15545,7 @@
   <anime anidbid="5473" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ooedo Forty Eight</name>
   </anime>
-  <anime anidbid="5474" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="5474" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="111273" imdbid="unknown">
     <name>Kosuke-sama Rikimaru-sama: Konpeitou no Ryuu</name>
   </anime>
   <anime anidbid="5475" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -16519,7 +16519,7 @@
   <anime anidbid="5960" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hai! Akko Desu</name>
   </anime>
-  <anime anidbid="5961" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="5961" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt6562108">
     <name>Licca-chan no Nichiyoubi</name>
   </anime>
   <anime anidbid="5963" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -18264,7 +18264,7 @@
   <anime anidbid="6701" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1024209">
     <name>Issunboushi no Shusse</name>
   </anime>
-  <anime anidbid="6702" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="6702" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="190239" imdbid="unknown">
     <name>Kobutori (1929)</name>
   </anime>
   <anime anidbid="6703" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0419184">
@@ -39819,7 +39819,7 @@
   <anime anidbid="14449" tvdbid="371437" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta...</name>
   </anime>
-  <anime anidbid="14450" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14450" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="572647" imdbid="">
     <name>Laidbackers</name>
   </anime>
   <anime anidbid="14451" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
