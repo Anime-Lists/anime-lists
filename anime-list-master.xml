@@ -11285,7 +11285,7 @@
   <anime anidbid="3595" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Chibo</name>
   </anime>
-  <anime anidbid="3596" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="3596" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt3737644">
     <name>Meitantei Conan: Conan to Heiji to Kieta Shounen</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-9;</mapping>
@@ -13107,7 +13107,7 @@
   <anime anidbid="4502" tvdbid="web" defaulttvdbseason="0" episodeoffset="" tmdbid="47656" imdbid="">
     <name>Hoshizora Kiseki</name>
   </anime>
-  <anime anidbid="4504" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4504" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="1041790" imdbid="">
     <name>Meitantei Conan: Kieta Dia o Oe! Conan &amp; Heiji VS Kid!</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
@@ -20585,7 +20585,7 @@
   <anime anidbid="7493" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Dohyou no Oni-tachi</name>
   </anime>
-  <anime anidbid="7494" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="7494" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="960611" imdbid="">
     <name>Meitantei Conan: Kid in Trap Island</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-30;</mapping>
@@ -20712,7 +20712,7 @@
   <anime anidbid="7536" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="328354" imdbid="unknown">
     <name>Kennel Tokorozawa</name>
   </anime>
-  <anime anidbid="7537" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="7537" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt18266264">
     <name>Meitantei Conan Magic File 4: Osaka Okonomiyaki Odyssey</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-27;</mapping>
@@ -23224,7 +23224,7 @@
   <anime anidbid="8398" tvdbid="83479" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Neko Ramen: Ore no Shouyu Aji</name>
   </anime>
-  <anime anidbid="8399" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8399" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt15468696">
     <name>Meitantei Conan Magic File 2011: Niigata - Tokyo Omiyage Capriccio</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-33;</mapping>
@@ -24993,7 +24993,7 @@
   <anime anidbid="9020" tvdbid="257914" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kuromajo-san ga Tooru!!</name>
   </anime>
-  <anime anidbid="9021" tvdbid="76703" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="9021" tvdbid="76703" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt3513820">
     <name>Meloetta no Kirakira Recital</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
@@ -25343,7 +25343,7 @@
   <anime anidbid="9149" tvdbid="261667" defaulttvdbseason="8" episodeoffset="" tmdbid="" imdbid="">
     <name>Duel Masters Victory V</name>
   </anime>
-  <anime anidbid="9152" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9152" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt12622500">
     <name>Meitantei Conan: Excalibur no Kiseki</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-53;</mapping>
@@ -27440,7 +27440,7 @@
   <anime anidbid="9925" tvdbid="275610" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Noragami</name>
   </anime>
-  <anime anidbid="9926" tvdbid="76703" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9926" tvdbid="76703" defaulttvdbseason="0" episodeoffset="" tmdbid="249424" imdbid="">
     <name>Mewtwo: Kakusei e no Prologue</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
@@ -34636,7 +34636,7 @@
   <anime anidbid="12643" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Cabbage UFO</name>
   </anime>
-  <anime anidbid="12644" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12644" tvdbid="tv special" defaulttvdbseason="0" episodeoffset="" tmdbid="573364" imdbid="">
     <name>Meitantei Conan: Episode One - Chiisaku Natta Meitantei</name>
   </anime>
   <anime anidbid="12645" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -35287,7 +35287,7 @@
   <anime anidbid="12865" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Manga Misemono Kenbutsu</name>
   </anime>
-  <anime anidbid="12866" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12866" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="461706" imdbid="">
     <name>Manga Revue Haru</name>
   </anime>
   <anime anidbid="12867" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
