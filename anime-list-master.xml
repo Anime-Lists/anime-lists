@@ -8899,7 +8899,7 @@
   <anime anidbid="2649" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Be-Boy Kidnapp'n Idol</name>
   </anime>
-  <anime anidbid="2650" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="2650" tvdbid="123611" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Okusama wa Mahou Shoujo</name>
   </anime>
   <anime anidbid="2651" tvdbid="79179" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0471767">
@@ -10222,8 +10222,11 @@
   <anime anidbid="3175" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Angelique: Twin Collection</name>
   </anime>
-  <anime anidbid="3176" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="3176" tvdbid="324325" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Patalliro Saiyuuki</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="1">;1-27;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="3178" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Lupin Tai Holmes</name>
@@ -10777,7 +10780,7 @@
   <anime anidbid="3427" tvdbid="79880" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Utawarerumono</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-1;3-2;4-3;5-4;6-0;7-0;8-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" offset="5">;1-30;6-34;7-35;8-31;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="3428" tvdbid="81768" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -11176,7 +11179,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-17;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="3562" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="3562" tvdbid="307695" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Animal Yokochou</name>
   </anime>
   <anime anidbid="3563" tvdbid="248361" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -12762,7 +12765,7 @@
   <anime anidbid="4328" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Cosmic Fantasy: Ginga Mehyou no Wana</name>
   </anime>
-  <anime anidbid="4333" tvdbid="unknown" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4333" tvdbid="262210" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Onegai My Melody: Kurukuru Shuffle!</name>
   </anime>
   <anime anidbid="4334" tvdbid="120501" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
