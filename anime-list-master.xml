@@ -7547,7 +7547,7 @@
   <anime anidbid="2216" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1073670">
     <name>Nagagutsu Sanjuushi</name>
   </anime>
-  <anime anidbid="2217" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="2217" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="398334" imdbid="unknown">
     <name>Maken Liner 0011 Henshin Seyo!</name>
   </anime>
   <anime anidbid="2218" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt2170561">
@@ -9241,7 +9241,7 @@
   <anime anidbid="2770" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>BuBu ChaCha</name>
   </anime>
-  <anime anidbid="2771" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="2771" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="679068" imdbid="unknown">
     <name>Netrun-mon The Movie 1: Net no Sumi de Blog to Sakebu</name>
   </anime>
   <anime anidbid="2773" tvdbid="354231" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -10137,13 +10137,13 @@
   <anime anidbid="3147" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Nine</name>
   </anime>
-  <anime anidbid="3148" tvdbid="unknown" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="3148" tvdbid="tv special" defaulttvdbseason="2" episodeoffset="" tmdbid="701879" imdbid="">
     <name>Nine 2: Koibito Sengen</name>
   </anime>
-  <anime anidbid="3149" tvdbid="unknown" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="3149" tvdbid="tv special" defaulttvdbseason="3" episodeoffset="" tmdbid="701881" imdbid="">
     <name>Nine: Kanketsuhen</name>
   </anime>
-  <anime anidbid="3150" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="3150" tvdbid="movie" defaulttvdbseason="0" episodeoffset="" tmdbid="701874" imdbid="unknown">
     <name>Nine (Original Ban)</name>
   </anime>
   <anime anidbid="3151" tvdbid="213411" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -16016,11 +16016,8 @@
   <anime anidbid="5711" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Magical Hat</name>
   </anime>
-  <anime anidbid="5714" tvdbid="80294" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="5714" tvdbid="80294" defaulttvdbseason="0" episodeoffset="" tmdbid="497537" imdbid="unknown">
     <name>Mirai Shounen Conan (1979)</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="5717" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Oraa Guzura Dado (1987)</name>
@@ -17682,7 +17679,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-6;2-7;3-8;4-9;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="6491" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="6491" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="789395" imdbid="unknown">
     <name>Milky Passion: Dougenzaka - Ai no Shiro</name>
   </anime>
   <anime anidbid="6492" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -18282,7 +18279,7 @@
   <anime anidbid="6704" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Koumori</name>
   </anime>
-  <anime anidbid="6705" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="6705" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="165942" imdbid="unknown">
     <name>Mura Matsuri</name>
   </anime>
   <anime anidbid="6706" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0418865">
@@ -22241,7 +22238,7 @@
   <anime anidbid="8065" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Space Neko Theater</name>
   </anime>
-  <anime anidbid="8066" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8066" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="421594" imdbid="">
     <name>Nana to Kaoru</name>
   </anime>
   <anime anidbid="8068" tvdbid="91431" defaulttvdbseason="1" episodeoffset="" tmdbid="837351" imdbid="">
@@ -33960,7 +33957,7 @@
   <anime anidbid="12398" tvdbid="71863" defaulttvdbseason="0" episodeoffset="43" tmdbid="" imdbid="">
     <name>Lupin the IIIrd: Chikemuri no Ishikawa Goemon</name>
   </anime>
-  <anime anidbid="12399" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12399" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="433366" imdbid="">
     <name>Mori no Densetsu: Dai Ni Gakushou</name>
   </anime>
   <anime anidbid="12400" tvdbid="320004" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -42679,7 +42676,7 @@
   <anime anidbid="15469" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Pianoman</name>
   </anime>
-  <anime anidbid="15470" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15470" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="690511" imdbid="">
     <name>Monster Strike the Movie: Lucifer - Zetsubou no Yoake</name>
   </anime>
   <anime anidbid="15471" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -49346,7 +49343,7 @@
   <anime anidbid="17899" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="1102550" imdbid="">
     <name>Himitsu no Hana no Niwa</name>
   </anime>
-  <anime anidbid="17900" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17900" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="1102552" imdbid="">
     <name>Neko to Wakai se na</name>
   </anime>
   <anime anidbid="17901" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="1102556" imdbid="">
