@@ -2,7 +2,7 @@ Anime Lists
 ===========
 
 Anime mapping lists used by:
-  - [AniDb.net [MOD] scrapers](https://forum.kodi.tv/showthread.php?tid=142835) for [Kodi](https://kodi.tv/)
+  - [AniDB.net [MOD] scrapers](https://forum.kodi.tv/showthread.php?tid=142835) for [Kodi](https://kodi.tv/)
   - [HTTP Anidb Metadata Agent (HAMA)](https://github.com/ZeroQI/Hama.bundle) for [Plex](https://plex.tv)
   - [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager)
   - [MyAnimeList Plex Metadata Agent](https://github.com/Fribb/MyAnimeList.bundle)
@@ -19,7 +19,7 @@ The Lists
 This list contains groupings of anime titles that are suitable as movie sets (includes movies, TV specials, and one-shot OVAs).
 
 ### anime-list-master.xml ###
-This list contains entries for every title on AniDb.net and serves as a template from which all the remaining lists are derived.
+This list contains entries for every title on AniDB.net and serves as a template from which all the remaining lists are derived.
 Feel free to [contribute to it](#contributing) if you notice missing or mismatched entries
 
 ### anime-list.xml ###
@@ -30,13 +30,13 @@ Alternative list for the scraper.  Contains all entries from the master list tha
 
 ### anime-list-unknown.xml ###
 Maintenance list containing all entries that are marked as "unknown".
-Any of these titles may potentially become "known" if they are added to theTVDB.com or themoviedb.org.
+Any of these titles may potentially become "known" if they are added to TheTVDB.com or TheMovieDB.org.
 
 ### anime-list-todo.xml ###
 All empty entries from the master list.  Literally a to-do list.
 
 ### animetitles.xml ###
-Copy of the animetitles.xml available from AniDb.net.  This is used by the scraper to search for matching titles.
+Copy of the animetitles.xml available from AniDB.net.  This is used by the scraper to search for matching titles.
 
 Format
 ------
@@ -57,75 +57,76 @@ A typical entry in anime-list-master.xml:
 
 Each entry consists of an **anime** node with the following attributes:
 
-*   **anidbid** - The AniDb.net id (pre-filled).
+*   **anidbid** - The AniDB.net id (pre-filled).
 
-*   **tvdbid** - theTVDB.com **series** id (do not use movie IDs). Multi-episode titles not found on theTVDB.com are marked as "unknown", as they may eventually get added and
-    this makes it easier to re-check (via anime-list-unknown.xml).  One-off titles that won't ever be added to theTVDB.com (movies, TV specials, one-shot OVAs)
-    are marked by their AniDb.net type, unless they can be associated to a multi-episode series (in which case they use the corresponding theTVDB.com id or "unknown").
+*   **tvdbid** - TheTVDB.com **series** id (do not use movie IDs). Multi-episode titles not found on TheTVDB.com are marked as "unknown", as they may eventually get added and
+    this makes it easier to re-check (via anime-list-unknown.xml).  One-off titles that won't ever be added to TheTVDB.com (movies, TV specials, one-shot OVAs)
+    are marked by their AniDB.net type, unless they can be associated to a multi-episode series (in which case they use the corresponding TheTVDB.com id or "unknown").
 
-    Pornographic titles are marked by "hentai" regardless of episode count as they will never appear on theTVDB.com.
+    Pornographic titles are marked by "hentai" regardless of episode count as they will never appear on TheTVDB.com.
 
-*   **defaulttvdbseason** - The corresponding theTVDB.com season.
+*   **defaulttvdbseason** - The corresponding TheTVDB.com season.
     For one-off titles it will be `1` unless associated to a multi-episode series, in which case it will be `0`.
-    Series that span multiple seasons on theTVDB.com may be marked as `a` if the absolute episode numbering is defined and matches AniDb.net.
+    Series that span multiple seasons on TheTVDB.com may be marked as `a` if the absolute episode numbering is defined and matches AniDB.net.
 
-*   **episodeoffset** - Number to add to each regular AniDb.net episode number to get the corresponding theTVDB.com episode number in the defaulttvdbseason.
+*   **episodeoffset** - Number to add to each regular AniDB.net episode number to get the corresponding TheTVDB.com episode number in the defaulttvdbseason.
     Not necessary if the episode numbers match up exactly.
     For special episodes and more complex situations the mapping-list is used (see below).
 
-*   **tmdbid**/**imdbid** - themoviedb.org/imdb.com id. Only used for one-off titles like movies.
+*   **tmdbid**/**imdbid** - TheMovieDB.org/imdb.com ID. Only used for standalone entries like movies.
+    Multiple IDs can be mapped to the same AniDB entry with comma sepparation. Ex: `tmdbid="12345,67890"`, `imdbid="tt12345678,tt9876543"`
     **[Do not use tmdbid for series!](https://github.com/ScudLee/anime-lists/issues/342)**
 
 Within the anime node are any of the following nodes
 
 *   **name** - Title taken from the "main" listing in the animetitles.xml (pre-filled).
 
-*   **mapping-list** - Used to map individual episodes between AniDb.net and theTVDB.com (see below).
+*   **mapping-list** - Used to map individual episodes between AniDB.net and TheTVDB.com (see below).
     Not necessary if episode numbers match up exactly within the season(s).
 
 *   **before** - Used to position special episodes within the regular episodes.
-    This information is usually supplied by theTVDB.com for the scraper,
+    This information is usually supplied by TheTVDB.com for the scraper,
     and is only included in the mapping list if there is a disparity
-    (such as when AniDb.net special episodes correspond to theTVDB.com regular episodes).
+    (such as when AniDB.net special episodes correspond to TheTVDB.com regular episodes).
 
-    Format is: ` ;1-5;2-6;...; ` where the first number in each mapping is the AniDb.net special episode number
-    and the second is the AniDb.net regular episode it should be listed before.
+    Format is: ` ;1-5;2-6;...; ` where the first number in each mapping is the AniDB.net special episode number
+    and the second is the AniDB.net regular episode it should be listed before.
     Episodes to be forced to the end of the series are mapped to their intended higher episode numbers.
 
-*   **supplemental-info** - Extra information that is not supplied by the AniDb.net (see below).
+*   **supplemental-info** - Extra information that is not supplied by the AniDB.net (see below).
     To be used sparingly.
 
 #### mapping-list ####
 The mapping-list node consists of one or more **mapping** nodes with the following attributes:
 
-*   **anidbseason** - The AniDb.net season (either `1` for regular episodes or `0` for specials).
+*   **anidbseason** - The AniDB.net season (either `1` for regular episodes or `0` for specials).
 
-*   **tvdbseason** - The corresponding theTVDB.com season.
+*   **tvdbseason** - The corresponding TheTVDB.com season.
 
-*   **start** - The first AniDb.net episode the offset applies to.
+*   **start** - The first AniDB.net episode the offset applies to.
 
-*   **end** - The last AniDb.net episode the offset applies to.
+*   **end** - The last AniDB.net episode the offset applies to.
 
-*  **offset**  - The number to add to each AniDb.net episode between the start and end values.
+*  **offset**  - The number to add to each AniDB.net episode between the start and end values.
 
-    The format for mapping individual episodes is: ` ;1-5;2-6;...; ` where the first number in each mapping is the AniDb.net episode number
-    and the second is the corresponding theTVDB.com episode number for the season specified.
-    For a single AniDb.net episode to multiple theTVDB.com episodes, you can link the latter with `+`. For example ` ;1-1+2; ` if the AniDb.net episode 1 contains both theTVDB.com episodes 1 and 2.
-    Conversely, multiple AniDB.net episodes simply map to the same theTVDB.com episode. For example ` ;1-1;2-1; ` if AniDb.net episodes 1 and 2 are parts of theTVDB.com episode 1. (**` ;1+2-1; ` IS NOT VALID!**)
+    The format for mapping individual episodes is: ` ;1-5;2-6;...; ` where the first number in each mapping is the AniDB.net episode number
+    and the second is the corresponding TheTVDB.com episode number for the season specified.
+    For a single AniDB.net episode to multiple TheTVDB.com episodes, you can link the latter with `+`. For example ` ;1-1+2; ` if the AniDB.net episode 1 contains both TheTVDB.com episodes 1 and 2.
+    Conversely, multiple AniDB.net episodes simply map to the same TheTVDB.com episode. For example ` ;1-1;2-1; ` if AniDB.net episodes 1 and 2 are parts of TheTVDB.com episode 1. (**` ;1+2-1; ` IS NOT VALID!**)
     
     AniDB trailer episodes with prefix T can be mapped by using episode numbers >= 201, T1 = 201. "Other" episodes can be mapped using episode numbers >= 401, O1 = 401.
 
     The start, end, and offset attributes are not necessary if only individual episodes are being mapped.
     The offset and/or episodeoffset will be ignored in favour of an individual mapping.
 
-    Episodes on AniDb.net that don't match anything on theTVDB.com are mapped to 0 if and only if there's a conflict.
+    Episodes on AniDB.net that don't match anything on TheTVDB.com are mapped to 0 if and only if there's a conflict.
 
 #### supplemental-info ####
-The supplemental-info node may contain an optional attribute of **replace="true"**, in which case the information will replace that supplied by AniDb.net, otherwise it is just added to (and prioritised over) the AniDb.net information.
+The supplemental-info node may contain an optional attribute of **replace="true"**, in which case the information will replace that supplied by AniDB.net, otherwise it is just added to (and prioritised over) the AniDB.net information.
 
 Any of the following nodes are allowed multiple times in a supplemental-info node:
 
-*   **studio** - The animation studio.  This need only be included if no "Animation Work" or "Work" is supplied in the Main Staff box on AniDb.net.
+*   **studio** - The animation studio.  This need only be included if no "Animation Work" or "Work" is supplied in the Main Staff box on AniDB.net.
 
 *   **genre**
 
@@ -135,9 +136,9 @@ Any of the following nodes are allowed multiple times in a supplemental-info nod
 
 *   **credits** - (i.e. Writer).
 
-*   **thumb** - URL of a thumbnail to use instead of the AniDb.net one.  Needs to include an attribute of either **aspect="poster"** or **aspect="banner"**.
+*   **thumb** - URL of a thumbnail to use instead of the AniDB.net one.  Needs to include an attribute of either **aspect="poster"** or **aspect="banner"**.
 
-*   **fanart** - Fanart to use instead of theTVDB.com or themoviedb.org ones.  Can only be one fanart node, but it can contain multiple **thumb** nodes (see below).
+*   **fanart** - Fanart to use instead of TheTVDB.com or TheMovieDB.org ones.  Can only be one fanart node, but it can contain multiple **thumb** nodes (see below).
 
 The fanart node consists of **thumb** nodes that contain the URL of the fanart to use.
 
@@ -164,11 +165,11 @@ A typical entry in anime-movieset-list.xml:
 
 Each entry consists of a **set** node containing two or more **anime** nodes, and a single **titles** node that in turn contains one or more **title** nodes.
 
-Each **anime** node consists of an **anidbid** attribute that corresponds to the AniDb.net id, and contains the "main" title (as taken from the animetitles.xml).
+Each **anime** node consists of an **anidbid** attribute that corresponds to the AniDB.net id, and contains the "main" title (as taken from the animetitles.xml).
 
 Each **title** node consists of two attributes, either **type="main" xml:lang="x-jat"** or **type="official" xml:lang="xx"** where **xx** is one of `en`, `de`, `fr`, `it`, `cs`, `sk`, `hu`, `pl`, `ru`, `ja`, `zh` (these are the only languages settable in the scraper).
 
-The "main" title is always present and is derived from an appropriate "main" (romaji) title on AniDb.net, while the "official" titles are derived from the corresponding "official" titles in the relevant languages.  Unofficial translations are not used.
+The "main" title is always present and is derived from an appropriate "main" (romaji) title on AniDB.net, while the "official" titles are derived from the corresponding "official" titles in the relevant languages.  Unofficial translations are not used.
 
 Contributing
 ------------
@@ -201,7 +202,7 @@ DO NOT run any of these when contributing!
 
 The Windows batch files are used to automate the updating of the lists.
 They require the following programs to work:
-*   **[curl.exe](http://curl.haxx.se/)** - Used to download animetitles.xml from AniDb.net.
+*   **[curl.exe](http://curl.haxx.se/)** - Used to download animetitles.xml from AniDB.net.
 *   **[xsltproc.exe](https://github.com/CoppeliaRobotics/xsltproc-win/blob/master/xsltproc-win.zip?raw=true)** - Used to apply the xsl transformations to the lists.
 *   **git** - Used to automatically commit the update of animetitles.xml.
 

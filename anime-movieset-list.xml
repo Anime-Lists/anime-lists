@@ -2499,6 +2499,15 @@
     </titles>
   </set>
   <set>
+    <anime anidbid="14397">Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai</anime>
+    <anime anidbid="17640">Seishun Buta Yarou wa Odekake Sister no Yume o Minai</anime>
+    <anime anidbid="17862">Seishun Buta Yarou wa Ransel Girl no Yume o Minai</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai Collection</title>
+      <title type="official" xml:lang="en">Rascal Does Not Dream of Bunny Girl Senpai Collection</title>
+    </titles>
+  </set>
+  <set>
     <anime anidbid="14712">Eiga Oshiri Tantei: Curry Naru Jiken</anime>
     <anime anidbid="15310">Eiga Oshiri Tantei: Tentou Mushi Iseki no Nazo</anime>
     <titles>

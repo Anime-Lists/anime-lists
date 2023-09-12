@@ -21,9 +21,6 @@
   <anime anidbid="651" tvdbid="unknown" defaulttvdbseason="1">
     <name>Popolocrois Monogatari</name>
   </anime>
-  <anime anidbid="689" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Early Reins</name>
-  </anime>
   <anime anidbid="711" tvdbid="unknown" defaulttvdbseason="1">
     <name>Vie Durant</name>
   </anime>
@@ -447,9 +444,6 @@
   <anime anidbid="2160" tvdbid="unknown" defaulttvdbseason="1">
     <name>Ajisai no Uta</name>
   </anime>
-  <anime anidbid="2177" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Ichigeki Sacchuu!! Hoihoi-san</name>
-  </anime>
   <anime anidbid="2194" tvdbid="unknown" defaulttvdbseason="1">
     <name>Hazedon</name>
   </anime>
@@ -504,9 +498,6 @@
   <anime anidbid="2281" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>The Kabocha Wine: Nita no Aijou Monogatari</name>
   </anime>
-  <anime anidbid="2284" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
-    <name>Gegege no Kitarou: Youkai Daisensou</name>
-  </anime>
   <anime anidbid="2289" tvdbid="unknown" defaulttvdbseason="1">
     <name>Meiken Lassie</name>
   </anime>
@@ -521,9 +512,6 @@
   </anime>
   <anime anidbid="2301" tvdbid="unknown" defaulttvdbseason="1">
     <name>Minami no Niji no Lucy</name>
-  </anime>
-  <anime anidbid="2307" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
-    <name>Gegege no Kitarou (1985, Movie)</name>
   </anime>
   <anime anidbid="2309" tvdbid="unknown" defaulttvdbseason="1">
     <name>Yama Nezumi Rocky Chuck</name>
@@ -672,9 +660,6 @@
   <anime anidbid="2618" tvdbid="unknown" defaulttvdbseason="1">
     <name>Galerians: Rion</name>
   </anime>
-  <anime anidbid="2650" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Okusama wa Mahou Shoujo</name>
-  </anime>
   <anime anidbid="2688" tvdbid="unknown" defaulttvdbseason="1">
     <name>Akuei to Gacchinpo</name>
   </anime>
@@ -719,9 +704,6 @@
   </anime>
   <anime anidbid="2823" tvdbid="unknown" defaulttvdbseason="1">
     <name>Sasurai no Shoujo Nell</name>
-  </anime>
-  <anime anidbid="2842" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Hotori: Tada Saiwai o Koinegau.</name>
   </anime>
   <anime anidbid="2861" tvdbid="unknown" defaulttvdbseason="1">
     <name>Yobarete Tobidete Akubi-chan</name>
@@ -954,14 +936,8 @@
   <anime anidbid="3175" tvdbid="unknown" defaulttvdbseason="1">
     <name>Angelique: Twin Collection</name>
   </anime>
-  <anime anidbid="3176" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Patalliro Saiyuuki</name>
-  </anime>
   <anime anidbid="3180" tvdbid="unknown" defaulttvdbseason="1">
     <name>Kaitou Pride</name>
-  </anime>
-  <anime anidbid="3184" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Tezuka Osamu no Kyuuyaku Seisho Monogatari: In the Beginning</name>
   </anime>
   <anime anidbid="3193" tvdbid="unknown" defaulttvdbseason="1">
     <name>Mitsume ga Tooru</name>
@@ -1139,9 +1115,6 @@
   </anime>
   <anime anidbid="3559" tvdbid="unknown" defaulttvdbseason="1">
     <name>Genji Tsuushin Agedama</name>
-  </anime>
-  <anime anidbid="3562" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Animal Yokochou</name>
   </anime>
   <anime anidbid="3568" tvdbid="unknown" defaulttvdbseason="1">
     <name>Kotenkotenko</name>
@@ -1496,9 +1469,6 @@
   </anime>
   <anime anidbid="4323" tvdbid="unknown" defaulttvdbseason="1">
     <name>Hula Kapper</name>
-  </anime>
-  <anime anidbid="4333" tvdbid="unknown" defaulttvdbseason="2">
-    <name>Onegai My Melody: Kurukuru Shuffle!</name>
   </anime>
   <anime anidbid="4338" tvdbid="unknown" defaulttvdbseason="1">
     <name>Saru Getchu: On Air</name>
@@ -2385,9 +2355,6 @@
   <anime anidbid="6770" tvdbid="unknown" defaulttvdbseason="1">
     <name>Souya Monogatari</name>
   </anime>
-  <anime anidbid="6782" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Aki Sora</name>
-  </anime>
   <anime anidbid="6806" tvdbid="unknown" defaulttvdbseason="1">
     <name>Kyoufu Shinbun</name>
   </anime>
@@ -2627,18 +2594,6 @@
   </anime>
   <anime anidbid="7465" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Midoriyama Koukou Koushien Hen (Gekijouban)</name>
-  </anime>
-  <anime anidbid="7472" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
-    <name>Gegege no Kitarou (1968)</name>
-  </anime>
-  <anime anidbid="7474" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
-    <name>Gegege no Kitarou: Chisougan</name>
-  </anime>
-  <anime anidbid="7484" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Aki Sora: Yume no Naka</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="1">;1-2;2-3;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="7510" tvdbid="unknown" defaulttvdbseason="1">
     <name>Dotanba no Manners</name>
@@ -3254,12 +3209,6 @@
   </anime>
   <anime anidbid="12366" tvdbid="unknown" defaulttvdbseason="1">
     <name>3-nen D-gumi Glass no Kamen</name>
-  </anime>
-  <anime anidbid="12387" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Hagane Orchestra</name>
-  </anime>
-  <anime anidbid="12739" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Shiyan Pin Jiating</name>
   </anime>
   <anime anidbid="13616" tvdbid="unknown" defaulttvdbseason="1">
     <name>Ningyou Rekishi Spectacle Heike Monogatari</name>
