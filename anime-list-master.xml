@@ -427,6 +427,8 @@
     <name>Fushigi Yuugi</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="26" />
+      <mapping anidbseason="1" tvdbseason="2" start="27" end="52" offset="-26" />
     </mapping-list>
   </anime>
   <anime anidbid="88" tvdbid="80790" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -1082,6 +1084,13 @@
   </anime>
   <anime anidbid="239" tvdbid="78857" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Naruto</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="35" />
+      <mapping anidbseason="1" tvdbseason="2" start="36" end="83" offset="-35" />
+      <mapping anidbseason="1" tvdbseason="3" start="84" end="131" offset="-83" />
+      <mapping anidbseason="1" tvdbseason="4" start="132" end="179" offset="-131" />
+      <mapping anidbseason="1" tvdbseason="5" start="180" end="220" offset="-179" />
+    </mapping-list>
   </anime>
   <anime anidbid="240" tvdbid="72726" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Gasaraki</name>
@@ -13461,11 +13470,8 @@
   <anime anidbid="4635" tvdbid="281405" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Doraemon (2005)</name>
   </anime>
-  <anime anidbid="4636" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4636" tvdbid="393182" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Aoyama Goushou Tanpenshuu</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-44;2-45;3-46;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="4637" tvdbid="80814" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>009-1</name>
@@ -19693,11 +19699,10 @@
   <anime anidbid="7190" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt3970004">
     <name>Fumiko no Kokuhaku</name>
   </anime>
-  <anime anidbid="7191" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="7191" tvdbid="393182" defaulttvdbseason="1" episodeoffset="3" tmdbid="" imdbid="">
     <name>Aoyama Goushou Tanpenshuu 2</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-50;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-47;2-48;3-49;</mapping>
+      <mapping anidbseason="0" tvdbseason="1">;1-7;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7192" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -48899,7 +48904,7 @@
   <anime anidbid="17742" tvdbid="427819" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hirogaru Sky! Precure</name>
   </anime>
-  <anime anidbid="17743" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17743" tvdbid="427818" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Phoenix: Eden17</name>
   </anime>
   <anime anidbid="17744" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -49952,7 +49957,7 @@
   <anime anidbid="18112" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tsuma Netori Kan: Bijutsu Kyoushi no Baai</name>
   </anime>
-  <anime anidbid="18113" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="18113" tvdbid="427818" defaulttvdbseason="0" episodeoffset="" tmdbid="1151861" imdbid="">
     <name>Hi no Tori: Eden no Hana</name>
   </anime>
   <anime anidbid="18114" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
