@@ -1041,6 +1041,11 @@
     <name>Pocket Monsters</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-23;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="82" />
+      <mapping anidbseason="1" tvdbseason="2" start="83" end="118" offset="-82" />
+      <mapping anidbseason="1" tvdbseason="3" start="119" end="159" offset="-118" />
+      <mapping anidbseason="1" tvdbseason="4" start="160" end="211" offset="-159" />
+      <mapping anidbseason="1" tvdbseason="5" start="212" end="276" offset="-211" />
     </mapping-list>
   </anime>
   <anime anidbid="231" tvdbid="76666" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
@@ -13749,11 +13754,11 @@
   <anime anidbid="4728" tvdbid="76703" defaulttvdbseason="10" episodeoffset="" tmdbid="" imdbid="">
     <name>Pocket Monsters: Diamond and Pearl</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-14;3-20;4-0;5-0;</mapping>
-      <mapping anidbseason="1" tvdbseason="10">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-10;11-11;12-12;13-13;14-14;15-15;16-16;17-17;18-18;19-19;20-20;21-21;22-22;23-23;24-24;25-25;26-26;27-27;28-28;29-29;30-30;31-31;32-32;33-33;34-34;35-35;36-36;37-37;38-38;39-39;40-40;41-41;42-42;43-43;44-44;45-45;46-46;47-47;48-48;49-49;50-50;51-51;52-52;</mapping>
-      <mapping anidbseason="1" tvdbseason="11">;53-1;54-2;55-3;56-4;57-5;58-6;59-7;60-8;61-9;62-10;63-11;64-12;65-13;66-14;67-15;68-16;69-17;70-18;71-19;72-20;73-21;74-22;75-23;76-24;77-25;78-26;79-27;80-28;81-29;82-30;83-31;84-32;85-33;86-34;87-35;88-36;89-37;90-38;91-39;92-40;93-41;94-42;95-43;96-44;97-45;98-46;99-47;100-48;101-49;102-50;103-51;104-52;</mapping>
-      <mapping anidbseason="1" tvdbseason="12">;105-1;106-2;107-3;108-4;109-5;110-6;111-7;112-8;113-9;114-10;115-11;116-12;117-13;118-14;119-15;120-16;121-17;122-18;123-19;124-20;125-21;126-22;127-23;128-24;129-25;130-26;131-27;132-28;133-29;134-30;135-31;136-32;137-33;138-34;139-35;140-36;141-37;142-38;143-39;144-40;145-41;146-42;147-43;148-44;149-45;150-46;151-47;152-48;153-49;154-50;155-51;156-52;157-53;</mapping>
-      <mapping anidbseason="1" tvdbseason="13">;158-1;159-2;160-3;161-4;162-5;163-6;164-7;165-8;166-9;167-10;168-11;169-12;170-13;171-14;172-15;173-16;174-17;175-18;176-19;177-20;178-21;179-22;180-23;181-24;182-25;183-26;184-27;185-28;186-29;187-30;188-31;189-32;190-33;191-34;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-14;3-20;4-51;5-52;</mapping>
+      <mapping anidbseason="1" tvdbseason="10">;48-0;49-48;50-49;51-50;52-51;</mapping>
+      <mapping anidbseason="1" tvdbseason="11" start="53" end="104" offset="-52" />
+      <mapping anidbseason="1" tvdbseason="12" start="105" end="157" offset="-105">;105-1;106-2;107-3;108-4;109-5;110-6;111-7;112-8;113-9;114-10;115-11;116-12;117-13;118-14;119-15;120-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="13" start="158" end="191" offset="-157" />
     </mapping-list>
   </anime>
   <anime anidbid="4729" tvdbid="83303" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
@@ -21767,6 +21772,9 @@
   </anime>
   <anime anidbid="7891" tvdbid="76703" defaulttvdbseason="14" episodeoffset="" tmdbid="" imdbid="">
     <name>Pocket Monsters: Best Wishes!</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
     <supplemental-info>
       <studio>OLM</studio>
     </supplemental-info>
@@ -25547,6 +25555,9 @@
   </anime>
   <anime anidbid="9216" tvdbid="76703" defaulttvdbseason="15" episodeoffset="" tmdbid="" imdbid="">
     <name>Pocket Monsters: Best Wishes! Season 2</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9226" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Papa Love: Papa to Icha Ero Shitai Musume-tachi to Hitotsu Yane no Shita de</name>
@@ -26726,11 +26737,8 @@
   <anime anidbid="9652" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Hokseong Robot Sseondeo A</name>
   </anime>
-  <anime anidbid="9653" tvdbid="76703" defaulttvdbseason="15" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9653" tvdbid="76703" defaulttvdbseason="15" episodeoffset="24" tmdbid="" imdbid="">
     <name>Pocket Monsters: Best Wishes! Season 2 - Episode N</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="15">;1-25;2-26;3-27;4-28;5-29;6-30;7-31;8-32;9-33;10-34;11-35;12-36;13-37;14-38;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="9654" tvdbid="266840" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Chokkyuu Hyoudai Robot Anime: Straight Title</name>
@@ -27002,10 +27010,10 @@
   <anime anidbid="9763" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mikosuri Han-Gekijou</name>
   </anime>
-  <anime anidbid="9764" tvdbid="76703" defaulttvdbseason="15" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9764" tvdbid="76703" defaulttvdbseason="15" episodeoffset="38" tmdbid="" imdbid="">
     <name>Pocket Monsters: Best Wishes! Season 2 - Decolora Adventure</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="15">;1-39;2-40;3-41;4-42;5-43;6-44;7-45;8-46;9-47;10-48;11-49;12-50;13-51;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-47;2-64;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9765" tvdbid="283931" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -27551,6 +27559,9 @@
   </anime>
   <anime anidbid="9956" tvdbid="76703" defaulttvdbseason="16" episodeoffset="" tmdbid="" imdbid="">
     <name>Pocket Monsters XY</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-49;2-0;3-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9958" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Baka Miserables</name>
@@ -31836,8 +31847,11 @@
   <anime anidbid="11580" tvdbid="308030" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>All Out!!</name>
   </anime>
-  <anime anidbid="11585" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11585" tvdbid="76703" defaulttvdbseason="17" episodeoffset="" tmdbid="" imdbid="">
     <name>Pocket Monsters XY&amp;Z</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-61;2-62;3-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11587" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kaette Kite yoo Toyama kara</name>
@@ -33977,8 +33991,11 @@
   <anime anidbid="12406" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Hadashi Neko</name>
   </anime>
-  <anime anidbid="12407" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12407" tvdbid="76703" defaulttvdbseason="18" episodeoffset="" tmdbid="" imdbid="">
     <name>Pocket Monsters Sun &amp; Moon</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12408" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Hanasaka-jiisan</name>
@@ -41596,6 +41613,9 @@
   </anime>
   <anime anidbid="15067" tvdbid="76703" defaulttvdbseason="19" episodeoffset="" tmdbid="" imdbid="">
     <name>Pocket Monsters (2019)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-82;2-0;3-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="15068" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kkoma Sinseon Tao</name>
