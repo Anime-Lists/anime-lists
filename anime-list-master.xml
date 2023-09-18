@@ -13757,7 +13757,8 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-14;3-20;4-51;5-52;</mapping>
       <mapping anidbseason="1" tvdbseason="10">;48-0;49-48;50-49;51-50;52-51;</mapping>
       <mapping anidbseason="1" tvdbseason="11" start="53" end="104" offset="-52" />
-      <mapping anidbseason="1" tvdbseason="12" start="105" end="157" offset="-105">;105-1;106-2;107-3;108-4;109-5;110-6;111-7;112-8;113-9;114-10;115-11;116-12;117-13;118-14;119-15;120-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="12" start="105" end="119" offset="-104">;120-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="12" start="121" end="157" offset="-105" />
       <mapping anidbseason="1" tvdbseason="13" start="158" end="191" offset="-157" />
     </mapping-list>
   </anime>
