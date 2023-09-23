@@ -7315,7 +7315,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-19;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="2140" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="2140" tvdbid="331839" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Chou Kuse ni Narisou</name>
   </anime>
   <anime anidbid="2141" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -8133,7 +8133,6 @@
     <name>Cat Ninden Teyandee</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
-      <mapping anidbseason="1" tvdbseason="1">;1-1;2-2;3-3;4-4;5-5;6-6;7-7;8-8;9-9;10-0;11-10;12-11;13-12;14-13;15-14;16-15;17-16;18-17;19-18;20-19;21-20;22-21;23-22;24-23;25-24;26-25;27-26;28-27;29-28;30-29;31-30;32-31;33-32;34-33;35-34;36-35;37-36;38-37;39-38;40-39;41-40;42-41;43-42;44-43;45-44;46-45;47-46;48-47;49-48;50-49;51-0;52-50;53-51;54-52:</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="2383" tvdbid="88851" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -13589,7 +13588,7 @@
       <mapping anidbseason="1" tvdbseason="1">;1-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="4677" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4677" tvdbid="370925" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>AWOL</name>
   </anime>
   <anime anidbid="4678" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -13917,8 +13916,11 @@
   <anime anidbid="4784" tvdbid="unknown" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Funny Pets 2nd Season</name>
   </anime>
-  <anime anidbid="4785" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4785" tvdbid="79108" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="">
     <name>Ayu Mayu Gekijou</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="3" offset="7" />
+    </mapping-list>
   </anime>
   <anime anidbid="4786" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Baribari Densetsu (1987)</name>
@@ -40233,7 +40235,7 @@
   <anime anidbid="14581" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Jinxiu Shenzhou: Xingshi Wangguo</name>
   </anime>
-  <anime anidbid="14582" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14582" tvdbid="79835" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Cat's Eye (1984)</name>
   </anime>
   <anime anidbid="14583" tvdbid="357277" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -45535,7 +45537,7 @@
   <anime anidbid="16538" tvdbid="415188" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ningen Fushin no Boukensha-tachi ga Sekai o Sukuu You Desu</name>
   </anime>
-  <anime anidbid="16539" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="16539" tvdbid="370925" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>AWOL Compression Re-Mix</name>
   </anime>
   <anime anidbid="16540" tvdbid="393810" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
