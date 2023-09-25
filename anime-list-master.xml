@@ -1404,7 +1404,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-5;2-5;3-5;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="321" tvdbid="77248" defaulttvdbseason="0" episodeoffset="" tmdbid="16990" imdbid="">
+  <anime anidbid="321" tvdbid="77248" defaulttvdbseason="0" episodeoffset="" tmdbid="16990" imdbid="tt0270933">
     <name>Escaflowne</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
@@ -38600,7 +38600,7 @@
   <anime anidbid="14010" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mekakucity Days</name>
   </anime>
-  <anime anidbid="14011" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="521296" imdbid="">
+  <anime anidbid="14011" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="521296" imdbid="tt8328740">
     <name>Gekijouban Wakaokami wa Shougakusei!</name>
   </anime>
   <anime anidbid="14012" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -46944,7 +46944,7 @@
   <anime anidbid="17040" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt17382524">
     <name>Natsu e no Tunnel, Sayonara no Deguchi</name>
   </anime>
-  <anime anidbid="17041" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17041" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="916224" imdbid="tt16428256">
     <name>Suzume no Tojimari</name>
   </anime>
   <anime anidbid="17042" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
