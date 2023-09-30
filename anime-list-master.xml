@@ -12559,7 +12559,7 @@
   <anime anidbid="4245" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>True Blue Gaiden</name>
   </anime>
-  <anime anidbid="4247" tvdbid="78722" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4247" tvdbid="78722" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Cubix</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="2" start="14" end="26" offset="-13"/>
