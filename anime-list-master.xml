@@ -22897,7 +22897,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="8272" tvdbid="82484" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="tt2322603">
+  <anime anidbid="8272" tvdbid="82484" defaulttvdbseason="0" episodeoffset="6" tmdbid="" imdbid="tt2322603">
     <name>Strike Witches Gekijouban</name>
   </anime>
   <anime anidbid="8273" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -28194,7 +28194,7 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-0;15-0;16-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="10198" tvdbid="82484" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
+  <anime anidbid="10198" tvdbid="82484" defaulttvdbseason="0" episodeoffset="8" tmdbid="" imdbid="">
     <name>Strike Witches: Operation Victory Arrow</name>
   </anime>
   <anime anidbid="10199" tvdbid="259863" defaulttvdbseason="4" episodeoffset="" tmdbid="257474" imdbid="">
