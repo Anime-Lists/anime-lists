@@ -13210,8 +13210,12 @@
   <anime anidbid="4529" tvdbid="84016" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mamoru-kun ni Megami no Shukufuku o!</name>
   </anime>
-  <anime anidbid="4530" tvdbid="82484" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="">
+  <anime anidbid="4530" tvdbid="82484" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Strike Witches</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-8+6;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-8;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="4531" tvdbid="110071" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Yoake Mae yori Ruriiro na: Crescent Love</name>
