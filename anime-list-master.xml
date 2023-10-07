@@ -7802,8 +7802,11 @@
     </mapping-list>
     <before>;1-31;</before>
   </anime>
-  <anime anidbid="2289" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="2289" tvdbid="374678" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Meiken Lassie</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="1">;1-26;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="2290" tvdbid="84523" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ai no Wakakusa Monogatari</name>
@@ -7844,7 +7847,7 @@
   <anime anidbid="2300" tvdbid="85180" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Alps Monogatari: Watashi no Annette</name>
   </anime>
-  <anime anidbid="2301" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="2301" tvdbid="250828" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Minami no Niji no Lucy</name>
   </anime>
   <anime anidbid="2302" tvdbid="129571" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -9774,7 +9777,7 @@
   <anime anidbid="2989" tvdbid="71160" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Hare Tokidoki Buta</name>
   </anime>
-  <anime anidbid="2990" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="2990" tvdbid="342882" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Patalliro!</name>
   </anime>
   <anime anidbid="2991" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0431960">
@@ -12342,7 +12345,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-18;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="4172" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4172" tvdbid="80445" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Nishi no Yoki Majo: Astraea Testament</name>
   </anime>
   <anime anidbid="4174" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -38756,8 +38759,12 @@
   <anime anidbid="14063" tvdbid="358180" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Gunjou no Magmell</name>
   </anime>
-  <anime anidbid="14064" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="542507,843267,893250" imdbid="tt8354164,tt14031960,tt23638846">
+  <anime anidbid="14064" tvdbid="328827" defaulttvdbseason="0" episodeoffset="7" tmdbid="542507,843267,893250" imdbid="tt8354164,tt14031960,tt23638846">
     <name>Princess Principal: Crown Handler</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;3-12;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-10;2-11;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14065" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Valley of White Birds</name>
