@@ -117,9 +117,6 @@
   <anime anidbid="1830" tvdbid="unknown" defaulttvdbseason="1">
     <name>Sazae-san</name>
   </anime>
-  <anime anidbid="1835" tvdbid="unknown" defaulttvdbseason="0">
-    <name>Shinshaku Sengoku Eiyuu Densetsu Sanada Juu Yuushi The Animation Special</name>
-  </anime>
   <anime anidbid="1873" tvdbid="unknown" defaulttvdbseason="1">
     <name>DigiGirl Pop!: Strawberry &amp; Pop Mix Flavor</name>
   </anime>
@@ -318,9 +315,6 @@
   <anime anidbid="2281" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>The Kabocha Wine: Nita no Aijou Monogatari</name>
   </anime>
-  <anime anidbid="2289" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Meiken Lassie</name>
-  </anime>
   <anime anidbid="2296" tvdbid="unknown" defaulttvdbseason="1">
     <name>Shoukoushi Cedie</name>
   </anime>
@@ -329,9 +323,6 @@
     <supplemental-info>
       <studio>Nippon Animation</studio>
     </supplemental-info>
-  </anime>
-  <anime anidbid="2301" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Minami no Niji no Lucy</name>
   </anime>
   <anime anidbid="2309" tvdbid="unknown" defaulttvdbseason="1">
     <name>Yama Nezumi Rocky Chuck</name>
@@ -587,9 +578,6 @@
   </anime>
   <anime anidbid="2986" tvdbid="unknown" defaulttvdbseason="1">
     <name>Kaiketsu Tamagon</name>
-  </anime>
-  <anime anidbid="2990" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Patalliro!</name>
   </anime>
   <anime anidbid="3048" tvdbid="unknown" defaulttvdbseason="1">
     <name>Meimon! Daisan Yakyuubu</name>
@@ -1196,9 +1184,6 @@
   </anime>
   <anime anidbid="4163" tvdbid="unknown" defaulttvdbseason="1">
     <name>Yagami-kun no Katei no Jijou</name>
-  </anime>
-  <anime anidbid="4172" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Nishi no Yoki Majo: Astraea Testament</name>
   </anime>
   <anime anidbid="4180" tvdbid="unknown" defaulttvdbseason="1">
     <name>Burning Blood</name>
