@@ -2514,4 +2514,11 @@
       <title type="main" xml:lang="x-jat">Oshiri Tantei Collection</title>
     </titles>
   </set>
+  <set>
+    <anime anidbid="10066">Gekijouban Psycho-Pass</anime>
+    <anime anidbid="17573">Gekijouban Psycho-Pass: Providence</anime>
+    <titles>
+      <title type="main" xml:lang="x-jat">Psycho-Pass Collection</title>
+    </titles>
+  </set>
 </anime-set-list>
