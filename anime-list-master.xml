@@ -900,8 +900,11 @@
   <anime anidbid="194" tvdbid="196721" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Momoiro Sisters</name>
   </anime>
-  <anime anidbid="195" tvdbid="395150" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="195" tvdbid="70863" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou Hen</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;2-7;</mapping>
+    </mapping-list>
     <supplemental-info>
       <studio>Studio Deen</studio>
     </supplemental-info>
