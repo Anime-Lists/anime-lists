@@ -447,6 +447,9 @@
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;5-0;6-0;</mapping>
       <mapping anidbseason="0" tvdbseason="3">;4-33;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="27"/>
+      <mapping anidbseason="1" tvdbseason="2" start="28" end="62" offset="-27"/>
+      <mapping anidbseason="1" tvdbseason="3" start="63" end="94" offset="-62"/>
     </mapping-list>
     <before>;4-95;</before>
   </anime>
@@ -620,6 +623,8 @@
     <name>Magic Knight Rayearth</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="4">;5-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="20"/>
+      <mapping anidbseason="1" tvdbseason="2" start="21" end="49" offset="-20"/>
     </mapping-list>
     <supplemental-info replace="true">
       <studio>TMS Entertainment</studio>
@@ -8549,6 +8554,10 @@
   </anime>
   <anime anidbid="2512" tvdbid="75940" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Onmyou Taisenki</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="26"/>
+      <mapping anidbseason="1" tvdbseason="2" start="27" end="52" offset="-26"/>
+    </mapping-list>
   </anime>
   <anime anidbid="2514" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Korashime</name>
@@ -9517,6 +9526,10 @@
   </anime>
   <anime anidbid="2859" tvdbid="163721" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Otogi-Juushi Akazukin (2006)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="24"/>
+      <mapping anidbseason="1" tvdbseason="2" start="25" end="39" offset="-24"/>
+    </mapping-list>
   </anime>
   <anime anidbid="2860" tvdbid="163721" defaulttvdbseason="0" episodeoffset="" tmdbid="817334" imdbid="">
     <name>Otogi-Juushi Akazukin</name>
@@ -23692,6 +23705,11 @@
   </anime>
   <anime anidbid="8550" tvdbid="252322" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Hunter x Hunter (2011)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="58"/>
+      <mapping anidbseason="1" tvdbseason="2" start="59" end="136" offset="-58"/>
+      <mapping anidbseason="1" tvdbseason="3" start="137" end="148" offset="-136"/>
+    </mapping-list>
   </anime>
   <anime anidbid="8551" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Vampire (2011)</name>
