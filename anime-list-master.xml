@@ -8691,10 +8691,10 @@
   <anime anidbid="2555" tvdbid="227811" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mahou no Idol Pastel Yumi</name>
   </anime>
-  <anime anidbid="2556" tvdbid="83105" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="2556" tvdbid="83105" defaulttvdbseason="0" episodeoffset="" tmdbid="411931" imdbid="">
     <name>Touch: Sebangou no Nai Ace</name>
   </anime>
-  <anime anidbid="2557" tvdbid="83105" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="unknown">
+  <anime anidbid="2557" tvdbid="83105" defaulttvdbseason="0" episodeoffset="1" tmdbid="444936" imdbid="">
     <name>Touch 2: Sayonara no Okurimono</name>
   </anime>
   <anime anidbid="2558" tvdbid="253017" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -9055,7 +9055,7 @@
   <anime anidbid="2697" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mejoku</name>
   </anime>
-  <anime anidbid="2698" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="2698" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="351512" imdbid="">
     <name>Tenkuu Danzai Skelter Heaven</name>
   </anime>
   <anime anidbid="2700" tvdbid="79798" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -15865,7 +15865,7 @@
   <anime anidbid="5581" tvdbid="82688" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Nogizaka Haruka no Himitsu</name>
   </anime>
-  <anime anidbid="5582" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="5582" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="378989" imdbid="">
     <name>Takane no Jitensha</name>
   </anime>
   <anime anidbid="5583" tvdbid="250088" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -17054,10 +17054,10 @@
   <anime anidbid="6199" tvdbid="81797" defaulttvdbseason="0" episodeoffset="17" tmdbid="422807" imdbid="unknown">
     <name>One Piece Special: Romance Dawn Story</name>
   </anime>
-  <anime anidbid="6200" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="6200" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="745183" imdbid="">
     <name>Umigame to Shounen</name>
   </anime>
-  <anime anidbid="6201" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="6201" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="758377" imdbid="">
     <name>Tako ni Natta Okaasan</name>
   </anime>
   <anime anidbid="6202" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -20148,7 +20148,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="7322" tvdbid="75113" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="7322" tvdbid="75113" defaulttvdbseason="0" episodeoffset="" tmdbid="531732" imdbid="">
     <name>Urusei Yatsura: The Shougaibutsu Suieitaikai</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-20;</mapping>
@@ -20972,7 +20972,7 @@
       <mapping anidbseason="0" tvdbseason="0">;1-3;2-4;3-0;4-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="7600" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="7600" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="424931" imdbid="">
     <name>Twinkle Nora Rock Me!</name>
   </anime>
   <anime anidbid="7601" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -31056,7 +31056,7 @@
   <anime anidbid="11277" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Yubi o Nusunda Onna</name>
   </anime>
-  <anime anidbid="11278" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="11278" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="433156" imdbid="">
     <name>Utopa</name>
   </anime>
   <anime anidbid="11279" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -41631,7 +41631,7 @@
   <anime anidbid="15055" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Sekaiichi Hatsukoi: Proposal Hen</name>
   </anime>
-  <anime anidbid="15056" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15056" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="740344" imdbid="">
     <name>Southpaw</name>
   </anime>
   <anime anidbid="15057" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -41928,7 +41928,7 @@
   <anime anidbid="15153" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Dou Long Zhanshi: Xing Yin Luopan</name>
   </anime>
-  <anime anidbid="15154" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15154" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt26761271">
     <name>Mitaiken Horizon</name>
   </anime>
   <anime anidbid="15155" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -43400,7 +43400,7 @@
   <anime anidbid="15706" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kono Sekai no Tanoshimikata: Secret Story Film</name>
   </anime>
-  <anime anidbid="15707" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15707" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" tmdbid="837495" imdbid="">
     <name>Tales of Crestoria: Toga o Seoite Kare wa Tatsu</name>
   </anime>
   <anime anidbid="15708" tvdbid="394143" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -49430,7 +49430,7 @@
   <anime anidbid="17897" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Naruto (2023)</name>
   </anime>
-  <anime anidbid="17898" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17898" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="1102431" imdbid="">
     <name>Tentai Kansoku</name>
   </anime>
   <anime anidbid="17899" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="1102550" imdbid="">
@@ -50183,7 +50183,7 @@
   <anime anidbid="18159" tvdbid="379282" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Feng Ling Yu Xiu Season2</name>
   </anime>
-  <anime anidbid="18160" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="18160" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="1158787" imdbid="">
     <name>"Fate/Grand Order" Memorial Movie 2023</name>
   </anime>
   <anime anidbid="18161" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
