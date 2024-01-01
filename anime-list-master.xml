@@ -95,6 +95,10 @@
   </anime>
   <anime anidbid="19" tvdbid="83692" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Rizelmine</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="12"/>
+      <mapping anidbseason="1" tvdbseason="2" start="13" end="24" offset="-12"/>
+    </mapping-list>
   </anime>
   <anime anidbid="20" tvdbid="72435" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tokyo Underground</name>
@@ -749,6 +753,10 @@
   </anime>
   <anime anidbid="161" tvdbid="74598" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Tokyo Mew Mew</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="26"/>
+      <mapping anidbseason="1" tvdbseason="2" start="27" end="52" offset="-26"/>
+    </mapping-list>
   </anime>
   <anime anidbid="162" tvdbid="70525" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sei Juushi Bismarck</name>
@@ -1303,12 +1311,20 @@
     <name>Shoujo Kakumei Utena</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="13"/>
+      <mapping anidbseason="1" tvdbseason="2" start="14" end="24" offset="-13"/>
+      <mapping anidbseason="1" tvdbseason="3" start="25" end="33" offset="-24"/>
+      <mapping anidbseason="1" tvdbseason="4" start="34" end="39" offset="-33"/>
     </mapping-list>
   </anime>
   <anime anidbid="288" tvdbid="71776" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Maison Ikkoku</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-4;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="26"/>
+      <mapping anidbseason="1" tvdbseason="2" start="27" end="52" offset="-26"/>
+      <mapping anidbseason="1" tvdbseason="3" start="53" end="76" offset="-52"/>
+      <mapping anidbseason="1" tvdbseason="4" start="77" end="96" offset="-76"/>
     </mapping-list>
   </anime>
   <anime anidbid="289" tvdbid="84543" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -2625,6 +2641,10 @@
   </anime>
   <anime anidbid="635" tvdbid="74739" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Kaleido Star</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="26"/>
+      <mapping anidbseason="1" tvdbseason="2" start="27" end="51" offset="-26"/>
+    </mapping-list>
   </anime>
   <anime anidbid="636" tvdbid="75872" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mermaid Melody Pichi Pichi Pitch</name>
