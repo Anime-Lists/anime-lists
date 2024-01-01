@@ -202,6 +202,9 @@
   </anime>
   <anime anidbid="40" tvdbid="81789" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Fushigi no Umi no Nadia</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;11-0;28-12;29-13;30-14;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="42" tvdbid="72412" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shadow Skill (1998)</name>
@@ -6242,8 +6245,16 @@
   <anime anidbid="1784" tvdbid="251752" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Rokushin Gattai GodMars: Juunanasai no Densetsu</name>
   </anime>
-  <anime anidbid="1786" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="1786" tvdbid="414408" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tabako Ippon no Story: Heart Cocktail</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="13"/>
+      <mapping anidbseason="1" tvdbseason="2" start="14" end="27" offset="-13"/>
+      <mapping anidbseason="1" tvdbseason="3" start="28" end="40" offset="-27"/>
+      <mapping anidbseason="1" tvdbseason="4" start="41" end="52" offset="-40"/>
+      <mapping anidbseason="1" tvdbseason="5" start="53" end="65" offset="-52"/>
+      <mapping anidbseason="1" tvdbseason="6" start="66" end="78" offset="-65"/>
+    </mapping-list>
   </anime>
   <anime anidbid="1787" tvdbid="77777" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mach Go Go Go</name>
@@ -7882,7 +7893,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="2309" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="2309" tvdbid="263488" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Yama Nezumi Rocky Chuck</name>
   </anime>
   <anime anidbid="2310" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
@@ -9409,7 +9420,7 @@
   <anime anidbid="2822" tvdbid="173111" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Gallery Fake</name>
   </anime>
-  <anime anidbid="2823" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="2823" tvdbid="268775" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sasurai no Shoujo Nell</name>
   </anime>
   <anime anidbid="2824" tvdbid="79593" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -9607,7 +9618,7 @@
   <anime anidbid="2880" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Wansa-kun</name>
   </anime>
-  <anime anidbid="2881" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="2881" tvdbid="301328" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shinshaku Sengoku Eiyuu Densetsu Sanada Juu Yuushi The Animation</name>
   </anime>
   <anime anidbid="2884" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -10216,7 +10227,7 @@
   <anime anidbid="3161" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ultraman Kids no Kotowaza Monogatari</name>
   </anime>
-  <anime anidbid="3162" tvdbid="unknown" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="3162" tvdbid="438919" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ultraman Kids: Haha o Tazunete 3000-man Kounen</name>
   </anime>
   <anime anidbid="3163" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -10522,7 +10533,7 @@
   <anime anidbid="3326" tvdbid="99491" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Kingyo Chuuihou! (1992)</name>
   </anime>
-  <anime anidbid="3327" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="3327" tvdbid="345113" defaulttvdbseason="0" episodeoffset="5" tmdbid="" imdbid="">
     <name>Super Doll Licca-chan: Licca-chan Zettaizetsumei! Doll Knights no Kiseki</name>
   </anime>
   <anime anidbid="3328" tvdbid="70817" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -12991,7 +13002,7 @@
   <anime anidbid="4411" tvdbid="80768" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kikoushi Enma</name>
   </anime>
-  <anime anidbid="4413" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="4413" tvdbid="435143" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Tengai Makyou: Ziria Oboro Hen</name>
   </anime>
   <anime anidbid="4414" tvdbid="73749" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="tt0856797">
@@ -29082,8 +29093,11 @@
   <anime anidbid="10562" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Master of Torque</name>
   </anime>
-  <anime anidbid="10563" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10563" tvdbid="76703" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Pocket Monsters XY: Mega Evolution</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-50;2-55;3-56;4-59;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10564" tvdbid="276050" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>D-Frag! OAD</name>
@@ -42931,7 +42945,7 @@
   <anime anidbid="15532" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Pocket Monsters XY: Sora no Hahen</name>
   </anime>
-  <anime anidbid="15536" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15536" tvdbid="254899" defaulttvdbseason="0" episodeoffset="7" tmdbid="" imdbid="">
     <name>Shin Tennis no Ouji-sama: Hyoutei vs Rikkai - Game of Future</name>
   </anime>
   <anime anidbid="15537" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
