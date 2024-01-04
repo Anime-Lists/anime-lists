@@ -135,7 +135,7 @@
     </mapping-list>
     <before>;1-26;</before>
   </anime>
-  <anime anidbid="26" tvdbid="74125" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="26" tvdbid="74125" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Juuni Kokuki</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
@@ -466,7 +466,7 @@
       <studio>Gonzo</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="92" tvdbid="79857" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="92" tvdbid="79857" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shaman King</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;4-5;5-4;</mapping>
@@ -1126,6 +1126,12 @@
   </anime>
   <anime anidbid="241" tvdbid="83105" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Touch</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="27"/>
+      <mapping anidbseason="1" tvdbseason="2" start="28" end="56" offset="-27"/>
+      <mapping anidbseason="1" tvdbseason="3" start="57" end="79" offset="-56"/>
+      <mapping anidbseason="1" tvdbseason="4" start="80" end="101" offset="-79"/>
+    </mapping-list>
   </anime>
   <anime anidbid="242" tvdbid="85068" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Futari Ecchi</name>
@@ -9544,6 +9550,12 @@
   </anime>
   <anime anidbid="2855" tvdbid="80830" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>MAR Heaven</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="26"/>
+      <mapping anidbseason="1" tvdbseason="2" start="27" end="52" offset="-26"/>
+      <mapping anidbseason="1" tvdbseason="3" start="53" end="78" offset="-52"/>
+      <mapping anidbseason="1" tvdbseason="4" start="79" end="102" offset="-78"/>
+    </mapping-list>
   </anime>
   <anime anidbid="2857" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="410981" imdbid="">
     <name>Sentou Yousei Shoujo Tasukete! Maeve-chan</name>
@@ -12666,6 +12678,10 @@
   </anime>
   <anime anidbid="4264" tvdbid="79483" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Kiba</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="26"/>
+      <mapping anidbseason="1" tvdbseason="2" start="27" end="51" offset="-26"/>
+    </mapping-list>
   </anime>
   <anime anidbid="4265" tvdbid="79456" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Glass no Kantai</name>
