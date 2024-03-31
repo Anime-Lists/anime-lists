@@ -9160,11 +9160,8 @@
   <anime anidbid="2691" tvdbid="252696" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>2112-nen Doraemon Tanjou</name>
   </anime>
-  <anime anidbid="2692" tvdbid="75141" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="2692" tvdbid="252696" defaulttvdbseason="0" episodeoffset="29" tmdbid="326148" imdbid="">
     <name>Kaette Kita Doraemon</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="2693" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Panchira Teacher</name>
@@ -11445,7 +11442,7 @@
   <anime anidbid="3590" tvdbid="unknown" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Manga Nippon Mukashibanashi (2005)</name>
   </anime>
-  <anime anidbid="3591" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="3591" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="1177702" imdbid="">
     <name>Meitantei Conan: 16-nin no Yougisha!?</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
@@ -11466,13 +11463,13 @@
       <mapping anidbseason="1" tvdbseason="0">;1-9;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="3597" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="3597" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="1084338" imdbid="">
     <name>Meitantei Conan: Conan to Kid to Crystal Mother</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-11;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="3598" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="3598" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="1221942" imdbid="">
     <name>Meitantei Conan: Target wa Kogorou!! Shounen Tanteidan Maruhi Report</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-13;</mapping>
@@ -18310,7 +18307,7 @@
   <anime anidbid="6647" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ranpou</name>
   </anime>
-  <anime anidbid="6650" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="6650" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="1221954" imdbid="">
     <name>Meitantei Conan: 10 Nengo no Stranger</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-26;</mapping>
@@ -20052,7 +20049,7 @@
   <anime anidbid="7251" tvdbid="193811" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Bakuman.</name>
   </anime>
-  <anime anidbid="7252" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="7252" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="1230946" imdbid="">
     <name>Meitantei Conan Magic File 2: Kudou Shin'ichi Nazo no Kabe to Kuro Lab Jiken</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-21;</mapping>
@@ -23704,7 +23701,7 @@
   <anime anidbid="8500" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Little Big War</name>
   </anime>
-  <anime anidbid="8501" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="8501" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="1041790" imdbid="">
     <name>Meitantei Conan: London kara no Maru Hi Shirei</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-35;</mapping>
@@ -25614,7 +25611,7 @@
   <anime anidbid="9180" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1519469">
     <name>Kao An</name>
   </anime>
-  <anime anidbid="9181" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9181" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" tmdbid="1084315" imdbid="">
     <name>Meitantei Conan Bonus File: Fantasista no Hana</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-52;</mapping>
@@ -30357,7 +30354,7 @@
   <anime anidbid="10975" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shabura Rental: Ecchi na Onee-san to no Eroero Rental Obenkyou The Animation</name>
   </anime>
-  <anime anidbid="10976" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10976" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="966206" imdbid="">
     <name>Toubousha Mouri Kogorou</name>
   </anime>
   <anime anidbid="10977" tvdbid="275609" defaulttvdbseason="0" episodeoffset="" tmdbid="334361,357413" imdbid="">
