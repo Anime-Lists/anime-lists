@@ -532,7 +532,7 @@
   <anime anidbid="102" tvdbid="70668" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Cardcaptor Sakura</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-3;2-4;3-5;4-0;5-0;6-0;7-0;8-0;9-0;10-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-3;2-4;3-5;4-0;5-6;6-0;7-0;8-0;9-0;10-0;</mapping>
       <mapping anidbseason="1" tvdbseason="2" start="36" end="46" offset="-35"/>
       <mapping anidbseason="1" tvdbseason="3" start="47" end="70" offset="-46"/>
     </mapping-list>
@@ -1733,6 +1733,7 @@
   <anime anidbid="377" tvdbid="75113" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Urusei Yatsura</name>
     <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="54"/>
       <mapping anidbseason="1" tvdbseason="2" start="55" end="106" offset="-54"/>
       <mapping anidbseason="1" tvdbseason="3" start="107" end="149" offset="-106"/>
       <mapping anidbseason="1" tvdbseason="4" start="150" end="195" offset="-149"/>
@@ -7317,6 +7318,11 @@
   </anime>
   <anime anidbid="2106" tvdbid="283189" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Warau Salesman</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="44"/>
+      <mapping anidbseason="1" tvdbseason="2" start="45" end="91" offset="-44"/>
+      <mapping anidbseason="1" tvdbseason="3" start="92" end="103" offset="-91"/>
+    </mapping-list>
   </anime>
   <anime anidbid="2107" tvdbid="251801" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Bosco Adventure</name>
@@ -11963,7 +11969,7 @@
   <anime anidbid="4007" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Maji</name>
   </anime>
-  <anime anidbid="4009" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4009" tvdbid="330514" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Moeru! Onii-san</name>
   </anime>
   <anime anidbid="4010" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -12600,7 +12606,7 @@
   <anime anidbid="4208" tvdbid="259392" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Fushigi na Koala Blinky</name>
   </anime>
-  <anime anidbid="4210" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4210" tvdbid="345723" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Cream Lemon: Lemon Angel</name>
   </anime>
   <anime anidbid="4211" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -20666,7 +20672,7 @@
   <anime anidbid="7462" tvdbid="355542" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Izumo</name>
   </anime>
-  <anime anidbid="7463" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="7463" tvdbid="445672" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ipponbouchou Mantarou</name>
   </anime>
   <anime anidbid="7464" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -25945,7 +25951,7 @@
   <anime anidbid="9304" tvdbid="262954" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>JoJo no Kimyou na Bouken (2012)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" offset="7" />
     </mapping-list>
   </anime>
   <anime anidbid="9305" tvdbid="264052" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -26483,7 +26489,7 @@
   <anime anidbid="9493" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt2753048">
     <name>Kick-Heart</name>
   </anime>
-  <anime anidbid="9494" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9494" tvdbid="446511" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Lupin Shanshei</name>
   </anime>
   <anime anidbid="9495" tvdbid="264522" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -38906,7 +38912,7 @@
   <anime anidbid="14064" tvdbid="328827" defaulttvdbseason="0" episodeoffset="7" tmdbid="542507,843267,893250" imdbid="tt8354164,tt14031960,tt23638846">
     <name>Princess Principal: Crown Handler</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-10;2-11;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-10;2-11;3-13;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;3-12;</mapping>
     </mapping-list>
   </anime>
