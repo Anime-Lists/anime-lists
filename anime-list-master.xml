@@ -46385,6 +46385,9 @@
   </anime>
   <anime anidbid="16776" tvdbid="352408" defaulttvdbseason="0" episodeoffset="8" tmdbid="876792" imdbid="tt15467380">
     <name>Gekijouban Tensei Shitara Slime Datta Ken: Guren no Kizuna Hen</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0" start="1" end="1" offset="11"/>
+    </mapping-list>
   </anime>
   <anime anidbid="16777" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Zhan Yi Yingxiong</name>
@@ -49480,8 +49483,11 @@
   <anime anidbid="17872" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Koumi-jima: Shuu 7 de Umeru Mesu-tachi</name>
   </anime>
-  <anime anidbid="17873" tvdbid="352408" defaulttvdbseason="0" episodeoffset="9" tmdbid="" imdbid="">
+  <anime anidbid="17873" tvdbid="352408" defaulttvdbseason="0" episodeoffset="10" tmdbid="" imdbid="">
     <name>Tensei Shitara Slime Datta Ken: Coleus no Yume</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0" start="1" end="3" offset="8"/>
+    </mapping-list>
   </anime>
   <anime anidbid="17874" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Lian Qi Lianle 3000 Nian</name>
