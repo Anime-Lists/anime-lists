@@ -14260,7 +14260,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-4;2-4;3-4;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="4864" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
+  <anime anidbid="4864" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="421930" imdbid="unknown">
     <name>Satsujin Kippu wa Heart-iro</name>
   </anime>
   <anime anidbid="4867" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -25587,7 +25587,7 @@
   <anime anidbid="9167" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="unknown">
     <name>Dosukoi! Wanpaku Dohyou</name>
   </anime>
-  <anime anidbid="9168" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="9168" tvdbid="ova" defaulttvdbseason="1" episodeoffset="" tmdbid="806075" imdbid="">
     <name>Heart Cocktail Again</name>
   </anime>
   <anime anidbid="9169" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -35834,7 +35834,7 @@
   <anime anidbid="12990" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Daraku Reijou The Animation</name>
   </anime>
-  <anime anidbid="12991" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="12991" tvdbid="web" defaulttvdbseason="1" episodeoffset="" tmdbid="511008" imdbid="">
     <name>Kimi no Hikari: Asagao to Kase-san.</name>
   </anime>
   <anime anidbid="12993" tvdbid="286853" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -37516,7 +37516,7 @@
   <anime anidbid="13570" tvdbid="79880" defaulttvdbseason="0" episodeoffset="10" tmdbid="" imdbid="">
     <name>Utawarerumono: Tusukuru-koujo no Karei Naru Hibi</name>
   </anime>
-  <anime anidbid="13571" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="13571" tvdbid="262098" defaulttvdbseason="0" episodeoffset="41" tmdbid="" imdbid="">
     <name>Girls und Panzer: Dai 63-kai Sensha-dou Zenkoku Koukousei Taikai - Soushuuhen</name>
   </anime>
   <anime anidbid="13573" tvdbid="340518" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -43767,7 +43767,7 @@
   <anime anidbid="15793" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Saga Incident</name>
   </anime>
-  <anime anidbid="15794" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="15794" tvdbid="ova" defaulttvdbseason="1" episodeoffset="" tmdbid="755094" imdbid="">
     <name>Alice Gear Aegis: Doki! Actress Darake no Mermaid Grand Prix</name>
   </anime>
   <anime anidbid="15795" tvdbid="390832" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -46657,7 +46657,7 @@
   <anime anidbid="16875" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Tai Lyu</name>
   </anime>
-  <anime anidbid="16876" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="16876" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="883095" imdbid="">
     <name>Rakudai Majo: Fuuka to Yami no Majo</name>
   </anime>
   <anime anidbid="16877" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -46831,7 +46831,7 @@
   <anime anidbid="16937" tvdbid="411850" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shine Post</name>
   </anime>
-  <anime anidbid="16938" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="16938" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="641951" imdbid="">
     <name>Journey: Taiko Arabia Hantou de no Kiseki to Tatakai no Monogatari</name>
   </anime>
   <anime anidbid="16940" tvdbid="411914" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -47638,7 +47638,7 @@
   <anime anidbid="17228" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Sleepy</name>
   </anime>
-  <anime anidbid="17229" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17229" tvdbid="ova" defaulttvdbseason="1" episodeoffset="" tmdbid="980692" imdbid="">
     <name>Sekai ga Horobiru Mae ni Kimi ni Aitai</name>
   </anime>
   <anime anidbid="17230" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -51392,7 +51392,7 @@
   <anime anidbid="18544" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ganbatte Ikimasshoi</name>
   </anime>
-  <anime anidbid="18545" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="18545" tvdbid="418665" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Watashi no Shiawase na Kekkon: Watashi no Shiawase no Katachi</name>
   </anime>
   <anime anidbid="18546" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -51536,7 +51536,7 @@
   <anime anidbid="18597" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>A New Dawn</name>
   </anime>
-  <anime anidbid="18598" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="18598" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="1211650" imdbid="">
     <name>Paripi Koumei: Road to Summer Sonia</name>
   </anime>
   <anime anidbid="18599" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
