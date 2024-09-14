@@ -1258,7 +1258,7 @@
   <anime anidbid="266" tvdbid="72454" defaulttvdbseason="a" episodeoffset="" tmdbid="" imdbid="">
     <name>Meitantei Conan</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-73;5-75;</mapping>
       <mapping anidbseason="1" tvdbseason="2" start="29" end="54" offset="-28"/>
       <mapping anidbseason="1" tvdbseason="3" start="55" end="82" offset="-54"/>
       <mapping anidbseason="1" tvdbseason="4" start="83" end="106" offset="-82"/>
@@ -14007,7 +14007,7 @@
   <anime anidbid="4753" tvdbid="149911" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Koi Suru Tenshi Angelique: Kagayaki no Ashita</name>
   </anime>
-  <anime anidbid="4755" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4755" tvdbid="452956" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Asatte Dance</name>
   </anime>
   <anime anidbid="4756" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -16272,7 +16272,7 @@
   <anime anidbid="5750" tvdbid="73532" defaulttvdbseason="0" episodeoffset="29" tmdbid="" imdbid="">
     <name>Tennis no Ouji-sama: Zenkoku Taikai Hen - Final</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-29;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="5751" tvdbid="249865" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
@@ -46053,7 +46053,7 @@
   <anime anidbid="16663" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Ba Ma Laizi Er Ciyuan</name>
   </anime>
-  <anime anidbid="16664" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="16664" tvdbid="367277" defaulttvdbseason="0" episodeoffset="3" tmdbid="" imdbid="">
     <name>Azur Lane: Queen's Orders</name>
   </anime>
   <anime anidbid="16665" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -48187,7 +48187,7 @@
   <anime anidbid="17421" tvdbid="420225" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Saikin Yatotta Maid ga Ayashii</name>
   </anime>
-  <anime anidbid="17422" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17422" tvdbid="420279" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Rick and Morty: The Anime</name>
   </anime>
   <anime anidbid="17423" tvdbid="420550" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -48289,7 +48289,7 @@
   <anime anidbid="17457" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Usagi (2022)</name>
   </anime>
-  <anime anidbid="17458" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17458" tvdbid="427822" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Murai no Koi</name>
   </anime>
   <anime anidbid="17459" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -50345,8 +50345,11 @@
   <anime anidbid="18178" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kozukuri Ninkatsu Bu!</name>
   </anime>
-  <anime anidbid="18179" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="18179" tvdbid="117801" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Kimi ni Todoke 3rd Season</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-5;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="18180" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="1266097" imdbid="">
     <name>Gintama on Theater 2D: Baragaki Hen</name>
@@ -52121,7 +52124,7 @@
   <anime anidbid="18804" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Baise Shandian</name>
   </anime>
-  <anime anidbid="18805" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="18805" tvdbid="443124" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
     <name>Rising Impact (2024)</name>
   </anime>
   <anime anidbid="18806" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
