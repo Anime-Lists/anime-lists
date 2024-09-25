@@ -29154,10 +29154,6 @@
   </anime>
   <anime anidbid="10538" tvdbid="281275" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Saenai Heroine no Sodatekata</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
-      <mapping anidbseason="1" tvdbseason="1">;2-1;3-2;4-3;5-4;6-5;7-6;8-7;9-8;10-9;11-10;12-11;13-12;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="10539" tvdbid="279830" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Shigatsu wa Kimi no Uso</name>
