@@ -14430,7 +14430,7 @@
   <anime anidbid="4932" tvdbid="82099" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt1155650,tt1155651,tt1155652,tt1233474,tt1278060,tt1343089,tt1345776">
     <name>Gekijouban Kara no Kyoukai: The Garden of Sinners</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;2-1;3-0;4-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-1;0-3;0-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4933" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0422446">
