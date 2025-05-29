@@ -141,11 +141,8 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="27" tvdbid="78920" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="27" tvdbid="419185" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0107731">
     <name>Aa! Megami-sama!</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="28" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0094625">
     <name>Akira</name>
