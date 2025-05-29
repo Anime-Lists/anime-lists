@@ -683,11 +683,8 @@
   <anime anidbid="136" tvdbid="120181" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>One: Kagayaku Kisetsu e</name>
   </anime>
-  <anime anidbid="137" tvdbid="78777" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="137" tvdbid="79270" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0247128">
     <name>Lodoss-tou Senki: Eiyuu Kishi Den</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-0;15-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="138" tvdbid="94611" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sakura Tsuushin</name>
