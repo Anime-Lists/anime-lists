@@ -1510,7 +1510,7 @@
     <name>Tonde Mon Pe</name>
   </anime>
   <anime anidbid="4961" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Manga Kotowaja Jiten</name>
+    <name>Manga Kotowaza Jiten</name>
   </anime>
   <anime anidbid="4962" tvdbid="unknown" defaulttvdbseason="1">
     <name>Manga Doushite Monogatari</name>
@@ -1842,9 +1842,6 @@
   <anime anidbid="5806" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
     <name>Onegai! Samia Don (1989)</name>
   </anime>
-  <anime anidbid="5813" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
-    <name>Utsu no Miko</name>
-  </anime>
   <anime anidbid="5814" tvdbid="unknown" defaulttvdbseason="1">
     <name>Yankee Reppuu Tai</name>
   </anime>
@@ -1862,9 +1859,6 @@
   </anime>
   <anime anidbid="5923" tvdbid="unknown" defaulttvdbseason="1">
     <name>Kage-e Grimm Douwa</name>
-  </anime>
-  <anime anidbid="5938" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
-    <name>Tenjou Hen: Utsu no Miko (1990)</name>
   </anime>
   <anime anidbid="5944" tvdbid="unknown" defaulttvdbseason="1">
     <name>Toki-iro Kaima</name>
@@ -1901,9 +1895,6 @@
   </anime>
   <anime anidbid="6058" tvdbid="unknown" defaulttvdbseason="1">
     <name>Kasumin 2nd Series</name>
-  </anime>
-  <anime anidbid="6059" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Komatsu Sakyou Anime Gekijou</name>
   </anime>
   <anime anidbid="6069" tvdbid="unknown" defaulttvdbseason="1">
     <name>Battle Spirits: Shounen Toppa Bashin</name>
@@ -2259,9 +2250,6 @@
   <anime anidbid="7370" tvdbid="unknown" defaulttvdbseason="1">
     <name>Shoka</name>
   </anime>
-  <anime anidbid="7378" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
-    <name>Tsuyoshi Shikkari Shinasai: Tsuyoshi no Time Machine de Shikkari Shinasai</name>
-  </anime>
   <anime anidbid="7390" tvdbid="unknown" defaulttvdbseason="1" imdbid="unknown">
     <name>Yasai no Yousei: N.Y. Salad The Movie</name>
   </anime>
@@ -2393,9 +2381,6 @@
   </anime>
   <anime anidbid="7701" tvdbid="unknown" defaulttvdbseason="1">
     <name>Be-Bop High School Kaizokuban</name>
-  </anime>
-  <anime anidbid="7705" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Ore no Sora: Keiji Hen</name>
   </anime>
   <anime anidbid="7706" tvdbid="unknown" defaulttvdbseason="1" imdbid="unknown">
     <name>Cynical Hysterie Hour</name>
