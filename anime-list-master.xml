@@ -141,11 +141,8 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="27" tvdbid="78920" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="27" tvdbid="419185" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0107731">
     <name>Aa! Megami-sama!</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="28" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0094625">
     <name>Akira</name>
@@ -553,7 +550,7 @@
       <studio>CoMix Wave</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="105" tvdbid="82319" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="105" tvdbid="451769" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0368197">
     <name>R.O.D: Read or Die</name>
   </anime>
   <anime anidbid="106" tvdbid="79077" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -686,11 +683,8 @@
   <anime anidbid="136" tvdbid="120181" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>One: Kagayaku Kisetsu e</name>
   </anime>
-  <anime anidbid="137" tvdbid="78777" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="137" tvdbid="79270" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0247128">
     <name>Lodoss-tou Senki: Eiyuu Kishi Den</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-0;11-0;12-0;13-0;14-0;15-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="138" tvdbid="94611" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Sakura Tsuushin</name>
@@ -999,7 +993,7 @@
     </mapping-list>
     <before>;1-13;</before>
   </anime>
-  <anime anidbid="208" tvdbid="152531" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="208" tvdbid="396101" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0112940">
     <name>El-Hazard: The Magnificent World</name>
   </anime>
   <anime anidbid="209" tvdbid="82970" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -12498,7 +12492,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-18;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="4172" tvdbid="80445" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="4172" tvdbid="80445" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0988925">
     <name>Nishi no Yoki Majo: Astraea Testament</name>
   </anime>
   <anime anidbid="4174" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -44655,7 +44649,7 @@
   <anime anidbid="16112" tvdbid="412573" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>The Legend of Heroes: Sen no Kiseki - Northern War</name>
   </anime>
-  <anime anidbid="16113" tvdbid="316842" defaulttvdbseason="0" episodeoffset="35" tmdbid="" imdbid="">
+  <anime anidbid="16113" tvdbid="411635" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Mahou Tsukai no Yome: Nishi no Shounen to Seiran no Kishi</name>
   </anime>
   <anime anidbid="16114" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -49366,7 +49360,7 @@
   <anime anidbid="17840" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Jipin Quanneng Gaoshou</name>
   </anime>
-  <anime anidbid="17841" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="17841" tvdbid="430432" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt23730842">
     <name>Gamera: Rebirth</name>
   </anime>
   <anime anidbid="17842" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
