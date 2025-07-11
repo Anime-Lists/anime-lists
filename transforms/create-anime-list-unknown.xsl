@@ -14,7 +14,7 @@
  
   <xsl:template match='anime' />
  
-  <xsl:template match='anime[@tvdbid = "unknown"]'> 
+  <xsl:template match='anime[(@tvdbid = "unknown") or (@imdbid = "unknown")]'> 
     <xsl:copy>
       <xsl:copy-of select='@*[. != ""]' />
       <xsl:apply-templates />
