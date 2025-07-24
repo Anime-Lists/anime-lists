@@ -14,40 +14,41 @@ The lists map information from [AniDB](https://anidb.net) to series on [TheTVDB]
 The Lists
 ---------
 
-### anime-movieset-list.xml ###
+### anime-movieset-list.xml
 This list contains groupings of anime titles that are suitable as movie sets (includes movies, TV specials, and one-shot OVAs).
 
-### anime-list-master.xml ###
+### anime-list-master.xml
 This list contains entries for every title on AniDB.net and serves as a template from which all the remaining lists are derived.
 Feel free to [contribute to it](#contributing) if you notice missing or mismatched entries
 
-### anime-list.xml ###
+### anime-list.xml
 The default list used by the scraper.  Contains all entries from the master list that are not empty or marked as "unknown".
 
-### anime-list-full.xml ###
+### anime-list-full.xml
 Alternative list for the scraper.  Contains all entries from the master list that are not empty (but includes "unknown" titles).
 
-### anime-list-unknown.xml ###
-Maintenance list containing all entries that are marked as "unknown".
+### anime-list-unknown.xml
+[DEPRECATED] Maintenance list containing all entries that are marked as "unknown".
 Any of these titles may potentially become "known" if they are added to TheTVDB.com or TheMovieDB.org.
 
-### anime-list-todo.xml ###
+### anime-list-todo.xml
 All empty entries from the master list.  Literally a to-do list.
 
-### animetitles.xml ###
+### animetitles.xml
 Copy of the animetitles.xml available from AniDB.net.  This is used by the scraper to search for matching titles.
 
 Format
 ------
 
-### anime-list-master.xml ###
+### anime-list-master.xml
 
 A typical entry in anime-list-master.xml:
 
-    <anime anidbid="23" tvdbid="76885" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+    <anime anidbid="23" tvdbid="76885" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdbid="" imdbid="">
       <name>Cowboy Bebop</name>
       <mapping-list>
         <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+        <mapping anidbseason="0" tmdbseason="0">;1-2;</mapping>
       </mapping-list>
       <supplemental-info>
         <studio>Sunrise</studio>
@@ -72,9 +73,15 @@ Each entry consists of an **anime** node with the following attributes:
     Not necessary if the episode numbers match up exactly.
     For special episodes and more complex situations the mapping-list is used (see below).
 
+*   **tmdbtv** - TheMovieDB.org ID for TV shows (`themoviedb.org/tv/` URLs)
+
+*   **tmdbseason** - The corresponding TheMovieDB.org season.
+
+*   **tmdboffset** - Same as `episodeoffset`, but for TheMovieDB
+
 *   **tmdbid**/**imdbid** - TheMovieDB.org/imdb.com ID. Only used for standalone entries like movies.
     Multiple IDs can be mapped to the same AniDB entry with comma sepparation. Ex: `tmdbid="12345,67890"`, `imdbid="tt12345678,tt9876543"`
-    **[Do not use tmdbid for series!](https://github.com/ScudLee/anime-lists/issues/342)**
+    **[Do not use tmdbid for series!](https://github.com/ScudLee/anime-lists/issues/342)** Use `tmdbtv` instead
 
 Within the anime node are any of the following nodes
 
@@ -95,12 +102,14 @@ Within the anime node are any of the following nodes
 *   **supplemental-info** - Extra information that is not supplied by the AniDB.net (see below).
     To be used sparingly.
 
-#### mapping-list ####
+#### mapping-list
 The mapping-list node consists of one or more **mapping** nodes with the following attributes:
 
 *   **anidbseason** - The AniDB.net season (either `1` for regular episodes or `0` for specials).
 
 *   **tvdbseason** - The corresponding TheTVDB.com season.
+
+*   **tmdbseason** - The corresponding TheMovieDB.org season.
 
 *   **start** - The first AniDB.net episode the offset applies to.
 
@@ -120,7 +129,7 @@ The mapping-list node consists of one or more **mapping** nodes with the followi
 
     Episodes on AniDB.net that don't match anything on TheTVDB.com are mapped to 0 if and only if there's a conflict.
 
-#### supplemental-info ####
+#### supplemental-info
 The supplemental-info node may contain an optional attribute of **replace="true"**, in which case the information will replace that supplied by AniDB.net, otherwise it is just added to (and prioritised over) the AniDB.net information.
 
 Any of the following nodes are allowed multiple times in a supplemental-info node:
@@ -149,7 +158,7 @@ Each fanart thumb node has the following attributes:
 
 *   **preview** - URL to a smaller preview copy of the thumb.
 
-### anime-movieset-list.xml ###
+### anime-movieset-list.xml
 A typical entry in anime-movieset-list.xml:
 
     <set>
@@ -207,18 +216,18 @@ They require the following programs to work:
 
 curl and xsltproc (and dependencies) should either be in the folder or added somewhere in the Windows PATH.
 
-### update.bat ###
+### update.bat
 Downloads the latest animetitles.xml, sorts it, updates anime-list-master.xml, and calls generate-lists.bat.
 
-### update.sh ###
+### update.sh
 Same as `update.bat` but for POSIX platforms.
 
-### generate-lists.bat ###
+### generate-lists.bat
 Generates all the other lists based on anime-list-master.xml, and updates/sorts anime-movieset-list.xml.
 
-### generate-lists.sh ###
+### generate-lists.sh
 Same as `generate-lists.bat` but for POSIX platforms. As most POSIX style systems already have xsl and xml tools installed, this is just a shell script to generate the xml files.
 
-### generate-lists.groovy ###
+### generate-lists.groovy
 Same as `generate-lists.bat` but for all platforms. It requires [Groovy](http://www.groovy-lang.org/) and [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html) and works on Windows, Linux and Mac OS X.
 </details>

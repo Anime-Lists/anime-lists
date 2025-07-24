@@ -20,10 +20,10 @@
   <xsl:template match='anime-list'>
     <xsl:copy>
       <xsl:comment>TEMPLATE
-  &lt;anime anidbid=&quot;&quot; tvdbid=&quot;&quot; defaulttvdbseason=&quot;&quot; tmdbid=&quot;&quot; imdbid=&quot;&quot;&gt;
+  &lt;anime anidbid=&quot;&quot; tvdbid=&quot;&quot; defaulttvdbseason=&quot;&quot; tmdbtv=&quot;&quot; tmdbseason=&quot;&quot; tmdbid=&quot;&quot; imdbid=&quot;&quot;&gt;
     &lt;name&gt;&lt;/name&gt;
     &lt;mapping-list&gt;
-      &lt;mapping anidbseason=&quot;&quot; tvdbseason=&quot;&quot;&gt;&lt;/mapping&gt;
+      &lt;mapping anidbseason=&quot;&quot; tvdbseason=&quot;&quot; tmdbseason=&quot;&quot;&gt;&lt;/mapping&gt;
     &lt;/mapping-list&gt;
     &lt;before&gt;&lt;/before&gt;
     &lt;supplemental-info replace=&quot;&quot;&gt;
@@ -42,12 +42,12 @@
       <xsl:apply-templates />
     </xsl:copy>
     <xsl:call-template name="newline" />
-    <xsl:comment><xsl:value-of select="count(anime[@tvdbid = ''])"/> titles remaining</xsl:comment>
+    <xsl:comment><xsl:value-of select="count(anime[(@tvdbid = '') and (@tmdbtv = '')])"/> titles remaining</xsl:comment>
   </xsl:template>
  
   <xsl:template match='anime' />
  
-  <xsl:template match='anime[@tvdbid = ""]'> 
+  <xsl:template match='anime[(@tvdbid = "") and (@tmdbtv = "")]'> 
     <xsl:copy>
       <xsl:copy-of select='@*' />
       <xsl:apply-templates />
