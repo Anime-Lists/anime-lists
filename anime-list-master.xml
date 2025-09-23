@@ -32314,11 +32314,8 @@
   <anime anidbid="11694" tvdbid="305083" defaulttvdbseason="1" episodeoffset="" tmdbtv="65382" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Kumamiko: Girl Meets Bear</name>
   </anime>
-  <anime anidbid="11696" tvdbid="83996" defaulttvdbseason="0" episodeoffset="" tmdbtv="50712" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt5476944">
+  <anime anidbid="11696" tvdbid="83996" defaulttvdbseason="0" episodeoffset="10" tmdbtv="50712" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt5476944">
     <name>Kuroshitsuji: Book of the Atlantic</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-10;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="11699" tvdbid="291630" defaulttvdbseason="2" episodeoffset="" tmdbtv="62430" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Arslan Senki: Fuujin Ranbu</name>
@@ -45045,7 +45042,7 @@
       <mapping anidbseason="0" tvdbseason="0" start="1" end="12" offset="44"/>
     </mapping-list>
   </anime>
-  <anime anidbid="16297" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="16297" tvdbid="294002" defaulttvdbseason="0" episodeoffset="60" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt14603848">
     <name>Gekijouban Overlord: Sei Oukoku Hen</name>
   </anime>
   <anime anidbid="16298" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -49204,7 +49201,7 @@
   <anime anidbid="17784" tvdbid="405920" defaulttvdbseason="2" episodeoffset="" tmdbtv="120089" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Spy x Family (2023)</name>
   </anime>
-  <anime anidbid="17785" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="1062807" imdbid="">
+  <anime anidbid="17785" tvdbid="405920" defaulttvdbseason="0" episodeoffset="2" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="1062807" imdbid="tt26684398">
     <name>Gekijouban Spy x Family Code: White</name>
   </anime>
   <anime anidbid="17786" tvdbid="248035" defaulttvdbseason="3" episodeoffset="" tmdbtv="38464" tmdbseason="3" tmdboffset="" tmdbid="" imdbid="">
@@ -49691,7 +49688,7 @@
   <anime anidbid="17954" tvdbid="408629" defaulttvdbseason="2" episodeoffset="" tmdbtv="131041" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Blue Lock vs. U-20 Japan</name>
   </anime>
-  <anime anidbid="17955" tvdbid="408629" defaulttvdbseason="0" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="1104844" imdbid="">
+  <anime anidbid="17955" tvdbid="408629" defaulttvdbseason="0" episodeoffset="0" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="1104844" imdbid="tt28671146">
     <name>Gekijouban Blue Lock: Episode Nagi</name>
   </anime>
   <anime anidbid="17956" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -50246,7 +50243,7 @@
   <anime anidbid="18149" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Urahara (Kamide Ryouhei)</name>
   </anime>
-  <anime anidbid="18150" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="1159311" imdbid="">
+  <anime anidbid="18150" tvdbid="305074" defaulttvdbseason="0" episodeoffset="19" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="1159311" imdbid="tt32176689">
     <name>Boku no Hero Academia the Movie: You're Next</name>
   </anime>
   <anime anidbid="18151" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
