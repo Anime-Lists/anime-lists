@@ -38440,11 +38440,8 @@
   <anime anidbid="13893" tvdbid="354154" defaulttvdbseason="1" episodeoffset="" tmdbtv="83962" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Carole &amp; Tuesday</name>
   </anime>
-  <anime anidbid="13894" tvdbid="262090" defaulttvdbseason="0" episodeoffset="" tmdbtv="43865" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt10443844,tt11078434,tt11078522">
+  <anime anidbid="13894" tvdbid="262090" defaulttvdbseason="0" episodeoffset="12" tmdbtv="43865" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt10443844,tt11078434,tt11078522">
     <name>Psycho-Pass: Sinners of the System</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-13;2-14;3-15;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="13896" tvdbid="347294" defaulttvdbseason="1" episodeoffset="" tmdbtv="80670" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Hyakuren no Haou to Seiyaku no Valkyria</name>
@@ -42399,11 +42396,8 @@
   <anime anidbid="15307" tvdbid="349497" defaulttvdbseason="2" episodeoffset="" tmdbtv="80729" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Bang Dream! Garupa Pico: Oomori</name>
   </anime>
-  <anime anidbid="15308" tvdbid="262090" defaulttvdbseason="0" episodeoffset="" tmdbtv="43865" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt11433874">
+  <anime anidbid="15308" tvdbid="262090" defaulttvdbseason="0" episodeoffset="18" tmdbtv="43865" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt11433874">
     <name>Psycho-Pass 3: First Inspector</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-16;2-17;3-18;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="15309" tvdbid="373770" defaulttvdbseason="1" episodeoffset="" tmdbtv="96420" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Hakumei no Tsubasa</name>
