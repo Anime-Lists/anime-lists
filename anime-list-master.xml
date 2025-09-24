@@ -16873,7 +16873,7 @@
   <anime anidbid="6048" tvdbid="83996" defaulttvdbseason="1" episodeoffset="" tmdbtv="50712" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Kuroshitsuji</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;2-1;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;2-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="6049" tvdbid="93281" defaulttvdbseason="1" episodeoffset="" tmdbtv="34755" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -20412,7 +20412,7 @@
   <anime anidbid="7369" tvdbid="83996" defaulttvdbseason="2" episodeoffset="" tmdbtv="50712" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Kuroshitsuji II</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;3-4;4-5;5-6;6-7;7-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-3;2-4;3-5;4-6;5-7;6-8;7-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7370" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -29171,11 +29171,8 @@
   <anime anidbid="10546" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="539140" imdbid="tt3741646">
     <name>Cencoroll 2</name>
   </anime>
-  <anime anidbid="10548" tvdbid="83996" defaulttvdbseason="0" episodeoffset="" tmdbtv="50712" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="10548" tvdbid="83996" defaulttvdbseason="0" episodeoffset="8" tmdbtv="50712" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Kuroshitsuji: Book of Murder</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-8;2-9;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="10549" tvdbid="267432" defaulttvdbseason="0" episodeoffset="" tmdbtv="55011" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Suisei no Gargantia: Meguru Kouro, Haruka</name>
