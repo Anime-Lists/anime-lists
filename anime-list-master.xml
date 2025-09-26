@@ -46726,13 +46726,13 @@
   <anime anidbid="16907" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Sei Dorei Gakuen 2</name>
   </anime>
-  <anime anidbid="16908" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="16908" tvdbid="411393" defaulttvdbseason="1" episodeoffset="" tmdbtv="136342" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Disney: Twisted-Wonderland the Animation - Episode of Heartslabyul</name>
   </anime>
   <anime anidbid="16909" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Himitsu no Kichi</name>
   </anime>
-  <anime anidbid="16911" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="16911" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="959646" imdbid="">
     <name>Zombie Land Saga: Yumeginga Paradise</name>
   </anime>
   <anime anidbid="16912" tvdbid="259635" defaulttvdbseason="4" episodeoffset="" tmdbtv="46437" tmdbseason="4" tmdboffset="" tmdbid="" imdbid="">
@@ -48370,8 +48370,11 @@
   <anime anidbid="17492" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>2.43 Mini Anime: Inside Story</name>
   </anime>
-  <anime anidbid="17493" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="17493" tvdbid="188551" defaulttvdbseason="2" episodeoffset="" tmdbtv="246862" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>New Panty &amp; Stocking with Garterbelt</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2">;1-1;2-2+3;3-4+5+6;4-7+8+9;5-10+11+12;6-13;7-14+15;8-16+17+18;9-19+20+21;10-22+23;11-24+25+26;12-27+28;13-29+30;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="17494" tvdbid="421994" defaulttvdbseason="1" episodeoffset="" tmdbtv="205308" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Tomo-chan wa Onnanoko!</name>
@@ -51713,7 +51716,7 @@
   <anime anidbid="18676" tvdbid="450941" defaulttvdbseason="1" episodeoffset="" tmdbtv="256323" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Leviathan</name>
   </anime>
-  <anime anidbid="18677" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="18677" tvdbid="405920" defaulttvdbseason="3" episodeoffset="" tmdbtv="120089" tmdbseason="3" tmdboffset="" tmdbid="" imdbid="">
     <name>Spy x Family (2025)</name>
   </anime>
   <anime anidbid="18678" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -53723,7 +53726,7 @@
   <anime anidbid="19384" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Ninja Kamui: Red Vendetta</name>
   </anime>
-  <anime anidbid="19385" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="19385" tvdbid="357471" defaulttvdbseason="3" episodeoffset="" tmdbtv="87478" tmdbseason="3" tmdboffset="" tmdbid="" imdbid="">
     <name>Isekai Quartet 3</name>
   </anime>
   <anime anidbid="19386" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
