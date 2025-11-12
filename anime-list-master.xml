@@ -42871,8 +42871,11 @@
   <anime anidbid="15472" tvdbid="370931" defaulttvdbseason="2" episodeoffset="" tmdbtv="94523" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Magia Record: Mahou Shoujo Madoka Magica Gaiden 2nd Season - Kakusei Zen'ya</name>
   </anime>
-  <anime anidbid="15473" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="15473" tvdbid="264533" defaulttvdbseason="0" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>A Song for You! You? You!!</name>
+	<mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-20;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="15474" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Washimo (2020)</name>
@@ -52694,7 +52697,7 @@
   <anime anidbid="19019" tvdbid="457325" defaulttvdbseason="1" episodeoffset="" tmdbtv="278378" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Kimi to Idol Precure</name>
   </anime>
-  <anime anidbid="19020" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="19020" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt34812090">
     <name>Lupin the IIIrd the Movie: Fujimi no Ketsuzoku</name>
   </anime>
   <anime anidbid="19021" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -52769,7 +52772,7 @@
   <anime anidbid="19046" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Champignon no Majo</name>
   </anime>
-  <anime anidbid="19047" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="19047" tvdbid="428168" defaulttvdbseason="2" episodeoffset="" tmdbtv="216074" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>2.5 Jigen no Ririsa 2</name>
   </anime>
   <anime anidbid="19048" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="1329578" imdbid="">
@@ -53593,6 +53596,9 @@
   </anime>
   <anime anidbid="19338" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Lupin the IIIrd: Zenigata to Futari no Lupin</name>
+	<mapping-list>
+    <mapping anidbseason="1" tvdbseason="0">;1-66;</mapping>
+  </mapping-list>
   </anime>
   <anime anidbid="19339" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Syupeo Sikeulis</name>
