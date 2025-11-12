@@ -53594,11 +53594,8 @@
   <anime anidbid="19337" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>I Byeol-e Pil-yohan</name>
   </anime>
-  <anime anidbid="19338" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="19338" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt36757407">
     <name>Lupin the IIIrd: Zenigata to Futari no Lupin</name>
-	<mapping-list>
-    <mapping anidbseason="1" tvdbseason="0">;1-66;</mapping>
-  </mapping-list>
   </anime>
   <anime anidbid="19339" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Syupeo Sikeulis</name>
