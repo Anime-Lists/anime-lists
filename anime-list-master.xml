@@ -51518,8 +51518,12 @@
   <anime anidbid="18602" tvdbid="411800" defaulttvdbseason="3" episodeoffset="" tmdbtv="137065" tmdbseason="3" tmdboffset="" tmdbid="" imdbid="">
     <name>Arknights: Rise from Ember</name>
   </anime>
-  <anime anidbid="18603" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="18603" tvdbid="355966" defaulttvdbseason="0" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Go-Toubun no Hanayome *</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;401-4;402-5;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="18604" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Jueshi Zhan Hun</name>
