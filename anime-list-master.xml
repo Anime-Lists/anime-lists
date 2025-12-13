@@ -48322,8 +48322,11 @@
   <anime anidbid="17476" tvdbid="264663" defaulttvdbseason="5" episodeoffset="" tmdbtv="46004" tmdbseason="5" tmdboffset="" tmdbid="" imdbid="">
     <name>Date a Live V</name>
   </anime>
-  <anime anidbid="17477" tvdbid="354198" defaulttvdbseason="0" episodeoffset="4" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="997317" imdbid="tt23770418">
+  <anime anidbid="17477" tvdbid="354198" defaulttvdbseason="0" episodeoffset="8" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="997317" imdbid="tt23770418">
     <name>Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="401" end="404" offset="-396"/>
+    </mapping-list>
   </anime>
   <anime anidbid="17478" tvdbid="421737" defaulttvdbseason="1" episodeoffset="" tmdbtv="204832" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Mashle</name>
