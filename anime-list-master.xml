@@ -14292,29 +14292,29 @@
   <anime anidbid="4880" tvdbid="79824" defaulttvdbseason="a" episodeoffset="" tmdbtv="31910" tmdbseason="a" tmdboffset="" tmdbid="" imdbid="">
     <name>Naruto Shippuuden</name>
     <mapping-list>
-		<mapping anidbseason="0" tvdbseason="0">;1-18;</mapping>
-		<mapping anidbseason="1" tvdbseason="1">;1-32;</mapping>
-		<mapping anidbseason="1" tvdbseason="2">;33-53;</mapping>
-		<mapping anidbseason="1" tvdbseason="3">;54-71;</mapping>
-		<mapping anidbseason="1" tvdbseason="4">;72-88;</mapping>
-		<mapping anidbseason="1" tvdbseason="5">;89-112;</mapping>
-		<mapping anidbseason="1" tvdbseason="6">;113-143;</mapping>
-		<mapping anidbseason="1" tvdbseason="7">;144-151;</mapping>
-		<mapping anidbseason="1" tvdbseason="8">;152-175;</mapping>
-		<mapping anidbseason="1" tvdbseason="9">;176-196;</mapping>
-		<mapping anidbseason="1" tvdbseason="10">;197-222;</mapping>
-		<mapping anidbseason="1" tvdbseason="11">;223-242;</mapping>
-		<mapping anidbseason="1" tvdbseason="12">;243-260;</mapping>
-		<mapping anidbseason="1" tvdbseason="13">;261-295;</mapping>
-		<mapping anidbseason="1" tvdbseason="14">;296-320;</mapping>
-		<mapping anidbseason="1" tvdbseason="15">;321-348;</mapping>
-		<mapping anidbseason="1" tvdbseason="16">;349-361;</mapping>
-		<mapping anidbseason="1" tvdbseason="17">;362-393;</mapping>
-		<mapping anidbseason="1" tvdbseason="18">;394-413;</mapping>
-		<mapping anidbseason="1" tvdbseason="19">;414-431;</mapping>
-		<mapping anidbseason="1" tvdbseason="20">;432-450;</mapping>
-		<mapping anidbseason="1" tvdbseason="21">;451-458;</mapping>
-		<mapping anidbseason="1" tvdbseason="22">;459-500;</mapping>
+	<mapping anidbseason="0" tvdbseason="0">;1-18;</mapping>
+	<mapping anidbseason="1" tvdbseason="1">;1-32;</mapping>
+	<mapping anidbseason="1" tvdbseason="2">;33-53;</mapping>
+	<mapping anidbseason="1" tvdbseason="3">;54-71;</mapping>
+	<mapping anidbseason="1" tvdbseason="4">;72-88;</mapping>
+	<mapping anidbseason="1" tvdbseason="5">;89-112;</mapping>
+	<mapping anidbseason="1" tvdbseason="6">;113-143;</mapping>
+	<mapping anidbseason="1" tvdbseason="7">;144-151;</mapping>
+	<mapping anidbseason="1" tvdbseason="8">;152-175;</mapping>
+	<mapping anidbseason="1" tvdbseason="9">;176-196;</mapping>
+	<mapping anidbseason="1" tvdbseason="10">;197-222;</mapping>
+	<mapping anidbseason="1" tvdbseason="11">;223-242;</mapping>
+	<mapping anidbseason="1" tvdbseason="12">;243-260;</mapping>
+	<mapping anidbseason="1" tvdbseason="13">;261-295;</mapping>
+	<mapping anidbseason="1" tvdbseason="14">;296-320;</mapping>
+	<mapping anidbseason="1" tvdbseason="15">;321-348;</mapping>
+	<mapping anidbseason="1" tvdbseason="16">;349-361;</mapping>
+	<mapping anidbseason="1" tvdbseason="17">;362-393;</mapping>
+	<mapping anidbseason="1" tvdbseason="18">;394-413;</mapping>
+	<mapping anidbseason="1" tvdbseason="19">;414-431;</mapping>
+	<mapping anidbseason="1" tvdbseason="20">;432-450;</mapping>
+	<mapping anidbseason="1" tvdbseason="21">;451-458;</mapping>
+	<mapping anidbseason="1" tvdbseason="22">;459-500;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4884" tvdbid="84027" defaulttvdbseason="1" episodeoffset="" tmdbtv="92573" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
