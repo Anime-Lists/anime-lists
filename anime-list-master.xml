@@ -1508,7 +1508,7 @@
   <anime anidbid="318" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt0208502">
     <name>Tenshi no Tamago</name>
   </anime>
-  <anime anidbid="320" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbtv="31572" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt0079833">
+  <anime anidbid="320" tvdbid="71863" defaulttvdbseason="0" episodeoffset="3" tmdbtv="31572" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt0079833">
     <name>Lupin Sansei: Cagliostro no Shiro</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-4;2-4;3-4;</mapping>
@@ -3304,7 +3304,7 @@
   <anime anidbid="802" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Tokio Kidou Police</name>
   </anime>
-  <anime anidbid="803" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbtv="31572" tmdbseason="0" tmdboffset="22" tmdbid="" imdbid="tt0420138">
+  <anime anidbid="803" tvdbid="71863" defaulttvdbseason="0" episodeoffset="22" tmdbtv="31572" tmdbseason="0" tmdboffset="22" tmdbid="" imdbid="tt0420138">
     <name>Lupin Sansei: Ikiteita Majutsushi</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-23;2-23;3-23;</mapping>
@@ -3370,7 +3370,7 @@
   <anime anidbid="820" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt0223503">
     <name>Ihatov Gensou: Kenji no Haru</name>
   </anime>
-  <anime anidbid="821" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbtv="31572" tmdbseason="0" tmdboffset="23" tmdbid="" imdbid="">
+  <anime anidbid="821" tvdbid="71863" defaulttvdbseason="0" episodeoffset="23" tmdbtv="31572" tmdbseason="0" tmdboffset="23" tmdbid="" imdbid="">
     <name>Lupin Sansei Episode 0: 'First Contact'</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-24;2-24;3-24;</mapping>
@@ -3379,7 +3379,7 @@
   <anime anidbid="822" tvdbid="79161" defaulttvdbseason="1" episodeoffset="" tmdbtv="12352" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Divergence Eve</name>
   </anime>
-  <anime anidbid="823" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbtv="31572" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt0078187">
+  <anime anidbid="823" tvdbid="71863" defaulttvdbseason="0" episodeoffset="2" tmdbtv="31572" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt0078187">
     <name>Lupin Sansei: Lupin vs Clone</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;2-3;3-3;</mapping>
@@ -3909,7 +3909,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-18;2-18;3-18;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="977" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbtv="31572" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt0093896">
+  <anime anidbid="977" tvdbid="71863" defaulttvdbseason="0" episodeoffset="5" tmdbtv="31572" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt0093896">
     <name>Lupin Sansei: Fuuma Ichizoku no Inbou</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-6;2-6;3-6;</mapping>
@@ -3958,7 +3958,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-11;2-11;3-11;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="989" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbtv="31572" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt0089943">
+  <anime anidbid="989" tvdbid="71863" defaulttvdbseason="0" episodeoffset="4" tmdbtv="31572" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt0089943">
     <name>Lupin Sansei: Babylon no Ougon Densetsu</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-5;2-5;3-5;</mapping>
@@ -4068,7 +4068,7 @@
   <anime anidbid="1023" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt0094995">
     <name>Makai Toshi Shinjuku</name>
   </anime>
-  <anime anidbid="1024" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbtv="31572" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt0834581">
+  <anime anidbid="1024" tvdbid="71863" defaulttvdbseason="0" episodeoffset="7" tmdbtv="31572" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt0834581">
     <name>Lupin Sansei: Bye Bye Liberty - Kiki Ippatsu!</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-8;2-8;3-8;</mapping>
@@ -6837,7 +6837,7 @@
   <anime anidbid="1940" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Onna Kyoushi: Yumi no Houkago</name>
   </anime>
-  <anime anidbid="1941" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbtv="31572" tmdbseason="0" tmdboffset="21" tmdbid="" imdbid="tt0326092">
+  <anime anidbid="1941" tvdbid="71863" defaulttvdbseason="0" episodeoffset="21" tmdbtv="31572" tmdbseason="0" tmdboffset="21" tmdbid="" imdbid="tt0326092">
     <name>Lupin Sansei: Alcatraz Connection</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-22;2-22;3-22;</mapping>
@@ -26415,11 +26415,8 @@
   <anime anidbid="9457" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt3140358">
     <name>Nozoki Ana</name>
   </anime>
-  <anime anidbid="9458" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbtv="31572" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt2438634">
+  <anime anidbid="9458" tvdbid="71863" defaulttvdbseason="0" episodeoffset="37" tmdbtv="31572" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt2438634">
     <name>Lupin Sansei: Touhou Kenbunroku - Another Page</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-38;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="9459" tvdbid="257521" defaulttvdbseason="2" episodeoffset="" tmdbtv="45254" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Haiyore! Nyaruko-san W</name>
@@ -27713,11 +27710,8 @@
   <anime anidbid="9936" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Go! Go! Kaden Danshi</name>
   </anime>
-  <anime anidbid="9937" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbtv="31572" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="9937" tvdbid="71863" defaulttvdbseason="0" episodeoffset="34" tmdbtv="31572" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Lupin Ikka Seizoroi</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-35;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="9938" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Sore Ike! Anpanman: Anpanman to Oyakusoku</name>
@@ -27946,11 +27940,8 @@
   <anime anidbid="10020" tvdbid="284439" defaulttvdbseason="1" episodeoffset="" tmdbtv="61742" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Donten ni Warau</name>
   </anime>
-  <anime anidbid="10021" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbtv="31572" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="10021" tvdbid="71863" defaulttvdbseason="0" episodeoffset="38" tmdbtv="31572" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Lupin Sansei: Princess of the Breeze - Kakusareta Kuuchuu Toshi</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-39;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="10022" tvdbid="259640" defaulttvdbseason="0" episodeoffset="9" tmdbtv="45782" tmdbseason="0" tmdboffset="9" tmdbid="" imdbid="">
     <name>Sword Art Online: Extra Edition</name>
@@ -29174,11 +29165,8 @@
   <anime anidbid="10534" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Shin Sei Yariman Gakuen Enkou Nikki The Animation</name>
   </anime>
-  <anime anidbid="10535" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbtv="31572" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt3830998">
+  <anime anidbid="10535" tvdbid="71863" defaulttvdbseason="0" episodeoffset="40" tmdbtv="31572" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt3830998">
     <name>Lupin the IIIrd: Jigen Daisuke no Bohyou</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-41;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="10536" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Tsubu Doll</name>
@@ -32729,11 +32717,8 @@
   <anime anidbid="11838" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Gekijouban Saru Getchu: Ougon no Pipo Helmet - Ukki Battle</name>
   </anime>
-  <anime anidbid="11839" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbtv="31572" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="11839" tvdbid="71863" defaulttvdbseason="0" episodeoffset="42" tmdbtv="31572" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Lupin Sansei: Italian Game</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-43;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="11840" tvdbid="324710" defaulttvdbseason="1" episodeoffset="" tmdbtv="71005" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Gin no Guardian</name>
@@ -34164,7 +34149,7 @@
   <anime anidbid="12396" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Bokura no Sex</name>
   </anime>
-  <anime anidbid="12398" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbtv="31572" tmdbseason="0" tmdboffset="43" tmdbid="" imdbid="">
+  <anime anidbid="12398" tvdbid="71863" defaulttvdbseason="0" episodeoffset="43" tmdbtv="31572" tmdbseason="0" tmdboffset="43" tmdbid="" imdbid="">
     <name>Lupin the IIIrd: Chikemuri no Ishikawa Goemon</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-44;2-44;3-44;</mapping>
@@ -40198,7 +40183,7 @@
   <anime anidbid="14500" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Kiskis! Wo de Nanyou shi Bohetang</name>
   </anime>
-  <anime anidbid="14501" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbtv="31572" tmdbseason="0" tmdboffset="45" tmdbid="" imdbid="">
+  <anime anidbid="14501" tvdbid="71863" defaulttvdbseason="0" episodeoffset="45" tmdbtv="31572" tmdbseason="0" tmdboffset="45" tmdbid="" imdbid="">
     <name>Lupin Sansei: Goodbye Partner</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-46;2-46;3-46;</mapping>
@@ -40535,7 +40520,7 @@
   <anime anidbid="14615" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Mr. Shadow</name>
   </anime>
-  <anime anidbid="14616" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbtv="31572" tmdbseason="0" tmdboffset="46" tmdbid="" imdbid="">
+  <anime anidbid="14616" tvdbid="71863" defaulttvdbseason="0" episodeoffset="46" tmdbtv="31572" tmdbseason="0" tmdboffset="46" tmdbid="" imdbid="">
     <name>Lupin the IIIrd: Mine Fujiko no Uso</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-47;2-47;3-47;</mapping>
@@ -42114,7 +42099,7 @@
   <anime anidbid="15196" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Yoligongju Loopy</name>
   </anime>
-  <anime anidbid="15198" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbtv="31572" tmdbseason="0" tmdboffset="47" tmdbid="" imdbid="tt11142308">
+  <anime anidbid="15198" tvdbid="71863" defaulttvdbseason="0" episodeoffset="47" tmdbtv="31572" tmdbseason="0" tmdboffset="47" tmdbid="" imdbid="tt11142308">
     <name>Lupin Sansei: Prison of the Past</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-48;2-48;3-48;</mapping>
@@ -48814,7 +48799,7 @@
   <anime anidbid="17633" tvdbid="397280" defaulttvdbseason="2" episodeoffset="" tmdbtv="118017" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Tokyo Mew Mew New (2023)</name>
   </anime>
-  <anime anidbid="17634" tvdbid="71863" defaulttvdbseason="0" episodeoffset="" tmdbtv="31572" tmdbseason="0" tmdboffset="51" tmdbid="" imdbid="">
+  <anime anidbid="17634" tvdbid="71863" defaulttvdbseason="0" episodeoffset="51" tmdbtv="31572" tmdbseason="0" tmdboffset="51" tmdbid="" imdbid="">
     <name>Lupin Sansei vs Cat's Eye</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-52;2-52;3-52;</mapping>
