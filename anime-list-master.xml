@@ -13962,9 +13962,10 @@
     <name>Pocket Monsters: Diamond and Pearl</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-14;3-20;4-51;5-52;</mapping>
-      <mapping anidbseason="1" tvdbseason="10">;48-0;49-48;50-49;51-50;52-51;</mapping>
+	  <mapping anidbseason="1" tvdbseason="0">;48-73;120-72;</mapping>
+      <mapping anidbseason="1" tvdbseason="10">;49-48;50-49;51-50;52-51;</mapping>
       <mapping anidbseason="1" tvdbseason="11" start="53" end="104" offset="-52"/>
-      <mapping anidbseason="1" tvdbseason="12" start="105" end="119" offset="-104">;120-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="12" start="105" end="119" offset="-104"/>
       <mapping anidbseason="1" tvdbseason="12" start="121" end="157" offset="-105"/>
       <mapping anidbseason="1" tvdbseason="13" start="158" end="191" offset="-157"/>
     </mapping-list>
@@ -45876,7 +45877,7 @@
   <anime anidbid="16588" tvdbid="409650" defaulttvdbseason="1" episodeoffset="" tmdbtv="132917" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Under Ninja</name>
   </anime>
-  <anime anidbid="16589" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="16589" tvdbid="326270" defaulttvdbseason="3" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Quanzhi Gaoshou Di San Ji</name>
   </anime>
   <anime anidbid="16590" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -52149,7 +52150,7 @@
   <anime anidbid="18806" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Yeosin Gangnim</name>
   </anime>
-  <anime anidbid="18807" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="18807" tvdbid="379282" defaulttvdbseason="0" episodeoffset="1" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Feng Ling Yu Xiu Di Er Ji: Tebie Pian</name>
   </anime>
   <anime anidbid="18808" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
