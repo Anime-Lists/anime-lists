@@ -23357,7 +23357,7 @@
   <anime anidbid="8353" tvdbid="250022" defaulttvdbseason="1" episodeoffset="" tmdbtv="52891" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Yuru Yuri</name>
   </anime>
-  <anime anidbid="8357" tvdbid="102261" defaulttvdbseason="0" episodeoffset="" tmdbtv="46195" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt3138698,tt5084196,tt5084198">
+  <anime anidbid="8357" tvdbid="102261" defaulttvdbseason="0" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="357786,362584,362585" imdbid="tt3138698,tt5084196,tt5084198">
     <name>Kizumonogatari</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;2-19;3-20;</mapping>
