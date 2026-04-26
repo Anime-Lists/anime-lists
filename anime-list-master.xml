@@ -6828,7 +6828,7 @@
   <anime anidbid="1928" tvdbid="270967" defaulttvdbseason="1" episodeoffset="" tmdbtv="34110" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>The Kabocha Wine</name>
   </anime>
-  <anime anidbid="1929" tvdbid="265645" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="1929" tvdbid="265645" defaulttvdbseason="1" episodeoffset="" tmdbtv="19412" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Kousoku Denjin Albegus</name>
   </anime>
   <anime anidbid="1930" tvdbid="250848" defaulttvdbseason="1" episodeoffset="" tmdbtv="43231" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -8464,7 +8464,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="2427" tvdbid="265556" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="2427" tvdbid="265556" defaulttvdbseason="1" episodeoffset="" tmdbtv="22311" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Seishun Anime Zenshuu</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="1" start="1" end="2" offset="32"/>
@@ -10692,7 +10692,7 @@
   <anime anidbid="3324" tvdbid="93441" defaulttvdbseason="1" episodeoffset="" tmdbtv="44638" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Plawres Sanshirou</name>
   </anime>
-  <anime anidbid="3325" tvdbid="378378" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="3325" tvdbid="378378" defaulttvdbseason="1" episodeoffset="" tmdbtv="28566" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Watashi to Watashi: Futari no Lotte</name>
   </anime>
   <anime anidbid="3326" tvdbid="99491" defaulttvdbseason="0" episodeoffset="" tmdbtv="113381" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
@@ -15371,7 +15371,7 @@
   <anime anidbid="5264" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Abe George Kattobi Seishun Ki: Shibuya Honky Tonk</name>
   </anime>
-  <anime anidbid="5265" tvdbid="432609" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="5265" tvdbid="432609" defaulttvdbseason="1" episodeoffset="" tmdbtv="220735" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Mahjong Hishouden: Naki no Ryuu</name>
   </anime>
   <anime anidbid="5266" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -20647,7 +20647,7 @@
   <anime anidbid="7432" tvdbid="249827" defaulttvdbseason="0" episodeoffset="" tmdbtv="46671" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Mirai Nikki</name>
   </anime>
-  <anime anidbid="7433" tvdbid="461375" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="7433" tvdbid="461375" defaulttvdbseason="1" episodeoffset="" tmdbtv="285901" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Kikou Heidan J-Phoenix PF Lips Shoutai</name>
   </anime>
   <anime anidbid="7434" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -20807,7 +20807,7 @@
       <studio>Studio Pierrot</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="7484" tvdbid="467259" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="7484" tvdbid="467259" defaulttvdbseason="1" episodeoffset="" tmdbtv="73108" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Aki Sora: Yume no Naka</name>
   </anime>
   <anime anidbid="7485" tvdbid="80096" defaulttvdbseason="0" episodeoffset="" tmdbtv="21729" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
@@ -24949,7 +24949,7 @@
   <anime anidbid="8918" tvdbid="80096" defaulttvdbseason="0" episodeoffset="" tmdbtv="21729" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Tengen Toppa Gurren Lagann: Ore no Gurren wa Pikka Pika!!</name>
   </anime>
-  <anime anidbid="8919" tvdbid="318189" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="8919" tvdbid="318189" defaulttvdbseason="1" episodeoffset="" tmdbtv="121536" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Tight Rope</name>
   </anime>
   <anime anidbid="8921" tvdbid="250070" defaulttvdbseason="2" episodeoffset="" tmdbtv="46095" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
@@ -39004,8 +39004,12 @@
   <anime anidbid="14084" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Nani Iro no Nani</name>
   </anime>
-  <anime anidbid="14085" tvdbid="338455" defaulttvdbseason="0" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="14085" tvdbid="338455" defaulttvdbseason="0" episodeoffset="" tmdbtv="76757" tmdbseason="0" tmdboffset="23" tmdbid="" imdbid="">
     <name>Golden Kamuy OAD</name>
+    <mapping-list>
+      <mapping anidbseason="1" tmdbseason="0">;1-13;5-58;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;5-42;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="14086" tvdbid="347734" defaulttvdbseason="a" episodeoffset="" tmdbtv="80020" tmdbseason="a" tmdboffset="" tmdbid="" imdbid="">
     <name>Super Dragon Ball Heroes</name>
@@ -40328,7 +40332,7 @@
   <anime anidbid="14536" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Yue ni Hitozuma wa Netorareta.</name>
   </anime>
-  <anime anidbid="14537" tvdbid="384778" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="14537" tvdbid="384778" defaulttvdbseason="1" episodeoffset="" tmdbtv="101668" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Umayon</name>
   </anime>
   <anime anidbid="14539" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -49373,11 +49377,13 @@
   <anime anidbid="17821" tvdbid="381536" defaulttvdbseason="4" episodeoffset="" tmdbtv="101099" tmdbseason="4" tmdboffset="" tmdbid="" imdbid="">
     <name>Bai Yao Pu Si Fu Pian</name>
   </anime>
-  <anime anidbid="17822" tvdbid="469571" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="17822" tvdbid="469571" defaulttvdbseason="1" episodeoffset="" tmdbtv="290837" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Heart Cocktail: Colorful</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="2" start="6" end="10" offset="-5"/>
       <mapping anidbseason="1" tvdbseason="3" start="11" end="15" offset="-10"/>
+      <mapping anidbseason="1" tmdbseason="2" start="6" end="10" offset="-5"/>
+      <mapping anidbseason="1" tmdbseason="3" start="11" end="15" offset="-10"/>
     </mapping-list>
   </anime>
   <anime anidbid="17823" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -50419,7 +50425,7 @@
   <anime anidbid="18189" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Mignon</name>
   </anime>
-  <anime anidbid="18190" tvdbid="465216" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="18190" tvdbid="465216" defaulttvdbseason="1" episodeoffset="" tmdbtv="295357" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Hokuto no Ken (2026)</name>
   </anime>
   <anime anidbid="18191" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -52526,7 +52532,7 @@
   <anime anidbid="18935" tvdbid="455684" defaulttvdbseason="1" episodeoffset="" tmdbtv="274671" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru?</name>
   </anime>
-  <anime anidbid="18936" tvdbid="472971" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="18936" tvdbid="472971" defaulttvdbseason="1" episodeoffset="" tmdbtv="299144" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Rilakkuma</name>
   </anime>
   <anime anidbid="18937" tvdbid="455708" defaulttvdbseason="1" episodeoffset="" tmdbtv="274711" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -53294,7 +53300,7 @@
   <anime anidbid="19204" tvdbid="461265" defaulttvdbseason="1" episodeoffset="" tmdbtv="284442" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Sozai Saishuka no Isekai Ryokouki</name>
   </anime>
-  <anime anidbid="19205" tvdbid="445261" defaulttvdbseason="2" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="19205" tvdbid="445261" defaulttvdbseason="2" episodeoffset="" tmdbtv="245204" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Himitsu no AiPri: Ring Hen</name>
   </anime>
   <anime anidbid="19206" tvdbid="461374" defaulttvdbseason="1" episodeoffset="" tmdbtv="283905" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -54290,7 +54296,7 @@
   <anime anidbid="19558" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Chuldong! Super Wings 4</name>
   </anime>
-  <anime anidbid="19559" tvdbid="431703" defaulttvdbseason="1" episodeoffset="4" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="19559" tvdbid="431703" defaulttvdbseason="1" episodeoffset="4" tmdbtv="221301" tmdbseason="1" tmdboffset="4" tmdbid="" imdbid="">
     <name>Pokemon Concierge (2025)</name>
   </anime>
   <anime anidbid="19560" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
