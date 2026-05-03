@@ -553,7 +553,7 @@
   <anime anidbid="101" tvdbid="74539" defaulttvdbseason="1" episodeoffset="" tmdbtv="34170" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Jikuu Tenshou Nazca</name>
   </anime>
-  <anime anidbid="102" tvdbid="70668" defaulttvdbseason="1" episodeoffset="" tmdbtv="35790" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="102" tvdbid="70668" defaulttvdbseason="a" episodeoffset="" tmdbtv="35790" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Cardcaptor Sakura</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-3;2-4;3-5;4-0;5-6;6-0;7-0;8-0;9-0;10-0;</mapping>
