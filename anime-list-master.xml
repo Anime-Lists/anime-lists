@@ -568,12 +568,8 @@
       <studio>Studio Pierrot</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="104" tvdbid="82023" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt0370754">
+  <anime anidbid="104" tvdbid="OVA" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="37910" imdbid="tt0370754">
     <name>Hoshi no Koe</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="2" offset="1"/>
-      <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
-    </mapping-list>
     <supplemental-info>
       <studio>CoMix Wave</studio>
     </supplemental-info>
