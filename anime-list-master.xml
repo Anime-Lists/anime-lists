@@ -807,6 +807,11 @@
   </anime>
   <anime anidbid="162" tvdbid="70525" defaulttvdbseason="1" episodeoffset="" tmdbtv="13889" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Sei Juushi Bismarck</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="1">;402-2;403-3;413-13;417-17;418-18;434-34;</mapping>
+      <mapping anidbseason="1" tvdbseason="1">;2-4;3-7;4-8;5-16;6-19;7-20;8-9;9-27;10-22;11-23;12-24;13-21;14-5;15-29;16-10;17-30;20-0;21-6;22-28;23-0;24-12;25-37;26-25;27-35;28-36;29-14;30-0;31-15;32-26;33-31;35-40;36-0;37-38;38-39;39-32;40-33;41-11;42-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="2">;18-1;19-2;34-3;43-4;44-5;45-6;46-7;47-8;48-9;49-10;50-11;51-12;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="163" tvdbid="71444" defaulttvdbseason="0" episodeoffset="" tmdbtv="23374" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Fushigi Yuugi (1996)</name>
