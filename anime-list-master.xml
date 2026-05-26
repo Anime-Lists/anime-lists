@@ -4196,7 +4196,7 @@
   <anime anidbid="1050" tvdbid="80304" defaulttvdbseason="1" episodeoffset="" tmdbtv="94936" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Blame!</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="1">;1-7;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
     <before>;1-7;</before>
   </anime>
