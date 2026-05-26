@@ -48353,6 +48353,9 @@
   </anime>
   <anime anidbid="17464" tvdbid="421378" defaulttvdbseason="1" episodeoffset="" tmdbtv="204266" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Trigun Stampede</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;12-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="17465" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Papan Ga Panda!</name>
