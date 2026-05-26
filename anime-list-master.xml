@@ -2096,7 +2096,7 @@
   <anime anidbid="449" tvdbid="79060" defaulttvdbseason="1" episodeoffset="" tmdbtv="34801" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Wolf's Rain</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="1" start="1" end="4" offset="26"/>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="4"/>
     </mapping-list>
     <before>;1-27;2-28;3-29;4-30;</before>
   </anime>
