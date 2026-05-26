@@ -32105,6 +32105,7 @@
     <name>Granblue Fantasy The Animation</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;13-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="11598" tvdbid="305077" defaulttvdbseason="1" episodeoffset="" tmdbtv="66103" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
