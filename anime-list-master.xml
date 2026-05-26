@@ -3884,8 +3884,7 @@
     <name>Fullmetal Panic? Fumoffu</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="2">;1-1;2-2;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
-      <mapping anidbseason="1" tvdbseason="2">;4-6;5-5;</mapping>
+      <mapping anidbseason="1" tvdbseason="2">;1-1;4-6;5-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="960" tvdbid="313879" defaulttvdbseason="1" episodeoffset="" tmdbtv="120564" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
