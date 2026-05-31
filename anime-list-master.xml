@@ -347,6 +347,9 @@
   </anime>
   <anime anidbid="68" tvdbid="73247" defaulttvdbseason="1" episodeoffset="" tmdbtv="42882" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Bubblegum Crisis</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;401-8;402-9;403-3;404-12;405-11;406-2;407-6;408-5;409-4;410-13;411-16;412-10;413-7;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="69" tvdbid="81797" defaulttvdbseason="a" episodeoffset="" tmdbtv="37854" tmdbseason="a" tmdboffset="" tmdbid="" imdbid="">
     <name>One Piece</name>
