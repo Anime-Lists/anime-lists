@@ -8623,6 +8623,9 @@
   </anime>
   <anime anidbid="2481" tvdbid="79454" defaulttvdbseason="1" episodeoffset="" tmdbtv="37534" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Uta Kata</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;401-4;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="2482" tvdbid="250920" defaulttvdbseason="1" episodeoffset="" tmdbtv="34864" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Ribbon no Kishi</name>
