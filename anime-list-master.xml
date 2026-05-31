@@ -42469,6 +42469,9 @@
   </anime>
   <anime anidbid="15308" tvdbid="262090" defaulttvdbseason="0" episodeoffset="18" tmdbtv="43865" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt11433874">
     <name>Psycho-Pass 3: First Inspector</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="401" end="403" offset="-385"/>
+    </mapping-list>
   </anime>
   <anime anidbid="15309" tvdbid="373770" defaulttvdbseason="1" episodeoffset="" tmdbtv="96420" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Hakumei no Tsubasa</name>
