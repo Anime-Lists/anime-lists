@@ -31442,6 +31442,9 @@
   </anime>
   <anime anidbid="11350" tvdbid="102261" defaulttvdbseason="4" episodeoffset="" tmdbtv="46195" tmdbseason="4" tmdboffset="" tmdbid="" imdbid="">
     <name>Owarimonogatari</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="4">;401-1;402-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11351" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Watashi ga Toriko ni Natte Yaru</name>
