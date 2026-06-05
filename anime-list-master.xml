@@ -808,7 +808,7 @@
       <mapping anidbseason="1" tvdbseason="2" start="27" end="52" offset="-26"/>
     </mapping-list>
   </anime>
-  <anime anidbid="162" tvdbid="70525" defaulttvdbseason="1" episodeoffset="" tmdbtv="13889" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="162" tvdbid="70525" defaulttvdbseason="a" episodeoffset="" tmdbtv="13889" tmdbseason="a" tmdboffset="" tmdbid="" imdbid="">
     <name>Sei Juushi Bismarck</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="1">;402-2;403-3;413-13;417-17;418-18;434-34;</mapping>
