@@ -50744,6 +50744,9 @@
   <anime anidbid="18292" tvdbid="442767" defaulttvdbseason="1" episodeoffset="" tmdbtv="240576" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Kabushikigaisha Magilumiere</name>
   </anime>
+  <anime anidbid="19063" tvdbid="442767" defaulttvdbseason="2" episodeoffset="" tmdbtv="240576" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
+    <name>Kabushikigaisha Magilumiere (2026)</name>
+  </anime>
   <anime anidbid="18293" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>69: Itsuwari no Bishou</name>
   </anime>
@@ -52910,9 +52913,6 @@
   </anime>
   <anime anidbid="19062" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Eiga Odekake Kozame: Tokai no Otomodachi</name>
-  </anime>
-  <anime anidbid="19063" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Kabushikigaisha Magilumiere (2026)</name>
   </anime>
   <anime anidbid="19064" tvdbid="458008" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Arcanadea</name>
