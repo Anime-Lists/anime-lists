@@ -29262,6 +29262,7 @@
     <title type="main" xml:lang="x-jat">True Blue</title>
     <title type="official" xml:lang="ja">True Blue~トゥルー・ブルー~</title>
     <title type="syn" xml:lang="ko">트루 블루</title>
+    <title type="syn" xml:lang="ru">Настоящая грусть</title>
   </anime>
   <anime aid="2989">
     <title type="main" xml:lang="x-jat">Hare Tokidoki Buta</title>
@@ -31592,6 +31593,7 @@
   </anime>
   <anime aid="3395">
     <title type="main" xml:lang="x-jat">Black Lagoon</title>
+    <title type="official" xml:lang="cs">Black Lagoon</title>
     <title type="official" xml:lang="de">Black Lagoon</title>
     <title type="official" xml:lang="en">Black Lagoon</title>
     <title type="official" xml:lang="fi">Black Lagoon</title>
@@ -34181,6 +34183,7 @@
     <title type="official" xml:lang="ja">Innocent Blue</title>
     <title type="syn" xml:lang="en">Innocent Blue: Clinical Records</title>
     <title type="syn" xml:lang="ko">이노센트 블루</title>
+    <title type="syn" xml:lang="ru">Невинная грусть</title>
   </anime>
   <anime aid="3953">
     <title type="main" xml:lang="x-jat">Kakutou Bijin Wulong</title>
@@ -36492,6 +36495,7 @@
     <title type="official" xml:lang="ja">True Blue~トゥルー・ブルー~外伝</title>
     <title type="syn" xml:lang="ja">True Blue 外伝</title>
     <title type="syn" xml:lang="ko">True Blue 외전</title>
+    <title type="syn" xml:lang="ru">Настоящая грусть - Генезис</title>
   </anime>
   <anime aid="4247">
     <title type="main" xml:lang="x-kot">Cubix</title>
@@ -50072,6 +50076,7 @@
     <title type="main" xml:lang="x-jat">Triangle Blue</title>
     <title type="official" xml:lang="ja">とらいあんぐるBLUE</title>
     <title type="syn" xml:lang="ko">트라이앵글 블루</title>
+    <title type="syn" xml:lang="ru">Синий треугольник</title>
   </anime>
   <anime aid="6623">
     <title type="main" xml:lang="x-jat">Dr. Slump: Arale-chan Ncha! Penguin Mura wa Hare Nochi Hare</title>
@@ -63897,6 +63902,7 @@
     <title type="main" xml:lang="x-jat">Dark Blue</title>
     <title type="official" xml:lang="ja">Dark Blue</title>
     <title type="syn" xml:lang="ko">다크 블루</title>
+    <title type="syn" xml:lang="ru">Темно-синий</title>
   </anime>
   <anime aid="8980">
     <title type="main" xml:lang="x-jat">Project Show-A</title>
@@ -64049,6 +64055,7 @@
   </anime>
   <anime aid="9010">
     <title type="main" xml:lang="x-jat">Kyonyuu Fantasy</title>
+    <title type="official" xml:lang="en">Funbag Fantasy</title>
     <title type="official" xml:lang="ja">巨乳ファンタジー</title>
     <title type="syn" xml:lang="en">Big Breasts Fantasy</title>
     <title type="syn" xml:lang="ja">巨乳ファンタジー 即ヌキムービー</title>
@@ -67996,6 +68003,7 @@
     <title type="syn" xml:lang="ja">理−コトワリ−</title>
     <title type="syn" xml:lang="ja">理−コトワリ− 〜キミの心の零れた欠片〜</title>
     <title type="syn" xml:lang="ko">리 코토와리 ~너의 마음이 흘러넘친 조각~</title>
+    <title type="syn" xml:lang="ru">Осколки твоего сердца</title>
   </anime>
   <anime aid="9669">
     <title type="main" xml:lang="x-jat">Train Heroes</title>
@@ -105652,6 +105660,7 @@
     <title type="official" xml:lang="ja">White Blue</title>
     <title type="syn" xml:lang="ja">ホワイト ブルー</title>
     <title type="syn" xml:lang="ko">화이트 블루</title>
+    <title type="syn" xml:lang="ru">Белый Синий</title>
   </anime>
   <anime aid="15706">
     <title type="main" xml:lang="x-jat">Kono Sekai no Tanoshimikata: Secret Story Film</title>
@@ -120323,6 +120332,7 @@
     <title type="syn" xml:lang="en">The Great Ruler (2023)</title>
     <title type="syn" xml:lang="en">The Great Ruler 3D</title>
     <title type="syn" xml:lang="x-zht">Da Zhuzai 3D</title>
+    <title type="syn" xml:lang="x-zht">Da Zhuzai: Nian Fan</title>
     <title type="syn" xml:lang="zh-Hans">大主宰 年番1</title>
   </anime>
   <anime aid="18029">
@@ -123180,6 +123190,7 @@
     <title type="official" xml:lang="ja">Dearest Blue</title>
     <title type="syn" xml:lang="ja">ディアレストブルー</title>
     <title type="syn" xml:lang="ko">디어리스트 블루</title>
+    <title type="syn" xml:lang="ru">Самый дорогой</title>
   </anime>
   <anime aid="18445">
     <title type="main" xml:lang="x-jat">Succubus Connect!</title>
@@ -128415,6 +128426,7 @@
   </anime>
   <anime aid="19227">
     <title type="main" xml:lang="x-jat">Binan Koukou Chikyuu Bouei Bu Haikara!</title>
+    <title type="official" xml:lang="en">Cute High Earth Defense Club Hi-CARA!</title>
     <title type="official" xml:lang="ja">美男高校地球防衛部ハイカラ!</title>
     <title type="syn" xml:lang="en">Cute High Earth Defense Club Stylish!</title>
   </anime>
@@ -129863,9 +129875,9 @@
   </anime>
   <anime aid="19488">
     <title type="main" xml:lang="x-zht">Di Ling Ai: Mo Shui Linglong</title>
-    <title type="official" xml:lang="en">Divine Love - Deep Blue</title>
+    <title type="official" xml:lang="en">Divine Love: Deep Blue</title>
     <title type="official" xml:lang="zh-Hans">缔灵爱之默水玲珑</title>
-    <title type="syn" xml:lang="en">Divine Love: Deep Blue</title>
+    <title type="syn" xml:lang="en">Divine Love - Deep Blue</title>
     <title type="syn" xml:lang="x-zht">Di Ling Ai Zhi Mo Shui Linglong</title>
   </anime>
   <anime aid="19489">
@@ -130665,7 +130677,7 @@
   </anime>
   <anime aid="19633">
     <title type="main" xml:lang="x-jat">Potion, Wagami o Tasukeru</title>
-    <title type="official" xml:lang="en">I Saved Myself with a Potion! : Life in Another World</title>
+    <title type="official" xml:lang="en">I Saved Myself with a Potion!: Life in Another World</title>
     <title type="official" xml:lang="ja">ポーション, わが身を助ける</title>
     <title type="official" xml:lang="zh-Hans">魔法药水救救我</title>
     <title type="official" xml:lang="zh-Hant">魔法藥水救救我</title>
@@ -131422,9 +131434,9 @@
     <title type="official" xml:lang="ja">怪獣8号 完結編</title>
   </anime>
   <anime aid="19777">
-    <title type="main" xml:lang="x-jat">Yasei no Last Boss ga Arawareta! 2</title>
-    <title type="official" xml:lang="ja">野生のラスボスが現れた! 2</title>
-    <title type="syn" xml:lang="en">A Wild Last Boss Appeared! 2</title>
+    <title type="main" xml:lang="x-jat">Yasei no Last Boss ga Arawareta! (2026)</title>
+    <title type="official" xml:lang="ja">野生のラスボスが現れた! (2026)</title>
+    <title type="syn" xml:lang="en">A Wild Last Boss Appeared! (2026)</title>
   </anime>
   <anime aid="19778">
     <title type="main" xml:lang="x-jat">Chainsaw Man: Shikaku Hen</title>
@@ -131456,6 +131468,7 @@
     <title type="official" xml:lang="ja">乙女怪獣キャラメリゼ</title>
     <title type="official" xml:lang="zh-Hans">少女怪兽焦糖味</title>
     <title type="official" xml:lang="zh-Hant">少女怪獸焦糖戀心</title>
+    <title type="syn" xml:lang="x-jat">Otome Kaijuu</title>
     <title type="syn" xml:lang="x-jat">Otome Kaijuu Carameliser</title>
   </anime>
   <anime aid="19783">
@@ -132002,6 +132015,7 @@
     <title type="syn" xml:lang="en">Da Zhuzai 3D 2nd Season</title>
     <title type="syn" xml:lang="en">The Great Ruler 3D 2nd Season</title>
     <title type="syn" xml:lang="en">The Great Ruler S2</title>
+    <title type="syn" xml:lang="x-zht">Da Zhuzai: Nian Fan 2</title>
     <title type="syn" xml:lang="zh-Hans">大主宰 第二季</title>
   </anime>
   <anime aid="19894">
@@ -132118,6 +132132,7 @@
   </anime>
   <anime aid="19920">
     <title type="main" xml:lang="x-zht">Quanzhi Fashi VII</title>
+    <title type="official" xml:lang="en">Versatile Mage (2026)</title>
     <title type="official" xml:lang="zh-Hans">全职法师VII</title>
     <title type="short" xml:lang="x-zht">qzfs s7</title>
     <title type="syn" xml:lang="en">Almighty Mage 7th Season</title>
@@ -133710,5 +133725,112 @@
     <title type="main" xml:lang="x-jat">Digimon (2027)</title>
     <title type="official" xml:lang="ja">デジモン (2027)</title>
   </anime>
+  <anime aid="20238">
+    <title type="main" xml:lang="x-jat">Mato Seihei no Slave 3</title>
+    <title type="official" xml:lang="ja">魔都精兵のスレイブ3</title>
+    <title type="syn" xml:lang="en">Chained Soldier Season 3</title>
+  </anime>
+  <anime aid="20239">
+    <title type="main" xml:lang="x-zht">Shizun Qu Na Le: Bian Cheng Shen Shou Bei Wu Ge Tu`er rua Tu</title>
+    <title type="official" xml:lang="en">Taming My Fluffy Shizun</title>
+    <title type="official" xml:lang="zh-Hans">师尊去哪了：变成神兽被五个徒儿rua秃</title>
+    <title type="syn" xml:lang="en">Where did Master go? He turned into a divine beast and was rubbed bald by his five disciples</title>
+  </anime>
+  <anime aid="20240">
+    <title type="main" xml:lang="x-jat">Chitose-kun wa Ramune Bin no Naka (2026)</title>
+    <title type="official" xml:lang="ja">千歳くんはラムネ瓶のなか (2026)</title>
+    <title type="short" xml:lang="x-jat">Chiramune S2</title>
+  </anime>
+  <anime aid="20241">
+    <title type="main" xml:lang="x-jat">Boku no Hero Academia: I Am a Hero Too</title>
+    <title type="official" xml:lang="en">My Hero Academia: I Am a Hero Too</title>
+    <title type="official" xml:lang="ja">僕のヒーローアカデミア I am a hero too</title>
+  </anime>
+  <anime aid="20242">
+    <title type="main" xml:lang="x-zht">Jie Men Zhi Xia</title>
+    <title type="official" xml:lang="en">Under the Gate</title>
+    <title type="official" xml:lang="zh-Hans">界门之下</title>
+  </anime>
+  <anime aid="20243">
+    <title type="main" xml:lang="x-zht">Sai Ngoi</title>
+    <title type="official" xml:lang="zh">世外</title>
+  </anime>
+  <anime aid="20244">
+    <title type="main" xml:lang="x-zht">Shi Wai</title>
+    <title type="official" xml:lang="en">Another World (2025)</title>
+    <title type="official" xml:lang="zh-Hans">世外</title>
+  </anime>
+  <anime aid="20245">
+    <title type="main" xml:lang="x-zht">Cheng Ye Xiao He</title>
+    <title type="official" xml:lang="en">To Be Winner</title>
+    <title type="official" xml:lang="zh-Hans">成也萧河</title>
+    <title type="syn" xml:lang="en">For the Win!</title>
+  </anime>
+  <anime aid="20246">
+    <title type="main" xml:lang="x-jat">Dokagui Daisuki! Mochizuki-san</title>
+    <title type="official" xml:lang="ja">ドカ食いダイスキ! もちづきさん</title>
+  </anime>
+  <anime aid="20247">
+    <title type="main" xml:lang="x-kot">Yeonui Pyeonji</title>
+    <title type="official" xml:lang="en">Your Letter</title>
+    <title type="official" xml:lang="ko">연의 편지</title>
+  </anime>
+  <anime aid="20248">
+    <title type="main" xml:lang="x-zht">You Shou Yan 6</title>
+    <title type="official" xml:lang="zh-Hans">有兽焉 第六季</title>
+    <title type="syn" xml:lang="en">Fabulous Beasts 6</title>
+    <title type="syn" xml:lang="en">Fabulous Beasts 6th Season</title>
+    <title type="syn" xml:lang="en">There Are Fabulous Beasts: Season 6</title>
+    <title type="syn" xml:lang="x-zht">You Shou Yan 6th Season</title>
+  </anime>
+  <anime aid="20249">
+    <title type="main" xml:lang="x-kot">Yumiui Sepodeul Deo Mubi</title>
+    <title type="official" xml:lang="en">Yumi`s Cells: The Movie</title>
+    <title type="official" xml:lang="ko">유미의 세포들 더 무비</title>
+  </anime>
+  <anime aid="20250">
+    <title type="main" xml:lang="x-jat">Sonyeonjangsu</title>
+    <title type="official" xml:lang="ko">소년장수</title>
+  </anime>
+  <anime aid="20251">
+    <title type="main" xml:lang="x-kot">Sonyeonjangsu (2015)</title>
+    <title type="official" xml:lang="ko">소년장수 (2015)</title>
+  </anime>
+  <anime aid="20252">
+    <title type="main" xml:lang="ko">Badass Girl : Run Hany</title>
+  </anime>
+  <anime aid="20253">
+    <title type="main" xml:lang="x-zht">Quanzhi Fashi VIII</title>
+    <title type="official" xml:lang="zh-Hans">全职法师VIII</title>
+    <title type="short" xml:lang="x-zht">qzfs s8</title>
+    <title type="syn" xml:lang="en">Full-Time Magister S8</title>
+    <title type="syn" xml:lang="en">Versatile Mage S8</title>
+    <title type="syn" xml:lang="x-zht">Quanzhi Fashi S8</title>
+    <title type="syn" xml:lang="zh-Hans">全职法师 第八季</title>
+  </anime>
+  <anime aid="20254">
+    <title type="main" xml:lang="x-jat">Destiny Unchain Online</title>
+    <title type="official" xml:lang="ja">Destiny Unchain Online</title>
+  </anime>
+  <anime aid="20255">
+    <title type="main" xml:lang="x-zht">Guyu Jie Hou Xiang</title>
+    <title type="official" xml:lang="zh-Hans">谷雨街后巷</title>
+    <title type="syn" xml:lang="en">Back Alley of Guyu Street</title>
+  </anime>
+  <anime aid="20256">
+    <title type="main" xml:lang="x-zht">Daqian Xiaozhen</title>
+    <title type="official" xml:lang="en">Daqian Town</title>
+    <title type="official" xml:lang="zh-Hans">大千小镇</title>
+    <title type="syn" xml:lang="x-zht">Daqian Xiao Zhen</title>
+  </anime>
+  <anime aid="20257">
+    <title type="main" xml:lang="x-zht">Di Ling Ai: Shui Xin Chan</title>
+    <title type="official" xml:lang="zh-Hans">缔灵爱水心缠</title>
+    <title type="syn" xml:lang="en">Divine Love 2</title>
+    <title type="syn" xml:lang="en">Divine Love: Entwined Water Hearts</title>
+    <title type="syn" xml:lang="en">Divine Love: Water Heart Entwine</title>
+    <title type="syn" xml:lang="zh-Hans">缔灵爱之默水玲珑2</title>
+    <title type="syn" xml:lang="zh-Hans">缔灵爱之默水玲珑第二季</title>
+  </anime>
 </animetitles>
-<!-- Created: Sun Aug  2 03:00:07 2026 (16837 anime, 100036 titles) -->
+<!-- Created: Sat Aug  8 03:00:07 2026 (16857 anime, 100118 titles) -->
