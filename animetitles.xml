@@ -7518,6 +7518,7 @@
     <title type="official" xml:lang="en">Princess Tutu</title>
     <title type="official" xml:lang="fr">Princess Tutu</title>
     <title type="official" xml:lang="ja">プリンセスチュチュ</title>
+    <title type="official" xml:lang="zh-Hant">彩夢芭蕾</title>
     <title type="short" xml:lang="x-jat">tutu</title>
     <title type="syn" xml:lang="ar">الأميرة توتو</title>
     <title type="syn" xml:lang="de">Prinzessin Tutu</title>
@@ -43813,6 +43814,7 @@
     <title type="main" xml:lang="x-jat">Doraemon: Nobita no Shin Makai Daibouken - Shichinin no Mahou Tsukai</title>
     <title type="official" xml:lang="es">Doraemon y los siete magos</title>
     <title type="official" xml:lang="ja">ドラえもん のび太の新魔界大冒険~7人の魔法使い~</title>
+    <title type="official" xml:lang="pt">Doraemon E Os Sete Magos</title>
     <title type="official" xml:lang="zh-Hans">哆啦A梦 大雄的新魔界大冒险 ～7个魔法师～</title>
     <title type="syn" xml:lang="en">Doraemon Movie 27</title>
     <title type="syn" xml:lang="en">Doraemon: Nobita`s New Adventure into the Dark World - The seven messengers of magic</title>
@@ -43844,6 +43846,7 @@
   <anime aid="5436">
     <title type="main" xml:lang="x-jat">Tottoi</title>
     <title type="official" xml:lang="ja">トトイ</title>
+    <title type="official" xml:lang="pl">Mała foczka</title>
     <title type="official" xml:lang="pt">Tottoi</title>
     <title type="syn" xml:lang="en">The Secret of the Seal</title>
   </anime>
@@ -50211,6 +50214,7 @@
   </anime>
   <anime aid="6645">
     <title type="main" xml:lang="x-jat">Black Lagoon: Roberta`s Blood Trail</title>
+    <title type="official" xml:lang="cs">Black Lagoon: Robertina krvavá stopa</title>
     <title type="official" xml:lang="en">Black Lagoon: Roberta`s Blood Trail</title>
     <title type="official" xml:lang="ja">BLACK LAGOON Roberta`s Blood Trail</title>
     <title type="official" xml:lang="zh-Hans">黑礁 Roberta’s Blood Trail</title>
@@ -63399,6 +63403,7 @@
     <title type="main" xml:lang="x-jat">Shin Evangelion Gekijouban:||</title>
     <title type="official" xml:lang="ar">"إيفانجيليون: 3،0+1،01 ثلاث مرات متتالية"</title>
     <title type="official" xml:lang="da">EVANGELION:3.0+1.01 DER VAR TREGANGE</title>
+    <title type="official" xml:lang="de">Evangelion: 3.0+1.11 Thrice Upon a Time</title>
     <title type="official" xml:lang="en">Evangelion: 3.0+1.01 Thrice Upon a Time</title>
     <title type="official" xml:lang="fr">Evangelion: 3.0+1.01 Thrice Upon a Time</title>
     <title type="official" xml:lang="he">אוונגליון 1.01+3.0: היה היו שלוש פעמים</title>
@@ -81522,6 +81527,7 @@
     <title type="official" xml:lang="es">Bésalo a él, no a mí</title>
     <title type="official" xml:lang="ja">私がモテてどうすんだ</title>
     <title type="official" xml:lang="zh-Hans">我太受欢迎了该怎么办</title>
+    <title type="short" xml:lang="x-jat">Watamote (2016)</title>
     <title type="short" xml:lang="x-jat">watashimote</title>
     <title type="short" xml:lang="x-jat">watasun</title>
     <title type="syn" xml:lang="pl">Pocałuj jego, kolego</title>
@@ -102574,6 +102580,7 @@
   <anime aid="15275">
     <title type="main" xml:lang="x-jat">Jujutsu Kaisen</title>
     <title type="official" xml:lang="en">Jujutsu Kaisen</title>
+    <title type="official" xml:lang="fr">Jujutsu Kaisen</title>
     <title type="official" xml:lang="ja">呪術廻戦</title>
     <title type="official" xml:lang="pl">Jujutsu Kaisen</title>
     <title type="official" xml:lang="ru">Магическая битва</title>
@@ -103879,10 +103886,10 @@
   </anime>
   <anime aid="15443">
     <title type="main" xml:lang="x-zht">Wu Shen Zhuzai</title>
+    <title type="official" xml:lang="en">The God of War Dominates</title>
     <title type="official" xml:lang="zh-Hans">武神主宰</title>
     <title type="syn" xml:lang="en">Amazing Martial Master</title>
     <title type="syn" xml:lang="en">Martial Master</title>
-    <title type="syn" xml:lang="en">The God of War Dominates</title>
     <title type="syn" xml:lang="x-zht">Wu Shen Zhu Zai</title>
     <title type="syn" xml:lang="x-zht">Wushen Zhuzai</title>
   </anime>
@@ -109826,6 +109833,7 @@
     <title type="official" xml:lang="ja">幼女戦記II</title>
     <title type="official" xml:lang="zh-Hans">幼女战记 第二季</title>
     <title type="official" xml:lang="zh-Hant">幼女戰記 2</title>
+    <title type="syn" xml:lang="en">Saga of Tanya the Evil Season 2</title>
     <title type="syn" xml:lang="x-jat">Youjo Senki S2</title>
   </anime>
   <anime aid="16393">
@@ -117200,6 +117208,7 @@
   <anime aid="17586">
     <title type="main" xml:lang="x-jat">Undead Unluck</title>
     <title type="official" xml:lang="en">Undead Unluck</title>
+    <title type="official" xml:lang="fr">Undead Unluck</title>
     <title type="official" xml:lang="ja">アンデッドアンラック</title>
     <title type="official" xml:lang="zh-Hans">不死不运</title>
     <title type="official" xml:lang="zh-Hant">不死不運</title>
@@ -117422,13 +117431,13 @@
     <title type="official" xml:lang="it">Frieren - Oltre la Fine del Viaggio</title>
     <title type="official" xml:lang="ja">葬送のフリーレン</title>
     <title type="official" xml:lang="pl">Frieren. U kresu drogi</title>
+    <title type="official" xml:lang="pt">Frieren e a Jornada para o Além</title>
     <title type="official" xml:lang="pt-BR">Frieren e a Jornada para o Além</title>
     <title type="official" xml:lang="ru">Фрирен, провожающая в последний путь</title>
     <title type="official" xml:lang="th">คำอธิษฐานในวันที่จากลา FRIEREN</title>
     <title type="official" xml:lang="uk">Фрірен кінця шляху</title>
     <title type="official" xml:lang="zh-Hans">葬送的芙莉莲</title>
     <title type="official" xml:lang="zh-Hant">葬送的芙莉蓮</title>
-    <title type="syn" xml:lang="pt">Frieren e a Jornada para o Além</title>
     <title type="syn" xml:lang="uk">Фрірен, що проводжає в останню путь</title>
     <title type="syn" xml:lang="uk">Фрірен: після кінця пригоди</title>
     <title type="syn" xml:lang="uk">Фрірен: продовження подорожі</title>
@@ -119221,7 +119230,7 @@
     <title type="official" xml:lang="en">The Apothecary Diaries</title>
     <title type="official" xml:lang="es">Los diarios de la boticaria</title>
     <title type="official" xml:lang="es-419">Los diarios de la boticaria</title>
-    <title type="official" xml:lang="fr">Les Carnets de l`apothicaire</title>
+    <title type="official" xml:lang="fr">Les carnets de l`apothicaire</title>
     <title type="official" xml:lang="it">Il Monologo della Speziale</title>
     <title type="official" xml:lang="ja">薬屋のひとりごと</title>
     <title type="official" xml:lang="ko">약사의 혼잣말</title>
@@ -122196,7 +122205,7 @@
     <title type="official" xml:lang="en">Dan Da Dan</title>
     <title type="official" xml:lang="es">DAN DA DAN</title>
     <title type="official" xml:lang="es-419">DAN DA DAN</title>
-    <title type="official" xml:lang="fr">DAN DA DAN</title>
+    <title type="official" xml:lang="fr">Dan Da Dan</title>
     <title type="official" xml:lang="he">דן דה דן</title>
     <title type="official" xml:lang="id">DAN DA DAN</title>
     <title type="official" xml:lang="it">DAN DA DAN</title>
@@ -124683,6 +124692,7 @@
     <title type="main" xml:lang="x-jat">Sakamoto Days</title>
     <title type="official" xml:lang="ar">أيام ساكاموتو</title>
     <title type="official" xml:lang="en">Sakamoto Days</title>
+    <title type="official" xml:lang="fr">Sakamoto Days</title>
     <title type="official" xml:lang="he">החיים החדשים של סקמוטו</title>
     <title type="official" xml:lang="hi">साकामोतो डेज़</title>
     <title type="official" xml:lang="hr">SAKAMOTOVI DANI</title>
@@ -126213,8 +126223,10 @@
     <title type="official" xml:lang="zh-Hans">完美世界剧场版</title>
     <title type="syn" xml:lang="en">Perfect World Embers of Fire</title>
     <title type="syn" xml:lang="en">Perfect World Movie</title>
+    <title type="syn" xml:lang="en">Perfect World The Movie: Ashes of Fire</title>
     <title type="syn" xml:lang="en">Perfect World Theater Edition</title>
     <title type="syn" xml:lang="en">Perfect World: Theatrical Movie</title>
+    <title type="syn" xml:lang="x-zht">Wanmei Shijie Movie: Huo Zhi Huijin</title>
     <title type="syn" xml:lang="zh-Hans">完美世界之火之灰烬</title>
     <title type="syn" xml:lang="zh-Hans">完美世界剧场版 火之灰烬</title>
     <title type="syn" xml:lang="zh-Hans">完美世界剧场版（总集篇）</title>
@@ -126317,6 +126329,7 @@
     <title type="official" xml:lang="en">Frieren: Beyond Journey`s End (2026)</title>
     <title type="official" xml:lang="it">Frieren - Oltre la fine del viaggio (2026)</title>
     <title type="official" xml:lang="ja">葬送のフリーレン (2026)</title>
+    <title type="official" xml:lang="pt">Frieren e a Jornada para o Além (2026)</title>
     <title type="syn" xml:lang="en">Frieren 2</title>
     <title type="syn" xml:lang="en">Frieren: Beyond Journey`s End Season 2</title>
     <title type="syn" xml:lang="ru">Фрирен, провожающая в последний путь (2026)</title>
@@ -126397,7 +126410,7 @@
     <title type="syn" xml:lang="en">The Immortal Doctor</title>
   </anime>
   <anime aid="18898">
-    <title type="main" xml:lang="x-jat">Hime Kishi wa Barbaroi no Yome</title>
+    <title type="main" xml:lang="x-jat">Himekishi wa Barbaroi no Yome</title>
     <title type="official" xml:lang="en">The Warrior Princess and the Barbaric King</title>
     <title type="official" xml:lang="ja">姫騎士は蛮族の嫁</title>
     <title type="official" xml:lang="ko">공주 기사는 야만족의 신부</title>
@@ -126406,7 +126419,6 @@
     <title type="syn" xml:lang="en">The Barbarian’s Bride</title>
     <title type="syn" xml:lang="en">The Bride of Barbaroi</title>
     <title type="syn" xml:lang="en">The Princess-Knight Bride of Barbaroi</title>
-    <title type="syn" xml:lang="x-jat">Himekishi wa Barbaroi no Yome</title>
   </anime>
   <anime aid="18899">
     <title type="main" xml:lang="x-jat">Mahou Shoujo ni Akogarete 2</title>
@@ -127551,7 +127563,6 @@
     <title type="official" xml:lang="en">Link Click: Bridon Arc</title>
     <title type="official" xml:lang="zh-Hans">时光代理人 英都篇</title>
     <title type="syn" xml:lang="en">Link Click - Bridon Arc</title>
-    <title type="syn" xml:lang="en">Link Click Season 3</title>
   </anime>
   <anime aid="19079">
     <title type="main" xml:lang="x-jat">Bleach: Sennen Kessen Hen - Kashin Tan</title>
@@ -128053,7 +128064,7 @@
     <title type="syn" xml:lang="x-jat">Toaru Anbu no Shoujo Kyousei</title>
   </anime>
   <anime aid="19160">
-    <title type="main" xml:lang="x-jat">Hime Kishi-sama no Himo</title>
+    <title type="main" xml:lang="x-jat">Himekishi-sama no Himo</title>
     <title type="official" xml:lang="ja">姫騎士様のヒモ</title>
     <title type="syn" xml:lang="en">The Kept Man of the Princess Knight</title>
   </anime>
@@ -131197,6 +131208,7 @@
     <title type="official" xml:lang="ja">茉莉花ちゃんの好感度はぶっ壊れている</title>
     <title type="official" xml:lang="zh-Hans">茉莉花酱的好感度正在崩坏</title>
     <title type="official" xml:lang="zh-Hant">茉莉花同學的好感度壞得很徹底</title>
+    <title type="syn" xml:lang="ru">Уровень симпатии Марики ненормально высокий</title>
     <title type="syn" xml:lang="x-jat">Marika-chan no Koukando wa Bukkowareteiru</title>
   </anime>
   <anime aid="19731">
@@ -131842,7 +131854,6 @@
     <title type="official" xml:lang="ja">女神『異世界転生何になりたいですか』俺『勇者の肋骨で』</title>
     <title type="official" xml:lang="zh-Hans">女神“异世界转生想成为什么”我“勇者的肋骨”</title>
     <title type="official" xml:lang="zh-Hant">女神「異世界轉生想成為什麼」我「勇者的肋骨」</title>
-    <title type="short" xml:lang="x-jat">Yuusha no Rokkotsu de</title>
   </anime>
   <anime aid="19863">
     <title type="main" xml:lang="x-zht">Shishang Zui Qiang Lian Ti Lao Zu</title>
@@ -131904,6 +131915,7 @@
     <title type="main" xml:lang="x-jat">Yani Neko</title>
     <title type="official" xml:lang="en">Chainsmoker Cat</title>
     <title type="official" xml:lang="ja">ヤニねこ</title>
+    <title type="official" xml:lang="ru">Табакошка</title>
     <title type="official" xml:lang="zh-Hans">尼古喵喵</title>
   </anime>
   <anime aid="19874">
@@ -131955,7 +131967,11 @@
   </anime>
   <anime aid="19882">
     <title type="main" xml:lang="x-zht">Shiguang Dailiren III</title>
+    <title type="official" xml:lang="zh-Hans">时光代理人III -LINK CLICK-</title>
+    <title type="syn" xml:lang="en">LINK CLICK 3</title>
     <title type="syn" xml:lang="en">Link Click III Part One</title>
+    <title type="syn" xml:lang="en">Link Click S3</title>
+    <title type="syn" xml:lang="en">Link Click Season 3</title>
     <title type="syn" xml:lang="zh-Hans">时光代理人 第三季 [PART ONE]</title>
     <title type="syn" xml:lang="zh-Hans">时光代理人III [PART ONE]</title>
   </anime>
@@ -132218,6 +132234,8 @@
   <anime aid="19938">
     <title type="main" xml:lang="x-zht">Zi Jin: Yu Miao Fang</title>
     <title type="official" xml:lang="en">Paw &amp; Palaces</title>
+    <title type="official" xml:lang="ja">紫禁・御猫房〜紫禁城猫警備室〜</title>
+    <title type="official" xml:lang="x-jat">Shikin: On Myao Bou - Shikinjou Neko Keibishitsu</title>
     <title type="official" xml:lang="zh-Hans">紫禁·御喵房</title>
     <title type="syn" xml:lang="en">Forbidden City: Cat Imperial Study</title>
     <title type="syn" xml:lang="en">Paws &amp; Palaces</title>
@@ -132418,6 +132436,7 @@
   <anime aid="19977">
     <title type="main" xml:lang="x-jat">Sousou no Frieren (2027)</title>
     <title type="official" xml:lang="ja">葬送のフリーレン (2027)</title>
+    <title type="official" xml:lang="pt">Frieren e a Jornada para o Além (2027)</title>
     <title type="syn" xml:lang="en">Frieren 3</title>
     <title type="syn" xml:lang="en">Frieren: Beyond Journey`s End (2027)</title>
   </anime>
@@ -132645,6 +132664,7 @@
   <anime aid="20023">
     <title type="card" xml:lang="ja">THE RIBBON HERO リボンヒーロー</title>
     <title type="main" xml:lang="x-jat">The Ribbon Hero</title>
+    <title type="official" xml:lang="fr">L`héroïne au ruban</title>
     <title type="official" xml:lang="ja">THE RIBBON HERO</title>
   </anime>
   <anime aid="20024">
@@ -133706,6 +133726,9 @@
     <title type="official" xml:lang="en">Primeval Overlord</title>
     <title type="official" xml:lang="zh-Hans">太古神尊</title>
     <title type="syn" xml:lang="en">Ancient God Sovereign</title>
+    <title type="syn" xml:lang="en">Primordial God</title>
+    <title type="syn" xml:lang="x-zht">Taigu Shen Zun</title>
+    <title type="syn" xml:lang="x-zht">Taigu Shenzun</title>
   </anime>
   <anime aid="20234">
     <title type="main" xml:lang="x-jat">Tsuihou Sareta Shounin wa Kin no Chikara de Sekai o Sukuu</title>
@@ -133815,6 +133838,7 @@
   <anime aid="20255">
     <title type="main" xml:lang="x-zht">Guyu Jie Hou Xiang</title>
     <title type="official" xml:lang="zh-Hans">谷雨街后巷</title>
+    <title type="syn" xml:lang="en">APPLES</title>
     <title type="syn" xml:lang="en">Back Alley of Guyu Street</title>
   </anime>
   <anime aid="20256">
@@ -133832,5 +133856,48 @@
     <title type="syn" xml:lang="zh-Hans">缔灵爱之默水玲珑2</title>
     <title type="syn" xml:lang="zh-Hans">缔灵爱之默水玲珑第二季</title>
   </anime>
+  <anime aid="20258">
+    <title type="main" xml:lang="en">One Piece: Adventure in the Ocean`s Navel</title>
+    <title type="official" xml:lang="ja">One Piece: Umi no Heso no Daibouken-hen</title>
+  </anime>
+  <anime aid="20259">
+    <title type="main" xml:lang="x-jat">Akuyaku no Ending wa Shi Nomi</title>
+    <title type="official" xml:lang="ja">悪役のエンディングは死のみ</title>
+    <title type="official" xml:lang="ko">악역의 엔딩은 죽음뿐</title>
+    <title type="syn" xml:lang="en">Villains Are Destined to Die</title>
+  </anime>
+  <anime aid="20260">
+    <title type="main" xml:lang="x-zht">Wanmei Shijie Movie: Jiu Jie Fen Tian</title>
+    <title type="official" xml:lang="en">Perfect World Movie: Ninefold The Burning Sky</title>
+    <title type="official" xml:lang="zh-Hans">完美世界剧场版 九劫焚天</title>
+    <title type="syn" xml:lang="en">Perfect World Movie: Nine Calamities Burning Heaven</title>
+    <title type="syn" xml:lang="en">Perfect World Movie: Nine Tribulations Incinerate the Heavens</title>
+    <title type="syn" xml:lang="zh-Hans">完美世界 剧场版之九劫焚天</title>
+    <title type="syn" xml:lang="zh-Hans">完美世界之九劫焚天</title>
+    <title type="syn" xml:lang="zh-Hans">完美世界剧场版 第二部</title>
+  </anime>
+  <anime aid="20262">
+    <title type="main" xml:lang="zh-Hans">1999! Shenmi Xue Duice Bu</title>
+    <title type="official" xml:lang="zh">1999！神秘学对策部</title>
+  </anime>
+  <anime aid="20263">
+    <title type="main" xml:lang="x-jat">Akazukin, Tabi no Tochuu de Shitai to Deau.</title>
+    <title type="official" xml:lang="ja">赤ずきん, 旅の途中で死体と出会う.</title>
+  </anime>
+  <anime aid="20264">
+    <title type="main" xml:lang="x-jat">Nezumi-kun no Chokki</title>
+    <title type="official" xml:lang="ja">ねずみくんのチョッキ</title>
+  </anime>
+  <anime aid="20265">
+    <title type="main" xml:lang="x-kot">Salangui Hachyuping: Golaeboseogui Jeonseol</title>
+    <title type="official" xml:lang="ko">사랑의 하츄핑: 고래보석의 전설</title>
+  </anime>
+  <anime aid="20266">
+    <title type="main" xml:lang="x-zht">Chuanyue Shikong Cheng Xiandi, Xitong Chidao Bawan Nian</title>
+    <title type="official" xml:lang="en">Heaven`s Game</title>
+    <title type="official" xml:lang="zh-Hans">穿越时空成仙帝，系统迟到八万年</title>
+    <title type="syn" xml:lang="en">Transcending time and space to become an immortal emperor, the system is 80,000 years late</title>
+    <title type="syn" xml:lang="x-zht">Chuanyue Shikong Cheng Xian Di, Xitong Chidao Ba Wan Nian</title>
+  </anime>
 </animetitles>
-<!-- Created: Sat Aug  8 03:00:07 2026 (16857 anime, 100118 titles) -->
+<!-- Created: Sat Aug 15 03:00:07 2026 (16865 anime, 100169 titles) -->
