@@ -14643,7 +14643,7 @@
   <anime anidbid="5818" tvdbid="77681" defaulttvdbseason="4" tmdbtv="26318" tmdbseason="4">
     <name>Slayers Revolution</name>
   </anime>
-  <anime anidbid="5823" tvdbid="OVA">
+  <anime anidbid="5823" tvdbid="OVA" tmdbid="443269">
     <name>Phantom Yuusha Densetsu</name>
   </anime>
   <anime anidbid="5829" tvdbid="hentai">
@@ -18051,7 +18051,7 @@
   <anime anidbid="7337" tvdbid="77344" defaulttvdbseason="1" tmdbtv="11041" tmdbseason="1">
     <name>Pecola</name>
   </anime>
-  <anime anidbid="7340" tvdbid="movie">
+  <anime anidbid="7340" tvdbid="movie" tmdbid="391643" imdbid="tt21448334">
     <name>Boku no Son Gokuu</name>
   </anime>
   <anime anidbid="7341" tvdbid="tv special">
@@ -22918,7 +22918,7 @@
   <anime anidbid="9453" tvdbid="102261" defaulttvdbseason="0" tmdbtv="46195" tmdbseason="0">
     <name>Nekomonogatari (Kuro): Tsubasa Family</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;2-3;3-4;4-5;5-6;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-3+4+5+6;2-3;3-4;4-5;5-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9454" tvdbid="267754" defaulttvdbseason="0" tmdbtv="102500" tmdbseason="0" imdbid="tt2431934">
@@ -26598,6 +26598,9 @@
   <anime anidbid="11278" tvdbid="movie" tmdbid="433156">
     <name>Utopa</name>
   </anime>
+  <anime anidbid="11279" tvdbid="movie" tmdbid="433510" imdbid="tt17518332">
+    <name>Kacchikenee!</name>
+  </anime>
   <anime anidbid="11284" tvdbid="300107" defaulttvdbseason="1" tmdbtv="64754" tmdbseason="1">
     <name>Kowabon</name>
   </anime>
@@ -27675,6 +27678,9 @@
   </anime>
   <anime anidbid="12054" tvdbid="movie" imdbid="tt5595168">
     <name>Kingsglaive: Final Fantasy XV</name>
+  </anime>
+  <anime anidbid="12055" tvdbid="web" tmdbtv="241888" tmdbseason="1">
+    <name>Uchuu Neko: Mardock no Bouken</name>
   </anime>
   <anime anidbid="12057" tvdbid="319997" defaulttvdbseason="1" tmdbtv="69288" tmdbseason="1">
     <name>Kemono Friends</name>
@@ -31213,6 +31219,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="14730" tvdbid="475980" defaulttvdbseason="1" tmdbtv="98865" tmdbseason="1">
+    <name>Mobius Dust</name>
   </anime>
   <anime anidbid="14733" tvdbid="352327" defaulttvdbseason="2" tmdbtv="89576" tmdbseason="2">
     <name>Wei, Kan Jian Er Duo La! (2019)</name>
@@ -36855,6 +36864,9 @@
   <anime anidbid="19072" tvdbid="443345" defaulttvdbseason="2" tmdbtv="241811" tmdbseason="2">
     <name>Puniru wa Kawaii Slime (2025)</name>
   </anime>
+  <anime anidbid="19073" tvdbid="movie" tmdbid="1406657" imdbid="tt35114460">
+    <name>Hateshi Naki Scarlet</name>
+  </anime>
   <anime anidbid="19075" tvdbid="446389" defaulttvdbseason="1" episodeoffset="13" tmdbtv="258579" tmdbseason="1" tmdboffset="13">
     <name>Nageki no Bourei wa Intai Shitai (2025)</name>
   </anime>
@@ -37320,6 +37332,9 @@
   <anime anidbid="19519" tvdbid="466552" defaulttvdbseason="1">
     <name>Akuyaku Reijou no Tsuihougo! Kyoukai Kaikaku Gohan de Yuuyuu Sister Kurashi</name>
   </anime>
+  <anime anidbid="19524" tvdbid="466748" defaulttvdbseason="1" tmdbid="1659389">
+    <name>One Piece Novel Heroines</name>
+  </anime>
   <anime anidbid="19526" tvdbid="467064" defaulttvdbseason="1" tmdbtv="298543" tmdbseason="1">
     <name>Dungeons &amp; Television</name>
   </anime>
@@ -37590,6 +37605,9 @@
   <anime anidbid="19798" tvdbid="472095" defaulttvdbseason="1" tmdbtv="309381" tmdbseason="1">
     <name>Ruri Dragon</name>
   </anime>
+  <anime anidbid="19807" tvdbid="movie" tmdbid="1598785" imdbid="tt39228706">
+    <name>Ginga Tokkyuu: Milky Subway Kakuekiteisha Gekijou Yuki</name>
+  </anime>
   <anime anidbid="19808" tvdbid="313488" defaulttvdbseason="6" tmdbtv="67063" tmdbseason="6">
     <name>Yi Ren Zhixia 6</name>
   </anime>
@@ -37832,5 +37850,8 @@
   </anime>
   <anime anidbid="20167" tvdbid="440897" defaulttvdbseason="2" tmdbtv="237233" tmdbseason="2">
     <name>Lv2 kara Cheat Datta Moto Yuusha Kouho no Mattari Isekai Life 2</name>
+  </anime>
+  <anime anidbid="20180" tvdbid="476227" defaulttvdbseason="1" tmdbtv="326191" tmdbseason="1">
+    <name>Migawari Reijou o Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai Deshita</name>
   </anime>
 </anime-list>
