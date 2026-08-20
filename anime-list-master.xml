@@ -16491,7 +16491,7 @@
   <anime anidbid="5818" tvdbid="77681" defaulttvdbseason="4" episodeoffset="" tmdbtv="26318" tmdbseason="4" tmdboffset="" tmdbid="" imdbid="">
     <name>Slayers Revolution</name>
   </anime>
-  <anime anidbid="5823" tvdbid="OVA" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="5823" tvdbid="OVA" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="443269" imdbid="">
     <name>Phantom Yuusha Densetsu</name>
   </anime>
   <anime anidbid="5829" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -20412,7 +20412,7 @@
   <anime anidbid="7339" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Maboroshi Mabo-chan</name>
   </anime>
-  <anime anidbid="7340" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="7340" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="391643" imdbid="tt21448334">
     <name>Boku no Son Gokuu</name>
   </anime>
   <anime anidbid="7341" tvdbid="tv special" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -26437,7 +26437,7 @@
   <anime anidbid="9453" tvdbid="102261" defaulttvdbseason="0" episodeoffset="" tmdbtv="46195" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Nekomonogatari (Kuro): Tsubasa Family</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;2-3;3-4;4-5;5-6;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-3+4+5+6;2-3;3-4;4-5;5-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9454" tvdbid="267754" defaulttvdbseason="0" episodeoffset="" tmdbtv="102500" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt2431934">
@@ -31245,7 +31245,7 @@
   <anime anidbid="11278" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="433156" imdbid="">
     <name>Utopa</name>
   </anime>
-  <anime anidbid="11279" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="11279" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="433510" imdbid="tt17518332">
     <name>Kacchikenee!</name>
   </anime>
   <anime anidbid="11281" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -33352,7 +33352,7 @@
   <anime anidbid="12054" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt5595168">
     <name>Kingsglaive: Final Fantasy XV</name>
   </anime>
-  <anime anidbid="12055" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="12055" tvdbid="web" defaulttvdbseason="" episodeoffset="" tmdbtv="241888" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Uchuu Neko: Mardock no Bouken</name>
   </anime>
   <anime anidbid="12057" tvdbid="319997" defaulttvdbseason="1" episodeoffset="" tmdbtv="69288" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -40904,7 +40904,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="14730" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="14730" tvdbid="475980" defaulttvdbseason="1" episodeoffset="" tmdbtv="98865" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Mobius Dust</name>
   </anime>
   <anime anidbid="14731" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -52938,7 +52938,7 @@
   <anime anidbid="19072" tvdbid="443345" defaulttvdbseason="2" episodeoffset="" tmdbtv="241811" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Puniru wa Kawaii Slime (2025)</name>
   </anime>
-  <anime anidbid="19073" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="19073" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="1406657" imdbid="tt35114460">
     <name>Hateshi Naki Scarlet</name>
   </anime>
   <anime anidbid="19074" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -54192,7 +54192,7 @@
   <anime anidbid="19523" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Shen Mu Di San Ji</name>
   </anime>
-  <anime anidbid="19524" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="19524" tvdbid="466748" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="1659389" imdbid="">
     <name>One Piece Novel Heroines</name>
   </anime>
   <anime anidbid="19525" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -54984,7 +54984,7 @@
   <anime anidbid="19806" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Ding Ding Zhan Hou Wang</name>
   </anime>
-  <anime anidbid="19807" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="19807" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="1598785" imdbid="tt39228706">
     <name>Ginga Tokkyuu: Milky Subway Kakuekiteisha Gekijou Yuki</name>
   </anime>
   <anime anidbid="19808" tvdbid="313488" defaulttvdbseason="6" episodeoffset="" tmdbtv="67063" tmdbseason="6" tmdboffset="" tmdbid="" imdbid="">
@@ -56013,7 +56013,7 @@
   <anime anidbid="20179" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Nananin no Nemuri Hime</name>
   </anime>
-  <anime anidbid="20180" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="20180" tvdbid="476227" defaulttvdbseason="1" episodeoffset="" tmdbtv="326191" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Migawari Reijou o Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai Deshita</name>
   </anime>
   <anime anidbid="20181" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
