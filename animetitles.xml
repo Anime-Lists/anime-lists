@@ -2475,6 +2475,7 @@
     <title type="official" xml:lang="ru">Истинная грусть</title>
     <title type="official" xml:lang="uk">Досконала Журба</title>
     <title type="official" xml:lang="zh-Hans">未麻的部屋</title>
+    <title type="official" xml:lang="zh-Hant">藍色恐懼</title>
     <title type="short" xml:lang="x-jat">pb</title>
     <title type="short" xml:lang="x-jat">perfectb</title>
     <title type="syn" xml:lang="ar">الأزرق الكامل</title>
@@ -36002,6 +36003,7 @@
     <title type="official" xml:lang="pt-BR">Paprika</title>
     <title type="official" xml:lang="ru">Паприка</title>
     <title type="official" xml:lang="th">ลบแผนจากรรมคนล่าฝัน</title>
+    <title type="official" xml:lang="zh-Hant">盜夢偵探</title>
     <title type="syn" xml:lang="ar">بابريكا</title>
     <title type="syn" xml:lang="uk">Паприка</title>
     <title type="syn" xml:lang="zh-Hans">盗梦侦探</title>
@@ -60153,6 +60155,7 @@
   </anime>
   <anime aid="8345">
     <title type="main" xml:lang="x-jat">Sono Mukou no Mukougawa</title>
+    <title type="official" xml:lang="en">The Other Side of the Other Side</title>
     <title type="official" xml:lang="ja">その向こうの向こう側</title>
   </anime>
   <anime aid="8346">
@@ -66143,6 +66146,7 @@
     <title type="official" xml:lang="pt-BR">Neste Canto do Mundo</title>
     <title type="official" xml:lang="tr">Dünyanın Bu Köşesinde</title>
     <title type="official" xml:lang="zh-Hans">在这世界的角落</title>
+    <title type="official" xml:lang="zh-Hant">謝謝你，在世界的角落找到我</title>
     <title type="short" xml:lang="x-jat">konosumi</title>
     <title type="syn" xml:lang="cs">V koutě našeho světa</title>
     <title type="syn" xml:lang="en">In a Corner of This World</title>
@@ -67570,6 +67574,7 @@
     <title type="official" xml:lang="pt-BR">O Jardim das Palavras</title>
     <title type="official" xml:lang="ru">Сад изящных слов</title>
     <title type="official" xml:lang="zh-Hans">言叶之庭</title>
+    <title type="official" xml:lang="zh-Hant">言葉之庭</title>
     <title type="short" xml:lang="x-jat">gow</title>
     <title type="syn" xml:lang="ar">حديقة الكلمات</title>
     <title type="syn" xml:lang="cs">Zahrada slov</title>
@@ -74655,6 +74660,7 @@
     <title type="official" xml:lang="ja">ヘヴィーオブジェクト</title>
     <title type="official" xml:lang="ko">헤비 오브젝트</title>
     <title type="official" xml:lang="zh-Hans">重装武器</title>
+    <title type="official" xml:lang="zh-Hant">重裝武器</title>
     <title type="syn" xml:lang="ru">Тяжёлый объект</title>
   </anime>
   <anime aid="10865">
@@ -85411,6 +85417,7 @@
     <title type="official" xml:lang="ja">夜は短し歩けよ乙女</title>
     <title type="official" xml:lang="ko">밤은 짧아 걸어 아가씨야</title>
     <title type="official" xml:lang="zh-Hans">春宵苦短,少女前进吧!</title>
+    <title type="official" xml:lang="zh-Hant">春宵苦短，少女前進吧！</title>
     <title type="short" xml:lang="x-jat">yorumi</title>
     <title type="syn" xml:lang="en">Night is Short, Walk On Girl</title>
   </anime>
@@ -108618,6 +108625,7 @@
     <title type="official" xml:lang="pl">The Quintessential Quintuplets O Filme</title>
     <title type="official" xml:lang="ru">Пять невест. Фильм</title>
     <title type="official" xml:lang="zh-Hans">电影 五等分的新娘</title>
+    <title type="official" xml:lang="zh-Hant">劇場版 五等分的新娘</title>
     <title type="short" xml:lang="en">qq s3</title>
     <title type="short" xml:lang="x-jat">tqq3</title>
     <title type="syn" xml:lang="x-jat">Gotoubun no Hanayome Movie</title>
@@ -109134,6 +109142,7 @@
   </anime>
   <anime aid="16271">
     <title type="main" xml:lang="x-jat">Gekijouban Dakaretai Otoko 1-i ni Odosarete Imasu. Spain Hen</title>
+    <title type="official" xml:lang="en">DAKAICHI -I`m being harassed by the sexiest man of the year-: Spain Arc</title>
     <title type="official" xml:lang="ja">劇場版 抱かれたい男1位に脅されています. ~スペイン編~</title>
     <title type="syn" xml:lang="en">Dakaichi: I`m Being Harassed by the Sexiest Man of the Year - the Movie in Spain</title>
   </anime>
@@ -111599,12 +111608,6 @@
     <title type="main" xml:lang="x-jat">Oni: Kamigami Yama no Onari</title>
     <title type="official" xml:lang="en">Oni: Thunder God`s Tale</title>
     <title type="official" xml:lang="ja">ONI 神々山のオナリ</title>
-  </anime>
-  <anime aid="16709">
-    <title type="main" xml:lang="x-jat">SD Gundam World Heroes: The Legend of Dragon Knight</title>
-    <title type="official" xml:lang="ja">SD GUNDAM WORLD HEROES THE LEGEND OF DRAGON KNIGHT</title>
-    <title type="syn" xml:lang="ja">SDガンダムワールド ヒーローズ THE LEGEND OF DRAGON KNIGHT</title>
-    <title type="syn" xml:lang="x-jat">Gundam: SD Gundam World Heroes: The Legend of Dragon Knight</title>
   </anime>
   <anime aid="16710">
     <title type="main" xml:lang="x-zht">Feng Shu Zhan Jing</title>
@@ -114681,6 +114684,7 @@
     <title type="official" xml:lang="ja">かがみの孤城</title>
     <title type="official" xml:lang="sv">Det ensamma slottet i spegeln</title>
     <title type="official" xml:lang="zh-Hans">镜之孤城</title>
+    <title type="official" xml:lang="zh-Hant">鏡之孤城</title>
     <title type="syn" xml:lang="en">The Solitary Castle in the Mirror</title>
   </anime>
   <anime aid="17220">
@@ -116094,6 +116098,7 @@
   </anime>
   <anime aid="17441">
     <title type="main" xml:lang="x-jat">Tokubetsu Hen Hibike! Euphonium: Ensemble Contest Hen</title>
+    <title type="official" xml:lang="en">Sound! Euphonium: Ensemble Contest</title>
     <title type="official" xml:lang="ja">特別編 響け! ユーフォニアム アンサンブルコンテスト編</title>
     <title type="official" xml:lang="zh-Hans">特别篇 吹响吧！上低音号～合奏比赛～</title>
     <title type="syn" xml:lang="en">Sound! Euphonium: Ensemble Contest Arc</title>
@@ -122946,6 +122951,7 @@
     <title type="official" xml:lang="ja">凍牌~裏レート麻雀闘牌録~</title>
     <title type="official" xml:lang="zh-Hant">凍牌~地下麻將鬥牌錄~</title>
     <title type="syn" xml:lang="en">Frozen Mahjong: Underground Mahjong Battle Record</title>
+    <title type="syn" xml:lang="x-jat">Tohai: Ura Rate Mahjong Tohai Roku</title>
     <title type="syn" xml:lang="x-jat">Touhai: Ura Route Mahjong Touhairoku</title>
   </anime>
   <anime aid="18405">
@@ -124363,6 +124369,7 @@
     <title type="main" xml:lang="x-jat">Go-Toubun no Hanayome *</title>
     <title type="official" xml:lang="ja">五等分の花嫁＊</title>
     <title type="official" xml:lang="zh-Hans">五等分的新娘＊</title>
+    <title type="official" xml:lang="zh-Hant">五等分的新娘*</title>
     <title type="syn" xml:lang="en">The Quintessential Quintuplets *</title>
   </anime>
   <anime aid="18604">
@@ -124678,6 +124685,7 @@
   </anime>
   <anime aid="18652">
     <title type="main" xml:lang="x-jat">Koukaku Kidoutai (2026)</title>
+    <title type="official" xml:lang="de">The Ghost in the Shell</title>
     <title type="official" xml:lang="fr">The Ghost in the Shell</title>
     <title type="official" xml:lang="ja">攻殻機動隊 (2026)</title>
     <title type="short" xml:lang="en">gits 2026</title>
@@ -124898,6 +124906,7 @@
   </anime>
   <anime aid="18686">
     <title type="main" xml:lang="x-jat">Gachiakuta</title>
+    <title type="official" xml:lang="de">Gachiakuta</title>
     <title type="official" xml:lang="en">Gachiakuta</title>
     <title type="official" xml:lang="ja">ガチアクタ</title>
     <title type="official" xml:lang="zh-Hans">咔嗒咔嗒</title>
@@ -126453,6 +126462,7 @@
     <title type="official" xml:lang="ja">逃げ上手の若君 (2026)</title>
     <title type="official" xml:lang="zh-Hans">擅長逃跑的殿下 第二季</title>
     <title type="short" xml:lang="x-jat">Nigewaka 2</title>
+    <title type="syn" xml:lang="en">The Elusive Samurai Season 2</title>
     <title type="syn" xml:lang="x-jat">Nige Jouzu no Wakagimi S2</title>
   </anime>
   <anime aid="18904">
@@ -126906,7 +126916,7 @@
   </anime>
   <anime aid="18975">
     <title type="main" xml:lang="x-jat">Agent Blue</title>
-    <title type="official" xml:lang="ja">Agent Blue</title>
+    <title type="official" xml:lang="ja">AGENT BLUE</title>
   </anime>
   <anime aid="18977">
     <title type="main" xml:lang="x-zht">Wu Ni</title>
@@ -127455,9 +127465,9 @@
     <title type="syn" xml:lang="en">Dan Da Dan Season 2</title>
   </anime>
   <anime aid="19061">
-    <title type="main" xml:lang="x-jat">Skip to Loafer 2</title>
-    <title type="official" xml:lang="ja">スキップとローファー 2</title>
-    <title type="syn" xml:lang="en">Skip and Loafer 2</title>
+    <title type="main" xml:lang="x-jat">Skip to Loafer 2nd Season</title>
+    <title type="official" xml:lang="ja">スキップとローファー 2nd season</title>
+    <title type="syn" xml:lang="en">Skip and Loafer 2nd Season</title>
   </anime>
   <anime aid="19062">
     <title type="main" xml:lang="x-jat">Eiga Odekake Kozame: Tokai no Otomodachi</title>
@@ -127643,6 +127653,8 @@
   <anime aid="19090">
     <title type="main" xml:lang="x-jat">Neko ni Naritai Tamagawa-kun</title>
     <title type="official" xml:lang="ja">猫になりたい田万川くん</title>
+    <title type="short" xml:lang="ja">ねこたま</title>
+    <title type="short" xml:lang="x-jat">Nekotama</title>
   </anime>
   <anime aid="19091">
     <title type="main" xml:lang="x-jat">Otsukisan Momoiro</title>
@@ -128141,6 +128153,7 @@
     <title type="official" xml:lang="en">The Cat and the Dragon</title>
     <title type="official" xml:lang="ja">猫と竜</title>
     <title type="official" xml:lang="zh-Hant">貓與龍</title>
+    <title type="syn" xml:lang="en">Cats and Dragon</title>
   </anime>
   <anime aid="19175">
     <title type="main" xml:lang="x-jat">Jiyi Guanli Ju (2026)</title>
@@ -128684,6 +128697,7 @@
     <title type="main" xml:lang="x-jat">Tamaranai no wa Koi na no ka</title>
     <title type="official" xml:lang="ja">たまらないのは恋なのか</title>
     <title type="syn" xml:lang="en">A Love Too Captivating</title>
+    <title type="syn" xml:lang="en">Is It Because of Love That I Can`t Resist?</title>
   </anime>
   <anime aid="19280">
     <title type="main" xml:lang="x-jat">Watashi no Shiawase na Kekkon (2026)</title>
@@ -129241,6 +129255,7 @@
   <anime aid="19376">
     <title type="main" xml:lang="x-jat">Love Live! Hasu no Sora Jogakuin School Idol Club: Bloom Garden Party</title>
     <title type="official" xml:lang="ja">ラブライブ! 蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party</title>
+    <title type="syn" xml:lang="en">Love Live! Hasunosora Girls` High School Idol Club: Bloom Garden Party</title>
   </anime>
   <anime aid="19377">
     <title type="main" xml:lang="x-jat">Ghost / Yoru no Hate</title>
@@ -129304,6 +129319,7 @@
     <title type="main" xml:lang="x-zht">Zhu Xian 3</title>
     <title type="official" xml:lang="zh-Hans">诛仙 第三季</title>
     <title type="syn" xml:lang="en">Jade Dynasty 3</title>
+    <title type="syn" xml:lang="en">Jade Dynasty 3rd Season</title>
     <title type="syn" xml:lang="en">Jade Dynasty Season 3</title>
     <title type="syn" xml:lang="x-zht">Zhu Xian 3rd Season</title>
     <title type="syn" xml:lang="x-zht">Zhu Xian Di San Ji</title>
@@ -131554,6 +131570,8 @@
     <title type="main" xml:lang="x-jat">Kingdom (TV)</title>
     <title type="official" xml:lang="ja">キングダム (TV)</title>
     <title type="syn" xml:lang="en">Kingdom S6 Part II</title>
+    <title type="syn" xml:lang="x-jat">Kingdom 6th season 2nd part</title>
+    <title type="syn" xml:lang="x-jat">Kingdom Season 6 Part 2</title>
   </anime>
   <anime aid="19797">
     <title type="main" xml:lang="x-zht">Shanhai Jing Mima</title>
@@ -131570,8 +131588,10 @@
   <anime aid="19799">
     <title type="main" xml:lang="x-jat">One Punch Man (2027)</title>
     <title type="official" xml:lang="ja">ONE PUNCH MAN (2027)</title>
+    <title type="short" xml:lang="x-jat">opm s3p2</title>
     <title type="syn" xml:lang="en">One Punch Man (2027)</title>
     <title type="syn" xml:lang="ja">ワンパンマン (2027)</title>
+    <title type="syn" xml:lang="x-jat">One Punch Man Season 3 Part 2</title>
   </anime>
   <anime aid="19800">
     <title type="main" xml:lang="x-jat">Junk World</title>
@@ -131967,6 +131987,7 @@
   </anime>
   <anime aid="19882">
     <title type="main" xml:lang="x-zht">Shiguang Dailiren III</title>
+    <title type="official" xml:lang="en">Link Click (2026)</title>
     <title type="official" xml:lang="zh-Hans">时光代理人III -LINK CLICK-</title>
     <title type="syn" xml:lang="en">LINK CLICK 3</title>
     <title type="syn" xml:lang="en">Link Click III Part One</title>
@@ -132075,6 +132096,7 @@
   <anime aid="19902">
     <title type="main" xml:lang="x-jat">Genshin</title>
     <title type="official" xml:lang="ja">原神</title>
+    <title type="syn" xml:lang="ja">Genshin Impact</title>
   </anime>
   <anime aid="19905">
     <title type="main" xml:lang="x-jat">Evangelion (Kanzen shinsaku series)</title>
@@ -132310,6 +132332,7 @@
     <title type="official" xml:lang="ja">僕の心のヤバイやつ (2027)</title>
     <title type="official" xml:lang="pt">Os Perigos no Meu Coração (2027)</title>
     <title type="syn" xml:lang="en">The Dangers in My Heart (2027)</title>
+    <title type="syn" xml:lang="x-jat">Boku no Kokoro no Yabai Yatsu 3</title>
   </anime>
   <anime aid="19951">
     <title type="main" xml:lang="x-jat">Battle Spirits [Re] Zekkai no Kuu</title>
@@ -132400,6 +132423,7 @@
   <anime aid="19970">
     <title type="main" xml:lang="x-jat">Hamehara</title>
     <title type="official" xml:lang="ja">ハメハラ</title>
+    <title type="syn" xml:lang="ko">하메하라</title>
   </anime>
   <anime aid="19971">
     <title type="main" xml:lang="x-jat">Paihame Kazoku</title>
@@ -132439,6 +132463,9 @@
     <title type="official" xml:lang="pt">Frieren e a Jornada para o Além (2027)</title>
     <title type="syn" xml:lang="en">Frieren 3</title>
     <title type="syn" xml:lang="en">Frieren: Beyond Journey`s End (2027)</title>
+    <title type="syn" xml:lang="ja">葬送のフリーレン 黄金郷編</title>
+    <title type="syn" xml:lang="x-jat">Sousou no Frieren: Ougonkyou Hen</title>
+    <title type="syn" xml:lang="x-jat">Sousou no Frieren: Ougonkyou-hen</title>
   </anime>
   <anime aid="19978">
     <title type="main" xml:lang="x-jat">Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru (2026)</title>
@@ -132527,6 +132554,7 @@
   <anime aid="19995">
     <title type="main" xml:lang="x-jat">Juurin Oukoku</title>
     <title type="official" xml:lang="ja">蹂躙王国</title>
+    <title type="syn" xml:lang="ko">유린왕국</title>
   </anime>
   <anime aid="19996">
     <title type="main" xml:lang="x-jat">Tensei Akujo no Kurorekishi: Bangai Hen - Yomi to Shitto to Tanjoubi / Iana to Sol Netsuppoi Ichinichi</title>
@@ -132707,6 +132735,7 @@
   <anime aid="20032">
     <title type="main" xml:lang="x-jat">Harem Shima e Youkoso!</title>
     <title type="official" xml:lang="ja">ハーレム島へようこそ!</title>
+    <title type="syn" xml:lang="ko">하렘섬에 어서오세요</title>
   </anime>
   <anime aid="20033">
     <title type="main" xml:lang="x-jat">Toshoshitsu no Kanojo: Onna Kyoushi ga Ochiru made The Animation</title>
@@ -132782,6 +132811,7 @@
     <title type="syn" xml:lang="en">Stellar Transformation Season 7</title>
     <title type="syn" xml:lang="x-zht">Xing Chen Bian 7</title>
     <title type="syn" xml:lang="x-zht">Xing Chen Bian 7th Season</title>
+    <title type="syn" xml:lang="x-zht">Xingchen Bian 7</title>
     <title type="syn" xml:lang="x-zht">Xingchen Bian 7th Season</title>
     <title type="syn" xml:lang="x-zht">Xingchen Bian: Tianzun Zhi Zhan</title>
     <title type="syn" xml:lang="zh-Hans">星辰变 最终季</title>
@@ -132807,6 +132837,7 @@
   <anime aid="20051">
     <title type="main" xml:lang="x-jat">Deco x Deco The Animation</title>
     <title type="official" xml:lang="ja">デコ×デコ THE ANIMATION</title>
+    <title type="syn" xml:lang="ko">데코x데코</title>
   </anime>
   <anime aid="20052">
     <title type="main" xml:lang="x-jat">Tensei Shitara Slime Datta Ken (2027)</title>
@@ -132901,6 +132932,7 @@
   <anime aid="20071">
     <title type="main" xml:lang="x-jat">Inaka ni wa Kore Kurai Shika Goraku ga Nai</title>
     <title type="official" xml:lang="ja">田舎にはこれくらいしか娯楽がない</title>
+    <title type="syn" xml:lang="ko">시골에는 오락이 이 정도 밖에 없다</title>
   </anime>
   <anime aid="20072">
     <title type="main" xml:lang="x-jat">Dorohedoro Season 3</title>
@@ -132956,6 +132988,7 @@
   <anime aid="20081">
     <title type="main" xml:lang="x-jat">Juuou Bushin Dandivine</title>
     <title type="official" xml:lang="ja">獣王武神ダンデヴァイン</title>
+    <title type="syn" xml:lang="x-jat">Juuou Mujin Dandivine</title>
   </anime>
   <anime aid="20082">
     <title type="main" xml:lang="x-jat">Gifted</title>
@@ -133414,6 +133447,7 @@
     <title type="main" xml:lang="x-jat">Ryuugeshou no Shinobu</title>
     <title type="official" xml:lang="ja">竜化粧の忍</title>
     <title type="syn" xml:lang="en">Jurassic Shadows</title>
+    <title type="syn" xml:lang="x-jat">Ryuugeshou no Shinobi</title>
   </anime>
   <anime aid="20172">
     <title type="main" xml:lang="x-jat">Honnouji no Hen</title>
@@ -133601,6 +133635,7 @@
     <title type="main" xml:lang="x-jat">Kusunoki-san wa Koukou Debut ni Shippai Shite Iru</title>
     <title type="official" xml:lang="ja">楠木さんは高校デビューに失敗している</title>
     <title type="syn" xml:lang="en">Kusunoki`s Flunking Her High School Glow-Up</title>
+    <title type="syn" xml:lang="x-jat">Kusunoki-san wa Koukou Debut ni Shippai Shiteiru</title>
   </anime>
   <anime aid="20209">
     <title type="main" xml:lang="x-jat">Shin no Seijo de Aru Watashi wa Tsuihou Saremashita. Dakara Kono Kuni wa Mou Owari Desu</title>
@@ -133890,6 +133925,7 @@
   </anime>
   <anime aid="20265">
     <title type="main" xml:lang="x-kot">Salangui Hachyuping: Golaeboseogui Jeonseol</title>
+    <title type="official" xml:lang="en">Teenieping: Legend of the Whale Heartstone</title>
     <title type="official" xml:lang="ko">사랑의 하츄핑: 고래보석의 전설</title>
   </anime>
   <anime aid="20266">
@@ -133899,5 +133935,94 @@
     <title type="syn" xml:lang="en">Transcending time and space to become an immortal emperor, the system is 80,000 years late</title>
     <title type="syn" xml:lang="x-zht">Chuanyue Shikong Cheng Xian Di, Xitong Chidao Ba Wan Nian</title>
   </anime>
+  <anime aid="20267">
+    <title type="main" xml:lang="x-kot">Butagini Jugeojura</title>
+    <title type="official" xml:lang="ko">부탁이니 죽어주라</title>
+  </anime>
+  <anime aid="20268">
+    <title type="main" xml:lang="x-zht">Bawang Long Lei Qi: Lei Qi Zhi Duoshao</title>
+    <title type="official" xml:lang="zh-Hans">霸王龙雷奇之雷奇知多少</title>
+    <title type="syn" xml:lang="en">Tyrannosaurus Rex Ricky 3</title>
+    <title type="syn" xml:lang="x-zht">Bawang Long Lei Qi 3</title>
+    <title type="syn" xml:lang="zh-Hans">霸王龙雷奇第三季</title>
+  </anime>
+  <anime aid="20269">
+    <title type="main" xml:lang="x-zht">Bawang Long Lei Qi 2</title>
+    <title type="official" xml:lang="zh-Hans">霸王龙雷奇 第二季</title>
+  </anime>
+  <anime aid="20270">
+    <title type="main" xml:lang="x-zht">Bawang Long Lei Qi</title>
+    <title type="official" xml:lang="zh-Hans">霸王龙雷奇</title>
+  </anime>
+  <anime aid="20271">
+    <title type="main" xml:lang="x-zht">Caishen Dou Zhanlong</title>
+    <title type="official" xml:lang="en">Golden Curse</title>
+    <title type="official" xml:lang="zh-Hans">财神窦占龙</title>
+    <title type="syn" xml:lang="en">God of Wealth Dou Zhanlong</title>
+  </anime>
+  <anime aid="20272">
+    <title type="main" xml:lang="x-zht">Shiguang Zhaoxiang Guan de Richang</title>
+    <title type="official" xml:lang="zh-Hans">时光照相馆的日常</title>
+    <title type="syn" xml:lang="en">Mini Link Click</title>
+    <title type="syn" xml:lang="en">The Daily Life at Time Photo Studio</title>
+    <title type="syn" xml:lang="en">The Daily Life in Lightime Short</title>
+  </anime>
+  <anime aid="20273">
+    <title type="main" xml:lang="x-zht">Shiguang Xiao Juchang</title>
+    <title type="official" xml:lang="zh-Hans">时光小剧场</title>
+    <title type="syn" xml:lang="en">Mini Link Click S2</title>
+  </anime>
+  <anime aid="20274">
+    <title type="main" xml:lang="x-jat">Bousei no Volicia</title>
+    <title type="official" xml:lang="ja">忘星のヴァリシア</title>
+  </anime>
+  <anime aid="20275">
+    <title type="main" xml:lang="x-jat">Oshiri Tantei (2024)</title>
+    <title type="official" xml:lang="ja">おしりたんてい (2024)</title>
+  </anime>
+  <anime aid="20276">
+    <title type="main" xml:lang="x-jat">Oshiri Tantei (2025)</title>
+    <title type="official" xml:lang="ja">おしりたんてい (2025)</title>
+  </anime>
+  <anime aid="20277">
+    <title type="main" xml:lang="x-kot">Bol-cheu-wa Beul-lib: Dalnala Ligeuui Jeontu</title>
+    <title type="official" xml:lang="ko">볼츠와 블립: 달나라 리그의 전투</title>
+  </anime>
+  <anime aid="20278">
+    <title type="main" xml:lang="x-jat">Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai (2026)</title>
+    <title type="official" xml:lang="en">Fate/Grand Order: You`ve Lost Ritsuka Fujimaru (2026)</title>
+    <title type="official" xml:lang="ja">Fate/Grand Order 藤丸立香はわからない (2026)</title>
+  </anime>
+  <anime aid="20279">
+    <title type="main" xml:lang="x-zht">Xiang Huo Er Sheng</title>
+    <title type="official" xml:lang="en">Rising in The Fire</title>
+    <title type="official" xml:lang="zh">向火而生</title>
+  </anime>
+  <anime aid="20280">
+    <title type="main" xml:lang="x-zht">Wo shi xue xiao wei yi de ren lei</title>
+    <title type="official" xml:lang="en">I Am the Only Human in School</title>
+    <title type="official" xml:lang="zh-Hant">我是學校唯一的人類</title>
+  </anime>
+  <anime aid="20281">
+    <title type="main" xml:lang="x-kot">Bolts-wa Blip</title>
+    <title type="official" xml:lang="ko">Bolts &amp; Blip</title>
+  </anime>
+  <anime aid="20282">
+    <title type="main" xml:lang="x-zht">Zhu Xian: Zuizhong Ji</title>
+    <title type="official" xml:lang="zh-Hans">诛仙 最终季</title>
+  </anime>
+  <anime aid="20284">
+    <title type="main" xml:lang="x-jat">Maiden Blood</title>
+    <title type="official" xml:lang="ja">Maiden Blood</title>
+    <title type="syn" xml:lang="ja">メイデンブラッド</title>
+  </anime>
+  <anime aid="20285">
+    <title type="main" xml:lang="x-jat">Angry Rabbit</title>
+    <title type="official" xml:lang="ja">ANGRY RABBIT</title>
+  </anime>
+  <anime aid="20286">
+    <title type="main" xml:lang="x-jat">Super Ninja Neko</title>
+    <title type="official" xml:lang="ja">SUPER NINJA NEKO</title>
+  </anime>
 </animetitles>
-<!-- Created: Sat Aug 15 03:00:07 2026 (16865 anime, 100169 titles) -->
+<!-- Created: Sat Aug 22 03:00:07 2026 (16883 anime, 100258 titles) -->
