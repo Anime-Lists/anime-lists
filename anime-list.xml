@@ -37848,10 +37848,19 @@
   <anime anidbid="20136" tvdbid="380654" defaulttvdbseason="6" tmdbtv="96316" tmdbseason="1" tmdboffset="60">
     <name>Kanojo, Okarishimasu 6</name>
   </anime>
+  <anime anidbid="20145" tvdbid="418666" defaulttvdbseason="2" tmdbtv="196950" tmdbseason="2">
+    <name>Tongari Boushi no Atelier 2</name>
+  </anime>
   <anime anidbid="20167" tvdbid="440897" defaulttvdbseason="2" tmdbtv="237233" tmdbseason="2">
     <name>Lv2 kara Cheat Datta Moto Yuusha Kouho no Mattari Isekai Life 2</name>
   </anime>
+  <anime anidbid="20168" tvdbid="459627" defaulttvdbseason="2" tmdbtv="283428" tmdbseason="2">
+    <name>Koori no Jouheki (2026)</name>
+  </anime>
   <anime anidbid="20180" tvdbid="476227" defaulttvdbseason="1" tmdbtv="326191" tmdbseason="1">
     <name>Migawari Reijou o Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai Deshita</name>
+  </anime>
+  <anime anidbid="20203" tvdbid="480480" defaulttvdbseason="1" tmdbtv="329161" tmdbseason="1">
+    <name>Yurayura Q</name>
   </anime>
 </anime-list>
