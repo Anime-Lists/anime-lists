@@ -231,7 +231,7 @@
   <anime anidbid="45" tvdbid="82699" defaulttvdbseason="1" episodeoffset="" tmdbtv="22831" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Gun Smith Cats</name>
   </anime>
-  <anime anidbid="46" tvdbid="82024" defaulttvdbseason="1" episodeoffset="" tmdbtv="28223" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="tt0299357">
+  <anime anidbid="46" tvdbid="82024" defaulttvdbseason="1" episodeoffset="" tmdbtv="28223" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>NieA Under 7</name>
   </anime>
   <anime anidbid="47" tvdbid="78953" defaulttvdbseason="1" episodeoffset="" tmdbtv="42676" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -547,7 +547,7 @@
       <studio>OLM</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="99" tvdbid="78814" defaulttvdbseason="1" episodeoffset="" tmdbtv="1087" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="tt0500092">
+  <anime anidbid="99" tvdbid="78814" defaulttvdbseason="1" episodeoffset="" tmdbtv="1087" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Serial Experiments Lain</name>
   </anime>
   <anime anidbid="100" tvdbid="79566" defaulttvdbseason="1" episodeoffset="" tmdbtv="34740" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -945,7 +945,7 @@
       <studio>Sunrise</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="193" tvdbid="76932" defaulttvdbseason="2" episodeoffset="" tmdbtv="57706" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="tt0096686">
+  <anime anidbid="193" tvdbid="76932" defaulttvdbseason="2" episodeoffset="" tmdbtv="57706" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Ranma 1/2 Nettou Hen</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
@@ -1340,7 +1340,7 @@
   <anime anidbid="270" tvdbid="80211" defaulttvdbseason="1" episodeoffset="" tmdbtv="8654" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>The SoulTaker</name>
   </anime>
-  <anime anidbid="271" tvdbid="79105" defaulttvdbseason="1" episodeoffset="" tmdbtv="34164" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="tt0380113">
+  <anime anidbid="271" tvdbid="79105" defaulttvdbseason="1" episodeoffset="" tmdbtv="34164" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Haibane Renmei</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;101-1;</mapping>
@@ -2883,7 +2883,7 @@
   <anime anidbid="672" tvdbid="266828" defaulttvdbseason="1" episodeoffset="" tmdbtv="44764" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>D4 Princess</name>
   </anime>
-  <anime anidbid="673" tvdbid="74493" defaulttvdbseason="1" episodeoffset="" tmdbtv="8838" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="tt0409630">
+  <anime anidbid="673" tvdbid="74493" defaulttvdbseason="1" episodeoffset="" tmdbtv="8838" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Texhnolyze</name>
   </anime>
   <anime anidbid="674" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -4831,7 +4831,7 @@
   <anime anidbid="1264" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt0469168">
     <name>Bulg-eunmae</name>
   </anime>
-  <anime anidbid="1265" tvdbid="75092" defaulttvdbseason="1" episodeoffset="" tmdbtv="9343" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="tt0433722">
+  <anime anidbid="1265" tvdbid="75092" defaulttvdbseason="1" episodeoffset="" tmdbtv="9343" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Mousou Dairinin</name>
   </anime>
   <anime anidbid="1266" tvdbid="83628" defaulttvdbseason="1" episodeoffset="" tmdbtv="73501" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -20649,7 +20649,7 @@
   <anime anidbid="7431" tvdbid="231961" defaulttvdbseason="0" episodeoffset="" tmdbtv="74411" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Henzemi</name>
   </anime>
-  <anime anidbid="7432" tvdbid="249827" defaulttvdbseason="0" episodeoffset="" tmdbtv="46671" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt2069441">
+  <anime anidbid="7432" tvdbid="249827" defaulttvdbseason="0" episodeoffset="" tmdbtv="46671" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Mirai Nikki</name>
   </anime>
   <anime anidbid="7433" tvdbid="461375" defaulttvdbseason="1" episodeoffset="" tmdbtv="285901" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -38099,7 +38099,7 @@
   <anime anidbid="13759" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Devilman Memorial</name>
   </anime>
-  <anime anidbid="13760" tvdbid="351319" defaulttvdbseason="1" episodeoffset="" tmdbtv="82905" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="tt9238088">
+  <anime anidbid="13760" tvdbid="351319" defaulttvdbseason="1" episodeoffset="" tmdbtv="82905" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Release the Spyce</name>
   </anime>
   <anime anidbid="13761" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -38923,7 +38923,7 @@
   <anime anidbid="14050" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Wu Geng Ji</name>
   </anime>
-  <anime anidbid="14051" tvdbid="348002" defaulttvdbseason="1" episodeoffset="" tmdbtv="83097" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="tt8788458">
+  <anime anidbid="14051" tvdbid="348002" defaulttvdbseason="1" episodeoffset="" tmdbtv="83097" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Yakusoku no Neverland</name>
   </anime>
   <anime anidbid="14052" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -43764,7 +43764,7 @@
   <anime anidbid="15771" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Wo Wei Ge Kuang: Xuanlu Chongqi</name>
   </anime>
-  <anime anidbid="15772" tvdbid="390028" defaulttvdbseason="1" episodeoffset="" tmdbtv="111255" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="tt13248076">
+  <anime anidbid="15772" tvdbid="390028" defaulttvdbseason="1" episodeoffset="" tmdbtv="111255" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Wonder Egg Priority</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="1">;1-13;</mapping>
@@ -50579,7 +50579,7 @@
   <anime anidbid="18238" tvdbid="440820" defaulttvdbseason="1" episodeoffset="" tmdbtv="236994" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Dragon Ball Daima</name>
   </anime>
-  <anime anidbid="18239" tvdbid="75941" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt0480489">
+  <anime anidbid="18239" tvdbid="75941" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer</name>
   </anime>
   <anime anidbid="18240" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
