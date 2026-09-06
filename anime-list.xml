@@ -774,7 +774,7 @@
   <anime anidbid="153" tvdbid="78923" defaulttvdbseason="1" tmdbtv="9103" tmdbseason="1">
     <name>Kimagure Orange Road</name>
   </anime>
-  <anime anidbid="154" tvdbid="movie" imdbid="tt0156887">
+  <anime anidbid="154" tvdbid="movie" tmdbid="10494" imdbid="tt0156887">
     <name>Perfect Blue</name>
   </anime>
   <anime anidbid="155" tvdbid="77681" defaulttvdbseason="0" episodeoffset="2" tmdbtv="26318" tmdbseason="0" tmdboffset="2">
@@ -1537,7 +1537,7 @@
   <anime anidbid="317" tvdbid="79050" defaulttvdbseason="2" tmdbtv="34812" tmdbseason="2">
     <name>Jungle wa Itsumo Hare Nochi Guu Deluxe</name>
   </anime>
-  <anime anidbid="318" tvdbid="movie" imdbid="tt0208502">
+  <anime anidbid="318" tvdbid="movie" tmdbid="15916" imdbid="tt0208502">
     <name>Tenshi no Tamago</name>
   </anime>
   <anime anidbid="320" tvdbid="71863" defaulttvdbseason="0" episodeoffset="3" tmdbtv="31572" tmdbseason="0" imdbid="tt0079833">
@@ -11454,7 +11454,7 @@
   <anime anidbid="4188" tvdbid="movie">
     <name>Tetsuro no Kanata</name>
   </anime>
-  <anime anidbid="4191" tvdbid="movie" imdbid="tt0851578">
+  <anime anidbid="4191" tvdbid="movie" tmdbid="4977" imdbid="tt0851578">
     <name>Paprika</name>
   </anime>
   <anime anidbid="4192" tvdbid="hentai">
@@ -35761,6 +35761,9 @@
   </anime>
   <anime anidbid="18238" tvdbid="440820" defaulttvdbseason="1" tmdbtv="236994" tmdbseason="1">
     <name>Dragon Ball Daima</name>
+  </anime>
+  <anime anidbid="18239" tvdbid="75941" defaulttvdbseason="0" tmdbtv="42671" tmdbseason="0">
+    <name>Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer</name>
   </anime>
   <anime anidbid="18241" tvdbid="423653" defaulttvdbseason="0" tmdbtv="208493" tmdbseason="0">
     <name>Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta (2026)</name>
