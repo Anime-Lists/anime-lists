@@ -1728,6 +1728,7 @@
     <title type="official" xml:lang="th">การ์ดแคปเตอร์ ซากุระ</title>
     <title type="official" xml:lang="vi">Thủ lĩnh thẻ bài</title>
     <title type="official" xml:lang="zh-Hans">百变小樱</title>
+    <title type="official" xml:lang="zh-Hant">庫洛魔法使</title>
     <title type="short" xml:lang="x-jat">CCS</title>
     <title type="short" xml:lang="x-jat">CCS TV</title>
     <title type="short" xml:lang="x-jat">CCSakura</title>
@@ -2115,6 +2116,7 @@
     <title type="official" xml:lang="pt">As Guerreiras Mágicas de Rayearth</title>
     <title type="official" xml:lang="pt-BR">Guerreiras Mágicas de Rayearth</title>
     <title type="official" xml:lang="th">เมจิคไนท์ เรย์เอิร์ธ</title>
+    <title type="official" xml:lang="zh-Hant">魔法騎士雷阿斯</title>
     <title type="short" xml:lang="x-jat">MKR</title>
     <title type="short" xml:lang="x-jat">MKRE</title>
     <title type="short" xml:lang="x-jat">MKRTV</title>
@@ -4057,6 +4059,7 @@
     <title type="syn" xml:lang="ru">Утэна: Апокалипсис юности</title>
     <title type="syn" xml:lang="ru">Юная революционерка Утэна: Конец Света юности</title>
     <title type="syn" xml:lang="uk">Революційна дівчина Утена: Апокаліпсис юності</title>
+    <title type="syn" xml:lang="zh-Hant">少女革命～思春期默示錄</title>
   </anime>
   <anime aid="258">
     <title type="main" xml:lang="x-jat">Nurse Witch Komugi-chan Magikarte</title>
@@ -4733,6 +4736,7 @@
     <title type="official" xml:lang="pl">Detektyw Conan: Architekt Zniszczenia</title>
     <title type="official" xml:lang="th">ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 1 ตอน คดีปริศนาระเบิดฟ้า</title>
     <title type="official" xml:lang="zh-Hans">名侦探柯南 计时引爆摩天楼</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：引爆摩天樓</title>
     <title type="syn" xml:lang="bg">Детектив Конан: Временно на върха</title>
     <title type="syn" xml:lang="en">Detective Conan: Movie 1</title>
     <title type="syn" xml:lang="en">Detective Conan: Movie 1: The Timed Skyscraper</title>
@@ -5577,6 +5581,7 @@
     <title type="official" xml:lang="ja">神風怪盗ジャンヌ</title>
     <title type="official" xml:lang="zh">神风怪盗贞德</title>
     <title type="official" xml:lang="zh-Hans">神风怪盗贞德</title>
+    <title type="official" xml:lang="zh-Hant">神風怪盜貞德</title>
     <title type="short" xml:lang="x-jat">KKJ</title>
     <title type="syn" xml:lang="de">Kamikaze Kaitou Jeanne</title>
     <title type="syn" xml:lang="en">Divine Wind Thief Jeanne</title>
@@ -8282,6 +8287,7 @@
     <title type="official" xml:lang="ru">Изгнанник</title>
     <title type="official" xml:lang="sv">Last Exile</title>
     <title type="official" xml:lang="zh-Hans">最终流放</title>
+    <title type="official" xml:lang="zh-Hant">最後流亡</title>
     <title type="short" xml:lang="x-jat">le</title>
     <title type="syn" xml:lang="bg">Последният изгнанник</title>
     <title type="syn" xml:lang="es">Último Exilio</title>
@@ -11256,6 +11262,7 @@
     <title type="official" xml:lang="ja">名探偵コナン ベイカー街[ストリート]の亡霊</title>
     <title type="official" xml:lang="ko">명탐정 코난: 베이커가의 망령</title>
     <title type="official" xml:lang="th">ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 6 ตอน ปริศนาบนถนนสายมรณะ</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：貝克街的亡靈</title>
     <title type="short" xml:lang="x-jat">CM6</title>
     <title type="syn" xml:lang="bg">Детектив Конан: Фантомът от улица Бейкър</title>
     <title type="syn" xml:lang="en">Detective Conan: Movie 6</title>
@@ -13510,6 +13517,7 @@
     <title type="official" xml:lang="ko">명탐정 코난: 천국으로의 카운트다운</title>
     <title type="official" xml:lang="th">ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 5 ตอน คดีปริศนาเส้นตายสู่สวรรค์</title>
     <title type="official" xml:lang="zh-Hans">名侦探柯南 通往天国的倒数计时</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：往天國的倒數計時</title>
     <title type="syn" xml:lang="ar">المحقق كونان: العد التنازلي إلى الجنة</title>
     <title type="syn" xml:lang="bg">Детектив Конан: Отброяване в Небесата</title>
     <title type="syn" xml:lang="en">Detective Conan: Movie 5</title>
@@ -17168,6 +17176,7 @@
   <anime aid="1472">
     <title type="main" xml:lang="x-jat">Genma Taisen</title>
     <title type="official" xml:lang="en">Harmagedon</title>
+    <title type="official" xml:lang="es">Harmagedon</title>
     <title type="official" xml:lang="fr">Harmagedon</title>
     <title type="official" xml:lang="ja">幻魔大戦</title>
     <title type="official" xml:lang="ru">Хармагеддон</title>
@@ -22093,6 +22102,7 @@
     <title type="official" xml:lang="ja">名探偵コナン 迷宮の十字路(クロスロード)</title>
     <title type="official" xml:lang="th">ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 7 ตอน คดีฆาตกรรมแห่งเมืองปริศนา</title>
     <title type="official" xml:lang="zh-Hans">名侦探柯南 迷宫的十字路口</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：迷宮的十字路</title>
     <title type="short" xml:lang="en">Detective Conan: Movie 7</title>
     <title type="syn" xml:lang="ar">المحقق كونان: تقاطع شوارع العاصمة القديمة</title>
     <title type="syn" xml:lang="bg">Детектив Конан: Кръстопътят в древната столица</title>
@@ -22810,6 +22820,7 @@
     <title type="official" xml:lang="ko">신무월의 무녀</title>
     <title type="official" xml:lang="pl">Kapłanki przeklętych dni</title>
     <title type="official" xml:lang="th">มิโกะ คนทรงหุ่นเทวะ</title>
+    <title type="official" xml:lang="zh-Hant">神無月巫女</title>
     <title type="short" xml:lang="x-jat">kannamiko</title>
     <title type="short" xml:lang="x-jat">kannazuki</title>
     <title type="short" xml:lang="x-jat">knm</title>
@@ -24562,6 +24573,7 @@
     <title type="official" xml:lang="it">Detective Conan - Il mago del cielo d`argento</title>
     <title type="official" xml:lang="ja">名探偵コナン 銀翼の奇術師[マジシャン]</title>
     <title type="official" xml:lang="th">ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 8 ตอน มนตราแห่งรัตติกาลสีเงิน</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：銀翼的奇術師</title>
     <title type="short" xml:lang="en">Detective Conan: Movie 8</title>
     <title type="syn" xml:lang="ar">المحقق كونان: ساحر السماء الفضية</title>
     <title type="syn" xml:lang="bg">Детектив Конан: Магьосникът и Сребърното Небе</title>
@@ -26871,6 +26883,7 @@
     <title type="official" xml:lang="ja">名探偵コナン 14番目の標的(ターゲット)</title>
     <title type="official" xml:lang="th">ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 2 ตอน คดีฆาตกรรมไพ่ปริศนา</title>
     <title type="official" xml:lang="zh-Hans">名侦探柯南 第14号目标</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：第14號獵物</title>
     <title type="syn" xml:lang="bg">Детектив Конан: Четиринадесетият</title>
     <title type="syn" xml:lang="en">Detective Conan: Movie 2</title>
     <title type="syn" xml:lang="en">Detective Conan: Movie 2 - The Fourteenth Target</title>
@@ -26891,6 +26904,7 @@
     <title type="official" xml:lang="ja">名探偵コナン 世紀末の魔術師</title>
     <title type="official" xml:lang="th">ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 3 ตอน ปริศนาพ่อมดคนสุดท้ายแห่งศตวรรษ</title>
     <title type="official" xml:lang="zh-Hans">名侦探柯南 世纪末的魔术师</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：世紀末的魔術師</title>
     <title type="syn" xml:lang="bg">Детектив Конан: Последният магьосник на века</title>
     <title type="syn" xml:lang="en">Case Closed: The Last Magician of the Century</title>
     <title type="syn" xml:lang="en">Detective Conan: Movie 3</title>
@@ -26909,6 +26923,7 @@
     <title type="official" xml:lang="ja">名探偵コナン 瞳の中の暗殺者</title>
     <title type="official" xml:lang="th">ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 4 ตอน ดดีฆาตกรรมนัยน์ตามรณะ</title>
     <title type="official" xml:lang="zh-Hans">名侦探柯南 瞳孔中的暗杀者</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：瞳孔中的暗殺者</title>
     <title type="syn" xml:lang="ar">المحقق كونان: أسير عيناها</title>
     <title type="syn" xml:lang="bg">Детектив Конан: Заловен в очите й</title>
     <title type="syn" xml:lang="en">Detective Conan: Movie 4</title>
@@ -27225,6 +27240,7 @@
     <title type="official" xml:lang="ja">英國戀物語エマ</title>
     <title type="official" xml:lang="pt">Emma: Romance Victoriano</title>
     <title type="official" xml:lang="zh-Hans">英国恋物语艾玛</title>
+    <title type="official" xml:lang="zh-Hant">英國戀物語 艾瑪</title>
     <title type="short" xml:lang="x-jat">Emma</title>
     <title type="short" xml:lang="x-jat">emma 1</title>
     <title type="short" xml:lang="x-jat">emma1</title>
@@ -27834,6 +27850,7 @@
     <title type="official" xml:lang="fr">Détective Conan : Stratégie en profondeur</title>
     <title type="official" xml:lang="ja">名探偵コナン 水平線上の陰謀</title>
     <title type="official" xml:lang="th">ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 9 ตอน ยุทธการเหนือห้วงทะเลลึก</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：水平線上的陰謀</title>
     <title type="short" xml:lang="en">Detective Conan: Movie 9</title>
     <title type="syn" xml:lang="bg">Детектив Конан: Стратегия над вълните</title>
     <title type="syn" xml:lang="en">Detective Conan: Movie 9 - Strategy Above the Depths</title>
@@ -33011,6 +33028,7 @@
     <title type="official" xml:lang="en">Looking up at the Half-Moon</title>
     <title type="official" xml:lang="ja">半分の月がのぼる空</title>
     <title type="official" xml:lang="th">ใต้ฟ้าจันทร์ครึ่งดวง</title>
+    <title type="official" xml:lang="zh-Hant">仰望半月的夜空</title>
     <title type="short" xml:lang="x-jat">hntgns</title>
     <title type="syn" xml:lang="bg">Поглед към Полумесеца</title>
     <title type="syn" xml:lang="ko">반쪽 달이 떠오르는 하늘</title>
@@ -35960,6 +35978,7 @@
     <title type="official" xml:lang="it">Detective Conan: Requiem Per Un Detective</title>
     <title type="official" xml:lang="ja">名探偵コナン 探偵たちの鎮魂歌[レクイエム]</title>
     <title type="official" xml:lang="th">ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 10 ตอน บทเพลงมรณะแด่เหล่านักสืบ</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：偵探們的鎮魂歌</title>
     <title type="short" xml:lang="en">Case Closed: Movie 10</title>
     <title type="short" xml:lang="en">Detective Conan: Movie 10</title>
     <title type="syn" xml:lang="bg">Детектив Конан: Реквиемът на Детективите</title>
@@ -38590,6 +38609,7 @@
     <title type="official" xml:lang="ru">Гуррен-Лаганн</title>
     <title type="official" xml:lang="th">อภินิหารหุ่นทะลวงสวรรค์ กุเร็นลากันน์</title>
     <title type="official" xml:lang="zh-Hans">天元突破 红莲螺岩</title>
+    <title type="official" xml:lang="zh-Hant">天元突破 紅蓮螺巖</title>
     <title type="short" xml:lang="ru">ТТГЛ</title>
     <title type="short" xml:lang="x-jat">Gurren</title>
     <title type="short" xml:lang="x-jat">Gurren Lagann</title>
@@ -41015,6 +41035,7 @@
     <title type="official" xml:lang="ja">名探偵コナン 紺碧の棺[ジョリー・ロジャー]</title>
     <title type="official" xml:lang="th">ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 11 ตอน ปริศนามหาขุมทรัพย์โจรสลัด</title>
     <title type="official" xml:lang="zh-Hans">名侦探柯南 绀碧之棺</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：紺碧之棺</title>
     <title type="syn" xml:lang="bg">Детектив Конан: Джоли Роджър в лазурните дълбини</title>
     <title type="syn" xml:lang="en">Detective Conan: Jolly Roger in the Deep Azure</title>
     <title type="syn" xml:lang="en">Detective Conan: Movie 11</title>
@@ -44815,6 +44836,7 @@
     <title type="official" xml:lang="ja">To LOVEる -とらぶる-</title>
     <title type="official" xml:lang="ko">To LOVE루 -트러블-</title>
     <title type="official" xml:lang="zh-Hans">出包王女ㅤ</title>
+    <title type="official" xml:lang="zh-Hant">出包王女</title>
     <title type="short" xml:lang="en">tlr</title>
     <title type="syn" xml:lang="ja">To-Love-Ru</title>
     <title type="syn" xml:lang="ja">とらぶる</title>
@@ -45514,6 +45536,7 @@
     <title type="syn" xml:lang="bg">Гуррен Лаганн: Арката Гуррен</title>
     <title type="syn" xml:lang="en">Gurren-Lagann Movie: Gurren Arc</title>
     <title type="syn" xml:lang="ko">극장판 천원돌파 그렌라간: 홍련편</title>
+    <title type="syn" xml:lang="zh-Hant">劇場版 天元突破 紅蓮螺巖 紅蓮篇</title>
   </anime>
   <anime aid="5786">
     <title type="main" xml:lang="x-jat">Sekirei</title>
@@ -46251,6 +46274,7 @@
     <title type="official" xml:lang="ja">名探偵コナン 戦慄の楽譜 [フルスコア]</title>
     <title type="official" xml:lang="th">ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 12 ตอน บทบรรเลงแห่งความตาย</title>
     <title type="official" xml:lang="zh-Hans">名侦探柯南 战栗的乐谱</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：戰慄的樂譜</title>
     <title type="syn" xml:lang="bg">Детектив Конан: Истински страх</title>
     <title type="syn" xml:lang="en">Detective Conan: Full Score of Fear</title>
     <title type="syn" xml:lang="en">Detective Conan: Movie 12</title>
@@ -46980,6 +47004,7 @@
     <title type="official" xml:lang="fr">Queen`s Blade S1</title>
     <title type="official" xml:lang="ja">クイーンズブレイド 流浪の戦士</title>
     <title type="official" xml:lang="zh-Hans">女王之刃 流浪战士</title>
+    <title type="official" xml:lang="zh-Hant">女王之刃 流浪戰士</title>
     <title type="short" xml:lang="x-jat">qb</title>
     <title type="short" xml:lang="x-jat">QB: RnS</title>
     <title type="syn" xml:lang="en">Queen`s Blade: Wandering Warrior</title>
@@ -47988,6 +48013,7 @@
     <title type="official" xml:lang="fr">Détective Conan : Le chasseur noir de jais</title>
     <title type="official" xml:lang="it">Detective Conan: ...E Le Stelle Stanno A Guardare</title>
     <title type="official" xml:lang="ja">名探偵コナン 漆黒の追跡者(チェイサー)</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：漆黑的追跡者</title>
     <title type="syn" xml:lang="ar">المحقق كونان: مطارد الغراب</title>
     <title type="syn" xml:lang="bg">Детектив Конан: Гарван преследвач</title>
     <title type="syn" xml:lang="en">Case Closed: The Raven Chaser</title>
@@ -48148,6 +48174,7 @@
     <title type="syn" xml:lang="pl">Zepsuta Pozytywka</title>
     <title type="syn" xml:lang="ru">Полусломанная музыкальная шкатулка</title>
     <title type="syn" xml:lang="x-jat">Kowarekake no Orgol</title>
+    <title type="syn" xml:lang="zh-Hant">即將凋逝的音樂盒</title>
   </anime>
   <anime aid="6272">
     <title type="main" xml:lang="x-jat">Zettai Yareru Grecia Shinwa</title>
@@ -48463,6 +48490,7 @@
     <title type="syn" xml:lang="bg">Гуррен Лаганн: Арката Лаганн</title>
     <title type="syn" xml:lang="en">Gurren-Lagann Movie: Lagann Arc</title>
     <title type="syn" xml:lang="ko">극장판 천원돌파 그렌라간: 나암편</title>
+    <title type="syn" xml:lang="zh-Hant">劇場版 天元突破 紅蓮螺巖 螺巖篇</title>
   </anime>
   <anime aid="6327">
     <title type="main" xml:lang="x-jat">Bakemonogatari</title>
@@ -49695,6 +49723,7 @@
     <title type="official" xml:lang="ar">قرار مجلس الطلبة</title>
     <title type="official" xml:lang="en">Student Council`s Discretion</title>
     <title type="official" xml:lang="ja">生徒会の一存</title>
+    <title type="official" xml:lang="zh-Hant">學生會的一存 碧陽學園學生會議事錄</title>
     <title type="short" xml:lang="x-jat">Seitokai</title>
     <title type="short" xml:lang="x-jat">seizon</title>
     <title type="short" xml:lang="x-jat">SnI</title>
@@ -50293,6 +50322,7 @@
     <title type="official" xml:lang="fr">Queen`s Blade S2</title>
     <title type="official" xml:lang="ja">クイーンズブレイド 玉座を継ぐ者</title>
     <title type="official" xml:lang="zh-Hans">女王之刃 王位继承者</title>
+    <title type="official" xml:lang="zh-Hant">女王之刃 王位繼承者</title>
     <title type="short" xml:lang="x-jat">qb s2</title>
     <title type="short" xml:lang="x-jat">QB: GoTM</title>
     <title type="short" xml:lang="x-jat">qb2</title>
@@ -50329,6 +50359,7 @@
     <title type="official" xml:lang="en">Heaven`s Lost Property</title>
     <title type="official" xml:lang="ja">そらのおとしもの</title>
     <title type="official" xml:lang="zh-Hans">天降之物</title>
+    <title type="official" xml:lang="zh-Hant">天降之物</title>
     <title type="short" xml:lang="x-jat">SoraOto</title>
     <title type="syn" xml:lang="en">Lost Property of the Sky</title>
     <title type="syn" xml:lang="ko">하늘의 유실물</title>
@@ -50346,6 +50377,7 @@
     <title type="official" xml:lang="pt">Fairy Tail</title>
     <title type="official" xml:lang="pt-BR">Fairy Tail</title>
     <title type="official" xml:lang="ru">Сказка о хвосте феи</title>
+    <title type="official" xml:lang="zh-Hant">FAIRY TAIL 魔導少年</title>
     <title type="short" xml:lang="x-jat">FT</title>
     <title type="syn" xml:lang="ar">فيري تيل</title>
     <title type="syn" xml:lang="bg">Приказна история</title>
@@ -51013,6 +51045,7 @@
     <title type="official" xml:lang="en">Wagnaria!!</title>
     <title type="official" xml:lang="ja">WORKING!!</title>
     <title type="official" xml:lang="zh-Hans">迷糊餐厅 WORKING!!</title>
+    <title type="official" xml:lang="zh-Hant">WORKING!!迷糊餐廳</title>
     <title type="syn" xml:lang="bg">Работа`!!</title>
     <title type="syn" xml:lang="ro">Muncind</title>
     <title type="syn" xml:lang="ru">Работаю!!</title>
@@ -51306,6 +51339,7 @@
     <title type="main" xml:lang="x-jat">Seikon no Qwaser</title>
     <title type="official" xml:lang="en">The Qwaser of Stigmata</title>
     <title type="official" xml:lang="ja">聖痕のクェイサー</title>
+    <title type="official" xml:lang="zh-Hant">聖痕鍊金士</title>
     <title type="short" xml:lang="x-jat">Qwaser</title>
     <title type="short" xml:lang="x-jat">SnQ</title>
     <title type="syn" xml:lang="ko">성흔의 퀘이사</title>
@@ -53560,6 +53594,7 @@
     <title type="syn" xml:lang="ru">Сказ о четырёх с половиной татами</title>
     <title type="syn" xml:lang="x-jat">Yojou-Han Shinwa Taikei</title>
     <title type="syn" xml:lang="zh-Hans">四叠半神话大系</title>
+    <title type="syn" xml:lang="zh-Hant">四疊半宿舍，青春迷走</title>
   </anime>
   <anime aid="7244">
     <title type="main" xml:lang="x-jat">Planzet</title>
@@ -53617,6 +53652,7 @@
     <title type="official" xml:lang="es-419">Detective Conan 14 - El barco perdido en el cielo</title>
     <title type="official" xml:lang="fr">Détective Conan : L`arche du ciel</title>
     <title type="official" xml:lang="ja">名探偵コナン 天空の難破船(ロスト・シップ)</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：天空的劫難船</title>
     <title type="syn" xml:lang="ar">المحقق كونان: السفينة الضائعة في السماء</title>
     <title type="syn" xml:lang="bg">Детектив Конан: Загубеният в небето кораб</title>
     <title type="syn" xml:lang="en">Detective Conan: Movie 14</title>
@@ -54214,6 +54250,7 @@
   </anime>
   <anime aid="7340">
     <title type="main" xml:lang="x-jat">Boku no Son Gokuu</title>
+    <title type="official" xml:lang="en">My Son Goku</title>
     <title type="official" xml:lang="ja">ぼくの孫悟空</title>
   </anime>
   <anime aid="7341">
@@ -54774,6 +54811,7 @@
     <title type="official" xml:lang="en">Queen`s Blade: Beautiful Warriors</title>
     <title type="official" xml:lang="ja">クイーンズブレイド 美しき闘士たち</title>
     <title type="official" xml:lang="zh-Hans">女王之刃 美丽的斗士们</title>
+    <title type="official" xml:lang="zh-Hant">女王之刃OVA：美麗的鬥士們</title>
     <title type="short" xml:lang="x-jat">qb ova</title>
     <title type="syn" xml:lang="en">Queen`s Blade OVA</title>
     <title type="syn" xml:lang="ko">퀸즈블레이드 아름다운 투사들</title>
@@ -55047,6 +55085,7 @@
     <title type="official" xml:lang="en">Squid Girl</title>
     <title type="official" xml:lang="ja">侵略! イカ娘</title>
     <title type="official" xml:lang="zh-Hans">侵略! 乌贼娘</title>
+    <title type="official" xml:lang="zh-Hant">侵略！花枝娘</title>
     <title type="short" xml:lang="x-jat">ika musume</title>
     <title type="short" xml:lang="x-jat">ikamusume</title>
     <title type="syn" xml:lang="en">The Invader Comes From the Bottom of the Sea!</title>
@@ -55296,6 +55335,7 @@
     <title type="main" xml:lang="x-jat">Seitokai Yakuindomo</title>
     <title type="official" xml:lang="ja">生徒会役員共</title>
     <title type="official" xml:lang="zh-Hans">妄想学生会</title>
+    <title type="official" xml:lang="zh-Hant">妄想學生會</title>
     <title type="short" xml:lang="en">SYD</title>
     <title type="syn" xml:lang="en">Student Council Staff Members</title>
     <title type="syn" xml:lang="ru">Члены школьного совета</title>
@@ -55867,6 +55907,7 @@
     <title type="official" xml:lang="en">Heaven`s Lost Property: Forte</title>
     <title type="official" xml:lang="ja">そらのおとしものf[フォルテ]</title>
     <title type="official" xml:lang="zh-Hans">天降之物f</title>
+    <title type="official" xml:lang="zh-Hant">天降之物f</title>
     <title type="short" xml:lang="x-jat">soraoto2</title>
     <title type="syn" xml:lang="fa">املاک از دست رفته بهشت - فورته</title>
     <title type="syn" xml:lang="fa">سورا نو اوتوشیمونو فورته</title>
@@ -57653,6 +57694,7 @@
     <title type="official" xml:lang="ja">放浪息子</title>
     <title type="official" xml:lang="ko">방랑소년</title>
     <title type="official" xml:lang="zh-Hans">放浪男孩</title>
+    <title type="official" xml:lang="zh-Hant">放浪男孩</title>
     <title type="syn" xml:lang="en">Wandering Son</title>
     <title type="syn" xml:lang="ru">Блудный сын</title>
   </anime>
@@ -57660,6 +57702,7 @@
     <title type="main" xml:lang="x-jat">Sora no Otoshimono: Project Pink</title>
     <title type="official" xml:lang="en">Heaven`s Lost Property OVA: Project Pink</title>
     <title type="official" xml:lang="ja">そらのおとしもの プロジェクト桃源郷[ピンク]</title>
+    <title type="official" xml:lang="zh-Hant">天降之物 桃花源（粉紅）計畫</title>
     <title type="short" xml:lang="x-jat">soraoto ova</title>
     <title type="syn" xml:lang="ja">そらのおとしもの プロジェクトピンク</title>
     <title type="syn" xml:lang="ru">Падшая с Небес: Ангел Прихоти OVA</title>
@@ -58021,6 +58064,7 @@
     <title type="official" xml:lang="en">Kimi ni Todoke: From Me to You (2011)</title>
     <title type="official" xml:lang="ja">君に届け 2ND SEASON</title>
     <title type="official" xml:lang="zh-Hans">好想告诉你 第二季</title>
+    <title type="official" xml:lang="zh-Hant">只想告訴你 第二季</title>
     <title type="short" xml:lang="ja">君届2</title>
     <title type="short" xml:lang="x-jat">kimitodo 2</title>
     <title type="short" xml:lang="x-jat">knt2</title>
@@ -58343,6 +58387,7 @@
     <title type="official" xml:lang="ru">Ловцы забытых голосов</title>
     <title type="official" xml:lang="th">เด็กสาวกับเสียงเพรียกแห่งพิภพเทวา</title>
     <title type="official" xml:lang="zh-Hans">追逐繁星的孩子</title>
+    <title type="official" xml:lang="zh-Hant">追逐繁星的孩子</title>
     <title type="short" xml:lang="x-jat">hoshiko</title>
     <title type="syn" xml:lang="bg">Децата, които преследваха загубените гласове</title>
     <title type="syn" xml:lang="en">Children Who Chase Stars</title>
@@ -58551,6 +58596,7 @@
     <title type="official" xml:lang="en">A-Channel</title>
     <title type="official" xml:lang="ja">Aチャンネル THE ANIMATION</title>
     <title type="official" xml:lang="zh-Hans">A频道</title>
+    <title type="official" xml:lang="zh-Hant">A 頻道</title>
     <title type="short" xml:lang="x-jat">achan</title>
     <title type="short" xml:lang="x-jat">achannel</title>
     <title type="syn" xml:lang="x-jat">A Channel</title>
@@ -58563,6 +58609,7 @@
     <title type="official" xml:lang="fa">هیدان نو آریا</title>
     <title type="official" xml:lang="ja">緋弾のアリア</title>
     <title type="official" xml:lang="zh-Hans">绯弹的亚里亚</title>
+    <title type="official" xml:lang="zh-Hant">緋彈的亞莉亞</title>
     <title type="short" xml:lang="x-jat">hna</title>
     <title type="syn" xml:lang="fa">آریا، مهمات سرخ</title>
     <title type="syn" xml:lang="zh-Hans">绯弹的亚莉亚</title>
@@ -58640,6 +58687,7 @@
     <title type="official" xml:lang="es-419">Detective Conan 15 - 15 minutos de silencio</title>
     <title type="official" xml:lang="fr">Détective Conan - Les quinze minutes de silence</title>
     <title type="official" xml:lang="ja">名探偵コナン 沈黙の15分(クォーター)</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：沉默的15分鐘</title>
     <title type="syn" xml:lang="en">Detective Conan Movie 15</title>
     <title type="syn" xml:lang="en">Detective Conan: Movie 15 - Quarter of Silence</title>
     <title type="syn" xml:lang="en">Detective Conan: Quarter of Silence</title>
@@ -58927,6 +58975,7 @@
     <title type="official" xml:lang="en">The Qwaser of Stigmata II</title>
     <title type="official" xml:lang="ja">聖痕のクェイサーII</title>
     <title type="official" xml:lang="zh-Hans">圣痕炼金士 II</title>
+    <title type="official" xml:lang="zh-Hant">聖痕鍊金士 II</title>
     <title type="short" xml:lang="x-jat">qwaser s2</title>
     <title type="short" xml:lang="x-jat">Qwaser2</title>
     <title type="short" xml:lang="x-jat">SnQ2</title>
@@ -59345,6 +59394,7 @@
     <title type="syn" xml:lang="ru">Брошенная Зайка</title>
     <title type="syn" xml:lang="ru">Брошенный кролик</title>
     <title type="syn" xml:lang="uk">Покинуте кроленя</title>
+    <title type="syn" xml:lang="zh-Hant">白兔玩偶</title>
   </anime>
   <anime aid="8212">
     <title type="main" xml:lang="x-jat">Kaitou Tenshi Twin Angel: Kyun Kyun Tokimeki Paradise!!</title>
@@ -59629,6 +59679,7 @@
     <title type="main" xml:lang="x-jat">Last Exile: Gin`yoku no Fam</title>
     <title type="official" xml:lang="en">Last Exile: Fam, the Silver Wing</title>
     <title type="official" xml:lang="ja">LASTEXILE 銀翼のファム</title>
+    <title type="official" xml:lang="zh-Hant">最後流亡-銀翼的飛夢-</title>
     <title type="short" xml:lang="x-jat">last exile 2</title>
     <title type="short" xml:lang="x-jat">le s2</title>
     <title type="short" xml:lang="x-jat">le2</title>
@@ -59787,6 +59838,7 @@
     <title type="official" xml:lang="ko">더 무비 케이온</title>
     <title type="official" xml:lang="pl">K-On! Film kinowy</title>
     <title type="official" xml:lang="zh-Hans">轻音少女 剧场版</title>
+    <title type="official" xml:lang="zh-Hant">電影 K-ON！輕音部</title>
     <title type="short" xml:lang="en">K-On Movie</title>
     <title type="syn" xml:lang="pl">Film K-On!</title>
   </anime>
@@ -59848,6 +59900,7 @@
     <title type="official" xml:lang="en">You`re Being Summoned, Azazel</title>
     <title type="official" xml:lang="ja">よんでますよ, アザゼルさん. (2011)</title>
     <title type="official" xml:lang="ko">부르잖아요, 아자젤 씨.</title>
+    <title type="official" xml:lang="zh-Hant">召喚惡魔</title>
     <title type="short" xml:lang="x-jat">AzazelTV</title>
     <title type="syn" xml:lang="en">You`re Being Summoned, Azazel-san. (2011)</title>
     <title type="syn" xml:lang="ru">Призываю, Азазель-сан. (2011)</title>
@@ -59879,6 +59932,7 @@
     <title type="official" xml:lang="en">Ben-To</title>
     <title type="official" xml:lang="ja">ベン・トー</title>
     <title type="official" xml:lang="zh-Hans">便·当</title>
+    <title type="official" xml:lang="zh-Hant">便·當</title>
     <title type="syn" xml:lang="ja">ベントー</title>
     <title type="syn" xml:lang="ru">Хавчик</title>
     <title type="syn" xml:lang="x-jat">Ben-to</title>
@@ -59895,6 +59949,7 @@
     <title type="official" xml:lang="cs">Návrat Sépijky!</title>
     <title type="official" xml:lang="ja">侵略!? イカ娘</title>
     <title type="official" xml:lang="zh-Hans">侵略!? 乌贼娘</title>
+    <title type="official" xml:lang="zh-Hant">侵略!? 花枝娘</title>
     <title type="short" xml:lang="x-jat">ikamusume2</title>
     <title type="syn" xml:lang="en">Shinryaku! Ika Musume 2</title>
     <title type="syn" xml:lang="en">Shinryaku! Ika Musume II</title>
@@ -60149,8 +60204,10 @@
     <title type="main" xml:lang="x-jat">Manyuu Hiken-chou</title>
     <title type="official" xml:lang="en">Manyu Scroll</title>
     <title type="official" xml:lang="ja">魔乳秘剣帖</title>
+    <title type="official" xml:lang="pt">O Manual Secreto dos Seios Demoníacos</title>
     <title type="official" xml:lang="zh-Hans">魔乳秘剑帖</title>
     <title type="syn" xml:lang="ko">마유비 검첩</title>
+    <title type="syn" xml:lang="pt-BR">O Manual Secreto dos Seios Demoníacos</title>
     <title type="syn" xml:lang="x-jat">Manyuu Hikenchou</title>
   </anime>
   <anime aid="8339">
@@ -60307,6 +60364,7 @@
     <title type="official" xml:lang="ja">神様のメモ帳 It`s the only NEET thing to do.</title>
     <title type="official" xml:lang="mn">Бурханы тэмдэглэлийн дэвтэр</title>
     <title type="official" xml:lang="zh-Hans">神的记事本</title>
+    <title type="official" xml:lang="zh-Hant">神的記事本</title>
     <title type="short" xml:lang="x-jat">kamimemo</title>
     <title type="syn" xml:lang="bg">Бележникът на Бог</title>
     <title type="syn" xml:lang="en">god`s notebook</title>
@@ -61181,6 +61239,7 @@
     <title type="main" xml:lang="x-jat">Queen`s Blade</title>
     <title type="official" xml:lang="ja">クイーンズブレイド</title>
     <title type="official" xml:lang="zh-Hans">女王之刃</title>
+    <title type="official" xml:lang="zh-Hant">女王之刃 叛亂 OVA</title>
     <title type="short" xml:lang="x-jat">qb ova 2</title>
     <title type="syn" xml:lang="ko">여왕의 칼날</title>
     <title type="syn" xml:lang="ko">퀸즈 블레이드</title>
@@ -61214,6 +61273,7 @@
     <title type="official" xml:lang="ko">치하야후루</title>
     <title type="official" xml:lang="ru">Яркая Тихая</title>
     <title type="official" xml:lang="zh-Hans">花牌情缘</title>
+    <title type="official" xml:lang="zh-Hant">花牌情緣</title>
     <title type="syn" xml:lang="en">Colorful Chihaya</title>
     <title type="syn" xml:lang="fa">شوریده</title>
     <title type="syn" xml:lang="x-jat">Chihaya Full</title>
@@ -61705,6 +61765,7 @@
     <title type="official" xml:lang="ja">あの夏で待ってる</title>
     <title type="official" xml:lang="mn">Тэр нэг зунд хүлээж байя</title>
     <title type="official" xml:lang="zh-Hans">在盛夏等待</title>
+    <title type="official" xml:lang="zh-Hant">在那個夏天等待</title>
     <title type="short" xml:lang="ja">なつまち</title>
     <title type="short" xml:lang="x-jat">natsumachi</title>
     <title type="short" xml:lang="x-jat">WitS</title>
@@ -62207,6 +62268,7 @@
     <title type="syn" xml:lang="en">Kobe and Ai</title>
   </anime>
   <anime aid="8709">
+    <title type="card" xml:lang="ja">戦姫絶唱シンフォギア Meteoroid-falling, burning, and disappear, then...</title>
     <title type="main" xml:lang="x-jat">Senki Zesshou Symphogear</title>
     <title type="official" xml:lang="de">Symphogear</title>
     <title type="official" xml:lang="en">Symphogear</title>
@@ -62214,7 +62276,6 @@
     <title type="official" xml:lang="ko">전희절창 심포기어</title>
     <title type="official" xml:lang="ru">Симфоброня</title>
     <title type="official" xml:lang="zh-Hans">战姬绝唱Symphogear</title>
-    <title type="syn" xml:lang="ja">戦姫絶唱シンフォギア Meteoroid-falling, burning, and disappear, then...</title>
     <title type="syn" xml:lang="ru">Симфогир</title>
   </anime>
   <anime aid="8710">
@@ -62390,6 +62451,7 @@
     <title type="official" xml:lang="en">Queen`s Blade: Rebellion</title>
     <title type="official" xml:lang="ja">クイーンズブレイド リベリオン</title>
     <title type="official" xml:lang="zh-Hans">女皇之刃 叛乱</title>
+    <title type="official" xml:lang="zh-Hant">女王之刃 叛亂</title>
     <title type="short" xml:lang="x-jat">qb s3</title>
     <title type="short" xml:lang="x-jat">QBR</title>
     <title type="syn" xml:lang="ko">퀸즈블레이드 리벨리온</title>
@@ -62421,6 +62483,7 @@
     <title type="short" xml:lang="x-jat">kokoco</title>
     <title type="short" xml:lang="x-jat">kokoroco</title>
     <title type="syn" xml:lang="ko">하트 커넥트</title>
+    <title type="syn" xml:lang="zh-Hant">心連·情結</title>
   </anime>
   <anime aid="8743">
     <title type="main" xml:lang="x-jat">Ryoku Tama Shinshi</title>
@@ -62911,6 +62974,7 @@
     <title type="official" xml:lang="en">Hanasaku Iroha the Movie: Home Sweet Home</title>
     <title type="official" xml:lang="ja">花咲くいろは HOME SWEET HOME</title>
     <title type="official" xml:lang="zh-Hans">花开伊吕波 Home Sweet Home</title>
+    <title type="official" xml:lang="zh-Hant">劇場版 花開物語 HOME SWEET HOME</title>
     <title type="short" xml:lang="x-jat">hanairo movie</title>
     <title type="syn" xml:lang="ja">劇場版 花咲くいろは HOME SWEET HOME</title>
     <title type="syn" xml:lang="ko">꽃이 피는 첫걸음: Home Sweet Home</title>
@@ -63235,6 +63299,7 @@
     <title type="official" xml:lang="fr">Oda Nobuna no Yabô</title>
     <title type="official" xml:lang="ja">織田信奈の野望</title>
     <title type="official" xml:lang="zh-Hans">织田信奈的野望</title>
+    <title type="official" xml:lang="zh-Hant">織田信奈的野望</title>
     <title type="short" xml:lang="x-jat">odanobuna</title>
     <title type="short" xml:lang="x-jat">Odaya</title>
     <title type="syn" xml:lang="bg">Великите подвизи на Ода Нобуна</title>
@@ -63597,6 +63662,7 @@
     <title type="official" xml:lang="en">High School DxD OAD</title>
     <title type="official" xml:lang="fr">High School DxD OAD</title>
     <title type="official" xml:lang="ja">ハイスクールDxD OAD</title>
+    <title type="official" xml:lang="zh-Hant">惡魔高校D×D OAD</title>
     <title type="short" xml:lang="en">DxD OAD</title>
     <title type="short" xml:lang="en">HSDxD OAD</title>
     <title type="short" xml:lang="x-jat">hsdd oad</title>
@@ -64215,6 +64281,7 @@
     <title type="official" xml:lang="en">Lupin the Third: The Woman Called Fujiko Mine</title>
     <title type="official" xml:lang="ja">LUPIN the Third 峰不二子という女</title>
     <title type="official" xml:lang="zh-Hans">鲁邦三世 名为峰不二子的女人</title>
+    <title type="official" xml:lang="zh-Hant">魯邦三世～名為峰不二子的女人～</title>
     <title type="syn" xml:lang="en">Lupin III: The Woman Called Fujiko Mine</title>
     <title type="syn" xml:lang="pt">Lupin III: Uma Mulher Chamada Fujiko Mine</title>
     <title type="syn" xml:lang="ru">Люпен III: Женщина по имени Фудзико Минэ</title>
@@ -64637,6 +64704,7 @@
     <title type="official" xml:lang="es-419">La cita de Natsuyuki</title>
     <title type="official" xml:lang="ja">夏雪ランデブー</title>
     <title type="official" xml:lang="zh-Hans">夏雪密会</title>
+    <title type="official" xml:lang="zh-Hant">夏雪之約</title>
     <title type="syn" xml:lang="en">Snow-in-Summer Rendezvous</title>
     <title type="syn" xml:lang="en">Summer Snow Rendezvous</title>
   </anime>
@@ -65117,6 +65185,7 @@
     <title type="official" xml:lang="en">Blast of Tempest</title>
     <title type="official" xml:lang="ja">絶園のテンペスト ~THE CIVILIZATION BLASTER~</title>
     <title type="official" xml:lang="zh-Hans">绝园的暴风雨</title>
+    <title type="official" xml:lang="zh-Hant">絕園的暴風雨</title>
     <title type="short" xml:lang="x-jat">zetsuen</title>
     <title type="syn" xml:lang="bg">Буреносен удар: Унищожител на цивилизации</title>
     <title type="syn" xml:lang="en">Forsaken Tempest</title>
@@ -65376,6 +65445,7 @@
     <title type="official" xml:lang="ja">ちはやふる2</title>
     <title type="official" xml:lang="ko">치하야후루 2기</title>
     <title type="official" xml:lang="zh-Hans">花牌情缘 2</title>
+    <title type="official" xml:lang="zh-Hant">花牌情緣 第二季</title>
     <title type="syn" xml:lang="en">Chihayafuru s2</title>
     <title type="syn" xml:lang="fa">شوریده 2</title>
   </anime>
@@ -65682,6 +65752,7 @@
     <title type="official" xml:lang="en">Oreshura</title>
     <title type="official" xml:lang="ja">俺の彼女と幼なじみが修羅場すぎる</title>
     <title type="official" xml:lang="zh-Hans">我女友与青梅竹马的惨烈修罗场</title>
+    <title type="official" xml:lang="zh-Hant">我女友與青梅竹馬的慘烈修羅場</title>
     <title type="short" xml:lang="ja">俺修羅</title>
     <title type="short" xml:lang="x-jat">OreShura</title>
     <title type="syn" xml:lang="en">My Girlfriend and Childhood Friend Have Too Much Relationship Difficulties</title>
@@ -65869,6 +65940,7 @@
     <title type="official" xml:lang="en">RDG: Red Data Girl</title>
     <title type="official" xml:lang="ja">RDG レッドデータガール</title>
     <title type="official" xml:lang="ko">RDG 레드 데이터 걸</title>
+    <title type="official" xml:lang="zh-Hant">RDG 瀕危物種少女</title>
     <title type="syn" xml:lang="ru">Девушка из красной книги</title>
     <title type="syn" xml:lang="x-jat">rdg</title>
     <title type="syn" xml:lang="x-jat">Red Data Girl</title>
@@ -66286,6 +66358,7 @@
     <title type="official" xml:lang="en">Hyperdimension Neptunia - The Animation</title>
     <title type="official" xml:lang="ja">超次元ゲイム ネプテューヌ THE ANIMATION</title>
     <title type="official" xml:lang="zh-Hans">超次元游戏 海王星</title>
+    <title type="official" xml:lang="zh-Hant">超次元戰記 戰機少女</title>
     <title type="short" xml:lang="en">HDNA</title>
     <title type="syn" xml:lang="en">Hyperdimension Neptunia</title>
     <title type="syn" xml:lang="ja">超次元ゲイムネプテューヌ</title>
@@ -66369,6 +66442,7 @@
     <title type="official" xml:lang="ja">ハイスクールDxD NEW</title>
     <title type="official" xml:lang="ko">하이스쿨 DXD New</title>
     <title type="official" xml:lang="zh-Hans">High School D×D NEW</title>
+    <title type="official" xml:lang="zh-Hant">惡魔高校D×D NEW</title>
     <title type="short" xml:lang="x-jat">hsdd s2</title>
     <title type="syn" xml:lang="bg">Гимназия ДхД</title>
     <title type="syn" xml:lang="ja">ハイスクールDxD NEW 停止教室のヴァンパイア</title>
@@ -66778,6 +66852,7 @@
     <title type="official" xml:lang="en">Muromi-san</title>
     <title type="official" xml:lang="ja">波打際のむろみさん</title>
     <title type="official" xml:lang="zh-Hans">人鱼又上钩</title>
+    <title type="official" xml:lang="zh-Hant">人魚又上鉤</title>
     <title type="short" xml:lang="x-jat">muromi</title>
   </anime>
   <anime aid="9480">
@@ -66946,6 +67021,7 @@
     <title type="official" xml:lang="ja">よんでますよ, アザゼルさん. Z</title>
     <title type="official" xml:lang="zh-Hans">恶魔阿萨谢尔在召唤你Z</title>
     <title type="short" xml:lang="x-jat">azazel z</title>
+    <title type="syn" xml:lang="zh-Hant">召喚惡魔 Z</title>
   </anime>
   <anime aid="9502">
     <title type="main" xml:lang="x-jat">Pyuu to Fuku! Jaguar</title>
@@ -66984,6 +67060,7 @@
     <title type="official" xml:lang="en">Rozen Maiden Zuruckspulen</title>
     <title type="official" xml:lang="ja">ローゼンメイデン</title>
     <title type="official" xml:lang="zh-Hans">新蔷薇少女</title>
+    <title type="official" xml:lang="zh-Hant">新薔薇少女</title>
     <title type="short" xml:lang="x-jat">rm s3</title>
     <title type="short" xml:lang="x-jat">rm3</title>
     <title type="short" xml:lang="x-jat">rozen2013</title>
@@ -67005,6 +67082,7 @@
     <title type="official" xml:lang="en">The Severing Crime Edge</title>
     <title type="official" xml:lang="ja">断裁分離のクライムエッジ</title>
     <title type="official" xml:lang="zh-Hans">断裁分离的罪恶之剪</title>
+    <title type="official" xml:lang="zh-Hant">斷裁分離的罪惡之剪</title>
     <title type="short" xml:lang="x-jat">danbun</title>
   </anime>
   <anime aid="9511">
@@ -67028,6 +67106,7 @@
     <title type="short" xml:lang="x-jat">VQ</title>
     <title type="syn" xml:lang="ja">ヴァンキッシュド・クイーンズ</title>
     <title type="syn" xml:lang="x-jat">Queen`s Blade: Vanquished Queens</title>
+    <title type="syn" xml:lang="zh-Hant">女王之刃 戰敗女王</title>
   </anime>
   <anime aid="9514">
     <title type="main" xml:lang="x-jat">Kaze Tachinu</title>
@@ -67266,6 +67345,7 @@
     <title type="official" xml:lang="ja">いなり, こんこん, 恋いろは.</title>
     <title type="official" xml:lang="ko">이나리, 콩콩, 사랑의 첫걸음</title>
     <title type="official" xml:lang="zh-Hans">狐仙的恋爱入门</title>
+    <title type="official" xml:lang="zh-Hant">狐仙的戀愛入門</title>
     <title type="short" xml:lang="ja">いなこん</title>
     <title type="short" xml:lang="x-jat">Inakon</title>
     <title type="syn" xml:lang="en">Inari, Konkon, Koi Iroha</title>
@@ -67520,6 +67600,7 @@
     <title type="official" xml:lang="en">Kinmoza!</title>
     <title type="official" xml:lang="ja">きんいろモザイク</title>
     <title type="official" xml:lang="zh-Hans">黄金拼图</title>
+    <title type="official" xml:lang="zh-Hant">黃金拼圖</title>
     <title type="short" xml:lang="x-jat">Kinmosa</title>
     <title type="syn" xml:lang="x-jat">Kiniro Mosaic</title>
   </anime>
@@ -67776,6 +67857,7 @@
     <title type="main" xml:lang="x-jat">Miyakawa-ke no Kuufuku</title>
     <title type="official" xml:lang="ja">宮河家の空腹</title>
     <title type="official" xml:lang="zh-Hans">宫河家的空腹</title>
+    <title type="official" xml:lang="zh-Hant">宮河家的空腹</title>
     <title type="short" xml:lang="x-jat">ls (2013)</title>
     <title type="syn" xml:lang="en">The Miyakawa Family`s Hunger</title>
   </anime>
@@ -67978,6 +68060,7 @@
     <title type="official" xml:lang="fr">Je n`ai pas pu devenir un héros, alors j`ai cherché un boulot à contrecœur</title>
     <title type="official" xml:lang="ja">勇者になれなかった俺はしぶしぶ就職を決意しました.</title>
     <title type="official" xml:lang="zh-Hans">没能成为勇者的我无可奈何决定去工作</title>
+    <title type="official" xml:lang="zh-Hant">當不成勇者的我，只好認真找工作了。</title>
     <title type="short" xml:lang="ja">勇しぶ.</title>
     <title type="short" xml:lang="x-jat">Yuushibu</title>
     <title type="syn" xml:lang="ru">Героем я не стал и нехотя решил найти работу.</title>
@@ -68011,6 +68094,7 @@
     <title type="official" xml:lang="ja">機巧少女は傷つかない</title>
     <title type="official" xml:lang="ko">기교소녀는 상처받지 않아</title>
     <title type="official" xml:lang="zh-Hans">机巧少女不会受伤</title>
+    <title type="official" xml:lang="zh-Hant">機巧少女不會受傷</title>
     <title type="short" xml:lang="en">UMD</title>
     <title type="short" xml:lang="x-jat">machinedoll</title>
     <title type="syn" xml:lang="en">Unbreakable Machine Doll</title>
@@ -68348,6 +68432,7 @@
     <title type="short" xml:lang="x-jat">geneitaiyo</title>
     <title type="syn" xml:lang="it">Il Sole Penetra le Illusioni</title>
     <title type="syn" xml:lang="x-jat">Genei o Kakeru Taiyou</title>
+    <title type="syn" xml:lang="zh-Hant">穿透幻影的太陽</title>
   </anime>
   <anime aid="9738">
     <title type="main" xml:lang="x-jat">Danball Senki Wars</title>
@@ -68525,6 +68610,7 @@
     <title type="official" xml:lang="fr">Strike the Blood</title>
     <title type="official" xml:lang="ja">ストライク・ザ・ブラッド</title>
     <title type="official" xml:lang="zh-Hans">噬血狂袭</title>
+    <title type="official" xml:lang="zh-Hant">噬血狂襲</title>
     <title type="short" xml:lang="x-jat">stb</title>
     <title type="syn" xml:lang="ko">스트라이크 더 블러드</title>
     <title type="syn" xml:lang="ru">Удар крови</title>
@@ -68582,6 +68668,7 @@
     <title type="official" xml:lang="ko">내 뇌 속의 선택지가 학원 러브 코미디를 전력으로 방해하고 있다</title>
     <title type="official" xml:lang="ru">Что ни выбирай, а школьной романтической комедии уже не видать</title>
     <title type="official" xml:lang="zh-Hans">我的脑内恋碍选项</title>
+    <title type="official" xml:lang="zh-Hant">我的腦內戀礙選項</title>
     <title type="short" xml:lang="ja">のうコメ</title>
     <title type="short" xml:lang="x-jat">Nokome</title>
     <title type="short" xml:lang="x-jat">NouCome</title>
@@ -69045,6 +69132,7 @@
     <title type="syn" xml:lang="en">Kamisama Hajimemashita Kako Hen</title>
     <title type="syn" xml:lang="ja">神様はじめました ~過去編~</title>
     <title type="syn" xml:lang="x-jat">Kamisama Hajimemashita OVA</title>
+    <title type="syn" xml:lang="zh-Hant">元氣少女緣結神 OVA</title>
   </anime>
   <anime aid="9874">
     <title type="main" xml:lang="x-jat">Chuunibyou demo Koi ga Shitai! Ren</title>
@@ -69293,6 +69381,7 @@
     <title type="official" xml:lang="ja">蒼き鋼のアルペジオ -ARS NOVA-</title>
     <title type="official" xml:lang="ko">푸른 강철의 아르페지오</title>
     <title type="official" xml:lang="zh-Hans">苍蓝钢铁战舰</title>
+    <title type="official" xml:lang="zh-Hant">蒼藍鋼鐵戰艦</title>
     <title type="short" xml:lang="x-jat">aokiha</title>
     <title type="syn" xml:lang="ja">蒼き鋼のアルペジオ -アルス・ノヴァ-</title>
     <title type="syn" xml:lang="ru">Мелодия воронёной стали</title>
@@ -69969,6 +70058,7 @@
     <title type="main" xml:lang="x-jat">Girls und Panzer: Kore ga Hontou no Anzio-sen Desu!</title>
     <title type="official" xml:lang="en">Girls und Panzer: This Is the Real Anzio Battle!</title>
     <title type="official" xml:lang="ja">ガールズ&amp;パンツァー これが本当のアンツィオ戦です!</title>
+    <title type="official" xml:lang="zh-Hant">少女與戰車 OVA 這才是真正的安齊奧之戰</title>
     <title type="short" xml:lang="x-jat">GuP Anzio OVA</title>
     <title type="short" xml:lang="x-jat">gup ova</title>
     <title type="syn" xml:lang="pt">Meninas e Tanques: Esta é a Verdadeira Batalha da Anzio!</title>
@@ -70406,6 +70496,7 @@
     <title type="official" xml:lang="en">Engaged to the Unidentified</title>
     <title type="official" xml:lang="ja">未確認で進行形</title>
     <title type="official" xml:lang="zh-Hans">未确认进行式</title>
+    <title type="official" xml:lang="zh-Hant">未確認進行式</title>
     <title type="short" xml:lang="x-jat">mds</title>
     <title type="short" xml:lang="x-jat">mideshin</title>
     <title type="syn" xml:lang="ko">미확인으로 진행형</title>
@@ -70428,6 +70519,7 @@
     <title type="official" xml:lang="zh-Hans">当不成勇者的我，只好认真找工作了。 OAD</title>
     <title type="syn" xml:lang="en">Yusibu: I Couldn`t Become a Hero, So I Reluctantly Decided to Get a Job - My Sister Came to the Capital to See Me, Her Brother Who Could Not Become a Hero.</title>
     <title type="syn" xml:lang="x-jat">Yuushibu Episode 13</title>
+    <title type="syn" xml:lang="zh-Hant">當不成勇者的我，只好認真找工作了。 OAD</title>
   </anime>
   <anime aid="10114">
     <title type="main" xml:lang="x-jat">Bayonetta: Bloody Fate</title>
@@ -71234,6 +71326,7 @@
     <title type="official" xml:lang="en">One Week Friends</title>
     <title type="official" xml:lang="ja">一週間フレンズ.</title>
     <title type="official" xml:lang="zh-Hans">一周的朋友。</title>
+    <title type="official" xml:lang="zh-Hant">一週的朋友。</title>
     <title type="syn" xml:lang="en">One Week Friends.</title>
   </anime>
   <anime aid="10274">
@@ -71335,6 +71428,7 @@
     <title type="official" xml:lang="es-419">Detective Conan 18 - El francotirador de otra dimensión</title>
     <title type="official" xml:lang="fr">Détective Conan : Le sniper dimensionnel</title>
     <title type="official" xml:lang="ja">名探偵コナン・異次元の狙撃手[スナイパー]</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：異次元的狙擊手</title>
     <title type="syn" xml:lang="ar">المحقق كونان: القناص من بعد آخر</title>
     <title type="syn" xml:lang="de">Detektiv Conan - 18. Film: Scharfschütze aus einer anderen Dimension</title>
     <title type="syn" xml:lang="en">Case Closed: Dimensional Sniper</title>
@@ -71821,6 +71915,7 @@
     <title type="official" xml:lang="fr">Blue Spring Ride</title>
     <title type="official" xml:lang="ja">アオハライド</title>
     <title type="official" xml:lang="zh-Hans">青春之旅</title>
+    <title type="official" xml:lang="zh-Hant">閃爍的青春</title>
     <title type="short" xml:lang="x-jat">aoha</title>
     <title type="syn" xml:lang="bg">Пътят на младостта</title>
     <title type="syn" xml:lang="en">Youth Ride</title>
@@ -71868,6 +71963,7 @@
     <title type="official" xml:lang="zh-Hans">稻荷恋之歌 OAD</title>
     <title type="short" xml:lang="x-jat">Inakon OVA</title>
     <title type="syn" xml:lang="en">Inari, Kon Kon, Koi Iroha: Inari, Kon Kon, Cicada Chorus</title>
+    <title type="syn" xml:lang="zh-Hant">狐仙的戀愛入門 OVA</title>
   </anime>
   <anime aid="10392">
     <title type="main" xml:lang="x-jat">Magi: Sindbad no Bouken</title>
@@ -72185,6 +72281,7 @@
     <title type="official" xml:lang="en">World Break: Aria of Curse for a Holy Swordsman</title>
     <title type="official" xml:lang="ja">聖剣使いの禁呪詠唱</title>
     <title type="official" xml:lang="zh-Hans">圣剑使的禁咒咏唱</title>
+    <title type="official" xml:lang="zh-Hant">聖劍使的禁咒詠唱</title>
     <title type="short" xml:lang="x-jat">warubure</title>
     <title type="short" xml:lang="x-jat">worldbreak</title>
     <title type="syn" xml:lang="ko">성검사의 금주영창</title>
@@ -72386,6 +72483,7 @@
     <title type="official" xml:lang="fa">مهاجمانی از رکوجیما!؟</title>
     <title type="official" xml:lang="ja">六畳間の侵略者!?</title>
     <title type="official" xml:lang="zh-Hans">三坪房间的侵略者！</title>
+    <title type="official" xml:lang="zh-Hant">三坪房間的侵略者！？</title>
     <title type="short" xml:lang="x-jat">rokujouma</title>
     <title type="short" xml:lang="x-jat">rokushin</title>
     <title type="syn" xml:lang="ko">단칸방의 침략자!?</title>
@@ -72496,6 +72594,7 @@
     <title type="official" xml:lang="en">When Supernatural Battles Became Commonplace</title>
     <title type="official" xml:lang="ja">異能バトルは日常系のなかで</title>
     <title type="official" xml:lang="zh-Hans">日常系的异能战斗</title>
+    <title type="official" xml:lang="zh-Hant">日常生活中的異能戰鬥</title>
     <title type="short" xml:lang="x-jat">inobato</title>
     <title type="short" xml:lang="x-jat">inounaka</title>
     <title type="syn" xml:lang="fr">Quand les batailles surnaturelles deviennent ordinaires</title>
@@ -72505,9 +72604,9 @@
     <title type="main" xml:lang="x-jat">Spocon!</title>
     <title type="official" xml:lang="ja">すぽコン!</title>
     <title type="syn" xml:lang="en">Sportswear Complex</title>
-    <title type="syn" xml:lang="ja">すぽコン! ~SPORTSWEARE-COMPLEX~</title>
+    <title type="syn" xml:lang="ja">すぽコン! ~SPORTSWEAR-COMPLEX~</title>
     <title type="syn" xml:lang="ko">스포콘!</title>
-    <title type="syn" xml:lang="x-jat">Spocon! ~Sportswear-Complex~</title>
+    <title type="syn" xml:lang="x-jat">Spocon! Sportswear Complex</title>
   </anime>
   <anime aid="10511">
     <title type="main" xml:lang="x-jat">Iinari! Saimin Kanojo: Reizoku Sennou Nama Hame Seikatsu!!</title>
@@ -72529,6 +72628,7 @@
     <title type="official" xml:lang="fr">M3 the dark metal</title>
     <title type="official" xml:lang="ja">M3 ~ソノ黒キ鋼~</title>
     <title type="official" xml:lang="zh-Hans">M3~黑色钢铁~</title>
+    <title type="official" xml:lang="zh-Hant">M3～其為黑鋼～</title>
     <title type="short" xml:lang="x-jat">m3</title>
     <title type="syn" xml:lang="ru">M3: Чёрная сталь</title>
     <title type="syn" xml:lang="x-jat">M3 - Sono Kuroki Hagane</title>
@@ -72588,9 +72688,11 @@
     <title type="official" xml:lang="es-419">Celestial Method</title>
     <title type="official" xml:lang="ja">天体のメソッド</title>
     <title type="official" xml:lang="zh-Hans">天体的秩序</title>
+    <title type="official" xml:lang="zh-Hant">天體的秩序</title>
     <title type="short" xml:lang="x-jat">sorameso</title>
     <title type="syn" xml:lang="ko">천체의 메소드</title>
     <title type="syn" xml:lang="ru">Метод Небес</title>
+    <title type="syn" xml:lang="zh-Hant">天體運行式</title>
   </anime>
   <anime aid="10526">
     <title type="main" xml:lang="x-jat">Kantoku Fuyukitodoki</title>
@@ -72618,6 +72720,7 @@
     <title type="official" xml:lang="ko">새 여동생 마왕의 계약자</title>
     <title type="official" xml:lang="ru">Моей сестрёнкой стала Повелительница демонов</title>
     <title type="official" xml:lang="zh-Hans">新妹魔王的契约者</title>
+    <title type="official" xml:lang="zh-Hant">新妹魔王的契約者</title>
     <title type="short" xml:lang="x-jat">Shinmaou</title>
     <title type="syn" xml:lang="x-jat">Shinmai Maou no Keiyakusha</title>
   </anime>
@@ -72683,6 +72786,7 @@
     <title type="official" xml:lang="pt">Terror no Eco</title>
     <title type="official" xml:lang="ru">Резонансный террор</title>
     <title type="official" xml:lang="zh-Hans">东京残响</title>
+    <title type="official" xml:lang="zh-Hant">東京殘響</title>
     <title type="short" xml:lang="x-jat">zante</title>
     <title type="syn" xml:lang="bg">Ехото на терора</title>
     <title type="syn" xml:lang="bg">Терористичен екот</title>
@@ -73002,6 +73106,7 @@
     <title type="official" xml:lang="ja">THE IDOLM@STER シンデレラガールズ</title>
     <title type="official" xml:lang="ko">아이돌 마스터 신데렐라 걸즈</title>
     <title type="official" xml:lang="zh-Hans">偶像大师 灰姑娘女孩</title>
+    <title type="official" xml:lang="zh-Hant">偶像大師 灰姑娘女孩</title>
     <title type="short" xml:lang="en">imascg</title>
     <title type="syn" xml:lang="ja">THE IDOLM@STER CINDERELLA GIRLS</title>
     <title type="syn" xml:lang="ja">アイドルマスター シンデレラガールズ</title>
@@ -73160,6 +73265,7 @@
     <title type="official" xml:lang="en">Hello!! Kinmoza!</title>
     <title type="official" xml:lang="ja">ハロー!! きんいろモザイク</title>
     <title type="official" xml:lang="zh-Hans">Hello!! 黄金拼图</title>
+    <title type="official" xml:lang="zh-Hant">Hello!! 黃金拼圖</title>
     <title type="short" xml:lang="en">Kinmosa 2</title>
     <title type="short" xml:lang="x-jat">kinmosa s2</title>
     <title type="short" xml:lang="x-jat">kinmoza s2</title>
@@ -73470,6 +73576,7 @@
     <title type="official" xml:lang="ja">血界戦線</title>
     <title type="official" xml:lang="pl">Blood Blockade Battlefront</title>
     <title type="official" xml:lang="zh-Hans">血界战线</title>
+    <title type="official" xml:lang="zh-Hant">血界戰線</title>
     <title type="short" xml:lang="x-jat">Keksen</title>
     <title type="syn" xml:lang="uk">Вартові кривавого бар’єру</title>
   </anime>
@@ -73526,6 +73633,7 @@
     <title type="official" xml:lang="ja">旦那が何を言っているかわからない件</title>
     <title type="official" xml:lang="nl">Ik Begrijp Maar Niet Waar Mijn Man Het Over Heeft</title>
     <title type="official" xml:lang="zh-Hans">关于完全听不懂老公在说什么的事</title>
+    <title type="official" xml:lang="zh-Hant">關於聽不懂老公在說什麼這件事</title>
     <title type="short" xml:lang="ja">ダンナ</title>
     <title type="short" xml:lang="x-jat">Dannaken</title>
     <title type="syn" xml:lang="ru">Хоть кто-нибудь мне намекнёт, что муж болезный мой несёт?</title>
@@ -73556,6 +73664,7 @@
     <title type="short" xml:lang="x-jat">Yamajo</title>
     <title type="syn" xml:lang="x-jat">Yamada-kun to 7-nin no Majo</title>
     <title type="syn" xml:lang="x-jat">Yamadakun to Nananin no Majo OAD</title>
+    <title type="syn" xml:lang="zh-Hant">山田君與7人魔女 OVA</title>
   </anime>
   <anime aid="10684">
     <title type="main" xml:lang="x-jat">Koufuku Graffiti</title>
@@ -73708,6 +73817,7 @@
     <title type="official" xml:lang="en">Girl Friend Beta</title>
     <title type="official" xml:lang="ja">ガールフレンド(仮)</title>
     <title type="official" xml:lang="zh-Hans">临时女友</title>
+    <title type="official" xml:lang="zh-Hant">女友伴身邊</title>
     <title type="short" xml:lang="en">GF Beta</title>
     <title type="short" xml:lang="x-jat">GF Kari</title>
     <title type="syn" xml:lang="en">Girlfriend Beta</title>
@@ -73718,6 +73828,7 @@
     <title type="official" xml:lang="en">Unlimited Fafnir</title>
     <title type="official" xml:lang="ja">銃皇無尽のファフニール</title>
     <title type="official" xml:lang="zh-Hans">铳皇无尽的法夫纳</title>
+    <title type="official" xml:lang="zh-Hant">銃皇無盡的法夫納</title>
     <title type="short" xml:lang="x-jat">fafnir</title>
   </anime>
   <anime aid="10712">
@@ -73889,6 +74000,7 @@
     <title type="official" xml:lang="fr">Sky Wizards Academy</title>
     <title type="official" xml:lang="ja">空戦魔導士候補生の教官</title>
     <title type="official" xml:lang="zh-Hans">空战魔导士候补生的教官</title>
+    <title type="official" xml:lang="zh-Hant">空戰魔導士培訓生的教官</title>
     <title type="short" xml:lang="x-jat">kuusen</title>
     <title type="short" xml:lang="x-jat">kuusenmadoushi</title>
     <title type="short" xml:lang="x-jat">swa</title>
@@ -74216,6 +74328,7 @@
     <title type="official" xml:lang="fr">The Rolling Girls</title>
     <title type="official" xml:lang="ja">THE ROLLING GIRLS</title>
     <title type="official" xml:lang="zh-Hans">旋转少女</title>
+    <title type="official" xml:lang="zh-Hant">翻轉女孩</title>
     <title type="syn" xml:lang="ja">ローリング ガールズ</title>
     <title type="syn" xml:lang="ja">ローリング☆ガールズ</title>
   </anime>
@@ -74348,6 +74461,7 @@
     <title type="official" xml:lang="ko">종말의 세라프</title>
     <title type="official" xml:lang="pl">Serafin Dni Ostatnich</title>
     <title type="official" xml:lang="zh-Hans">终结的炽天使</title>
+    <title type="official" xml:lang="zh-Hant">終結的熾天使</title>
     <title type="short" xml:lang="x-jat">Seraph</title>
     <title type="syn" xml:lang="en">Seraph of the End</title>
     <title type="syn" xml:lang="ru">Последний Серафим</title>
@@ -74651,6 +74765,7 @@
     <title type="official" xml:lang="ko">니세코이:</title>
     <title type="official" xml:lang="nl">Valse Liefde:</title>
     <title type="official" xml:lang="zh-Hans">伪恋：</title>
+    <title type="official" xml:lang="zh-Hant">偽戀 2</title>
     <title type="short" xml:lang="x-jat">nisekoi2</title>
     <title type="syn" xml:lang="al">Nisekoi S2</title>
     <title type="syn" xml:lang="en">Nisekoi 2</title>
@@ -74865,6 +74980,7 @@
     <title type="official" xml:lang="ja">下ネタという概念が存在しない退屈な世界</title>
     <title type="official" xml:lang="ko">야한 이야기라는 개념이 존재하지 않는 지루한 세계</title>
     <title type="official" xml:lang="zh-Hans">没有黄段子存在的无聊世界</title>
+    <title type="official" xml:lang="zh-Hant">下流梗不存在的灰暗世界</title>
     <title type="short" xml:lang="x-jat">shimoseka</title>
     <title type="syn" xml:lang="en">A Boring World Where the Concept of Dirty Jokes Doesn`t Exist</title>
     <title type="syn" xml:lang="ru">Скучный мир, в котором не существует самой концепции похабных шуток</title>
@@ -74981,6 +75097,7 @@
     <title type="official" xml:lang="nl">Voedselgevecht!</title>
     <title type="official" xml:lang="ru">Кулинарные поединки</title>
     <title type="official" xml:lang="zh-Hans">食戟之灵</title>
+    <title type="official" xml:lang="zh-Hant">食戟之靈</title>
     <title type="short" xml:lang="ar">حروب الطعام</title>
     <title type="syn" xml:lang="ru">Повар-боец Сома</title>
     <title type="syn" xml:lang="x-jat">Shokugeki no Soma</title>
@@ -75176,6 +75293,7 @@
     <title type="official" xml:lang="en">Aokana: Four Rhythm Across the Blue</title>
     <title type="official" xml:lang="ja">蒼の彼方のフォーリズム</title>
     <title type="official" xml:lang="zh-Hans">苍之彼方的四重奏</title>
+    <title type="official" xml:lang="zh-Hant">蒼之彼方的四重奏</title>
     <title type="short" xml:lang="en">Four Rhythm Across the Blue</title>
     <title type="short" xml:lang="x-jat">aokana</title>
   </anime>
@@ -75234,6 +75352,7 @@
     <title type="official" xml:lang="ko">육화의 용사</title>
     <title type="official" xml:lang="ru">Герои шести цветков</title>
     <title type="official" xml:lang="zh-Hans">六花的勇者</title>
+    <title type="official" xml:lang="zh-Hant">六花的勇者</title>
     <title type="syn" xml:lang="bg">Героите на Шестлистника</title>
     <title type="syn" xml:lang="bg">Шестимата герои</title>
     <title type="syn" xml:lang="ru">Герои шести цветов</title>
@@ -75242,6 +75361,7 @@
     <title type="main" xml:lang="x-jat">Gekijouban Sidonia no Kishi</title>
     <title type="official" xml:lang="en">Knights of Sidonia: The Movie</title>
     <title type="official" xml:lang="ja">劇場版 シドニアの騎士</title>
+    <title type="official" xml:lang="zh-Hant">銀河騎士傳 劇場版</title>
     <title type="short" xml:lang="x-jat">gsidki movie</title>
     <title type="syn" xml:lang="ko">극장판 시도니아의 기사</title>
   </anime>
@@ -75321,6 +75441,7 @@
     <title type="official" xml:lang="en">Rampo Kitan: Game of Laplace</title>
     <title type="official" xml:lang="ja">乱歩奇譚 Game of Laplace</title>
     <title type="official" xml:lang="zh-Hans">乱步奇谭</title>
+    <title type="official" xml:lang="zh-Hant">亂步奇譚 Game of Laplace</title>
     <title type="short" xml:lang="x-jat">ranpokitan</title>
   </anime>
   <anime aid="10950">
@@ -75442,6 +75563,7 @@
     <title type="official" xml:lang="fr">Jun, la voix du cœur</title>
     <title type="official" xml:lang="ja">心が叫びたがってるんだ.</title>
     <title type="official" xml:lang="zh-Hans">心灵想要大声呼喊。</title>
+    <title type="official" xml:lang="zh-Hant">好想大聲說出心底的話。</title>
     <title type="short" xml:lang="x-jat">kokosake</title>
     <title type="syn" xml:lang="en">My Heart Wants to Shout</title>
     <title type="syn" xml:lang="ko">마음이 외치고 싶어해</title>
@@ -75703,6 +75825,7 @@
     <title type="official" xml:lang="ja">To LOVEる -とらぶる- ダークネス2nd</title>
     <title type="official" xml:lang="ko">To LOVE루 -트러블- 다크니스 2nd</title>
     <title type="official" xml:lang="zh-Hans">出包王女Darkness 2nd</title>
+    <title type="official" xml:lang="zh-Hant">出包王女Darkness 2nd</title>
     <title type="short" xml:lang="en">tlrd2</title>
     <title type="short" xml:lang="x-jat">tlr s4</title>
     <title type="short" xml:lang="x-jat">toloverud2</title>
@@ -76037,6 +76160,7 @@
     <title type="official" xml:lang="ja">実は私は</title>
     <title type="official" xml:lang="ru">На самом деле я...</title>
     <title type="official" xml:lang="zh-Hans">其实我是</title>
+    <title type="official" xml:lang="zh-Hant">其實我是…</title>
     <title type="short" xml:lang="ja">じつわた</title>
     <title type="short" xml:lang="x-jat">Jitsuwata</title>
     <title type="syn" xml:lang="en">My Monster Secret</title>
@@ -76519,6 +76643,7 @@
     <title type="official" xml:lang="en">The Idolmaster: Cinderella Girls (2015)</title>
     <title type="official" xml:lang="ja">THE IDOLM@STER シンデレラガールズ (2015)</title>
     <title type="official" xml:lang="zh-Hans">偶像大师 灰姑娘女孩 第2期</title>
+    <title type="official" xml:lang="zh-Hant">偶像大師 灰姑娘女孩 第二季</title>
     <title type="short" xml:lang="en">imascg2</title>
     <title type="syn" xml:lang="x-jat">Idolmaster: Cinderella Girls Second Series</title>
   </anime>
@@ -76564,6 +76689,7 @@
     <title type="official" xml:lang="ja">新妹魔王の契約者 BURST</title>
     <title type="official" xml:lang="ko">새 여동생 마왕의 계약자 BURST</title>
     <title type="official" xml:lang="zh-Hans">新妹魔王的契约者 BURST</title>
+    <title type="official" xml:lang="zh-Hant">新妹魔王的契約者 BURST</title>
     <title type="short" xml:lang="x-jat">Shinmaou Burst</title>
     <title type="syn" xml:lang="x-jat">Shinmai Maou no Keiyakusha Burst</title>
   </anime>
@@ -77571,6 +77697,7 @@
     <title type="official" xml:lang="pl">Miasto beze mnie</title>
     <title type="official" xml:lang="ro">Șters</title>
     <title type="official" xml:lang="zh-Hans">只有我不存在的城市</title>
+    <title type="official" xml:lang="zh-Hant">只有我不存在的城市</title>
     <title type="short" xml:lang="ja">僕街</title>
     <title type="short" xml:lang="x-jat">BokuMachi</title>
     <title type="syn" xml:lang="bg">Града, в който ме няма</title>
@@ -77733,6 +77860,7 @@
     <title type="official" xml:lang="en">Anne-Happy</title>
     <title type="official" xml:lang="ja">あんハピ♪</title>
     <title type="official" xml:lang="zh-Hans">Anne Happy♪</title>
+    <title type="official" xml:lang="zh-Hant">Anne Happy♪</title>
     <title type="syn" xml:lang="ru">Несчастные</title>
     <title type="syn" xml:lang="x-jat">Anhapi</title>
     <title type="syn" xml:lang="x-jat">Anne Happy♪</title>
@@ -77836,6 +77964,7 @@
     <title type="official" xml:lang="en">Hakone</title>
     <title type="official" xml:lang="ja">温泉幼精ハコネちゃん</title>
     <title type="official" xml:lang="zh-Hans">温泉幼精箱根酱</title>
+    <title type="official" xml:lang="zh-Hant">溫泉幼精箱根醬</title>
     <title type="syn" xml:lang="ru">Юный дух горячего источника Хаконе-тян</title>
   </anime>
   <anime aid="11343">
@@ -78112,6 +78241,7 @@
     <title type="short" xml:lang="en">swa ova</title>
     <title type="short" xml:lang="x-jat">kuusen ova</title>
     <title type="short" xml:lang="x-jat">kuusenmadoushi ova</title>
+    <title type="syn" xml:lang="zh-Hant">空戰魔導士培訓生的教官 OVA</title>
   </anime>
   <anime aid="11386">
     <title type="main" xml:lang="x-jat">Bloody Bunny</title>
@@ -78612,6 +78742,7 @@
     <title type="official" xml:lang="ja">南鎌倉高校女子自転車部</title>
     <title type="official" xml:lang="x-kot">남 가마쿠라고교 여자자전거부</title>
     <title type="official" xml:lang="zh-Hans">南镰仓高校女子自行车社</title>
+    <title type="official" xml:lang="zh-Hant">南鎌倉高校女子自行車社</title>
     <title type="short" xml:lang="x-jat">Minakama</title>
   </anime>
   <anime aid="11493">
@@ -78655,6 +78786,7 @@
     <title type="official" xml:lang="en">Myriad Colors Phantom World</title>
     <title type="official" xml:lang="ja">無彩限のファントム・ワールド</title>
     <title type="official" xml:lang="zh-Hans">无彩限的怪灵世界</title>
+    <title type="official" xml:lang="zh-Hant">無彩限的幻影世界</title>
     <title type="short" xml:lang="x-jat">Musaigen</title>
     <title type="short" xml:lang="x-jat">musatom</title>
     <title type="short" xml:lang="x-jat">phantomworld</title>
@@ -78819,6 +78951,7 @@
     <title type="official" xml:lang="ja">ハイスクール・フリート</title>
     <title type="official" xml:lang="uk">Дівчатка на Лінкорах</title>
     <title type="official" xml:lang="zh-Hans">高校舰队</title>
+    <title type="official" xml:lang="zh-Hant">高校艦隊</title>
     <title type="short" xml:lang="uk">Морячки</title>
     <title type="short" xml:lang="x-jat">Haifuri</title>
     <title type="syn" xml:lang="en">Haifuri</title>
@@ -79214,6 +79347,7 @@
     <title type="official" xml:lang="zh-Hans">粗点心战争</title>
     <title type="short" xml:lang="x-jat">Dashi</title>
     <title type="syn" xml:lang="ru">Магазинчик сладостей</title>
+    <title type="syn" xml:lang="zh-Hant">粗點心戰爭</title>
   </anime>
   <anime aid="11602">
     <title type="main" xml:lang="x-jat">Gate: Jieitai Kano Chi nite, Kaku Tatakaeri (2016)</title>
@@ -79720,6 +79854,7 @@
     <title type="official" xml:lang="ja">魔法少女なんてもういいですから.</title>
     <title type="official" xml:lang="ko">마법소녀 따위는 이제 됐으니까.</title>
     <title type="official" xml:lang="zh-Hans">魔法少女什么的已经够了啦。</title>
+    <title type="official" xml:lang="zh-Hant">魔法少女什麼的已經夠了啦。</title>
     <title type="short" xml:lang="ja">まほいい</title>
     <title type="short" xml:lang="x-jat">Mahoii</title>
     <title type="syn" xml:lang="en">I`ve Had Enough of Being a Magical Girl.</title>
@@ -79913,6 +80048,7 @@
     <title type="official" xml:lang="it">Le ragazze anelano alla landa selvaggia</title>
     <title type="official" xml:lang="ja">少女たちは荒野を目指す ~Girls beyond the youth KOYA~</title>
     <title type="official" xml:lang="zh-Hans">少女们向荒野进发</title>
+    <title type="official" xml:lang="zh-Hant">少女們向荒野進發</title>
     <title type="short" xml:lang="ja">しょこめざ</title>
     <title type="short" xml:lang="x-jat">koya</title>
     <title type="short" xml:lang="x-jat">shokomeza</title>
@@ -80298,6 +80434,7 @@
     <title type="official" xml:lang="en">Tanaka-kun Is Always Listless</title>
     <title type="official" xml:lang="ja">田中くんはいつもけだるげ</title>
     <title type="official" xml:lang="zh-Hans">田中君总是如此慵懒</title>
+    <title type="official" xml:lang="zh-Hant">田中君總是如此慵懶</title>
     <title type="short" xml:lang="x-jat">Tanaka</title>
     <title type="syn" xml:lang="en">tanaka kun</title>
     <title type="syn" xml:lang="x-jat">Tanaka-kun wa Kyou mo Kedaruge</title>
@@ -80548,6 +80685,7 @@
     <title type="official" xml:lang="ja">恋愛暴君</title>
     <title type="official" xml:lang="ko">연애폭군</title>
     <title type="official" xml:lang="zh-Hans">恋爱暴君</title>
+    <title type="official" xml:lang="zh-Hant">戀愛暴君</title>
     <title type="short" xml:lang="x-jat">Renbo</title>
     <title type="syn" xml:lang="ja">The very lovely tyrant of love ♥</title>
     <title type="syn" xml:lang="x-jat">Renai Boukun</title>
@@ -80882,6 +81020,7 @@
     <title type="official" xml:lang="fr">Elle et son chat</title>
     <title type="official" xml:lang="ja">彼女と彼女の猫 -Everything Flows-</title>
     <title type="official" xml:lang="zh-Hans">她和她的猫 -Everything Flows-</title>
+    <title type="official" xml:lang="zh-Hant">她與她的貓 -Everything Flows-</title>
     <title type="short" xml:lang="x-jat">kanojoneko tv</title>
     <title type="short" xml:lang="x-jat">ktknn tv</title>
     <title type="syn" xml:lang="ar">هي وقطها: كل شيء يطفو</title>
@@ -80980,6 +81119,7 @@
     <title type="syn" xml:lang="de">The Testament of Sister New Devil: Basara Tojos äußerst friedlicher Alltag</title>
     <title type="syn" xml:lang="en">The Testament of Sister New Devil Burst OAD</title>
     <title type="syn" xml:lang="x-jat">Shinmai Maou no Keiyakusha Burst OAD</title>
+    <title type="syn" xml:lang="zh-Hant">新妹魔王的契約者 BURST 東城刃更至極平和的日常</title>
   </anime>
   <anime aid="11891">
     <title type="kana" xml:lang="ja">デュエル・マスターズ バーサス・レボリューション・ファイナル</title>
@@ -81184,6 +81324,7 @@
     <title type="official" xml:lang="fr">Space Patrol Luluco</title>
     <title type="official" xml:lang="ja">宇宙パトロールルル子</title>
     <title type="official" xml:lang="zh-Hans">宇宙巡警露露子</title>
+    <title type="official" xml:lang="zh-Hant">宇宙巡警露露子</title>
     <title type="short" xml:lang="x-jat">luluco</title>
   </anime>
   <anime aid="11921">
@@ -81294,6 +81435,7 @@
     <title type="official" xml:lang="en">Orange</title>
     <title type="official" xml:lang="ja">orange</title>
     <title type="official" xml:lang="ru">Апельсин</title>
+    <title type="official" xml:lang="x-unk">Orange 橘色奇蹟</title>
     <title type="official" xml:lang="zh-Hans">橘色奇迹</title>
   </anime>
   <anime aid="11939">
@@ -81397,6 +81539,7 @@
     <title type="official" xml:lang="ja">甘々と稲妻</title>
     <title type="official" xml:lang="ko">달콤달콤 &amp; 짜릿짜릿</title>
     <title type="official" xml:lang="zh-Hans">天真与闪电</title>
+    <title type="official" xml:lang="zh-Hant">天真與閃電</title>
     <title type="short" xml:lang="x-jat">amaama</title>
     <title type="short" xml:lang="x-jat">amazuma</title>
     <title type="syn" xml:lang="en">Sweetness and Lightning</title>
@@ -81569,6 +81712,7 @@
     <title type="official" xml:lang="es">Bésalo a él, no a mí</title>
     <title type="official" xml:lang="ja">私がモテてどうすんだ</title>
     <title type="official" xml:lang="zh-Hans">我太受欢迎了该怎么办</title>
+    <title type="official" xml:lang="zh-Hant">我太受歡迎了該怎麼辦</title>
     <title type="short" xml:lang="x-jat">Watamote (2016)</title>
     <title type="short" xml:lang="x-jat">watashimote</title>
     <title type="short" xml:lang="x-jat">watasun</title>
@@ -81888,6 +82032,7 @@
     <title type="official" xml:lang="ja">怪獣娘[かいじゅうがーるず] ~ウルトラ怪獣擬人化計画~</title>
     <title type="official" xml:lang="zh-Hans">怪兽娘～奥特怪兽拟人化计划～</title>
     <title type="syn" xml:lang="x-jat">Ultra Kaijuu Gijinka Keikaku S1</title>
+    <title type="syn" xml:lang="zh-Hant">怪獸娘</title>
   </anime>
   <anime aid="12022">
     <title type="main" xml:lang="x-jat">Super Lovers (2017)</title>
@@ -82289,6 +82434,7 @@
     <title type="official" xml:lang="fr">Battle Girl High School</title>
     <title type="official" xml:lang="ja">バトルガール ハイスクール</title>
     <title type="official" xml:lang="zh-Hans">战斗女子高校</title>
+    <title type="official" xml:lang="zh-Hant">戰鬥女子學園</title>
     <title type="short" xml:lang="x-jat">batoga</title>
     <title type="short" xml:lang="x-jat">bghs</title>
     <title type="syn" xml:lang="ja">バトルガールハイスクール</title>
@@ -82371,6 +82517,7 @@
     <title type="official" xml:lang="ko">코바야시네 메이드래곤</title>
     <title type="official" xml:lang="ru">Дракониха-горничная госпожи Кобаяси</title>
     <title type="official" xml:lang="zh-Hans">小林家的龙女仆</title>
+    <title type="official" xml:lang="zh-Hant">小林家的龍女僕</title>
     <title type="short" xml:lang="en">Kobayashi-san</title>
     <title type="short" xml:lang="x-jat">kobayashi</title>
     <title type="short" xml:lang="x-jat">maidragon</title>
@@ -82584,6 +82731,7 @@
     <title type="official" xml:lang="ja">ストライク・ザ・ブラッド II</title>
     <title type="official" xml:lang="ko">스트라이크 더 블러드 II</title>
     <title type="official" xml:lang="zh-Hans">噬血狂袭II</title>
+    <title type="official" xml:lang="zh-Hant">噬血狂襲 II</title>
     <title type="short" xml:lang="x-jat">stb2</title>
   </anime>
   <anime aid="12122">
@@ -82860,6 +83008,7 @@
     <title type="official" xml:lang="fr">Shûmatsu no Izetta</title>
     <title type="official" xml:lang="ja">終末のイゼッタ Izetta, Die Letzte Hexe</title>
     <title type="official" xml:lang="zh-Hans">终末的伊泽塔</title>
+    <title type="official" xml:lang="zh-Hant">終末的伊澤塔</title>
     <title type="short" xml:lang="x-jat">izetta</title>
     <title type="syn" xml:lang="ru">Изетта, последняя из ведьм</title>
     <title type="syn" xml:lang="x-unk">终末的伊泽塔</title>
@@ -83035,6 +83184,7 @@
     <title type="official" xml:lang="ko">마사무네의 리벤지</title>
     <title type="official" xml:lang="ru">Месть Масамунэ</title>
     <title type="official" xml:lang="zh-Hans">政宗君的复仇</title>
+    <title type="official" xml:lang="zh-Hant">政宗君的復仇</title>
     <title type="short" xml:lang="en">Masamune</title>
     <title type="short" xml:lang="en">Masamune-kun</title>
     <title type="short" xml:lang="x-jat">masamunekun</title>
@@ -83298,6 +83448,7 @@
     <title type="official" xml:lang="en">Matoi the Sacred Slayer</title>
     <title type="official" xml:lang="ja">装神少女まとい</title>
     <title type="official" xml:lang="zh-Hans">装神少女小缠</title>
+    <title type="official" xml:lang="zh-Hant">神裝少女小纏</title>
     <title type="short" xml:lang="x-jat">matoi</title>
     <title type="syn" xml:lang="ru">Матой - изгоняющая духов</title>
   </anime>
@@ -83677,6 +83828,7 @@
     <title type="official" xml:lang="ja">アイドリッシュセブン</title>
     <title type="official" xml:lang="ko">아이돌리쉬 세븐</title>
     <title type="official" xml:lang="zh-Hans">IDOLiSH7</title>
+    <title type="official" xml:lang="zh-Hant">IDOLiSH7 - 偶像星願 -</title>
     <title type="syn" xml:lang="ja">IDOLiSH7</title>
   </anime>
   <anime aid="12344">
@@ -83879,6 +84031,7 @@
     <title type="official" xml:lang="pt-BR">Entrevistas com Garotas Monstro</title>
     <title type="official" xml:lang="ru">Деми хотят поговорить</title>
     <title type="official" xml:lang="zh-Hans">亚人酱有话要说</title>
+    <title type="official" xml:lang="zh-Hant">亞人醬有話要說</title>
     <title type="short" xml:lang="x-jat">Demi-chan</title>
     <title type="short" xml:lang="x-jat">demichan</title>
     <title type="syn" xml:lang="ru">Разговоры с мифами</title>
@@ -84216,6 +84369,7 @@
   <anime aid="12431">
     <title type="main" xml:lang="x-jat">Orange: Mirai</title>
     <title type="official" xml:lang="ja">orange -未来-</title>
+    <title type="syn" xml:lang="zh-Hant">橘色奇蹟 -未來-</title>
   </anime>
   <anime aid="12432">
     <title type="main" xml:lang="x-jat">Eye Drops</title>
@@ -84317,6 +84471,7 @@
     <title type="official" xml:lang="ko">천사의 3P!</title>
     <title type="official" xml:lang="ru">Ангельское трио</title>
     <title type="official" xml:lang="zh-Hans">天使的3P!</title>
+    <title type="official" xml:lang="zh-Hant">天使的3P！</title>
     <title type="short" xml:lang="en">tn3p</title>
     <title type="syn" xml:lang="x-jat">Tenshi no 3P</title>
   </anime>
@@ -84375,6 +84530,7 @@
     <title type="official" xml:lang="ja">月曜日のたわわ</title>
     <title type="official" xml:lang="ru">Тавава по понедельникам</title>
     <title type="official" xml:lang="zh-Hans">周一的丰满</title>
+    <title type="official" xml:lang="zh-Hant">星期一的豐滿</title>
     <title type="short" xml:lang="x-jat">tawawa</title>
     <title type="syn" xml:lang="es">Me pesan los lunes</title>
     <title type="syn" xml:lang="ko">월요일의 타와와</title>
@@ -84823,6 +84979,7 @@
     <title type="official" xml:lang="pl">Citrus</title>
     <title type="official" xml:lang="ru">Цитрус</title>
     <title type="official" xml:lang="zh-Hans">citrus～柑橘味香气～</title>
+    <title type="official" xml:lang="zh-Hant">Citrus~柑橘味香氣</title>
   </anime>
   <anime aid="12546">
     <title type="main" xml:lang="x-jat">Netsuzou Trap: NTR</title>
@@ -85060,6 +85217,7 @@
     <title type="official" xml:lang="ja">血界戦線 &amp; BEYOND</title>
     <title type="official" xml:lang="ko">혈계전선 &amp; 비욘드</title>
     <title type="official" xml:lang="zh-Hans">血界战线 &amp; BEYOND</title>
+    <title type="official" xml:lang="zh-Hant">血界戰線 &amp; BEYOND</title>
     <title type="short" xml:lang="x-jat">kekkaisensen2</title>
     <title type="short" xml:lang="x-jat">Keksen s2</title>
     <title type="syn" xml:lang="uk">Вартові кривавого бар’єру: По той бік</title>
@@ -85242,6 +85400,7 @@
     <title type="official" xml:lang="ja">打ち上げ花火, 下から見るか? 横から見るか?</title>
     <title type="official" xml:lang="ko">쏘아올린 불꽃, 밑에서 볼까? 옆에서 볼까?</title>
     <title type="official" xml:lang="zh-Hans">升空的焰火，从下面看还是从侧面看？</title>
+    <title type="official" xml:lang="zh-Hant">煙花</title>
     <title type="short" xml:lang="zh-Hans">烟花</title>
     <title type="syn" xml:lang="en">Fireworks, Should We See It from the Side or the Bottom?</title>
   </anime>
@@ -86137,6 +86296,7 @@
     <title type="official" xml:lang="pt">Laid-Back Camp, O Filme</title>
     <title type="official" xml:lang="ru">Уютный поход</title>
     <title type="official" xml:lang="zh-Hans">摇曳露营△</title>
+    <title type="official" xml:lang="zh-Hant">搖曳露營△</title>
     <title type="syn" xml:lang="pl">Beztroski Kemping</title>
     <title type="syn" xml:lang="x-jat">Yurucamp</title>
     <title type="syn" xml:lang="x-jat">Yurukyan</title>
@@ -86258,6 +86418,7 @@
     <title type="official" xml:lang="ja">月がきれい</title>
     <title type="official" xml:lang="ko">달이 예쁘다</title>
     <title type="official" xml:lang="zh-Hans">月色真美</title>
+    <title type="official" xml:lang="zh-Hant">月色真美</title>
     <title type="short" xml:lang="x-jat">Tsurei</title>
     <title type="syn" xml:lang="en">As the Moon, So Beautiful</title>
     <title type="syn" xml:lang="ja">as the moon, so beautiful.</title>
@@ -86388,6 +86549,7 @@
     <title type="official" xml:lang="ja">続 刀剣乱舞-花丸-</title>
     <title type="official" xml:lang="ko">속 도검난무 하나마루</title>
     <title type="official" xml:lang="zh-Hans">续「刀剑乱舞-花丸-」</title>
+    <title type="official" xml:lang="zh-Hant">續 刀劍亂舞 - 花丸 -</title>
     <title type="short" xml:lang="x-jat">tourabu s2</title>
     <title type="syn" xml:lang="ja">Zoku Touken Ranbu - Hanamaru</title>
   </anime>
@@ -87783,6 +87945,7 @@
     <title type="official" xml:lang="ja">いつだって僕らの恋は10センチだった.</title>
     <title type="official" xml:lang="ko">언제나 우리의 사랑은 10cm였다.</title>
     <title type="official" xml:lang="zh-Hans">我们的爱总是只有10厘米。</title>
+    <title type="official" xml:lang="zh-Hant">無論何時我們的戀情都是10厘米。</title>
     <title type="short" xml:lang="en">lovecommittee tv</title>
     <title type="short" xml:lang="x-jat">10cm</title>
     <title type="syn" xml:lang="en">Confession Executive Committee tv</title>
@@ -88363,6 +88526,7 @@
     <title type="official" xml:lang="ja">少女☆歌劇 レヴュースタァライト</title>
     <title type="official" xml:lang="ko">소녀☆가극 레뷰 스타라이트</title>
     <title type="official" xml:lang="zh-Hans">少女☆歌剧 Revue Starlight</title>
+    <title type="official" xml:lang="zh-Hant">少女☆歌劇 Revue Starlight</title>
     <title type="short" xml:lang="zh-Hans">少女歌剧</title>
     <title type="syn" xml:lang="ja">少女☆歌劇 レヴュー・スタァライト</title>
     <title type="syn" xml:lang="x-jat">Shoujo☆Kageki Revue Starlight</title>
@@ -88498,6 +88662,9 @@
     <title type="syn" xml:lang="pt">Donzelas com Catanas ~ Donzelas do Santuário Toji</title>
     <title type="syn" xml:lang="pt-BR">Donzelas com Catanas</title>
     <title type="syn" xml:lang="pt-BR">Donzelas com Catanas ~ Donzelas do Santuário Toji</title>
+    <title type="syn" xml:lang="zh-Hant">刀使之巫女</title>
+    <title type="syn" xml:lang="zh-Hant">刀使巫女</title>
+    <title type="syn" xml:lang="zh-Hant">馭刀巫女</title>
   </anime>
   <anime aid="13173">
     <title type="main" xml:lang="x-jat">Ylion to Callysia</title>
@@ -88520,6 +88687,7 @@
     <title type="official" xml:lang="ru">Мирай из будущего</title>
     <title type="official" xml:lang="vi">Mirai: Em gái đến từ tương lai</title>
     <title type="official" xml:lang="zh-Hans">未来的未来</title>
+    <title type="official" xml:lang="zh-Hant">未來的未來</title>
     <title type="syn" xml:lang="en">Mirai of the Future</title>
   </anime>
   <anime aid="13175">
@@ -89245,6 +89413,7 @@
     <title type="official" xml:lang="ko">하카타 돈코츠 라멘즈</title>
     <title type="official" xml:lang="ru">Свиной рамен из Хакаты</title>
     <title type="official" xml:lang="zh-Hans">博多豚骨拉面</title>
+    <title type="official" xml:lang="zh-Hant">博多豚骨拉麵團</title>
     <title type="short" xml:lang="x-jat">htr</title>
     <title type="syn" xml:lang="en">Hataka Pig Bone Ramen</title>
   </anime>
@@ -89377,6 +89546,7 @@
     <title type="main" xml:lang="x-jat">Baja no Studio</title>
     <title type="official" xml:lang="ja">バジャのスタジオ</title>
     <title type="syn" xml:lang="en">Baja`s Studio</title>
+    <title type="syn" xml:lang="zh-Hant">巴佳的工作室</title>
   </anime>
   <anime aid="13293">
     <title type="main" xml:lang="x-jat">Otaku ni Koi wa Muzukashii</title>
@@ -89429,6 +89599,7 @@
     <title type="official" xml:lang="ja">はるかなレシーブ</title>
     <title type="official" xml:lang="ko">아득한 리시브</title>
     <title type="official" xml:lang="zh-Hans">遥的接球</title>
+    <title type="official" xml:lang="zh-Hant">遙的接球</title>
     <title type="short" xml:lang="x-jat">harurec</title>
   </anime>
   <anime aid="13298">
@@ -89495,6 +89666,7 @@
     <title type="official" xml:lang="ko">살육의 천사</title>
     <title type="official" xml:lang="ru">Ангел резни</title>
     <title type="official" xml:lang="zh-Hans">杀戮天使</title>
+    <title type="official" xml:lang="zh-Hant">殺戮的天使</title>
     <title type="syn" xml:lang="pl">Aniołowie zbrodni</title>
   </anime>
   <anime aid="13308">
@@ -89831,6 +90003,7 @@
     <title type="syn" xml:lang="en">Dagashi Kashi Season 2</title>
     <title type="syn" xml:lang="ru">Магазинчик сладостей 2</title>
     <title type="syn" xml:lang="x-jat">Dagashi Kashi S2</title>
+    <title type="syn" xml:lang="zh-Hant">粗點心戰爭2</title>
   </anime>
   <anime aid="13356">
     <title type="main" xml:lang="x-jat">Kyonyuu Daikazoku Saimin</title>
@@ -90251,6 +90424,7 @@
     <title type="official" xml:lang="ja">魔法少女サイト</title>
     <title type="official" xml:lang="ko">마법소녀 사이트</title>
     <title type="official" xml:lang="zh-Hans">魔法少女网站</title>
+    <title type="official" xml:lang="zh-Hant">魔法少女網站</title>
     <title type="short" xml:lang="x-jat">mgs</title>
     <title type="short" xml:lang="x-jat">mss</title>
     <title type="syn" xml:lang="pl">Czarodziejki.net</title>
@@ -90334,6 +90508,7 @@
     <title type="syn" xml:lang="ja">ブレードランナー ブラックアウト2022</title>
     <title type="syn" xml:lang="pt">Blade Runner 2022: Apagão</title>
     <title type="syn" xml:lang="pt">Blade Runner: Apagão 2022</title>
+    <title type="syn" xml:lang="zh-Hant">銀翼殺手：2022大停電</title>
   </anime>
   <anime aid="13437">
     <title type="main" xml:lang="x-jat">Butlers: Chitose Momotose Monogatari</title>
@@ -90626,6 +90801,7 @@
     <title type="official" xml:lang="ja">賢者の孫</title>
     <title type="official" xml:lang="ru">Внук мудреца</title>
     <title type="official" xml:lang="zh-Hans">贤者之孙</title>
+    <title type="official" xml:lang="zh-Hant">賢者之孫</title>
     <title type="short" xml:lang="x-jat">Kengo</title>
   </anime>
   <anime aid="13478">
@@ -90931,6 +91107,7 @@
     <title type="official" xml:lang="ko">째깍째깍</title>
     <title type="official" xml:lang="pt">Kokkoku: Momento a Momento</title>
     <title type="official" xml:lang="zh-Hans">刻刻</title>
+    <title type="official" xml:lang="zh-Hant">刻刻 ─時間暫停─</title>
     <title type="syn" xml:lang="en">Moment by Moment</title>
     <title type="syn" xml:lang="pt">Momento a Momento</title>
     <title type="syn" xml:lang="pt-BR">Kokkoku: Momento a Momento</title>
@@ -91140,6 +91317,7 @@
     <title type="official" xml:lang="ja">新妹魔王の契約者 DEPARTURES</title>
     <title type="official" xml:lang="ko">새 여동생 마왕의 계약자 DEPARTURES</title>
     <title type="official" xml:lang="zh-Hans">新妹魔王的契约者 DEPARTURES</title>
+    <title type="official" xml:lang="zh-Hant">新妹魔王的契約者 DEPARTURES</title>
     <title type="short" xml:lang="x-jat">Shinmaou Departures</title>
   </anime>
   <anime aid="13544">
@@ -91496,6 +91674,7 @@
     <title type="official" xml:lang="ko">일곱개의 미덕</title>
     <title type="official" xml:lang="zh-Hans">七美德</title>
     <title type="syn" xml:lang="ru">Семь небесных добродетелей</title>
+    <title type="syn" xml:lang="zh-Hant">七美德</title>
   </anime>
   <anime aid="13600">
     <title type="main" xml:lang="x-jat">Son Gokuu Silk Road o Tobu!!</title>
@@ -91529,6 +91708,7 @@
     <title type="official" xml:lang="fr">Détective Conan : L`exécutant de Zero</title>
     <title type="official" xml:lang="ja">名探偵コナン ゼロの執行人</title>
     <title type="official" xml:lang="zh-Hans">名侦探柯南 零的执行人</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：零的執行人</title>
     <title type="syn" xml:lang="en">Detective Conan Movie 22: Zero`s Executioner</title>
     <title type="syn" xml:lang="en">Detective Conan: Movie 22</title>
     <title type="syn" xml:lang="en">Detective Conan: Movie 22 - Zero the Enforcer</title>
@@ -92215,6 +92395,7 @@
     <title type="official" xml:lang="ja">幼女戦記 (2019)</title>
     <title type="official" xml:lang="ru">Колдунья в погонах. Фильм</title>
     <title type="official" xml:lang="zh-Hans">剧场版 幼女战记</title>
+    <title type="official" xml:lang="zh-Hant">劇場版 幼女戰記</title>
     <title type="syn" xml:lang="en">Saga of Tanya the Evil: The Movie</title>
     <title type="syn" xml:lang="ja">劇場版 幼女戦記</title>
     <title type="syn" xml:lang="ko">극장판 유녀전기</title>
@@ -92536,6 +92717,7 @@
     <title type="official" xml:lang="ja">RELEASE THE SPYCE</title>
     <title type="official" xml:lang="ko">Release the Spyce</title>
     <title type="official" xml:lang="zh-Hans">月影特工</title>
+    <title type="official" xml:lang="zh-Hant">月影特工</title>
     <title type="short" xml:lang="ja">リリスパ</title>
     <title type="short" xml:lang="x-jat">RtS</title>
     <title type="syn" xml:lang="ja">リリース ザ スパイス</title>
@@ -93476,6 +93658,7 @@
     <title type="official" xml:lang="ko">스트라이크 더 블러드 III</title>
     <title type="official" xml:lang="uk">Опір крові ІІІ</title>
     <title type="official" xml:lang="zh-Hans">噬血狂袭III</title>
+    <title type="official" xml:lang="zh-Hant">噬血狂襲 III</title>
     <title type="short" xml:lang="x-jat">stb3</title>
     <title type="syn" xml:lang="x-jat">Strike the Blood Third</title>
   </anime>
@@ -93525,6 +93708,7 @@
     <title type="official" xml:lang="ja">寄宿学校のジュリエット</title>
     <title type="official" xml:lang="ko">기숙학교의 줄리엣</title>
     <title type="official" xml:lang="zh-Hans">寄宿学校的朱丽叶</title>
+    <title type="official" xml:lang="zh-Hant">寄宿學校的茱麗葉</title>
     <title type="short" xml:lang="x-jat">BSJ s1</title>
     <title type="short" xml:lang="x-jat">kishugak</title>
     <title type="syn" xml:lang="en">Boarding School Juliet: To Love, Or Not to Love</title>
@@ -93637,6 +93821,7 @@
     <title type="official" xml:lang="ko">물드는 세계의 내일로부터</title>
     <title type="official" xml:lang="ru">С завтрашнего дня в разноцветном мире</title>
     <title type="official" xml:lang="zh-Hans">来自多彩世界的明天</title>
+    <title type="official" xml:lang="zh-Hant">來自繽紛世界的明日</title>
     <title type="syn" xml:lang="en">So Many Colors in the Future What a Wonderful World</title>
     <title type="syn" xml:lang="x-jat">Iroduku Sekai no Ashita kara</title>
     <title type="syn" xml:lang="x-jat">Irodzuku Sekai no Ashita kara</title>
@@ -93956,6 +94141,7 @@
     <title type="main" xml:lang="x-jat">Kaijuu Girls (Kuro): Ultra Kaijuu Gijinka Keikaku</title>
     <title type="official" xml:lang="en">Kaiju Girls Black</title>
     <title type="official" xml:lang="ja">怪獣娘[かいじゅうがーるず](黒) ~ウルトラ怪獣擬人化計画~</title>
+    <title type="official" xml:lang="zh-Hant">怪獸娘（黑）</title>
     <title type="syn" xml:lang="x-jat">Ultra Kaijuu Gijinka Keikaku S3</title>
   </anime>
   <anime aid="13976">
@@ -94499,6 +94685,7 @@
     <title type="official" xml:lang="en">Shirobako the Movie</title>
     <title type="official" xml:lang="ja">劇場版SHIROBAKO</title>
     <title type="official" xml:lang="ko">극장판 SHIROBAKO</title>
+    <title type="official" xml:lang="zh-Hant">劇場版 白箱 SHIROBAKO</title>
     <title type="syn" xml:lang="zh-Hans">白箱 剧场版</title>
   </anime>
   <anime aid="14062">
@@ -94869,6 +95056,7 @@
     <title type="official" xml:lang="ko">바람이 강하게 불고 있다</title>
     <title type="official" xml:lang="ru">В ногу с ветром</title>
     <title type="official" xml:lang="zh-Hans">强风吹拂</title>
+    <title type="official" xml:lang="zh-Hant">強風吹拂</title>
     <title type="short" xml:lang="ja">かぜつよ</title>
     <title type="short" xml:lang="ja">風つよ</title>
     <title type="short" xml:lang="x-jat">kazefu</title>
@@ -95661,6 +95849,7 @@
     <title type="official" xml:lang="it">I figli del mare</title>
     <title type="official" xml:lang="ja">海獣の子供</title>
     <title type="official" xml:lang="zh-Hans">海兽之子</title>
+    <title type="official" xml:lang="zh-Hant">海獸之子</title>
     <title type="short" xml:lang="x-jat">CotS</title>
   </anime>
   <anime aid="14222">
@@ -95751,6 +95940,7 @@
     <title type="official" xml:lang="ja">この音とまれ!</title>
     <title type="official" xml:lang="ru">Задержи этот звук!</title>
     <title type="official" xml:lang="zh-Hans">一弦定音!</title>
+    <title type="official" xml:lang="zh-Hant">一弦定音！</title>
     <title type="short" xml:lang="x-jat">konoto</title>
     <title type="syn" xml:lang="en">Stop This Sound!</title>
     <title type="syn" xml:lang="ru">Задержите этот звук!</title>
@@ -96688,6 +96878,7 @@
     <title type="official" xml:lang="ja">アズールレーン THE ANIMATION</title>
     <title type="official" xml:lang="ru">Азур Лейн</title>
     <title type="official" xml:lang="zh-Hans">碧蓝航线</title>
+    <title type="official" xml:lang="zh-Hant">碧藍航線</title>
     <title type="short" xml:lang="x-jat">Azur Lane</title>
     <title type="short" xml:lang="x-jat">azurlane</title>
     <title type="syn" xml:lang="ar">آزور لاين</title>
@@ -96706,6 +96897,7 @@
     <title type="official" xml:lang="en">Rascal Does Not Dream of a Dreaming Girl</title>
     <title type="official" xml:lang="ja">青春ブタ野郎はゆめみる少女の夢を見ない</title>
     <title type="official" xml:lang="zh-Hans">青春猪头少年不会梦到怀梦美少女</title>
+    <title type="official" xml:lang="zh-Hant">青春豬頭少年不會夢到懷夢美少女</title>
     <title type="short" xml:lang="en">BGS Movie</title>
     <title type="short" xml:lang="en">seibuta movie</title>
     <title type="short" xml:lang="x-jat">aobuta movie</title>
@@ -96985,6 +97177,7 @@
     <title type="official" xml:lang="ja">ゆるキャン△ SEASON2</title>
     <title type="official" xml:lang="pl">Beztroski kemping Sezon 2</title>
     <title type="official" xml:lang="zh-Hans">摇曳露营△ 第二季</title>
+    <title type="official" xml:lang="zh-Hant">搖曳露營△ 第二季</title>
     <title type="short" xml:lang="x-jat">Yurucamp S2</title>
     <title type="syn" xml:lang="x-jat">Yuru Camp S2</title>
   </anime>
@@ -97141,6 +97334,7 @@
     <title type="official" xml:lang="ko">어새신즈 프라이드</title>
     <title type="official" xml:lang="ru">ГОРДОСТЬ УБИЙЦ</title>
     <title type="official" xml:lang="zh-Hans">刺客守则</title>
+    <title type="official" xml:lang="zh-Hant">刺客守則</title>
     <title type="short" xml:lang="x-jat">asspri</title>
     <title type="syn" xml:lang="ru">Гордость убийцы</title>
   </anime>
@@ -97151,6 +97345,7 @@
     <title type="official" xml:lang="ja">通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか?</title>
     <title type="official" xml:lang="ko">일반 공격이 전체 공격에 2회 공격인 엄마는 좋아하세요?</title>
     <title type="official" xml:lang="zh-Hans">普通攻击是全体二连击，这样的妈妈你喜欢吗？</title>
+    <title type="official" xml:lang="zh-Hant">普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？</title>
     <title type="short" xml:lang="en">twohitmom</title>
     <title type="short" xml:lang="x-jat">okaa-san online</title>
     <title type="short" xml:lang="x-jat">okasuki</title>
@@ -97330,6 +97525,7 @@
     <title type="official" xml:lang="ru">Осторожный герой: и без того сильнейший, он слишком осторожен!</title>
     <title type="official" xml:lang="uk">Цей герой надмогутній, але занадто обережний</title>
     <title type="official" xml:lang="zh-Hans">慎重勇者 ～这个勇者明明超强却过分慎重～</title>
+    <title type="official" xml:lang="zh-Hant">這個勇者明明超TUEEE卻過度謹慎！</title>
     <title type="short" xml:lang="x-jat">shiyuu</title>
     <title type="syn" xml:lang="ar">البطل الحذر</title>
     <title type="syn" xml:lang="en">This Hero Is Invincible but "Too Cautious"</title>
@@ -97611,6 +97807,7 @@
     <title type="official" xml:lang="ja">荒ぶる季節の乙女どもよ.</title>
     <title type="official" xml:lang="ko">거친 계절의 소녀들이여</title>
     <title type="official" xml:lang="zh-Hans">骚动时节的少女们啊。</title>
+    <title type="official" xml:lang="zh-Hant">騷亂時節的少女們。</title>
     <title type="short" xml:lang="x-jat">araoto</title>
   </anime>
   <anime aid="14513">
@@ -97625,6 +97822,7 @@
     <title type="official" xml:lang="ja">世話やきキツネの仙狐さん</title>
     <title type="official" xml:lang="ko">도우미 여우 센코 씨</title>
     <title type="official" xml:lang="zh-Hans">贤惠幼妻仙狐小姐</title>
+    <title type="official" xml:lang="zh-Hant">請讓我撒嬌，仙狐大人！</title>
     <title type="short" xml:lang="x-jat">Senko</title>
     <title type="short" xml:lang="x-jat">senko-san</title>
   </anime>
@@ -97708,6 +97906,7 @@
     <title type="official" xml:lang="ru">Бофури. Я боюсь боли, так что качаю только защиту</title>
     <title type="official" xml:lang="uk">Мені не подобається біль, тому качатиму тільки захист.</title>
     <title type="official" xml:lang="zh-Hans">因为太怕痛就全点防御力了</title>
+    <title type="official" xml:lang="zh-Hant">怕痛的我，把防禦力點滿就對了</title>
     <title type="short" xml:lang="ar">بوفوري</title>
     <title type="short" xml:lang="ja">防振り</title>
     <title type="short" xml:lang="x-jat">bofuri</title>
@@ -97962,6 +98161,7 @@
     <title type="official" xml:lang="en">Kono Oto Tomare! Sounds of Life (2019)</title>
     <title type="official" xml:lang="ja">この音とまれ! (2019)</title>
     <title type="official" xml:lang="zh-Hans">一弦定音！第二季</title>
+    <title type="official" xml:lang="zh-Hant">一弦定音！第二季</title>
     <title type="short" xml:lang="x-jat">konoto s2</title>
     <title type="short" xml:lang="x-jat">konoto2</title>
     <title type="syn" xml:lang="ja">この音とまれ! 第2クール</title>
@@ -98143,6 +98343,7 @@
     <title type="official" xml:lang="ko">로드 엘멜로이 2세의 사건부: {레일 체펠린} 그레이스 노트</title>
     <title type="official" xml:lang="ru">Досье Лорда Эль-Меллоя II {Рельсовый Цеппелин} форшлаг</title>
     <title type="official" xml:lang="zh-Hans">君主·埃尔梅罗二世事件簿 -魔眼收集列车 Grace note-</title>
+    <title type="official" xml:lang="zh-Hant">艾梅洛閣下 II 世事件簿 -魔眼蒐集列車 Grace note-</title>
     <title type="short" xml:lang="x-jat">lem</title>
     <title type="syn" xml:lang="ar">ملف قضايا اللورد إل-ميلوي الثاني - نغمة إضافية ريل زيبيلين</title>
     <title type="syn" xml:lang="x-jat">Fate: Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note</title>
@@ -98658,6 +98859,7 @@
     <title type="official" xml:lang="en">True Cooking Master Boy</title>
     <title type="official" xml:lang="ja">真・中華一番!</title>
     <title type="official" xml:lang="zh-Hans">厨神小当家</title>
+    <title type="official" xml:lang="zh-Hant">廚神小當家</title>
   </anime>
   <anime aid="14659">
     <title type="main" xml:lang="x-jat">Beastars</title>
@@ -98821,6 +99023,7 @@
     <title type="official" xml:lang="ru">Дракониха-горничная госпожи Кобаяси S</title>
     <title type="official" xml:lang="th">โคบายาชิซังกับเมดมังกร ภาคที่ 2</title>
     <title type="official" xml:lang="zh-Hans">小林家的龙女仆S</title>
+    <title type="official" xml:lang="zh-Hant">小林家的龍女僕S</title>
     <title type="short" xml:lang="en">Kobayashi-san S</title>
     <title type="short" xml:lang="x-jat">kobayashi s2</title>
     <title type="short" xml:lang="x-jat">Maid Dragon S</title>
@@ -99400,6 +99603,7 @@
     <title type="official" xml:lang="pt-BR">Hanako-kun e os Mistérios do Colégio Kamome</title>
     <title type="official" xml:lang="ru">Туалетный мальчик Ханако</title>
     <title type="official" xml:lang="zh-Hans">地缚少年花子君</title>
+    <title type="official" xml:lang="zh-Hant">地縛少年花子君</title>
     <title type="short" xml:lang="en">tbhk</title>
     <title type="short" xml:lang="x-jat">jibasho</title>
     <title type="short" xml:lang="x-jat">jshk</title>
@@ -99586,6 +99790,7 @@
     <title type="official" xml:lang="ja">ゴブリンスレイヤー GOBLIN`S CROWN</title>
     <title type="official" xml:lang="ko">고블린 슬레이어: GOBLIN`S CROWN</title>
     <title type="official" xml:lang="zh-Hans">哥布林杀手：哥布林的王冠</title>
+    <title type="official" xml:lang="zh-Hant">哥布林殺手 -GOBLIN`S CROWN-</title>
     <title type="short" xml:lang="x-jat">gobusure movie</title>
     <title type="syn" xml:lang="ru">Убийца гоблинов Фильм</title>
   </anime>
@@ -100025,6 +100230,7 @@
     <title type="official" xml:lang="ja">バジャのスタジオ~バジャのみた海~</title>
     <title type="official" xml:lang="zh-Hans">巴加的工作室 ～巴加眼中的海洋～</title>
     <title type="syn" xml:lang="en">Baja`s Studio: The Sea Baja Saw</title>
+    <title type="syn" xml:lang="zh-Hant">巴佳的工作室 ～巴佳眼中的海洋～</title>
   </anime>
   <anime aid="14840">
     <title type="main" xml:lang="x-jat">Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou</title>
@@ -100278,6 +100484,7 @@
     <title type="official" xml:lang="fr">Détective Conan : La balle écarlate</title>
     <title type="official" xml:lang="ja">名探偵コナン 緋色の弾丸</title>
     <title type="official" xml:lang="zh-Hans">名侦探柯南 绯色的子弹</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：緋色的彈丸</title>
     <title type="syn" xml:lang="en">Detective Conan Movie 24: The Scarlet Bullet</title>
     <title type="syn" xml:lang="en">Detective Conan: Movie 24</title>
     <title type="syn" xml:lang="en">Detective Conan: The Scarlet Bullet</title>
@@ -102670,6 +102877,7 @@
     <title type="official" xml:lang="ja">回復術士のやり直し</title>
     <title type="official" xml:lang="ko">회복술사의 재시작</title>
     <title type="official" xml:lang="zh-Hans">回复术士的重启人生</title>
+    <title type="official" xml:lang="zh-Hant">回復術士的重啟人生</title>
     <title type="short" xml:lang="x-unk">kaiyari</title>
     <title type="syn" xml:lang="uk">Повтор цілителя</title>
   </anime>
@@ -103055,6 +103263,7 @@
     <title type="official" xml:lang="ja">怪物事変</title>
     <title type="official" xml:lang="ru">Чудовищные происшествия</title>
     <title type="official" xml:lang="zh-Hans">怪物事变</title>
+    <title type="official" xml:lang="zh-Hant">怪物事變</title>
     <title type="syn" xml:lang="en">Monster Incidents</title>
     <title type="syn" xml:lang="uk">Звірячий інцидент</title>
   </anime>
@@ -103080,6 +103289,7 @@
     <title type="official" xml:lang="ja">アズールレーン びそくぜんしんっ!</title>
     <title type="official" xml:lang="ru">Азур Лэйн: Малый вперёд!</title>
     <title type="official" xml:lang="zh-Hans">碧蓝航线：微速前行！</title>
+    <title type="official" xml:lang="zh-Hant">碧藍航線 微速前進！</title>
     <title type="short" xml:lang="x-jat">azurlane (2021)</title>
     <title type="syn" xml:lang="en">Anime AzurLane: Slow Ahead!</title>
     <title type="syn" xml:lang="pl">Azur Lane: Powoli przed siebie!</title>
@@ -103164,6 +103374,7 @@
     <title type="main" xml:lang="x-jat">Shin Chuuka Ichiban! (2021)</title>
     <title type="official" xml:lang="en">True Cooking Master Boy (2021)</title>
     <title type="official" xml:lang="ja">真・中華一番! (2021)</title>
+    <title type="official" xml:lang="zh-Hant">廚神小當家 第二季</title>
     <title type="syn" xml:lang="en">True Cooking Master Boy Season 2</title>
     <title type="syn" xml:lang="x-jat">Shin Chuuka Ichiban! Season 2</title>
   </anime>
@@ -103282,6 +103493,7 @@
     <title type="official" xml:lang="fr">To Your Eternity</title>
     <title type="official" xml:lang="ja">不滅のあなたへ</title>
     <title type="official" xml:lang="zh-Hans">致不灭的你</title>
+    <title type="official" xml:lang="zh-Hant">給不滅的你</title>
     <title type="short" xml:lang="x-jat">Fumeta</title>
     <title type="syn" xml:lang="ru">Для тебя, Бессмертный</title>
   </anime>
@@ -104004,6 +104216,7 @@
     <title type="main" xml:lang="x-jat">Gekijouban Kin`iro Mosaic: Thank You!!</title>
     <title type="official" xml:lang="en">Kinmoza! The Movie: Thank You!!</title>
     <title type="official" xml:lang="ja">劇場版きんいろモザイク Thank you!!</title>
+    <title type="official" xml:lang="zh-Hant">劇場版 黃金拼圖 Thank you!!</title>
     <title type="short" xml:lang="x-jat">kinmosa movie</title>
     <title type="short" xml:lang="x-jat">kinmoza movie</title>
     <title type="syn" xml:lang="x-jat">Kiniro Mosaic: Thank You!!</title>
@@ -104116,6 +104329,7 @@
     <title type="official" xml:lang="zh-Hans">因为太怕痛就全点防御力了。2</title>
     <title type="short" xml:lang="x-jat">bofuri s2</title>
     <title type="short" xml:lang="x-jat">boufuri 2</title>
+    <title type="syn" xml:lang="zh-Hant">怕痛的我，把防禦力點滿就對了2</title>
   </anime>
   <anime aid="15465">
     <title type="main" xml:lang="x-zht">Dou Hun Wei: Xuan Yue Qiyuan 2</title>
@@ -104558,6 +104772,7 @@
     <title type="official" xml:lang="ja">吸血鬼すぐ死ぬ</title>
     <title type="official" xml:lang="ru">Вампир умирает первым</title>
     <title type="official" xml:lang="zh-Hans">吸血鬼马上死</title>
+    <title type="official" xml:lang="zh-Hant">吸血鬼馬上死</title>
     <title type="short" xml:lang="x-jat">KyuuShi</title>
     <title type="syn" xml:lang="en">The Vampire Dies Now</title>
   </anime>
@@ -104742,6 +104957,7 @@
     <title type="official" xml:lang="ko">나만 들어가는 숨겨진 던전</title>
     <title type="official" xml:lang="ru">Сильнейший герой, обученный в тайном подземелье</title>
     <title type="official" xml:lang="zh-Hans">只有我能进入的隐藏迷宫</title>
+    <title type="official" xml:lang="zh-Hant">只有我能進入的隱藏迷宮</title>
     <title type="short" xml:lang="en">HidDun</title>
     <title type="short" xml:lang="x-jat">OreDungeon</title>
     <title type="syn" xml:lang="en">Special Training in the Secret Dungeon</title>
@@ -105219,6 +105435,7 @@
     <title type="official" xml:lang="en">The Dungeon of Black Company</title>
     <title type="official" xml:lang="ja">迷宮ブラックカンパニー</title>
     <title type="official" xml:lang="zh-Hans">异世界迷宫黑心企业</title>
+    <title type="official" xml:lang="zh-Hant">暗黑企業的迷宮</title>
     <title type="short" xml:lang="x-jat">mbc</title>
   </anime>
   <anime aid="15620">
@@ -105564,6 +105781,7 @@
     <title type="official" xml:lang="ja">平穏世代の韋駄天達</title>
     <title type="official" xml:lang="ru">Боги-стражники не ведали войны</title>
     <title type="official" xml:lang="zh-Hans">平稳世代的韦驮天们</title>
+    <title type="official" xml:lang="zh-Hant">平穩世代的韋駄天們</title>
     <title type="syn" xml:lang="en">Idaten Deities in the Peaceful Generation</title>
   </anime>
   <anime aid="15677">
@@ -106085,6 +106303,7 @@
     <title type="official" xml:lang="ja">幼なじみが絶対に負けないラブコメ</title>
     <title type="official" xml:lang="ru">Романтическая комедия, в которой подруга детства не проиграет</title>
     <title type="official" xml:lang="zh-Hans">青梅竹马绝对不会输的恋爱喜剧</title>
+    <title type="official" xml:lang="zh-Hant">青梅竹馬絕對不會輸的戀愛喜劇</title>
     <title type="short" xml:lang="ja">おさまけ</title>
     <title type="short" xml:lang="x-jat">osamake</title>
     <title type="syn" xml:lang="x-jat">Osananajimi ga Zettai ni Makenai Love Comedy</title>
@@ -106679,12 +106898,14 @@
     <title type="official" xml:lang="ja">真の仲間じゃないと勇者のパーティーを追い出されたので, 辺境でスローライフすることにしました</title>
     <title type="official" xml:lang="th">ผมโดนกลุ่มผู้กล้าขับไสเลยต้องไปสโลว์ไลฟ์ที่ชายแดน</title>
     <title type="official" xml:lang="zh-Hans">因为不是真正的伙伴而被逐出勇者队伍，流落到边境展开慢活人生</title>
+    <title type="official" xml:lang="zh-Hant">因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生</title>
     <title type="short" xml:lang="ja">真の仲間</title>
     <title type="short" xml:lang="x-jat">shinnaka</title>
     <title type="short" xml:lang="x-jat">shinnonakama</title>
     <title type="syn" xml:lang="en">Banished from the Brave Man`s Group, I Decided to Lead a Slow Life in the Back Country.</title>
     <title type="syn" xml:lang="en">Banished from the Heroes` Party</title>
     <title type="syn" xml:lang="pt">Banido da Festa do Herói, Decidi Viver uma Vida Tranquila no Campo</title>
+    <title type="syn" xml:lang="zh-Hant">因為不是命中注定的夥伴而被逐出勇者隊伍，從此到邊境過上了悠閒的隱居生活</title>
   </anime>
   <anime aid="15855">
     <title type="main" xml:lang="x-jat">Jimihen!! Jimiko o Kae Chau Jun Isei Kouyuu</title>
@@ -107016,6 +107237,7 @@
     <title type="official" xml:lang="uk">Людина-бензопила</title>
     <title type="official" xml:lang="zh">鏈鋸人</title>
     <title type="official" xml:lang="zh-Hans">链锯人</title>
+    <title type="official" xml:lang="zh-Hant">鏈鋸人</title>
     <title type="short" xml:lang="x-jat">CSM</title>
     <title type="syn" xml:lang="ar">رجل المنشار الجنزيري</title>
     <title type="syn" xml:lang="bg">Чейнсоу-мен</title>
@@ -107633,6 +107855,7 @@
     <title type="main" xml:lang="x-jat">Meitantei Conan: Hiiro no Fuzai Shoumei</title>
     <title type="official" xml:lang="de">Detektiv Conan: The Special – Das scharlachrote Alibi</title>
     <title type="official" xml:lang="ja">名探偵コナン 緋色の不在証明</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：緋色的不在場證明</title>
     <title type="syn" xml:lang="en">Detective Conan: The Scarlet Alibi</title>
   </anime>
   <anime aid="16000">
@@ -107906,6 +108129,7 @@
     <title type="official" xml:lang="ja">死神坊ちゃんと黒メイド</title>
     <title type="official" xml:lang="ru">Смертоносный герцог и его горничная</title>
     <title type="official" xml:lang="zh-Hans">死神少爷与黑女仆</title>
+    <title type="official" xml:lang="zh-Hant">死神少爺與黑女僕</title>
     <title type="short" xml:lang="x-jat">kuromaid</title>
     <title type="short" xml:lang="x-jat">shinmaid</title>
   </anime>
@@ -108025,6 +108249,7 @@
     <title type="official" xml:lang="ko">세계 최고의 암살자, 이세계 귀족으로 전생하다</title>
     <title type="official" xml:lang="ru">Лучший в мире ассасин переродился в другом мире аристократом</title>
     <title type="official" xml:lang="zh-Hans">世界顶尖的暗杀者转生为异世界贵族</title>
+    <title type="official" xml:lang="zh-Hant">世界頂尖的暗殺者轉生為異世界貴族</title>
     <title type="short" xml:lang="ja">暗殺貴族</title>
     <title type="short" xml:lang="x-jat">Ansatsu Kizoku</title>
     <title type="syn" xml:lang="en">The World`s Best Assassin, to Reincarnate in a Different World Aristocrat</title>
@@ -108243,6 +108468,7 @@
     <title type="official" xml:lang="ja">ARIA The BENEDIZIONE</title>
     <title type="official" xml:lang="x-zht">水星領航員 The BENEDIZIONE</title>
     <title type="official" xml:lang="zh-Hans">水星领航员 The BENEDIZIONE</title>
+    <title type="official" xml:lang="zh-Hant">水星領航員：ARIA The BENEDIZIONE</title>
     <title type="short" xml:lang="x-jat">Aria7</title>
     <title type="syn" xml:lang="ja">アリア ザ ベネディジオーネ</title>
   </anime>
@@ -108508,6 +108734,7 @@
     <title type="official" xml:lang="en">Irina: The Vampire Cosmonaut</title>
     <title type="official" xml:lang="ja">月とライカと吸血姫</title>
     <title type="official" xml:lang="zh-Hans">月与莱卡与吸血鬼公主</title>
+    <title type="official" xml:lang="zh-Hant">月與萊卡與吸血公主</title>
     <title type="syn" xml:lang="en">Moon, Laika, and the Bloodsucking Princess</title>
     <title type="syn" xml:lang="ru">Луна, Лайка и Носферату</title>
   </anime>
@@ -108720,6 +108947,7 @@
     <title type="official" xml:lang="ja">tákt op.Destiny</title>
     <title type="official" xml:lang="ru">Такт. Опус Дестини</title>
     <title type="official" xml:lang="zh-Hans">宿命回响：命运节拍</title>
+    <title type="official" xml:lang="zh-Hant">宿命迴響：命運節拍</title>
     <title type="syn" xml:lang="ja">タクトオーパス</title>
     <title type="syn" xml:lang="x-jat">{takt: op. Destiny}</title>
   </anime>
@@ -109271,6 +109499,7 @@
     <title type="official" xml:lang="en">Sonny Boy</title>
     <title type="official" xml:lang="ja">Sonny Boy</title>
     <title type="official" xml:lang="zh-Hans">漂流少年</title>
+    <title type="official" xml:lang="zh-Hant">漂流少年</title>
     <title type="syn" xml:lang="ja">サニーボーイ</title>
   </anime>
   <anime aid="16284">
@@ -109406,6 +109635,7 @@
     <title type="main" xml:lang="x-jat">Love Live! Nijigasaki Gakuen School Idol Doukoukai (2022)</title>
     <title type="official" xml:lang="en">Love Live! Nijigasaki High School Idol Club (2022)</title>
     <title type="official" xml:lang="ja">ラブライブ! 虹ヶ咲学園スクールアイドル同好会 (2022)</title>
+    <title type="official" xml:lang="zh-Hant">Love Live！虹咲學園 學園偶像同好會 第二季</title>
     <title type="syn" xml:lang="zh-Hant">虹咲學園 學園偶像同好會 第二季</title>
   </anime>
   <anime aid="16311">
@@ -109461,6 +109691,7 @@
     <title type="official" xml:lang="ja">魔法少女マジカルデストロイヤーズ</title>
     <title type="official" xml:lang="ru">Магические крушители</title>
     <title type="official" xml:lang="zh-Hans">魔法少女毁灭者</title>
+    <title type="official" xml:lang="zh-Hant">魔法少女毀滅者</title>
     <title type="short" xml:lang="ja">MagiDes</title>
     <title type="short" xml:lang="ja">マジデス</title>
     <title type="short" xml:lang="x-unk">magical mad</title>
@@ -109679,6 +109910,7 @@
     <title type="official" xml:lang="ja">神達に拾われた男2</title>
     <title type="official" xml:lang="th">เพราะพระเจ้าเลือกเลยได้เกิดใหม่มาเลี้ยงสไลม์ในต่างโลก ภาคที่ 2</title>
     <title type="official" xml:lang="zh-Hans">被神捡到的男人2</title>
+    <title type="official" xml:lang="zh-Hant">眾神眷顧的男人 2</title>
     <title type="short" xml:lang="x-jat">kamihiro s2</title>
     <title type="syn" xml:lang="x-jat">Kami-tachi ni Hirowareta Otoko Season 2</title>
   </anime>
@@ -109750,6 +109982,7 @@
     <title type="official" xml:lang="ja">社畜さんは幼女幽霊に癒されたい.</title>
     <title type="official" xml:lang="ru">Офисная леди и малышка-призрак</title>
     <title type="official" xml:lang="zh-Hans">上班族想被治愈</title>
+    <title type="official" xml:lang="zh-Hant">社畜想被幼女幽靈療癒</title>
     <title type="syn" xml:lang="en">Ms. Corporate Slave Wants To Be Healed By A Loli Spirit</title>
     <title type="syn" xml:lang="en">The Company Slave Wants to Be Healed by a Little Ghost Girl</title>
     <title type="syn" xml:lang="x-jat">Shachisaretai</title>
@@ -110710,6 +110943,7 @@
     <title type="official" xml:lang="ja">四畳半タイムマシンブルース</title>
     <title type="official" xml:lang="pl">Wehikuł Tatami</title>
     <title type="official" xml:lang="zh-Hans">四叠半时光机布鲁斯</title>
+    <title type="official" xml:lang="zh-Hant">四疊半時光機藍調</title>
     <title type="syn" xml:lang="en">Tatami Time Machine Blues</title>
   </anime>
   <anime aid="16534">
@@ -111247,12 +111481,17 @@
   <anime aid="16628">
     <title type="main" xml:lang="x-zht">Yan Wang: Guai Hualang</title>
     <title type="official" xml:lang="zh-Hans">颜王 -怪画廊-</title>
+    <title type="syn" xml:lang="en">Face King</title>
+    <title type="syn" xml:lang="en">King of Appearance</title>
+    <title type="syn" xml:lang="x-zht">Yan Wang</title>
+    <title type="syn" xml:lang="zh-Hans">颜王</title>
   </anime>
   <anime aid="16629">
     <title type="main" xml:lang="x-jat">Shadows House 2nd Season</title>
     <title type="official" xml:lang="en">Shadows House 2nd Season</title>
     <title type="official" xml:lang="ja">シャドーハウス 2nd Season</title>
     <title type="official" xml:lang="zh-Hans">影宅 2nd Season</title>
+    <title type="official" xml:lang="zh-Hant">SHADOWS HOUSE-影宅- 第2季</title>
     <title type="short" xml:lang="zh-Hant">影宅 2</title>
   </anime>
   <anime aid="16630">
@@ -112896,6 +113135,7 @@
     <title type="official" xml:lang="ja">アークナイツ 黎明前奏</title>
     <title type="official" xml:lang="ru">Arknights: Прелюдия рассвета</title>
     <title type="official" xml:lang="zh-Hans">明日方舟：黎明前奏</title>
+    <title type="official" xml:lang="zh-Hant">明日方舟：黎明前奏</title>
     <title type="syn" xml:lang="pt-BR">Arknights: Preludio do alvorecer</title>
     <title type="syn" xml:lang="x-jat">Arknights: Reimei Zensou</title>
   </anime>
@@ -112925,6 +113165,7 @@
     <title type="official" xml:lang="pt-BR">Invocado Para Outro Mundo... De Novo?!</title>
     <title type="official" xml:lang="ru">Меня призвали в другой мир... снова?!</title>
     <title type="official" xml:lang="zh-Hans">第二次被异世界召唤</title>
+    <title type="official" xml:lang="zh-Hant">第二次被異世界召喚</title>
     <title type="short" xml:lang="x-jat">Isenido</title>
     <title type="syn" xml:lang="en">Summoned to Another World... Again?!</title>
     <title type="syn" xml:lang="x-unk">isenido</title>
@@ -113051,6 +113292,7 @@
     <title type="official" xml:lang="en">The Vampire Dies in No Time 2</title>
     <title type="official" xml:lang="ja">吸血鬼すぐ死ぬ2</title>
     <title type="official" xml:lang="zh-Hans">吸血鬼马上死2</title>
+    <title type="official" xml:lang="zh-Hant">吸血鬼馬上死2</title>
     <title type="short" xml:lang="x-jat">KyuuShi 2</title>
     <title type="syn" xml:lang="en">The Vampire Dies Now 2</title>
   </anime>
@@ -113245,6 +113487,7 @@
     <title type="official" xml:lang="pt">Soldado Acorrentado</title>
     <title type="official" xml:lang="th">ทาสสุดแกร่งแห่งหน่วยป้องกันอสูร</title>
     <title type="official" xml:lang="zh-Hans">魔都精兵的奴隶</title>
+    <title type="official" xml:lang="zh-Hant">魔都精兵的奴隸</title>
     <title type="short" xml:lang="x-jat">matosla</title>
     <title type="short" xml:lang="x-jat">matosure</title>
     <title type="syn" xml:lang="ja">まぼうたい</title>
@@ -113421,6 +113664,7 @@
     <title type="official" xml:lang="fr">Détective Conan : La fiancée de Shibuya</title>
     <title type="official" xml:lang="ja">名探偵コナン ハロウィンの花嫁</title>
     <title type="official" xml:lang="zh-Hans">名侦探柯南 万圣节的新娘</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：萬聖節的新娘</title>
     <title type="syn" xml:lang="en">Detective Conan Movie 25</title>
     <title type="syn" xml:lang="en">Detective Conan: The Bride of Halloween</title>
   </anime>
@@ -113458,6 +113702,7 @@
     <title type="official" xml:lang="ru">Переродился, чтобы стать мастером меча: из великого короля в ученицу рыцаря</title>
     <title type="official" xml:lang="uk">Переродження в майстриню меча з короля героя / Переродження Короля Героя у Майстриню Меча</title>
     <title type="official" xml:lang="zh-Hans">英雄王，为了穷尽武道而转生～然后，成为世界最强的见习骑士♀～</title>
+    <title type="official" xml:lang="zh-Hant">英雄王，為了窮盡武道而轉生～而後成為世界最強見習騎士♀～</title>
     <title type="short" xml:lang="ja">英雄王</title>
     <title type="short" xml:lang="x-jat">auo</title>
     <title type="short" xml:lang="x-jat">eiyuuou</title>
@@ -113661,6 +113906,7 @@
     <title type="official" xml:lang="ja">夏へのトンネル, さよならの出口</title>
     <title type="official" xml:lang="ko">여름을 향한 터널, 이별의 출구</title>
     <title type="official" xml:lang="zh-Hans">通往夏天的隧道，再见的出口</title>
+    <title type="official" xml:lang="zh-Hant">通往夏天的隧道，再見的出口</title>
     <title type="short" xml:lang="x-jat">Natsuton</title>
   </anime>
   <anime aid="17041">
@@ -113908,6 +114154,7 @@
     <title type="official" xml:lang="ja">映画 ODD TAXI イン・ザ・ウッズ</title>
     <title type="official" xml:lang="pl">Eiga Odd Taxi: In the Woods</title>
     <title type="official" xml:lang="zh-Hans">电影 奇巧计程车 扑朔谜林</title>
+    <title type="official" xml:lang="zh-Hant">電影版 奇巧計程車：撲朔謎林</title>
     <title type="short" xml:lang="x-jat">oddtaxi movie</title>
     <title type="syn" xml:lang="ja">映画 オッドタクシー イン・ザ・ウッズ</title>
   </anime>
@@ -114312,6 +114559,7 @@
     <title type="official" xml:lang="en">Bloody Escape: Bats out of Hell</title>
     <title type="official" xml:lang="ja">BLOODY ESCAPE -地獄の逃走劇-</title>
     <title type="official" xml:lang="pt">Fuga Sangrenta: Morcegos Fora do Inferno</title>
+    <title type="official" xml:lang="zh-Hant">BLOODY ESCAPE：地獄的逃走劇</title>
     <title type="syn" xml:lang="en">Bloody Escape: Flight from Hell</title>
     <title type="syn" xml:lang="ja">ブラッディエスケープ -地獄の逃走劇-</title>
   </anime>
@@ -114403,6 +114651,7 @@
     <title type="official" xml:lang="ru">Перерождение сильнейшего экзорциста в другом мире</title>
     <title type="official" xml:lang="uk">Переродження найсильнішого екзорциста в іншому світі</title>
     <title type="official" xml:lang="zh-Hans">最强阴阳师的异世界转生记</title>
+    <title type="official" xml:lang="zh-Hant">最強陰陽師的異世界轉生記</title>
     <title type="syn" xml:lang="en">The Reincarnation of the Strongest Onmyoji</title>
     <title type="syn" xml:lang="pl">Najpotężniejszy egzorcysta odrodzony w innym świecie</title>
   </anime>
@@ -114940,6 +115189,7 @@
     <title type="official" xml:lang="pt-BR">Minha Mana Apelona</title>
     <title type="official" xml:lang="ru">Имба-сестра</title>
     <title type="official" xml:lang="zh-Hans">异世界一击无双姐姐</title>
+    <title type="official" xml:lang="zh-Hant">異世界一擊殺姊姊 ～姊姊同伴的異世界生活開始了～</title>
     <title type="short" xml:lang="ja">一撃姉</title>
     <title type="short" xml:lang="x-jat">ichigeki ane</title>
     <title type="syn" xml:lang="en">One Turn Kill Sister in Another World: I Started Living in Another World with My Older Sister</title>
@@ -114998,6 +115248,7 @@
     <title type="official" xml:lang="en">My Life as Inukai-san`s Dog.</title>
     <title type="official" xml:lang="ja">犬になったら好きな人に拾われた.</title>
     <title type="official" xml:lang="zh-Hans">生而为狗 我很幸福</title>
+    <title type="official" xml:lang="zh-Hant">無意間變成狗，被喜歡的女生撿回家。</title>
     <title type="short" xml:lang="x-jat">inuhiro</title>
   </anime>
   <anime aid="17261">
@@ -115224,6 +115475,7 @@
     <title type="official" xml:lang="ja">異世界のんびり農家</title>
     <title type="official" xml:lang="uk">Фермерське життя в іншому світі</title>
     <title type="official" xml:lang="zh-Hans">异世界悠闲农家</title>
+    <title type="official" xml:lang="zh-Hant">異世界悠閒農家</title>
   </anime>
   <anime aid="17291">
     <title type="main" xml:lang="x-jat">Tsugunai</title>
@@ -115261,6 +115513,7 @@
     <title type="official" xml:lang="en">The Fruit of Evolution 2: Before I Knew It, My Life Had It Made</title>
     <title type="official" xml:lang="ja">真・進化の実~知らないうちに勝ち組人生~</title>
     <title type="official" xml:lang="zh-Hans">真・进化果实～不知不觉踏上胜利的人生～</title>
+    <title type="official" xml:lang="zh-Hant">真・進化果實～不知不覺踏上勝利的人生～</title>
     <title type="short" xml:lang="x-jat">Shinka no Mi S2</title>
     <title type="short" xml:lang="x-jat">shinkanomi s2</title>
   </anime>
@@ -115452,6 +115705,7 @@
     <title type="official" xml:lang="ja">望まぬ不死の冒険者</title>
     <title type="official" xml:lang="ru">Нежеланно бессмертный авантюрист</title>
     <title type="official" xml:lang="zh-Hans">非自愿的不死冒险者</title>
+    <title type="official" xml:lang="zh-Hant">非自願的不死冒險者</title>
     <title type="syn" xml:lang="en">TUUA</title>
     <title type="syn" xml:lang="zh-Hans">事与愿违的不死冒险者</title>
   </anime>
@@ -115553,6 +115807,7 @@
     <title type="official" xml:lang="fr">Détective Conan : Le sous-marin noir</title>
     <title type="official" xml:lang="ja">名探偵コナン 黒鉄の魚影</title>
     <title type="official" xml:lang="zh-Hans">名侦探柯南 黑铁的鱼影</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：黑鐵的魚影</title>
     <title type="syn" xml:lang="en">Detective Conan: Black Iron Submarine</title>
     <title type="syn" xml:lang="en">Detective Conan: Movie 26</title>
   </anime>
@@ -115603,6 +115858,7 @@
     <title type="official" xml:lang="pt">O Herói Lendário Está Morto!</title>
     <title type="official" xml:lang="ru">Герой мёртв!</title>
     <title type="official" xml:lang="zh-Hans">勇者死了！</title>
+    <title type="official" xml:lang="zh-Hant">勇者死了！</title>
     <title type="syn" xml:lang="pt">O Lendário Herói Está Morto!</title>
   </anime>
   <anime aid="17341">
@@ -115613,6 +115869,7 @@
     <title type="official" xml:lang="ru">Волшебник ледяного клинка правит миром</title>
     <title type="official" xml:lang="uk">Чарівник крижаного клинка правитиме світом</title>
     <title type="official" xml:lang="zh-Hans">冰剑的魔术师将要统一世界</title>
+    <title type="official" xml:lang="zh-Hant">冰劍的魔術師將要統一世界</title>
     <title type="short" xml:lang="x-jat">hyouken</title>
   </anime>
   <anime aid="17342">
@@ -115752,6 +116009,7 @@
   <anime aid="17358">
     <title type="main" xml:lang="x-zht">Kaiju Yi Zuo Shan</title>
     <title type="official" xml:lang="zh-Hans">开局一座山</title>
+    <title type="syn" xml:lang="en">It Starts with a Mountain</title>
   </anime>
   <anime aid="17359">
     <title type="main" xml:lang="x-jat">Boku no Me wa Neko no Me</title>
@@ -115763,6 +116021,7 @@
     <title type="official" xml:lang="en">Kubo Won`t Let Me Be Invisible</title>
     <title type="official" xml:lang="ja">久保さんは僕を許さない</title>
     <title type="official" xml:lang="zh-Hans">久保同学不放过我</title>
+    <title type="official" xml:lang="zh-Hant">久保同學不放過我</title>
     <title type="short" xml:lang="x-jat">kubo</title>
     <title type="short" xml:lang="x-jat">kubosan</title>
     <title type="syn" xml:lang="x-jat">Kubo-san wa Boku o Yurusanai</title>
@@ -116298,6 +116557,7 @@
     <title type="official" xml:lang="en">Otaku Elf</title>
     <title type="official" xml:lang="ja">江戸前エルフ</title>
     <title type="official" xml:lang="zh-Hans">江户前精灵</title>
+    <title type="official" xml:lang="zh-Hant">江戶前精靈</title>
   </anime>
   <anime aid="17461">
     <title type="main" xml:lang="x-jat">Shiro Seijo to Kuro Bokushi</title>
@@ -116410,6 +116670,7 @@
     <title type="official" xml:lang="fr">The Ice Guy &amp; The Cool Girl</title>
     <title type="official" xml:lang="ja">氷属性男子とクールな同僚女子</title>
     <title type="official" xml:lang="zh-Hans">冰属性男子与酷酷女同事</title>
+    <title type="official" xml:lang="zh-Hant">冰屬性男子與無表情女子</title>
     <title type="short" xml:lang="x-jat">Kozoda</title>
     <title type="syn" xml:lang="ru">Ледяной парень и его спокойная коллега</title>
   </anime>
@@ -116417,6 +116678,7 @@
     <title type="main" xml:lang="x-jat">Kin no Kuni Mizu no Kuni</title>
     <title type="official" xml:lang="ja">金の国 水の国</title>
     <title type="official" xml:lang="zh-Hans">金之国 水之国</title>
+    <title type="official" xml:lang="zh-Hant">金之國 水之國</title>
     <title type="syn" xml:lang="en">Kingdom of Gold, Kingdom of Water</title>
     <title type="syn" xml:lang="en">Land of Gold, Land of Water</title>
   </anime>
@@ -116638,6 +116900,7 @@
     <title type="official" xml:lang="pt-BR">Como Raeliana Foi Parar na Mansão do Duque</title>
     <title type="official" xml:lang="ru">Лериана, невеста герцога по контракту</title>
     <title type="official" xml:lang="zh-Hans">公爵的契约未婚妻</title>
+    <title type="official" xml:lang="zh-Hant">她去公爵家的理由</title>
     <title type="short" xml:lang="en">Raeliana</title>
     <title type="syn" xml:lang="en">The Reason Why Raeliana Ended Up at the Duke`s Mansion</title>
   </anime>
@@ -116763,6 +117026,7 @@
     <title type="official" xml:lang="ru">Князь тьмы выгнал меня из своей армии</title>
     <title type="official" xml:lang="uk">Мені за тридцять вже минало, аж раптом з армії прогнали</title>
     <title type="official" xml:lang="zh-Hans">被解雇的暗黑士兵（30岁）慢生活的第二人生</title>
+    <title type="official" xml:lang="zh-Hant">被解僱的暗黑士兵（30多歲）開始了慢生活的第二人生</title>
     <title type="short" xml:lang="x-jat">ankokuheishi</title>
     <title type="syn" xml:lang="zh-Hans">被解雇的暗黑士兵（30多岁）开始了慢生活的第二人生</title>
   </anime>
@@ -117358,6 +117622,7 @@
     <title type="official" xml:lang="en">The Ancient Magus` Bride Season 2</title>
     <title type="official" xml:lang="ja">魔法使いの嫁 SEASON2</title>
     <title type="official" xml:lang="zh-Hans">魔法使的新娘 第二季</title>
+    <title type="official" xml:lang="zh-Hant">魔法使的新娘 第二季</title>
     <title type="short" xml:lang="x-jat">mahoyome s2</title>
   </anime>
   <anime aid="17600">
@@ -117591,6 +117856,7 @@
     <title type="official" xml:lang="en">Nijiyon Animation</title>
     <title type="official" xml:lang="ja">にじよんあにめーしょん</title>
     <title type="official" xml:lang="ru">Нидзиён. Анимация</title>
+    <title type="official" xml:lang="zh-Hant">Love Live！虹咲學園學園偶像同好會 短篇動畫</title>
     <title type="short" xml:lang="zh-Hans">虹四格</title>
   </anime>
   <anime aid="17633">
@@ -117930,6 +118196,7 @@
     <title type="official" xml:lang="en">New Saga</title>
     <title type="official" xml:lang="ja">強くてニューサーガ</title>
     <title type="official" xml:lang="zh-Hans">强者的新传说</title>
+    <title type="official" xml:lang="zh-Hant">強者的新傳說</title>
   </anime>
   <anime aid="17673">
     <title type="main" xml:lang="x-jat">Bartender: Kami no Glass</title>
@@ -118354,6 +118621,7 @@
     <title type="main" xml:lang="x-jat">Love Live! Nijigasaki Gakuen School Idol Doukoukai: Next Sky</title>
     <title type="official" xml:lang="en">Love Live! Nijigasaki High School Idol Club NEXT SKY</title>
     <title type="official" xml:lang="ja">ラブライブ! 虹ヶ咲学園スクールアイドル同好会 NEXT SKY</title>
+    <title type="official" xml:lang="zh-Hant">Love Live！虹咲學園 學園偶像同好會 NEXT SKY</title>
   </anime>
   <anime aid="17733">
     <title type="main" xml:lang="x-jat">Imouto wa Gal Kawaii</title>
@@ -118448,6 +118716,7 @@
     <title type="official" xml:lang="ja">即死チートが最強すぎて, 異世界のやつらがまるで相手にならないんですが.</title>
     <title type="official" xml:lang="pl">Moja zdolność natychmiastowej śmierci jest tak przepotężna, że nikt w tym innym świecie nie ma ze mną szans!</title>
     <title type="official" xml:lang="zh-Hans">秒杀外挂太强了，异世界的家伙们根本就不是对手。</title>
+    <title type="official" xml:lang="zh-Hant">秒殺外掛太強了，異世界的傢伙們根本就不是對手。</title>
     <title type="short" xml:lang="x-jat">Sokushi Cheat</title>
     <title type="syn" xml:lang="en">My Instant Death Ability Is So Overpowered, No One in this Other World Stands a Chance Against Me!</title>
     <title type="syn" xml:lang="pl">Moja natychmiastowa zdolność śmierci jest tak potężna, że nikt w tym innym świecie nie ma ze mną szans!</title>
@@ -118492,6 +118761,7 @@
     <title type="main" xml:lang="x-jat">Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train</title>
     <title type="official" xml:lang="fr">L`histoire d`Ai Haibara - Le mystère du train noir</title>
     <title type="official" xml:lang="ja">名探偵コナン 灰原哀物語~黒鉄のミステリートレイン~</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：灰原哀物語〜黑鐵的神秘列車〜</title>
     <title type="syn" xml:lang="en">Detective Conan: Ai Habara`s Story - Jet-Black Mystery Train</title>
   </anime>
   <anime aid="17756">
@@ -118540,6 +118810,7 @@
     <title type="official" xml:lang="pt">Ririsa, Uma Garota em 2.5D</title>
     <title type="official" xml:lang="pt-BR">Ririsa, Uma Garota em 2.5D</title>
     <title type="official" xml:lang="zh-Hans">2.5次元的诱惑</title>
+    <title type="official" xml:lang="zh-Hant">2.5次元的誘惑</title>
     <title type="short" xml:lang="ja">にごリリ</title>
     <title type="short" xml:lang="x-jat">nigoriri</title>
     <title type="syn" xml:lang="en">2-5 Jigen no Ririsa</title>
@@ -119627,6 +119898,7 @@
     <title type="official" xml:lang="ru">Иногда Аля внезапно кокетничает по-русски</title>
     <title type="official" xml:lang="th">คุณอาเรียโต๊ะข้างๆ พูดรัสเซียหวานใส่ซะหัวใจจะวาย</title>
     <title type="official" xml:lang="zh-Hans">不时用俄语小声说真心话的邻桌艾莉同学</title>
+    <title type="official" xml:lang="zh-Hant">不時輕聲地以俄語遮羞的鄰座艾莉同學</title>
     <title type="short" xml:lang="ja">ロシデレ</title>
     <title type="short" xml:lang="x-jat">roshidere</title>
     <title type="syn" xml:lang="es">Alya a veces me susurra en ruso</title>
@@ -119724,6 +119996,7 @@
     <title type="official" xml:lang="ko">메탈릭 루쥬</title>
     <title type="official" xml:lang="ru">Металлик Руж</title>
     <title type="official" xml:lang="zh-Hans">金属口红</title>
+    <title type="official" xml:lang="zh-Hant">金屬口紅</title>
     <title type="syn" xml:lang="bg">Металната Руж</title>
     <title type="syn" xml:lang="ja">メタリックルージュ</title>
     <title type="syn" xml:lang="pt">Vermelho Metálico</title>
@@ -120433,6 +120706,7 @@
     <title type="official" xml:lang="ja">メダリスト</title>
     <title type="official" xml:lang="pl">Medalist</title>
     <title type="official" xml:lang="zh-Hans">金牌得主</title>
+    <title type="official" xml:lang="zh-Hant">金牌得主</title>
     <title type="syn" xml:lang="zh-Hans">舞冰的祈愿</title>
   </anime>
   <anime aid="18032">
@@ -120463,6 +120737,7 @@
     <title type="main" xml:lang="x-jat">Gekijou Soushuuhen Bocchi the Rock!</title>
     <title type="official" xml:lang="ja">劇場総集編ぼっち・ざ・ろっく!</title>
     <title type="official" xml:lang="zh-Hans">孤独摇滚! 剧场总集篇</title>
+    <title type="official" xml:lang="zh-Hant">劇場總集篇 孤獨搖滾！</title>
     <title type="short" xml:lang="x-jat">bozaro movie</title>
     <title type="syn" xml:lang="en">BOCCHI THE ROCK! Recap Part 1 &amp; 2</title>
   </anime>
@@ -120523,6 +120798,7 @@
     <title type="official" xml:lang="en">Brave Bang Bravern!</title>
     <title type="official" xml:lang="ja">勇気爆発バーンブレイバーン</title>
     <title type="official" xml:lang="ru">Взрывной храбрец Брэйверн</title>
+    <title type="official" xml:lang="zh-Hant">勇氣爆發BANG BRAVERN</title>
     <title type="syn" xml:lang="en">Bang Brave Bang Bravern</title>
   </anime>
   <anime aid="18049">
@@ -120752,6 +121028,7 @@
     <title type="syn" xml:lang="en">Love Live! Nijigasaki High School Idol Club (2024)</title>
     <title type="syn" xml:lang="en">Love Live! Nijigasaki High School Idol Club the Movie - Finale</title>
     <title type="syn" xml:lang="x-jat">Love Live! Nijigasaki Gakuen School Idol Doukoukai - Kanketsu-hen</title>
+    <title type="syn" xml:lang="zh-Hant">LoveLive! 虹咲學園學園偶像同好會 完結篇</title>
   </anime>
   <anime aid="18080">
     <title type="main" xml:lang="x-jat">Megami no Cafe Terrace (2024)</title>
@@ -121466,6 +121743,7 @@
     <title type="main" xml:lang="x-jat">Kimi ni Todoke 3rd Season</title>
     <title type="official" xml:lang="en">Kimi ni Todoke: From Me to You Season 3</title>
     <title type="official" xml:lang="ja">君に届け 3RD SEASON</title>
+    <title type="official" xml:lang="zh-Hant">只想告訴你 第三季</title>
     <title type="short" xml:lang="x-jat">kimitodo 3</title>
     <title type="syn" xml:lang="x-jat">Kimi ni Todoke Season 3</title>
     <title type="syn" xml:lang="zh-Hans">好想告诉你 第三季</title>
@@ -121720,6 +121998,7 @@
     <title type="official" xml:lang="fr">Détective Conan : L`Étoile à 1 million de dollars</title>
     <title type="official" xml:lang="ja">名探偵コナン 100万ドルの五稜星</title>
     <title type="official" xml:lang="zh-Hans">名侦探柯南：百万美元的五棱星</title>
+    <title type="official" xml:lang="zh-Hant">名偵探柯南：100萬美元的五稜星</title>
     <title type="syn" xml:lang="en">Detective Conan Movie 27</title>
     <title type="syn" xml:lang="en">Detective Conan: The Million-Dollar Pentagram</title>
   </anime>
@@ -121795,6 +122074,7 @@
     <title type="official" xml:lang="ja">最強タンクの迷宮攻略 ~体力9999のレアスキル持ちタンク, 勇者パーティーを追放される~</title>
     <title type="official" xml:lang="ru">Сильнейший танк покоряет подземелья</title>
     <title type="official" xml:lang="zh-Hans">最强肉盾的迷宫攻略～拥有稀少技能体力9999的肉盾，被勇者队伍辞退了～</title>
+    <title type="official" xml:lang="zh-Hant">最強肉盾的迷宮攻略～擁有稀少技能體力9999的肉盾，被勇者隊伍辭退了～</title>
   </anime>
   <anime aid="18230">
     <title type="main" xml:lang="x-jat">Yuusha-hime Miria</title>
@@ -122031,6 +122311,7 @@
     <title type="official" xml:lang="ja">俺は全てを【パリイ】する ~逆勘違いの世界最強は冒険者になりたい~</title>
     <title type="official" xml:lang="th">ฉันจะ "แพรี่" ให้หมด - ผู้แข็งแกร่งที่สุดในโลกอยากจะเป็นนักผจญภัยให้ได้</title>
     <title type="official" xml:lang="zh-Hans">我要招架一切 逆向误解的世界最强梦想成为冒险者</title>
+    <title type="official" xml:lang="zh-Hant">我要【招架】一切～反誤解的世界最強想成為冒險家～</title>
     <title type="syn" xml:lang="en">I Parry Everything to Become the Greatest Adventure!</title>
     <title type="syn" xml:lang="en">I Parry Everything: What Do You Mean I`m the Strongest? I`m Not Even an Adventurer Yet!</title>
     <title type="syn" xml:lang="x-jat">Ore wa Subete wo "Parry" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai</title>
@@ -122315,6 +122596,7 @@
     <title type="official" xml:lang="en">Magilumiere Magical Girls Inc.</title>
     <title type="official" xml:lang="ja">株式会社マジルミエ</title>
     <title type="official" xml:lang="zh-Hans">魔法光源股份有限公司</title>
+    <title type="official" xml:lang="zh-Hant">魔法光源股份有限公司</title>
     <title type="syn" xml:lang="en">Magilumiere Co. Ltd.</title>
   </anime>
   <anime aid="18293">
@@ -122394,6 +122676,7 @@
     <title type="official" xml:lang="ja">悶えてよ, アダムくん</title>
     <title type="official" xml:lang="pt">A Doce Agonia de Adão</title>
     <title type="official" xml:lang="zh-Hans">挣扎吧！亚当</title>
+    <title type="official" xml:lang="zh-Hant">掙扎吧，亞當君</title>
     <title type="syn" xml:lang="en">Adam`s Sweet Agony</title>
     <title type="syn" xml:lang="ko">미안해, 아담 군</title>
     <title type="syn" xml:lang="pt-BR">A Doce Agonia de Adão</title>
@@ -122672,6 +122955,7 @@
     <title type="main" xml:lang="x-jat">Nijiyon Animation 2</title>
     <title type="official" xml:lang="en">Nijiyon Animation 2</title>
     <title type="official" xml:lang="ja">にじよんあにめーしょん2</title>
+    <title type="official" xml:lang="zh-Hant">Love Live！虹咲學園 學園偶像同好會 短篇動畫 第二季</title>
   </anime>
   <anime aid="18348">
     <title type="main" xml:lang="x-zht">Shaonian Ge Xing: Haiwai Xianshan Pian</title>
@@ -123034,6 +123318,7 @@
     <title type="official" xml:lang="en">Shoshimin: How to Become Ordinary</title>
     <title type="official" xml:lang="ja">小市民シリーズ</title>
     <title type="official" xml:lang="zh-Hans">小市民系列</title>
+    <title type="official" xml:lang="zh-Hant">小市民系列</title>
   </anime>
   <anime aid="18406">
     <title type="main" xml:lang="x-jat">Mashin Souzou Den Wataru</title>
@@ -123505,6 +123790,7 @@
     <title type="official" xml:lang="id">Tongkat Sihir dan Pedang Wistoria</title>
     <title type="official" xml:lang="ja">杖と剣のウィストリア</title>
     <title type="official" xml:lang="th">ตำนานดาบและคทาแห่งวิสตอเรีย</title>
+    <title type="official" xml:lang="zh-Hant">杖與劍的魔劍譚</title>
     <title type="short" xml:lang="x-jat">wistoria</title>
     <title type="syn" xml:lang="en">Wisteria of the Wand and Sword</title>
     <title type="syn" xml:lang="zh-Hans">杖与剑的魔剑谭</title>
@@ -123848,6 +124134,7 @@
     <title type="official" xml:lang="en">Sakuna: Of Rice and Ruin</title>
     <title type="official" xml:lang="ja">天穂のサクナヒメ</title>
     <title type="official" xml:lang="zh-Hans">天穗之咲稻姬</title>
+    <title type="official" xml:lang="zh-Hant">天穗之咲稻姬</title>
   </anime>
   <anime aid="18528">
     <title type="main" xml:lang="x-jat">Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer to Shite Tanoshiku Ikiru</title>
@@ -125910,8 +126197,8 @@
   </anime>
   <anime aid="18817">
     <title type="main" xml:lang="x-jat">Mirai no Kuromaku-kei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho</title>
-    <title type="official" xml:lang="en">Moriarty`s Perfect Crime</title>
     <title type="official" xml:lang="ja">未来の黒幕系悪役令嬢モリアーティーの異世界完全犯罪白書</title>
+    <title type="syn" xml:lang="en">Moriarty`s Perfect Crime</title>
   </anime>
   <anime aid="18818">
     <title type="main" xml:lang="x-jat">Arafou Otoko no Isekai Tsuuhan</title>
@@ -125953,7 +126240,6 @@
     <title type="official" xml:lang="ja">ワンダンス</title>
     <title type="official" xml:lang="pt">Wandance - A Animação</title>
     <title type="official" xml:lang="zh-Hans">绝妙舞步</title>
-    <title type="syn" xml:lang="en">Wandance</title>
     <title type="syn" xml:lang="x-jat">Wondance</title>
   </anime>
   <anime aid="18824">
@@ -128307,7 +128593,6 @@
     <title type="official" xml:lang="zh-Hant">與妳相戀到生命盡頭</title>
     <title type="short" xml:lang="ja">きみ死ぬ</title>
     <title type="short" xml:lang="x-jat">kimi shinu</title>
-    <title type="syn" xml:lang="x-jat">Kimi ga Shinu made Koi wo Shitai</title>
   </anime>
   <anime aid="19190">
     <title type="main" xml:lang="x-jat">Yuusha Party o Oidasareta Kiyoubinbou</title>
@@ -128315,8 +128600,6 @@
     <title type="official" xml:lang="ja">勇者パーティを追い出された器用貧乏</title>
     <title type="official" xml:lang="zh-Hans">泛而不精的我被逐出了勇者队伍</title>
     <title type="official" xml:lang="zh-Hant">泛而不精的我被逐出了勇者隊伍</title>
-    <title type="short" xml:lang="ja">器用貧乏</title>
-    <title type="short" xml:lang="x-jat">kiyoubinbou</title>
   </anime>
   <anime aid="19191">
     <title type="main" xml:lang="x-zht">Zui Qiang Shengji</title>
@@ -128326,6 +128609,7 @@
   </anime>
   <anime aid="19192">
     <title type="main" xml:lang="x-jat">Giant Ojou-sama</title>
+    <title type="official" xml:lang="en">GIANT OJOSAMA</title>
     <title type="official" xml:lang="ja">ジャイアントお嬢様</title>
   </anime>
   <anime aid="19193">
@@ -128408,8 +128692,6 @@
     <title type="official" xml:lang="en">Botan Kamiina Fully Blossoms When Drunk</title>
     <title type="official" xml:lang="ja">上伊那ぼたん, 酔へる姿は百合の花</title>
     <title type="official" xml:lang="zh-Hans">上伊那牡丹，酒醉身姿似百合花般</title>
-    <title type="short" xml:lang="ja">上伊那ぼたん</title>
-    <title type="short" xml:lang="x-jat">kamiina botan</title>
   </anime>
   <anime aid="19207">
     <title type="main" xml:lang="x-jat">Nohara Hiroshi Hirumeshi no Ryuugi</title>
@@ -128675,6 +128957,7 @@
   <anime aid="19260">
     <title type="main" xml:lang="x-jat">Medalist (2026)</title>
     <title type="official" xml:lang="ja">メダリスト (2026)</title>
+    <title type="official" xml:lang="zh-Hant">金牌得主 第2季</title>
     <title type="syn" xml:lang="en">Medalist (2026)</title>
     <title type="syn" xml:lang="en">Medalist 2nd Season</title>
     <title type="syn" xml:lang="en">Medalist Season 2</title>
@@ -129788,11 +130071,12 @@
   </anime>
   <anime aid="19455">
     <title type="main" xml:lang="x-jat">Ichijouma Mankitsu Gurashi!</title>
+    <title type="official" xml:lang="de">Ichijouma Mankitsu Gurashi!</title>
+    <title type="official" xml:lang="en">Ichijyoma Mankitsu Gurashi!</title>
     <title type="official" xml:lang="ja">一畳間まんきつ暮らし!</title>
     <title type="official" xml:lang="zh-Hans">一叠间漫画咖啡屋生活！</title>
     <title type="official" xml:lang="zh-Hant">一疊間漫畫咖啡廳日常</title>
     <title type="syn" xml:lang="en">Living in a One-Tatami Room!</title>
-    <title type="syn" xml:lang="x-jat">Ichijyoma Mankitsu Gurashi!</title>
   </anime>
   <anime aid="19456">
     <title type="main" xml:lang="x-jat">Kanojo ga Separate o Matou Riyuu</title>
@@ -131055,9 +131339,9 @@
     <title type="official" xml:lang="ja">ヤンキーハムスター シーズン４</title>
   </anime>
   <anime aid="19688">
-    <title type="main" xml:lang="x-jat">Dark Gathering 2</title>
-    <title type="official" xml:lang="ja">ダークギャザリング 2</title>
-    <title type="syn" xml:lang="en">Dark Gathering 2</title>
+    <title type="main" xml:lang="x-jat">Dark Gathering (2027)</title>
+    <title type="official" xml:lang="ja">ダークギャザリング (2027)</title>
+    <title type="syn" xml:lang="en">Dark Gathering (2027)</title>
   </anime>
   <anime aid="19689">
     <title type="main" xml:lang="x-zht">Xian Di Guilai</title>
@@ -131072,8 +131356,6 @@
     <title type="official" xml:lang="ja">才女のお世話 高嶺の花だらけな名門校で, 学院一のお嬢様(生活能力皆無)を陰ながらお世話することになりました</title>
     <title type="official" xml:lang="zh-Hans">才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐</title>
     <title type="official" xml:lang="zh-Hant">才女的侍從 在滿是高嶺之花的貴族學校暗中照顧（毫無生活自理能力的）學院第一大小姐</title>
-    <title type="short" xml:lang="ja">才女のお世話</title>
-    <title type="short" xml:lang="x-jat">saijo no osewa</title>
   </anime>
   <anime aid="19691">
     <title type="main" xml:lang="x-zht">Xian Wang de Richang Shenghuo Di Wu Ji</title>
@@ -131491,8 +131773,8 @@
   </anime>
   <anime aid="19765">
     <title type="main" xml:lang="x-jat">Psyren</title>
+    <title type="official" xml:lang="en">Psyren</title>
     <title type="official" xml:lang="ja">PSYЯEN</title>
-    <title type="syn" xml:lang="en">Psyren</title>
     <title type="syn" xml:lang="ja">サイレン</title>
   </anime>
   <anime aid="19766">
@@ -132019,6 +132301,7 @@
   </anime>
   <anime aid="19873">
     <title type="main" xml:lang="x-jat">Yani Neko</title>
+    <title type="official" xml:lang="de">Chainsmoker Cat</title>
     <title type="official" xml:lang="en">Chainsmoker Cat</title>
     <title type="official" xml:lang="ja">ヤニねこ</title>
     <title type="official" xml:lang="ru">Табакошка</title>
@@ -132155,8 +132438,6 @@
     <title type="main" xml:lang="x-jat">Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S Rank Cheat Majutsushi Bouken Roku</title>
     <title type="official" xml:lang="en">From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage</title>
     <title type="official" xml:lang="ja">落第賢者の学院無双 ~二度目の転生, Sランクチート魔術師冒険録~</title>
-    <title type="short" xml:lang="ja">落第賢者</title>
-    <title type="short" xml:lang="x-jat">rakudai kenja</title>
   </anime>
   <anime aid="19897">
     <title type="main" xml:lang="x-zht">You Shou Yan 5</title>
@@ -133480,6 +133761,7 @@
   <anime aid="20160">
     <title type="main" xml:lang="x-jat">Kanojo Saimin</title>
     <title type="official" xml:lang="ja">彼女催眠</title>
+    <title type="syn" xml:lang="ko">여친 최면</title>
   </anime>
   <anime aid="20161">
     <title type="main" xml:lang="x-jat">Cheat Item Kanrikyoku no Oshigoto EX</title>
@@ -133555,6 +133837,7 @@
   </anime>
   <anime aid="20177">
     <title type="main" xml:lang="x-jat">Fukufuku no Chizu</title>
+    <title type="official" xml:lang="en">FukuFuku Map</title>
     <title type="official" xml:lang="ja">ふくふくの地図</title>
   </anime>
   <anime aid="20178">
@@ -134123,6 +134406,7 @@
     <title type="main" xml:lang="x-zht">Feng Tian Qi</title>
     <title type="official" xml:lang="zh-Hans">封天契</title>
     <title type="syn" xml:lang="en">Heaven Sealing Contract</title>
+    <title type="syn" xml:lang="en">Seal The Heaven Covenant</title>
   </anime>
   <anime aid="20288">
     <title type="main" xml:lang="x-zht">Sanjiaozhou: Zaowuzhu Wanjia</title>
@@ -134268,6 +134552,7 @@
     <title type="official" xml:lang="en">My Grave Nourishes My Cultivation</title>
     <title type="official" xml:lang="zh-Hans">我的坟冢能滋养修为</title>
     <title type="syn" xml:lang="en">My Tomb Can Nourish Cultivation</title>
+    <title type="syn" xml:lang="en">The Public Enemy Of The Immortal World</title>
   </anime>
   <anime aid="20324">
     <title type="main" xml:lang="x-zht">Wojia Xiao Shishu Bukeneng Zheme Qiang</title>
@@ -134275,5 +134560,80 @@
     <title type="official" xml:lang="zh-Hans">我家小师叔不可能这么强</title>
     <title type="syn" xml:lang="en">My Junior Uncle Cannot Be This Strong</title>
   </anime>
+  <anime aid="20326">
+    <title type="main" xml:lang="x-zht">Niu Lai</title>
+  </anime>
+  <anime aid="20327">
+    <title type="main" xml:lang="x-zht">Huoxing Xi Lu 7 Hao</title>
+    <title type="official" xml:lang="en">No. 7 West Mars St.</title>
+    <title type="official" xml:lang="zh-Hans">火星西路7号</title>
+  </anime>
+  <anime aid="20328">
+    <title type="main" xml:lang="x-zht">Tuanzimen de Shiming</title>
+    <title type="official" xml:lang="en">Buddies for Bud</title>
+    <title type="official" xml:lang="zh">团子们的使命</title>
+  </anime>
+  <anime aid="20329">
+    <title type="main" xml:lang="x-jat">Pokemon: Wild Card</title>
+    <title type="official" xml:lang="ja">Pokémon ワイルドカード</title>
+    <title type="syn" xml:lang="en">Pokemon: Wild Card</title>
+  </anime>
+  <anime aid="20330">
+    <title type="main" xml:lang="x-jat">8-gatsu 31-nichi no Long Summer</title>
+    <title type="official" xml:lang="ja">8月31日のロングサマー</title>
+    <title type="syn" xml:lang="en">The Long Summer of August 31</title>
+    <title type="syn" xml:lang="en">The Long Summer of August 31st</title>
+  </anime>
+  <anime aid="20331">
+    <title type="main" xml:lang="x-jat">Baki Gaiden: Retsu Kaiou wa Isekai Tensei Shitemo Ikkou ni Kamawan!</title>
+    <title type="official" xml:lang="ja">バキ外伝 烈海王は異世界転生しても一向にかまわんッッ</title>
+  </anime>
+  <anime aid="20332">
+    <title type="main" xml:lang="x-jat">Yamakawa Jun`ichi Anime Gekijou</title>
+    <title type="official" xml:lang="ja">山川純一アニメ劇場</title>
+  </anime>
+  <anime aid="20333">
+    <title type="main" xml:lang="x-jat">Majime na Kimi ni Hamaru Karada The Animation</title>
+    <title type="official" xml:lang="ja">真面目なキミにハマるカラダ THE ANIMATION</title>
+    <title type="syn" xml:lang="en">Loosen Up</title>
+  </anime>
+  <anime aid="20334">
+    <title type="main" xml:lang="x-jat">Tefuda ga Oome no Victoria 2</title>
+    <title type="official" xml:lang="ja">手札が多めのビクトリア 第2期</title>
+  </anime>
+  <anime aid="20335">
+    <title type="main" xml:lang="x-zht">Lingjing Xingzhe</title>
+    <title type="official" xml:lang="en">Spiritual Realm Walker</title>
+    <title type="official" xml:lang="zh-Hans">灵境行者</title>
+    <title type="syn" xml:lang="en">Spirit Realm Walker</title>
+    <title type="syn" xml:lang="en">The Spirealm Voyager</title>
+    <title type="syn" xml:lang="zh-Hant">Ling Jing Xing Zhe</title>
+  </anime>
+  <anime aid="20336">
+    <title type="main" xml:lang="x-jat">Nippon Sangoku 2</title>
+    <title type="official" xml:lang="ja">日本三國 2</title>
+    <title type="syn" xml:lang="en">Nippon Sangoku: The Three Nations of the Crimson Sun 2</title>
+  </anime>
+  <anime aid="20337">
+    <title type="main" xml:lang="x-jat">Ai no Yakusoku</title>
+    <title type="official" xml:lang="ja">Ai no Yakusoku</title>
+  </anime>
+  <anime aid="20338">
+    <title type="main" xml:lang="x-jat">SINoALICE: Ichiban Saigo no Monogatari</title>
+  </anime>
+  <anime aid="20339">
+    <title type="main" xml:lang="x-jat">Ghost Meets Gal!</title>
+    <title type="official" xml:lang="ja">ごーすと・みーつ・ぎゃる!</title>
+    <title type="syn" xml:lang="x-jat">Ghost Meets Gyaru!</title>
+  </anime>
+  <anime aid="20340">
+    <title type="main" xml:lang="x-jat">Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa</title>
+    <title type="official" xml:lang="ja">人付き合いが苦手な未亡人の雪女さんと呪いの指輪</title>
+  </anime>
+  <anime aid="20341">
+    <title type="main" xml:lang="x-jat">Kaijuu 8 Gou: Narumi no Heijitsu</title>
+    <title type="official" xml:lang="en">Kaiju No. 8: Narumi`s Week at Work</title>
+    <title type="official" xml:lang="ja">怪獣8号 鳴海の平日</title>
+  </anime>
 </animetitles>
-<!-- Created: Sun Aug 30 03:00:06 2026 (16919 anime, 100437 titles) -->
+<!-- Created: Sun Sep  6 03:00:07 2026 (16935 anime, 100765 titles) -->
