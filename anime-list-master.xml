@@ -13290,7 +13290,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="4470" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="4470" tvdbid="270678" defaulttvdbseason="1" episodeoffset="" tmdbtv="44261" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Kizuoibito</name>
   </anime>
   <anime anidbid="4472" tvdbid="79484" defaulttvdbseason="1" episodeoffset="" tmdbtv="16525" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
