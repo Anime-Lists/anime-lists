@@ -7781,8 +7781,11 @@
   <anime anidbid="2228" tvdbid="183801" defaulttvdbseason="0" episodeoffset="4" tmdbtv="9619" tmdbseason="0" tmdboffset="4" tmdbid="" imdbid="tt0185757">
     <name>Wakusei Robo Danguard Ace: Uchuu Daikaisen</name>
   </anime>
-  <anime anidbid="2229" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="65665" imdbid="tt0316540">
+  <anime anidbid="2229" tvdbid="77773" defaulttvdbseason="0" episodeoffset="1" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="65665" imdbid="tt0316540">
     <name>Saraba Uchuu Senkan Yamato: Ai no Senshi-tachi</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;2-2;3-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="2230" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt0061069">
     <name>Tatsu no Ko Tarou</name>
