@@ -8555,8 +8555,12 @@
   <anime anidbid="2454" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Tsubaki-iro no Prigione</name>
   </anime>
-  <anime anidbid="2456" tvdbid="83584" defaulttvdbseason="2" episodeoffset="" tmdbtv="9113" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="2456" tvdbid="83584" defaulttvdbseason="0" episodeoffset="" tmdbtv="9113" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Aquarian Age: Saga II</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="2457" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="411063" imdbid="tt0097411">
     <name>Hyper-Psychic Geo Garaga</name>
