@@ -10499,10 +10499,6 @@
   </anime>
   <anime anidbid="3195" tvdbid="79881" defaulttvdbseason="1" episodeoffset="" tmdbtv="1096" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Kamichu!</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="1">;1-8;2-11;3-13;4-16;</mapping>
-      <mapping anidbseason="1" tvdbseason="1">;8-9;9-10;10-12;11-14;12-15;</mapping>
-    </mapping-list>
     <before>;1-8;2-10;3-11;4-13;</before>
   </anime>
   <anime anidbid="3196" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
