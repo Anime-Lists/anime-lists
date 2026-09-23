@@ -12526,11 +12526,11 @@
       <mapping anidbseason="1" tvdbseason="0">;1-2;2-2;3-2;4-2;5-2;6-2;7-2;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="4170" tvdbid="254931" defaulttvdbseason="0" episodeoffset="" tmdbtv="20111" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="4170" tvdbid="74890" defaulttvdbseason="0" episodeoffset="" tmdbtv="20111" tmdbseason="0" tmdboffset="4" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam SEED Destiny Final Plus: Erabareta Mirai</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-18;2-18;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-18;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;2-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4172" tvdbid="80445" defaulttvdbseason="1" episodeoffset="" tmdbtv="25111" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
