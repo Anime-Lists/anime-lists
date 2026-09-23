@@ -11954,9 +11954,6 @@
   </anime>
   <anime anidbid="3991" tvdbid="120131" defaulttvdbseason="1" episodeoffset="" tmdbtv="50866" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Piyoko ni Omakase pyo!</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="1">;1-7;2-8;</mapping>
-    </mapping-list>
     <before>;1-7;2-8;</before>
   </anime>
   <anime anidbid="3992" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
