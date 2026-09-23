@@ -7391,11 +7391,8 @@
   <anime anidbid="2114" tvdbid="138691" defaulttvdbseason="2" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Rhea Gall Force</name>
   </anime>
-  <anime anidbid="2115" tvdbid="138691" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="2115" tvdbid="138691" defaulttvdbseason="3" episodeoffset="" tmdbtv="212124" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Gall Force: Chikyuu Shou</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="1">;1-5;2-6;3-7;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="2116" tvdbid="138691" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Gall Force: Shin Seiki Hen</name>
