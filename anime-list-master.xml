@@ -10678,8 +10678,7 @@
   <anime anidbid="3321" tvdbid="78987" defaulttvdbseason="1" episodeoffset="" tmdbtv="34065" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Black Cat</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="1">;1-15;</mapping>
-      <mapping anidbseason="1" tvdbseason="1" start="15" end="23" offset="1"/>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;</mapping>
     </mapping-list>
     <before>;1-15;</before>
   </anime>
