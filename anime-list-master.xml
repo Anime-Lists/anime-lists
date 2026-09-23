@@ -8809,9 +8809,6 @@
   </anime>
   <anime anidbid="2536" tvdbid="93261" defaulttvdbseason="1" episodeoffset="" tmdbtv="36251" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Suki na Mono wa Suki Dakara Shou ga Nai!!</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="1">;1-13;</mapping>
-    </mapping-list>
     <before>;1-13;</before>
   </anime>
   <anime anidbid="2538" tvdbid="78500" defaulttvdbseason="3" episodeoffset="" tmdbtv="3570" tmdbseason="3" tmdboffset="" tmdbid="" imdbid="">
