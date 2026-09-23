@@ -11273,6 +11273,9 @@
   </anime>
   <anime anidbid="3522" tvdbid="80823" defaulttvdbseason="1" episodeoffset="" tmdbtv="21260" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Tactical Roar</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;7-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="3523" tvdbid="OVA" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Kaze o Nuke!</name>
