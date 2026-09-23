@@ -12432,7 +12432,7 @@
   <anime anidbid="4145" tvdbid="80075" defaulttvdbseason="2" episodeoffset="" tmdbtv="42786" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Amaenaide yo!! Katsu!!</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="1">;1-13;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
     <before>;1-13;</before>
   </anime>
