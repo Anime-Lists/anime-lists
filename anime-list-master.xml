@@ -7397,11 +7397,8 @@
   <anime anidbid="2116" tvdbid="138691" defaulttvdbseason="4" episodeoffset="" tmdbtv="212123" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Gall Force: Shin Seiki Hen</name>
   </anime>
-  <anime anidbid="2117" tvdbid="138691" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="2117" tvdbid="138691" defaulttvdbseason="5" episodeoffset="" tmdbtv="212126" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Gall Force: The Revolution</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="1">;1-10;2-11;3-12;4-13;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="2118" tvdbid="74544" defaulttvdbseason="0" episodeoffset="" tmdbtv="12427" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Happy Lesson The Final</name>
