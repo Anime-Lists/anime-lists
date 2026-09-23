@@ -5565,6 +5565,9 @@
   </anime>
   <anime anidbid="1505" tvdbid="98611" defaulttvdbseason="1" episodeoffset="" tmdbtv="21272" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Teito Monogatari</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-3;2-1;3-2;4-4;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="1506" tvdbid="74731" defaulttvdbseason="0" episodeoffset="" tmdbtv="46390" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Ghost Sweeper Mikami: Gokuraku Daisakusen!!</name>
