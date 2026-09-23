@@ -7394,11 +7394,8 @@
   <anime anidbid="2115" tvdbid="138691" defaulttvdbseason="3" episodeoffset="" tmdbtv="212124" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Gall Force: Chikyuu Shou</name>
   </anime>
-  <anime anidbid="2116" tvdbid="138691" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="2116" tvdbid="138691" defaulttvdbseason="4" episodeoffset="" tmdbtv="212123" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Gall Force: Shin Seiki Hen</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="1">;1-8;2-9;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="2117" tvdbid="138691" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Gall Force: The Revolution</name>
