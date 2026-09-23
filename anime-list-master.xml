@@ -675,7 +675,7 @@
   <anime anidbid="127" tvdbid="71634" defaulttvdbseason="a" episodeoffset="" tmdbtv="34158" tmdbseason="a" tmdboffset="" tmdbid="" imdbid="">
     <name>Magic Knight Rayearth</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="4">;5-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;</mapping>
       <mapping anidbseason="1" tvdbseason="1" start="1" end="20"/>
       <mapping anidbseason="1" tvdbseason="2" start="21" end="49" offset="-20"/>
     </mapping-list>
