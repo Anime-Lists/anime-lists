@@ -8325,6 +8325,9 @@
   </anime>
   <anime anidbid="2386" tvdbid="75411" defaulttvdbseason="1" episodeoffset="" tmdbtv="42828" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Rozen Maiden</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-4;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="2387" tvdbid="79136" defaulttvdbseason="1" episodeoffset="" tmdbtv="34699" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Fantastic Children</name>
