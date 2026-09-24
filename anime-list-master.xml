@@ -9039,6 +9039,9 @@
   </anime>
   <anime anidbid="2629" tvdbid="98161" defaulttvdbseason="0" episodeoffset="" tmdbtv="23674" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt0185359">
     <name>Hi no Tori: Houou Hen</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+    </mapping-list>
     <supplemental-info>
       <studio>Tezuka Productions</studio>
     </supplemental-info>
@@ -9778,7 +9781,7 @@
   <anime anidbid="2878" tvdbid="98161" defaulttvdbseason="0" episodeoffset="" tmdbtv="23674" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Hi no Tori: Uchuu Hen</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Tezuka Productions</studio>
@@ -10519,7 +10522,7 @@
   <anime anidbid="3200" tvdbid="98161" defaulttvdbseason="0" episodeoffset="" tmdbtv="23674" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Hi no Tori: Yamato Hen</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Tezuka Productions</studio>
@@ -26289,7 +26292,7 @@
   <anime anidbid="9397" tvdbid="98161" defaulttvdbseason="0" episodeoffset="" tmdbtv="23674" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Hi no Tori: Hagoromo Hen</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-10;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9398" tvdbid="186911" defaulttvdbseason="2" episodeoffset="" tmdbtv="46440" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
@@ -28055,7 +28058,7 @@
   <anime anidbid="10055" tvdbid="98161" defaulttvdbseason="0" episodeoffset="" tmdbtv="23674" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Hi no Tori: Kizuna Hen</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-11;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10057" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
