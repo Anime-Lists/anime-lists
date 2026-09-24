@@ -7247,6 +7247,9 @@
   </anime>
   <anime anidbid="2069" tvdbid="78830" defaulttvdbseason="1" episodeoffset="" tmdbtv="11841" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Transformers: Choujin Master Force</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;47-1;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="2070" tvdbid="212471" defaulttvdbseason="1" episodeoffset="" tmdbtv="88796" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Sakigake!! Otoko Juku</name>
