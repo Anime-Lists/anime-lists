@@ -10417,7 +10417,7 @@
   <anime anidbid="3168" tvdbid="80075" defaulttvdbseason="1" episodeoffset="" tmdbtv="42786" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Amaenaide yo!!</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="1">;1-13;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-1;</mapping>
     </mapping-list>
     <before>;1-13;</before>
   </anime>
