@@ -1412,7 +1412,7 @@
   <anime anidbid="284" tvdbid="78923" defaulttvdbseason="0" episodeoffset="" tmdbtv="9103" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt0160865">
     <name>Shin Kimagure Orange Road: Soshite, Ano Natsu no Hajimari</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-11;2-11;3-11;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-15;2-15;3-15;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="285" tvdbid="79544" defaulttvdbseason="a" episodeoffset="" tmdbtv="25722" tmdbseason="a" tmdboffset="" tmdbid="" imdbid="">
@@ -2562,7 +2562,7 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="576" tvdbid="78923" defaulttvdbseason="0" episodeoffset="9" tmdbtv="9103" tmdbseason="0" tmdboffset="9" tmdbid="" imdbid="tt0095448">
+  <anime anidbid="576" tvdbid="78923" defaulttvdbseason="0" episodeoffset="13" tmdbtv="9103" tmdbseason="0" tmdboffset="9" tmdbid="" imdbid="tt0095448">
     <name>Kimagure Orange Road: Ano Hi ni Kaeritai</name>
   </anime>
   <anime anidbid="578" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="66045" imdbid="tt0092664">
@@ -21125,25 +21125,25 @@
   <anime anidbid="7585" tvdbid="78923" defaulttvdbseason="0" episodeoffset="" tmdbtv="9103" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Kimagure Orange Road: Koi no Stage = Heart on Fire! Haru wa Idol!</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-10;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7586" tvdbid="78923" defaulttvdbseason="0" episodeoffset="" tmdbtv="9103" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Kimagure Orange Road: Koi no Stage = Heart on Fire! Star Tanjou!</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-11;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7587" tvdbid="78923" defaulttvdbseason="0" episodeoffset="" tmdbtv="9103" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Kimagure Orange Road: Omoi Gakenai Situation</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-12;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7588" tvdbid="78923" defaulttvdbseason="0" episodeoffset="" tmdbtv="9103" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Kimagure Orange Road: Rouge no Dengon</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-9;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-13;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7589" tvdbid="78923" defaulttvdbseason="0" episodeoffset="" tmdbtv="9103" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
