@@ -1746,7 +1746,7 @@
   <anime anidbid="373" tvdbid="77681" defaulttvdbseason="0" episodeoffset="" tmdbtv="26318" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt1796619">
     <name>Slayers Gorgeous</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;2-10;3-11;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-10;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="374" tvdbid="87481" defaulttvdbseason="1" episodeoffset="" tmdbtv="37561" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
