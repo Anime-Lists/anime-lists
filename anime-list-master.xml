@@ -2386,9 +2386,6 @@
   </anime>
   <anime anidbid="526" tvdbid="79587" defaulttvdbseason="2" episodeoffset="" tmdbtv="29152" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Bannou Bunka Nekomusume (1998)</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-1;2-2;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="527" tvdbid="160051" defaulttvdbseason="1" episodeoffset="" tmdbtv="117673" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Houma Hunter Lime</name>
@@ -10422,9 +10419,6 @@
   </anime>
   <anime anidbid="3168" tvdbid="80075" defaulttvdbseason="1" episodeoffset="" tmdbtv="42786" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Amaenaide yo!!</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-1;</mapping>
-    </mapping-list>
     <before>;1-13;</before>
   </anime>
   <anime anidbid="3169" tvdbid="75411" defaulttvdbseason="2" episodeoffset="" tmdbtv="42828" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
@@ -10686,9 +10680,6 @@
   </anime>
   <anime anidbid="3321" tvdbid="78987" defaulttvdbseason="1" episodeoffset="" tmdbtv="34065" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Black Cat</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-1;</mapping>
-    </mapping-list>
     <before>;1-15;</before>
   </anime>
   <anime anidbid="3323" tvdbid="81110" defaulttvdbseason="0" episodeoffset="" tmdbtv="42836" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
