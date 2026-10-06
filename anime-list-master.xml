@@ -10429,6 +10429,9 @@
   </anime>
   <anime anidbid="3169" tvdbid="75411" defaulttvdbseason="2" episodeoffset="" tmdbtv="42828" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Rozen Maiden: Traumend</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-0;3-0;4-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="3170" tvdbid="84841" defaulttvdbseason="1" episodeoffset="" tmdbtv="34737" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Petopeto-san</name>
