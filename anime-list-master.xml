@@ -7648,6 +7648,9 @@
   </anime>
   <anime anidbid="2186" tvdbid="74890" defaulttvdbseason="1" episodeoffset="" tmdbtv="20111" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam SEED Destiny</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;2-0;3-0;4-0;5-0;6-0;7-0;8-0;10-7;11-8;</mapping>
+    </mapping-list>
     <supplemental-info>
       <studio>Sunrise</studio>
     </supplemental-info>
