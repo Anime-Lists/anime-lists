@@ -3393,6 +3393,9 @@
   </anime>
   <anime anidbid="816" tvdbid="299019" defaulttvdbseason="1" episodeoffset="" tmdbtv="25708" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Cosmo Warrior Zero</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;3-14;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="817" tvdbid="120151" defaulttvdbseason="0" episodeoffset="" tmdbtv="78617" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Ningyo no Mori</name>
