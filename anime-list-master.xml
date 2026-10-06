@@ -41,6 +41,9 @@
   </anime>
   <anime anidbid="8" tvdbid="83584" defaulttvdbseason="1" episodeoffset="" tmdbtv="9113" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Aquarian Age: Sign for Evolution</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="9" tvdbid="80980" defaulttvdbseason="1" episodeoffset="" tmdbtv="22758" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Chicchana Yuki Tsukai Sugar</name>
