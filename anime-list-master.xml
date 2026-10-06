@@ -2819,6 +2819,9 @@
   </anime>
   <anime anidbid="648" tvdbid="77773" defaulttvdbseason="1" episodeoffset="" tmdbtv="13339" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Uchuu Senkan Yamato</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="649" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Kamyla</name>
