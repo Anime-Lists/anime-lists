@@ -3079,7 +3079,7 @@
   <anime anidbid="726" tvdbid="79765" defaulttvdbseason="1" episodeoffset="" tmdbtv="37392" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Waga Seishun no Arcadia: Mugen Kidou SSX</name>
   </anime>
-  <anime anidbid="727" tvdbid="80886" defaulttvdbseason="0" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt0185736">
+  <anime anidbid="727" tvdbid="80886" defaulttvdbseason="0" episodeoffset="0" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt0185736">
     <name>Uchuu Kaizoku Captain Herlock: Arcadia-gou no Nazo</name>
   </anime>
   <anime anidbid="728" tvdbid="79765" defaulttvdbseason="0" episodeoffset="" tmdbtv="37392" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt0084881">
@@ -5682,7 +5682,7 @@
   <anime anidbid="1533" tvdbid="300804" defaulttvdbseason="1" episodeoffset="" tmdbtv="46253" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Souryuuden</name>
   </anime>
-  <anime anidbid="1534" tvdbid="83403" defaulttvdbseason="0" episodeoffset="" tmdbtv="45266" tmdbseason="0" tmdboffset="2" tmdbid="" imdbid="">
+  <anime anidbid="1534" tvdbid="83403" defaulttvdbseason="0" episodeoffset="0" tmdbtv="45266" tmdbseason="0" tmdboffset="2" tmdbid="" imdbid="">
     <name>Maetel Legend</name>
   </anime>
   <anime anidbid="1535" tvdbid="87111" defaulttvdbseason="1" episodeoffset="" tmdbtv="79334" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -20436,7 +20436,7 @@
   <anime anidbid="7299" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Mutsu Gokudo: Mitsudango Kousou Hen</name>
   </anime>
-  <anime anidbid="7300" tvdbid="80980" defaulttvdbseason="0" episodeoffset="" tmdbtv="22758" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="7300" tvdbid="80980" defaulttvdbseason="0" episodeoffset="0" tmdbtv="22758" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Chicchana Yuki Tsukai Sugar Tokubetsu Hen</name>
   </anime>
   <anime anidbid="7301" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -21802,7 +21802,7 @@
   <anime anidbid="7760" tvdbid="167921" defaulttvdbseason="0" episodeoffset="" tmdbtv="56389" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Tekka no Maki-chan to Kin no Kamameshidon</name>
   </anime>
-  <anime anidbid="7763" tvdbid="73011" defaulttvdbseason="0" episodeoffset="" tmdbtv="23475" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="7763" tvdbid="73011" defaulttvdbseason="0" episodeoffset="0" tmdbtv="23475" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>IGPX: Immortal Grand Prix</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;</mapping>
@@ -22453,7 +22453,7 @@
   <anime anidbid="7985" tvdbid="301205" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="358689" imdbid="">
     <name>Yuri Seijin Naoko-san</name>
   </anime>
-  <anime anidbid="7986" tvdbid="84371" defaulttvdbseason="0" episodeoffset="" tmdbtv="26444" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="7986" tvdbid="84371" defaulttvdbseason="0" episodeoffset="0" tmdbtv="26444" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>D.C. I&amp;II P.S.P. Re-Animated</name>
   </anime>
   <anime anidbid="7988" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -33048,7 +33048,7 @@
   <anime anidbid="11757" tvdbid="323054" defaulttvdbseason="0" episodeoffset="3" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt5185564">
     <name>Shimajirou to Ehon no Kuni</name>
   </anime>
-  <anime anidbid="11758" tvdbid="300835" defaulttvdbseason="0" episodeoffset="" tmdbtv="65292" tmdbseason="0" tmdboffset="3" tmdbid="" imdbid="">
+  <anime anidbid="11758" tvdbid="300835" defaulttvdbseason="0" episodeoffset="0" tmdbtv="65292" tmdbseason="0" tmdboffset="3" tmdbid="" imdbid="">
     <name>Ajin (OAD)</name>
   </anime>
   <anime anidbid="11759" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -33096,7 +33096,7 @@
   <anime anidbid="11777" tvdbid="music video" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Scandal Anime</name>
   </anime>
-  <anime anidbid="11778" tvdbid="78916" defaulttvdbseason="0" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="396263" imdbid="tt5923962">
+  <anime anidbid="11778" tvdbid="78916" defaulttvdbseason="0" episodeoffset="0" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="396263" imdbid="tt5923962">
     <name>Gantz O</name>
   </anime>
   <anime anidbid="11780" tvdbid="303955" defaulttvdbseason="1" episodeoffset="" tmdbtv="65211" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -40662,7 +40662,7 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="14401" tvdbid="278818" defaulttvdbseason="0" episodeoffset="" tmdbtv="60843" tmdbseason="0" tmdboffset="1" tmdbid="" imdbid="">
+  <anime anidbid="14401" tvdbid="278818" defaulttvdbseason="0" episodeoffset="0" tmdbtv="60843" tmdbseason="0" tmdboffset="1" tmdbid="" imdbid="">
     <name>Gochuumon wa Usagi Desuka?? Sing for You</name>
   </anime>
   <anime anidbid="14402" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
