@@ -21142,6 +21142,7 @@
     <name>Kimagure Orange Road: Omoi Gakenai Situation</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-12;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7588" tvdbid="78923" defaulttvdbseason="0" episodeoffset="" tmdbtv="9103" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
