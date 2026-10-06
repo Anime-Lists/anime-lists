@@ -2367,6 +2367,9 @@
   </anime>
   <anime anidbid="521" tvdbid="474463" defaulttvdbseason="1" episodeoffset="" tmdbtv="35529" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Mahou no Tenshi Creamy Mami</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="522" tvdbid="103691" defaulttvdbseason="1" episodeoffset="" tmdbtv="9429" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Juusenki L-Gaim</name>
