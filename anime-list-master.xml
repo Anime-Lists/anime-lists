@@ -318,7 +318,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;4-1;5-1;6-1;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="62" tvdbid="81694" defaulttvdbseason="2" episodeoffset="" tmdbtv="25850" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="62" tvdbid="81694" defaulttvdbseason="2" episodeoffset="" tmdbtv="25850" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Mata Mata Saber Marionette J</name>
     <supplemental-info replace="true">
       <studio>Hal Film Maker</studio>
@@ -1864,10 +1864,11 @@
   <anime anidbid="393" tvdbid="205521" defaulttvdbseason="1" episodeoffset="" tmdbtv="80221" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Makai Tenshou</name>
   </anime>
-  <anime anidbid="394" tvdbid="81694" defaulttvdbseason="3" episodeoffset="" tmdbtv="25850" tmdbseason="3" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="394" tvdbid="81694" defaulttvdbseason="3" episodeoffset="" tmdbtv="25850" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Saber Marionette J to X</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="3">;1-26;</mapping>
+      <mapping anidbseason="0" tmdbseason="0">;1-7;</mapping>
     </mapping-list>
     <before>;1-26;</before>
   </anime>
@@ -4486,7 +4487,7 @@
   <anime anidbid="1142" tvdbid="76666" defaulttvdbseason="0" episodeoffset="2" tmdbtv="12609" tmdbseason="0" tmdboffset="2" tmdbid="" imdbid="tt0142248">
     <name>Dragon Ball: Makafushigi Daibouken</name>
   </anime>
-  <anime anidbid="1143" tvdbid="73820" defaulttvdbseason="1" episodeoffset="" tmdbtv="5653" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="1143" tvdbid="73820" defaulttvdbseason="1" episodeoffset="" tmdbtv="5653" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Rockman.EXE Axess</name>
   </anime>
   <anime anidbid="1144" tvdbid="85369" defaulttvdbseason="1" episodeoffset="" tmdbtv="77405" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -7301,8 +7302,11 @@
   <anime anidbid="2090" tvdbid="250848" defaulttvdbseason="2" episodeoffset="" tmdbtv="43231" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Kinnikuman: Kinnikusei Oui Soudatsu Hen</name>
   </anime>
-  <anime anidbid="2091" tvdbid="157001" defaulttvdbseason="1" episodeoffset="" tmdbtv="38324" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="2091" tvdbid="138211" defaulttvdbseason="1" episodeoffset="" tmdbtv="77025" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Dragon Quest</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2" start="33" end="43" offset="-32"/>
+    </mapping-list>
   </anime>
   <anime anidbid="2092" tvdbid="157001" defaulttvdbseason="0" episodeoffset="" tmdbtv="38324" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Dragon Quest: Dai no Daibouken (1991)</name>
@@ -9143,7 +9147,7 @@
   <anime anidbid="2663" tvdbid="248353" defaulttvdbseason="1" episodeoffset="" tmdbtv="44205" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Kimagure Robot</name>
   </anime>
-  <anime anidbid="2664" tvdbid="75097" defaulttvdbseason="1" episodeoffset="" tmdbtv="5653" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="2664" tvdbid="75097" defaulttvdbseason="1" episodeoffset="" tmdbtv="5653" tmdbseason="3" tmdboffset="" tmdbid="" imdbid="">
     <name>Rockman.EXE Stream</name>
   </anime>
   <anime anidbid="2665" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -11593,7 +11597,7 @@
   <anime anidbid="3620" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="491360" imdbid="tt1989574">
     <name>Nagasaki 1945: Angelus no Kane</name>
   </anime>
-  <anime anidbid="3621" tvdbid="248903" defaulttvdbseason="1" episodeoffset="" tmdbtv="5653" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="3621" tvdbid="248903" defaulttvdbseason="1" episodeoffset="" tmdbtv="5653" tmdbseason="4" tmdboffset="" tmdbid="" imdbid="">
     <name>Rockman.EXE Beast</name>
   </anime>
   <anime anidbid="3622" tvdbid="OVA" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -13275,7 +13279,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="4458" tvdbid="248903" defaulttvdbseason="2" episodeoffset="" tmdbtv="5653" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="4458" tvdbid="248903" defaulttvdbseason="2" episodeoffset="" tmdbtv="5653" tmdbseason="5" tmdboffset="" tmdbid="" imdbid="">
     <name>Rockman.EXE Beast+</name>
   </anime>
   <anime anidbid="4459" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -22012,6 +22016,7 @@
     <name>Pocket Monsters: Best Wishes!</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tmdbseason="15" start="49" end="84" offset="-48"/>
     </mapping-list>
     <supplemental-info>
       <studio>OLM</studio>
@@ -22521,7 +22526,7 @@
       <studio>Toei Animation</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="8076" tvdbid="227891" defaulttvdbseason="1" episodeoffset="" tmdbtv="86762" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="8076" tvdbid="227891" defaulttvdbseason="0" episodeoffset="" tmdbtv="86762" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Houkago no Pleiades</name>
   </anime>
   <anime anidbid="8077" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -23254,7 +23259,7 @@
       <mapping anidbseason="0" tvdbseason="0">;2-4;3-5;4-0;5-0;6-0;7-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="8321" tvdbid="202241" defaulttvdbseason="2" episodeoffset="" tmdbtv="37851" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="8321" tvdbid="202241" defaulttvdbseason="2" episodeoffset="" tmdbtv="37851" tmdbseason="1" tmdboffset="30" tmdbid="" imdbid="">
     <name>Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku</name>
     <supplemental-info>
       <studio>Toei Animation</studio>
@@ -24099,7 +24104,7 @@
   <anime anidbid="8615" tvdbid="197261" defaulttvdbseason="0" episodeoffset="" tmdbtv="51492" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Tantei Opera Milky Holmes: Summer Special</name>
   </anime>
-  <anime anidbid="8616" tvdbid="202241" defaulttvdbseason="3" episodeoffset="" tmdbtv="37851" tmdbseason="3" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="8616" tvdbid="202241" defaulttvdbseason="3" episodeoffset="" tmdbtv="37851" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Digimon Xros Wars: Toki o Kakeru Shounen Hunter-tachi</name>
   </anime>
   <anime anidbid="8617" tvdbid="293065" defaulttvdbseason="0" episodeoffset="4" tmdbtv="118453" tmdbseason="0" tmdboffset="4" tmdbid="" imdbid="">
@@ -25793,10 +25798,11 @@
   <anime anidbid="9215" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Animeka</name>
   </anime>
-  <anime anidbid="9216" tvdbid="76703" defaulttvdbseason="15" episodeoffset="" tmdbtv="60572" tmdbseason="15" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="9216" tvdbid="76703" defaulttvdbseason="15" episodeoffset="" tmdbtv="60572" tmdbseason="15" tmdboffset="36" tmdbid="" imdbid="">
     <name>Pocket Monsters: Best Wishes! Season 2</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;</mapping>
+      <mapping anidbseason="1" tmdbseason="16" start="14" end="24" offset="-13"/>
     </mapping-list>
   </anime>
   <anime anidbid="9226" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -26975,7 +26981,7 @@
   <anime anidbid="9652" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Hokseong Robot Sseondeo A</name>
   </anime>
-  <anime anidbid="9653" tvdbid="76703" defaulttvdbseason="15" episodeoffset="24" tmdbtv="60572" tmdbseason="15" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="9653" tvdbid="76703" defaulttvdbseason="15" episodeoffset="24" tmdbtv="60572" tmdbseason="16" tmdboffset="11" tmdbid="" imdbid="">
     <name>Pocket Monsters: Best Wishes! Season 2 - Episode N</name>
   </anime>
   <anime anidbid="9654" tvdbid="266840" defaulttvdbseason="1" episodeoffset="" tmdbtv="53031" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -27248,7 +27254,7 @@
   <anime anidbid="9763" tvdbid="OVA" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="1463893" imdbid="">
     <name>Mikosuri Han-Gekijou</name>
   </anime>
-  <anime anidbid="9764" tvdbid="76703" defaulttvdbseason="15" episodeoffset="38" tmdbtv="60572" tmdbseason="15" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="9764" tvdbid="76703" defaulttvdbseason="15" episodeoffset="38" tmdbtv="60572" tmdbseason="16" tmdboffset="25" tmdbid="" imdbid="">
     <name>Pocket Monsters: Best Wishes! Season 2 - Decolora Adventure</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-47;2-64;</mapping>
@@ -27792,10 +27798,11 @@
   <anime anidbid="9955" tvdbid="275613" defaulttvdbseason="1" episodeoffset="" tmdbtv="61529" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Hoozuki no Reitetsu</name>
   </anime>
-  <anime anidbid="9956" tvdbid="76703" defaulttvdbseason="16" episodeoffset="" tmdbtv="60572" tmdbseason="16" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="9956" tvdbid="76703" defaulttvdbseason="16" episodeoffset="" tmdbtv="60572" tmdbseason="17" tmdboffset="" tmdbid="" imdbid="">
     <name>Pocket Monsters XY</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-49;2-0;3-0;</mapping>
+      <mapping anidbseason="1" tmdbseason="18" start="49" end="93" offset="-48"/>
     </mapping-list>
   </anime>
   <anime anidbid="9958" tvdbid="web" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -30357,7 +30364,7 @@
   <anime anidbid="10957" tvdbid="284169" defaulttvdbseason="0" episodeoffset="" tmdbtv="64831" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Isuca OAD</name>
   </anime>
-  <anime anidbid="10958" tvdbid="227891" defaulttvdbseason="2" episodeoffset="" tmdbtv="86762" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="10958" tvdbid="227891" defaulttvdbseason="1" episodeoffset="" tmdbtv="86762" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Houkago no Pleiades (2015)</name>
   </anime>
   <anime anidbid="10959" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="364111" imdbid="tt4489416">
@@ -32072,7 +32079,7 @@
   <anime anidbid="11580" tvdbid="308030" defaulttvdbseason="1" episodeoffset="" tmdbtv="68071" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>All Out!!</name>
   </anime>
-  <anime anidbid="11585" tvdbid="76703" defaulttvdbseason="17" episodeoffset="" tmdbtv="60572" tmdbseason="17" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="11585" tvdbid="76703" defaulttvdbseason="17" episodeoffset="" tmdbtv="60572" tmdbseason="19" tmdboffset="" tmdbid="" imdbid="">
     <name>Pocket Monsters XY&amp;Z</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-61;2-62;3-0;</mapping>
@@ -34211,10 +34218,12 @@
   <anime anidbid="12406" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Hadashi Neko</name>
   </anime>
-  <anime anidbid="12407" tvdbid="76703" defaulttvdbseason="18" episodeoffset="" tmdbtv="60572" tmdbseason="18" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="12407" tvdbid="76703" defaulttvdbseason="18" episodeoffset="" tmdbtv="60572" tmdbseason="20" tmdboffset="" tmdbid="" imdbid="">
     <name>Pocket Monsters Sun &amp; Moon</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;</mapping>
+      <mapping anidbseason="1" tmdbseason="21" start="44" end="92" offset="-43"/>
+      <mapping anidbseason="1" tmdbseason="22" start="93" end="146" offset="-92"/>
     </mapping-list>
   </anime>
   <anime anidbid="12408" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -41850,10 +41859,12 @@
   <anime anidbid="15066" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Girl X</name>
   </anime>
-  <anime anidbid="15067" tvdbid="76703" defaulttvdbseason="19" episodeoffset="" tmdbtv="60572" tmdbseason="19" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="15067" tvdbid="76703" defaulttvdbseason="19" episodeoffset="" tmdbtv="60572" tmdbseason="23" tmdboffset="" tmdbid="" imdbid="">
     <name>Pocket Monsters (2019)</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-82;2-0;3-0;</mapping>
+      <mapping anidbseason="1" tmdbseason="24" start="49" end="90" offset="-48"/>
+      <mapping anidbseason="1" tmdbseason="25" start="91" end="136" offset="-90"/>
     </mapping-list>
   </anime>
   <anime anidbid="15068" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -47593,7 +47604,7 @@
   <anime anidbid="17195" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Duel Masters King Max</name>
   </anime>
-  <anime anidbid="17196" tvdbid="377543" defaulttvdbseason="2" episodeoffset="" tmdbtv="95479" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="17196" tvdbid="377543" defaulttvdbseason="2" episodeoffset="" tmdbtv="95479" tmdbseason="1" tmdboffset="24" tmdbid="" imdbid="">
     <name>Jujutsu Kaisen (2023)</name>
   </anime>
   <anime anidbid="17197" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -50144,7 +50155,7 @@
   <anime anidbid="18089" tvdbid="82788" defaulttvdbseason="7" episodeoffset="" tmdbtv="69500" tmdbseason="7" tmdboffset="" tmdbid="" imdbid="">
     <name>Natsume Yuujinchou Shichi</name>
   </anime>
-  <anime anidbid="18090" tvdbid="402474" defaulttvdbseason="2" episodeoffset="" tmdbtv="117465" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="18090" tvdbid="402474" defaulttvdbseason="2" episodeoffset="" tmdbtv="117465" tmdbseason="1" tmdboffset="13" tmdbid="" imdbid="">
     <name>Jigokuraku (2026)</name>
   </anime>
   <anime anidbid="18092" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -51515,7 +51526,7 @@
   <anime anidbid="18572" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Gobaku: Moe Mama Tsurezure</name>
   </anime>
-  <anime anidbid="18576" tvdbid="389597" defaulttvdbseason="2" episodeoffset="" tmdbtv="127532" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="18576" tvdbid="389597" defaulttvdbseason="2" episodeoffset="" tmdbtv="127532" tmdbseason="1" tmdboffset="12" tmdbid="" imdbid="">
     <name>Ore dake Level Up na Ken: Arise from the Shadow</name>
   </anime>
   <anime anidbid="18577" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -52878,7 +52889,7 @@
   <anime anidbid="19059" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="1406240" imdbid="">
     <name>Eiga Oshiri Tantei: Star and Moon</name>
   </anime>
-  <anime anidbid="19060" tvdbid="432832" defaulttvdbseason="2" episodeoffset="" tmdbtv="240411" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="19060" tvdbid="432832" defaulttvdbseason="2" episodeoffset="" tmdbtv="240411" tmdbseason="1" tmdboffset="12" tmdbid="" imdbid="">
     <name>Dan Da Dan (2025)</name>
   </anime>
   <anime anidbid="19061" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
