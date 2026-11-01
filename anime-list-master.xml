@@ -9788,7 +9788,7 @@
   <anime anidbid="2878" tvdbid="98161" defaulttvdbseason="0" episodeoffset="" tmdbtv="23674" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Hi no Tori: Uchuu Hen</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
+      <mapping anidbseason="1" tvdbseason="0" tmdbseason="0">;1-4;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Tezuka Productions</studio>
