@@ -776,6 +776,9 @@
   </anime>
   <anime anidbid="153" tvdbid="78923" defaulttvdbseason="1" episodeoffset="" tmdbtv="9103" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Kimagure Orange Road</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" tmdbseason="0">;1-0;2-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="154" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="10494" imdbid="tt0156887">
     <name>Perfect Blue</name>
