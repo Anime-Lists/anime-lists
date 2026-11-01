@@ -10529,7 +10529,7 @@
   <anime anidbid="3200" tvdbid="98161" defaulttvdbseason="0" episodeoffset="" tmdbtv="23674" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Hi no Tori: Yamato Hen</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
+      <mapping anidbseason="1" tvdbseason="0" tmdbseason="0">;1-3;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Tezuka Productions</studio>
