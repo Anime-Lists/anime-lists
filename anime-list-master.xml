@@ -21152,6 +21152,7 @@
     <name>Kimagure Orange Road: Rouge no Dengon</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-13;</mapping>
+      <mapping anidbseason="1" tmdbseason="0">;1-8;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7589" tvdbid="78923" defaulttvdbseason="0" episodeoffset="" tmdbtv="9103" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
