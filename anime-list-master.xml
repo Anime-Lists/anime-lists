@@ -13069,11 +13069,11 @@
   <anime anidbid="4364" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="452907" imdbid="tt2321301">
     <name>Hong Hai'er: Juezhan Huoyanshan</name>
   </anime>
-  <anime anidbid="4366" tvdbid="254931" defaulttvdbseason="0" episodeoffset="" tmdbtv="20111" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="4366" tvdbid="254931" defaulttvdbseason="0" episodeoffset="" tmdbtv="43142" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Kidou Senshi Gundam SEED C.E. 73 Stargazer</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-24;2-25;3-26;</mapping>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" tmdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4367" tvdbid="207081" defaulttvdbseason="1" episodeoffset="" tmdbtv="169556" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
