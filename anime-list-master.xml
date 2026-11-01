@@ -28073,6 +28073,7 @@
     <name>Hi no Tori: Kizuna Hen</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-11;</mapping>
+      <mapping anidbseason="1" tmdbseason="0">;1-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10057" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
