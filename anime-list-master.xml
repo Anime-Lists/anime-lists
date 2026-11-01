@@ -1412,7 +1412,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="284" tvdbid="78923" defaulttvdbseason="0" episodeoffset="" tmdbtv="9103" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt0160865">
+  <anime anidbid="284" tvdbid="78923" defaulttvdbseason="0" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="132318" imdbid="tt0160865">
     <name>Shin Kimagure Orange Road: Soshite, Ano Natsu no Hajimari</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-15;2-15;3-15;</mapping>
