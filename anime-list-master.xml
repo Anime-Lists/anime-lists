@@ -9047,7 +9047,7 @@
   <anime anidbid="2629" tvdbid="98161" defaulttvdbseason="0" episodeoffset="" tmdbtv="23674" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt0185359">
     <name>Hi no Tori: Houou Hen</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0" tmdbseason="0">;1-2;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Tezuka Productions</studio>
