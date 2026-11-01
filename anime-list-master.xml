@@ -21138,6 +21138,7 @@
     <name>Kimagure Orange Road: Koi no Stage = Heart on Fire! Star Tanjou!</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-11;</mapping>
+      <mapping anidbseason="1" tmdbseason="0">;1-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7587" tvdbid="78923" defaulttvdbseason="0" episodeoffset="" tmdbtv="9103" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
