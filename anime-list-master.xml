@@ -26306,6 +26306,7 @@
     <name>Hi no Tori: Hagoromo Hen</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-10;</mapping>
+      <mapping anidbseason="1" tmdbseason="0">;1-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9398" tvdbid="186911" defaulttvdbseason="2" episodeoffset="" tmdbtv="46440" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
