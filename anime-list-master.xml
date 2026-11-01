@@ -195,7 +195,7 @@
   <anime anidbid="36" tvdbid="82719" defaulttvdbseason="1" episodeoffset="" tmdbtv="44202" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Iketeru Futari</name>
   </anime>
-  <anime anidbid="38" tvdbid="80790" defaulttvdbseason="0" episodeoffset="" tmdbtv="34751" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="38" tvdbid="80790" defaulttvdbseason="0" episodeoffset="" tmdbtv="34751" tmdbseason="0" tmdboffset="4" tmdbid="" imdbid="">
     <name>Koutetsu Tenshi Kurumi Zero</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-5;2-6;3-7;</mapping>
