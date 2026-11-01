@@ -752,9 +752,6 @@
   </anime>
   <anime anidbid="146" tvdbid="72172" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Rockman.EXE</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="2" start="26" end="56" offset="-25"/>
-    </mapping-list>
   </anime>
   <anime anidbid="147" tvdbid="79295" defaulttvdbseason="1" episodeoffset="" tmdbtv="71999" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="tt0107061">
     <name>Hyper Future Vision: Gunnm</name>
@@ -7346,7 +7343,7 @@
   <anime anidbid="2102" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Azumi Mamma Mia</name>
   </anime>
-  <anime anidbid="2103" tvdbid="OVA" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="2103" tvdbid="OVA" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="436056" imdbid="">
     <name>Transformers Zone</name>
   </anime>
   <anime anidbid="2104" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -16795,7 +16792,7 @@
   <anime anidbid="5972" tvdbid="115141" defaulttvdbseason="0" episodeoffset="" tmdbtv="90414" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Kikou Kai Galient (1986)</name>
   </anime>
-  <anime anidbid="5973" tvdbid="OVA" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="5973" tvdbid="OVA" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="143830" imdbid="">
     <name>Irregular Hunter X</name>
   </anime>
   <anime anidbid="5974" tvdbid="227501" defaulttvdbseason="0" episodeoffset="" tmdbtv="19612" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
