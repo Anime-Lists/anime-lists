@@ -13007,10 +13007,6 @@
   </anime>
   <anime anidbid="4897" tvdbid="80421" defaulttvdbseason="1" tmdbtv="34121" tmdbseason="1">
     <name>Baccano!</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="1">;1-14;2-15;3-16;</mapping>
-    </mapping-list>
-    <before>;1-14;2-15;3-16;</before>
   </anime>
   <anime anidbid="4898" tvdbid="OVA">
     <name>Katte ni Shirokuma</name>
