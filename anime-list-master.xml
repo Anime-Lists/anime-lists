@@ -47301,7 +47301,7 @@
   <anime anidbid="17092" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Chikajou no Mamono</name>
   </anime>
-  <anime anidbid="17093" tvdbid="392226" defaulttvdbseason="2" episodeoffset="" tmdbtv="101172" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="17093" tvdbid="392226" defaulttvdbseason="2" episodeoffset="" tmdbtv="101172" tmdbseason="1" tmdboffset="26" tmdbid="" imdbid="">
     <name>Tunshi Xingkong Zhuangzhi Lingyun</name>
   </anime>
   <anime anidbid="17094" tvdbid="414207" defaulttvdbseason="1" episodeoffset="" tmdbtv="154526" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -50563,7 +50563,7 @@
   <anime anidbid="18236" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Si Ge Yongzhe</name>
   </anime>
-  <anime anidbid="18237" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="18237" tvdbid="433335" defaulttvdbseason="1" episodeoffset="" tmdbtv="223911" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Xian Ni</name>
   </anime>
   <anime anidbid="18238" tvdbid="440820" defaulttvdbseason="1" episodeoffset="" tmdbtv="236994" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -50920,11 +50920,15 @@
   <anime anidbid="18363" tvdbid="377543" defaulttvdbseason="3" episodeoffset="" tmdbtv="95479" tmdbseason="1" tmdboffset="47" tmdbid="" imdbid="">
     <name>Jujutsu Kaisen: Shimetsu Kaiyuu Zenpen</name>
   </anime>
-  <anime anidbid="18364" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="18364" tvdbid="392226" defaulttvdbseason="3" episodeoffset="" tmdbtv="101172" tmdbseason="1" tmdboffset="52" tmdbid="" imdbid="">
     <name>Tunshi Xingkong 3</name>
   </anime>
-  <anime anidbid="18365" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="18365" tvdbid="392226" defaulttvdbseason="4" episodeoffset="" tmdbtv="101172" tmdbseason="1" tmdboffset="85" tmdbid="" imdbid="">
     <name>Tunshi Xingkong (2023)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="4" start="1" end="123"/>
+      <mapping anidbseason="1" tvdbseason="5" start="124" end="175" offset="-123"/>
+  </mapping-list>
   </anime>
   <anime anidbid="18366" tvdbid="443906" defaulttvdbseason="1" episodeoffset="" tmdbtv="260822" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Akuyaku Reijou Tensei Ojisan</name>
