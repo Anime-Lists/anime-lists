@@ -34089,7 +34089,7 @@
   <anime anidbid="17091" tvdbid="402227" defaulttvdbseason="1" episodeoffset="13" tmdbtv="120966" tmdbseason="1" tmdboffset="13">
     <name>Kyoukai Senki (2022)</name>
   </anime>
-  <anime anidbid="17093" tvdbid="392226" defaulttvdbseason="2" tmdbtv="101172" tmdbseason="2">
+  <anime anidbid="17093" tvdbid="392226" defaulttvdbseason="2" tmdbtv="101172" tmdbseason="1" tmdboffset="26">
     <name>Tunshi Xingkong Zhuangzhi Lingyun</name>
   </anime>
   <anime anidbid="17094" tvdbid="414207" defaulttvdbseason="1" tmdbtv="154526" tmdbseason="1">
@@ -35824,6 +35824,9 @@
   <anime anidbid="18235" tvdbid="414221" defaulttvdbseason="2" tmdbtv="154743" tmdbseason="2">
     <name>Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2</name>
   </anime>
+  <anime anidbid="18237" tvdbid="433335" defaulttvdbseason="1" tmdbtv="223911" tmdbseason="1">
+    <name>Xian Ni</name>
+  </anime>
   <anime anidbid="18238" tvdbid="440820" defaulttvdbseason="1" tmdbtv="236994" tmdbseason="1">
     <name>Dragon Ball Daima</name>
   </anime>
@@ -36024,6 +36027,16 @@
   </anime>
   <anime anidbid="18363" tvdbid="377543" defaulttvdbseason="3" tmdbtv="95479" tmdbseason="1" tmdboffset="47">
     <name>Jujutsu Kaisen: Shimetsu Kaiyuu Zenpen</name>
+  </anime>
+  <anime anidbid="18364" tvdbid="392226" defaulttvdbseason="3" tmdbtv="101172" tmdbseason="1" tmdboffset="52">
+    <name>Tunshi Xingkong 3</name>
+  </anime>
+  <anime anidbid="18365" tvdbid="392226" defaulttvdbseason="4" tmdbtv="101172" tmdbseason="1" tmdboffset="85">
+    <name>Tunshi Xingkong (2023)</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="4" start="1" end="123"/>
+      <mapping anidbseason="1" tvdbseason="5" start="124" end="175" offset="-123"/>
+    </mapping-list>
   </anime>
   <anime anidbid="18366" tvdbid="443906" defaulttvdbseason="1" tmdbtv="260822" tmdbseason="1">
     <name>Akuyaku Reijou Tensei Ojisan</name>

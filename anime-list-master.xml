@@ -50928,7 +50928,7 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="4" start="1" end="123"/>
       <mapping anidbseason="1" tvdbseason="5" start="124" end="175" offset="-123"/>
-  </mapping-list>
+    </mapping-list>
   </anime>
   <anime anidbid="18366" tvdbid="443906" defaulttvdbseason="1" episodeoffset="" tmdbtv="260822" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Akuyaku Reijou Tensei Ojisan</name>
