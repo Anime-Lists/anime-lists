@@ -32545,6 +32545,9 @@
   <anime anidbid="15630" tvdbid="389232" defaulttvdbseason="1" tmdbtv="105903" tmdbseason="1">
     <name>Eternity: Shin'ya no Nurekoi Channel</name>
   </anime>
+  <anime anidbid="15632" tvdbid="366841" defaulttvdbseason="1" tmdbtv="91097" tmdbseason="1">
+    <name>Ling Long: Incarnation Shang Ban Ji</name>
+  </anime>
   <anime anidbid="15633" tvdbid="movie" tmdbid="790092" imdbid="tt13385804">
     <name>Eiga Healin' Good Precure: Yume no Machi de Kyun! Tto Go Go! Daihenshin!!</name>
   </anime>
@@ -32599,6 +32602,9 @@
   </anime>
   <anime anidbid="15672" tvdbid="305074" defaulttvdbseason="0" episodeoffset="7" tmdbtv="65930" tmdbseason="0" tmdboffset="7">
     <name>Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren</name>
+  </anime>
+  <anime anidbid="15674" tvdbid="366841" defaulttvdbseason="1" episodeoffset="6" tmdbtv="91097" tmdbseason="1" tmdboffset="6">
+    <name>Ling Long: Incarnation Xia Ban Ji</name>
   </anime>
   <anime anidbid="15676" tvdbid="401856" defaulttvdbseason="1" tmdbtv="107001" tmdbseason="1">
     <name>Heion Sedai no Idaten-tachi</name>
@@ -33378,6 +33384,9 @@
   <anime anidbid="16312" tvdbid="384641" defaulttvdbseason="2" tmdbtv="105644" tmdbseason="2">
     <name>Tian Bao Fuyao Lu (2021)</name>
   </anime>
+  <anime anidbid="16313" tvdbid="366841" defaulttvdbseason="0" episodeoffset="4" tmdbtv="91097" tmdbseason="0" tmdboffset="13">
+    <name>Ling Long: Incarnation Zhong Zhang</name>
+  </anime>
   <anime anidbid="16317" tvdbid="hentai">
     <name>Succubus Appli: Gakuen Sai***</name>
   </anime>
@@ -33386,6 +33395,9 @@
   </anime>
   <anime anidbid="16325" tvdbid="405227" defaulttvdbseason="1" tmdbtv="125712" tmdbseason="1">
     <name>Fantasy Bishoujo Juniku Ojisan to</name>
+  </anime>
+  <anime anidbid="16329" tvdbid="366841" defaulttvdbseason="0" episodeoffset="2" tmdbtv="91097" tmdbseason="0" tmdboffset="15">
+    <name>Ling Long: Incarnation - Tebie Pian</name>
   </anime>
   <anime anidbid="16350" tvdbid="71863" defaulttvdbseason="6" tmdbtv="31572" tmdbseason="6">
     <name>Lupin Sansei: Part 6</name>
@@ -37263,6 +37275,9 @@
   </anime>
   <anime anidbid="19338" tvdbid="movie" tmdbid="1474048" imdbid="tt36757407">
     <name>Lupin the IIIrd: Zenigata to Futari no Lupin</name>
+  </anime>
+  <anime anidbid="19346" tvdbid="366841" defaulttvdbseason="2" tmdbtv="91097" tmdbseason="2">
+    <name>Ling Long 2</name>
   </anime>
   <anime anidbid="19354" tvdbid="73312" defaulttvdbseason="2" tmdbtv="97421" tmdbseason="1" tmdboffset="6">
     <name>Dirty Pair Flash 2</name>
