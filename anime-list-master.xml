@@ -22416,8 +22416,12 @@
   <anime anidbid="8038" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="529083" imdbid="tt0416781">
     <name>Hwang Geumnalgae 1.2.3.</name>
   </anime>
-  <anime anidbid="8039" tvdbid="247805" defaulttvdbseason="1" episodeoffset="" tmdbtv="42419" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="8039" tvdbid="247805" defaulttvdbseason="a" episodeoffset="" tmdbtv="42419" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Sket Dance</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="51"/>
+      <mapping anidbseason="1" tvdbseason="2" start="52" end="77" offset="-51"/>
+    </mapping-list>
     <supplemental-info>
       <studio>Tatsunoko Production</studio>
     </supplemental-info>
