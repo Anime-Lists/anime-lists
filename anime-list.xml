@@ -28564,7 +28564,9 @@
   <anime anidbid="12665" tvdbid="331753" defaulttvdbseason="1" tmdbtv="73223" tmdbseason="1">
     <name>Black Clover (2017)</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="2" end="16" offset="9">;1-2;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="2" end="16" offset="9"/>
+      <mapping anidbseason="0" tmdbseason="0">;1-2;2-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="12673" tvdbid="328826" defaulttvdbseason="1" tmdbtv="72511" tmdbseason="1">
@@ -33255,7 +33257,7 @@
   <anime anidbid="16174" tvdbid="400133" defaulttvdbseason="1" tmdbtv="121964" tmdbseason="1">
     <name>Vanitas no Karte</name>
   </anime>
-  <anime anidbid="16176" tvdbid="movie" tmdbid="812225" imdbid="tt22868844">
+  <anime anidbid="16176" tvdbid="331753" defaulttvdbseason="0" episodeoffset="25" tmdbid="812225" imdbid="tt22868844">
     <name>Eiga Black Clover: Mahoutei no Ken</name>
   </anime>
   <anime anidbid="16177" tvdbid="267440" defaulttvdbseason="4" episodeoffset="16" tmdbtv="1429" tmdbseason="4" tmdboffset="16">
